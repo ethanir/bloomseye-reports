@@ -1,0 +1,136 @@
+==============================================================================
+PAGE-WEIGHT GATE  (per-card HTML ~ 2.72 KB, from the documented 4.45 MB / 1,677 cards)
+==============================================================================
+  50 plants ~ 0.13 MB
+  100 plants ~ 0.27 MB
+  200 plants ~ 0.53 MB
+  300 plants ~ 0.80 MB
+  500 plants ~ 1.33 MB
+  800 plants ~ 2.12 MB
+  900 plants ~ 2.39 MB
+
+Existing hub pages by size (the biggest are ALREADY heavy):
+  /plants/light/full-sun/            1273 plants  ~3.38 MB
+  /plants/zone/8/                    1217 plants  ~3.23 MB
+  /plants/zone/7/                    1199 plants  ~3.18 MB
+  /plants/zone/6/                    1118 plants  ~2.97 MB
+  /plants/zone/5/                    1070 plants  ~2.84 MB
+  /plants/blooming-in/july/           966 plants  ~2.56 MB
+  /plants/blooming-in/june/           925 plants  ~2.45 MB
+  /plants/zone/9/                     914 plants  ~2.43 MB
+  /plants/blooming-in/august/         892 plants  ~2.37 MB
+  /plants/zone/4/                     812 plants  ~2.15 MB
+  /plants/blooming-in/september/      776 plants  ~2.06 MB
+  /plants/blooming-in/may/            637 plants  ~1.69 MB
+  ... 20 existing hub pages already carry >= 300 cards (>= ~0.8 MB of HTML).
+
+==============================================================================
+DEER RESISTANCE - the live hub is thin, but deep-intel knows better
+==============================================================================
+  /plants/traits/deer-resistant/ TODAY: 3 plants (1 group) - daffodil, narcissus-dutch-master, narcissus-mount-hood
+  (tagFacets keeps it because MIN_FACET is 3 and it has exactly 3. It is a live thin page.)
+
+  deep-intel records that say something about deer .. 131 (131 match a live slug)
+  distinct groups ................................... 131
+  plants after group expansion ...................... 627
+  records whose extraFact LABEL asserts deer resistance: 108 species
+  -> after group expansion: 475 plants across 108 groups
+  -> /plants/traits/deer-resistant/ could go from 3 plants to ~475
+  deer-resistant x zone cells >= 8 plants: 10 of 10  -> z2=20 z3=185 z4=282 z5=344 z6=359 z7=384 z8=361 z9=250 z10=100 z11=61
+  NOTE: deep-intel is a REPO file (curated, 276 species). The catalog's own
+        "deer resistant" tagging is what is broken. The durable fix is upstream.
+
+==============================================================================
+PET SAFETY - what a page set would actually have to stand on
+==============================================================================
+  species with a prose safety note ......... 124 of 276 deep-intel records
+  species in the catalog with NO deep-intel  66 of 342 groups
+
+  Explicit NON-TOXIC assertions (extraFact label or safety prose):
+     32 species -> 177 plants after group expansion
+  Explicit TOXIC assertions:
+     13 species -> 60 plants after group expansion
+
+  A "/plants/safe-for-cats/" hub built ONLY from what exists today would list
+  177 plants. A "/plants/toxic-to-dogs/" hub would list 60.
+  The asymmetry is the whole story: the data records DANGER, not SAFETY.
+
+  To fill it: 342 species have a botanicalName (100% of the catalog), so a
+  join key exists. The gap is a toxic/non-toxic SOURCE covering all 342.
+  species groups with no deep-intel record at all: 94
+  e.g. marigolds, zinnias, geraniums, pansies, petunias, snapdragons, california-poppy-cream-white, california-poppy-rose-pink-mix, verbena, giant-sunflower, roselle-rosa-de-jamaica, daffodils, tulips, dahlias, lilies
+
+==============================================================================
+TWO 'USE-CASE' SETS THE DATA ALREADY SUPPORTS
+==============================================================================
+  LONG-BLOOMING (>=5 months in flower): 360 plants, 76 groups
+    x zone (>=8): 9 of 10 cells -> z2=6 z3=17 z4=43 z5=102 z6=115 z7=117 z8=136 z9=189 z10=183 z11=138
+    x colour (>=8): 7 of 7 cells -> white=50 yellow=67 orange=84 red=71 pink=124 purple=60 blue=27
+    x light (>=8): 4 of 4 cells -> full-sun=322 part-sun=16 part-shade=13 full-shade=9
+
+  PRIVACY / SCREENING (mature height >= 2 m): 292 plants, 67 groups
+    x zone (>=8): 9 of 10 cells -> z2=6 z3=54 z4=132 z5=221 z6=235 z7=263 z8=242 z9=155 z10=52 z11=23
+    x type: shrub=93 tree=84 conifer=31 climber=62 grass=4
+    evergreen subset ("year-round privacy"): 43 plants, 13 groups
+
+  GROUNDCOVER / EDGING (height <= 0.3 m): 351 plants, 89 groups
+    x zone (>=8): 10 of 10 -> z2=15 z3=102 z4=152 z5=161 z6=167 z7=177 z8=184 z9=156 z10=122 z11=105
+    x light (>=8): 4 of 4 -> full-sun=249 part-sun=36 part-shade=51 full-shade=15
+
+==============================================================================
+WATER - a single-facet hub that does NOT exist yet
+==============================================================================
+  water=low        374 plants,  85 groups   -> ~0.99 MB page
+  water=moderate  1178 plants, 234 groups   -> ~3.13 MB page
+  water=high       125 plants,  28 groups   -> ~0.33 MB page
+  OVERLAP: water=low (374) vs tag drought-tolerant (377) share 374 plants.
+  -> A /plants/water/low/ hub would be 100% the same list as the existing
+     /plants/traits/drought-tolerant/ hub. That is a cannibalisation risk, not an opportunity.
+  water=high (125 plants, 28 groups) has NO existing hub and no overlapping guide
+     except /guides/rain-garden/. "Plants for wet soil / boggy ground" is the real query.
+
+==============================================================================
+COMPANION DATA
+==============================================================================
+  compatibility.json records: 276 (276 match a live slug)
+  companions per record: min=8 median=8 max=8
+  They are already rendered on the plant page (PlantCompanions.astro), so a
+  separate "/companions/<slug>/" page would duplicate an existing page's section.
+  covered groups: 276 of 342
+
+==============================================================================
+EXACT PAGE COUNTS FOR THE RECOMMENDED FAMILIES (threshold noted per family)
+==============================================================================
+  COLOUR x ZONE     /plants/color/<c>/zone/<z>/
+     pages: 66   (threshold >=12 plants AND >=5 distinct species groups)
+     median page: 151 plants;  4 page(s) would exceed 300 cards (~0.8 MB) and need a cap or pagination
+  COLOUR x MONTH    /plants/color/<c>/blooming-in/<m>/
+     pages: 57   (threshold >=12 plants AND >=5 distinct species groups)
+     median page: 122 plants;  0 page(s) would exceed 300 cards (~0.8 MB) and need a cap or pagination
+  TYPE x ZONE       /plants/type/<t>/zone/<z>/
+     pages: 74   (threshold >=12 plants AND >=5 distinct species groups)
+     median page: 102 plants;  5 page(s) would exceed 300 cards (~0.8 MB) and need a cap or pagination
+  TRAIT x ZONE      /plants/traits/<t>/zone/<z>/
+     pages: 60   (threshold >=12 plants AND >=5 distinct species groups)
+     median page: 115 plants;  1 page(s) would exceed 300 cards (~0.8 MB) and need a cap or pagination
+  SIZE x ZONE       /plants/size/<s>/zone/<z>/
+     pages: 45   (threshold >=12 plants AND >=5 distinct species groups)
+     median page: 170 plants;  5 page(s) would exceed 300 cards (~0.8 MB) and need a cap or pagination
+  COLOUR x LIGHT    /plants/color/<c>/light/<l>/
+     pages: 21   (threshold >=12 plants AND >=5 distinct species groups)
+     median page: 103 plants;  1 page(s) would exceed 300 cards (~0.8 MB) and need a cap or pagination
+  TRAIT x LIGHT     /plants/traits/<t>/light/<l>/
+     pages: 11   (threshold >=12 plants AND >=5 distinct species groups)
+     median page: 124 plants;  1 page(s) would exceed 300 cards (~0.8 MB) and need a cap or pagination
+  TYPE x MONTH      /plants/type/<t>/blooming-in/<m>/
+     pages: 45   (threshold >=12 plants AND >=5 distinct species groups)
+     median page: 107 plants;  4 page(s) would exceed 300 cards (~0.8 MB) and need a cap or pagination
+  SIZE x LIGHT      /plants/size/<s>/light/<l>/
+     pages: 16   (threshold >=12 plants AND >=5 distinct species groups)
+     median page: 104 plants;  2 page(s) would exceed 300 cards (~0.8 MB) and need a cap or pagination
+  TRAIT x COLOUR    /plants/traits/<t>/color/<c>/
+     pages: 42   (threshold >=12 plants AND >=5 distinct species groups)
+     median page: 44 plants;  0 page(s) would exceed 300 cards (~0.8 MB) and need a cap or pagination
+
+  SUM of all the above families at >=12 plants and >=5 groups: 437 new pages
+  (the site has ~1,826 catalog-driven pages today, so this would be a 24% increase)

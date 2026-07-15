@@ -1,0 +1,3087 @@
+[
+  {
+    "key": "bloom-combo",
+    "formFactor": "desktop",
+    "runtimeError": null,
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "lcp_ms": 653.3376499999999,
+      "lcp_score": 0.99,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 321.95644999999996,
+      "si_ms": 321.95644999999996,
+      "tti_ms": 654.5247850000001,
+      "maxFid_ms": 16,
+      "domNodes": 27615,
+      "totalBytes": 929354,
+      "mainThread_ms": 217.35500000000079,
+      "bootup_ms": 12.983999999999988,
+      "serverResponse_ms": 1
+    },
+    "lcpElement": null,
+    "failingPerfInsights": [
+      {
+        "id": "cache-insight",
+        "score": 0.5,
+        "title": "Use efficient cache lifetimes",
+        "displayValue": "Est savings of 242 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/batsheba-rose.jpg?v=1782",
+            "wastedBytes": 103768.8,
+            "totalBytes": 129711,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/annabelle.jpg?v=17823884",
+            "wastedBytes": 72096,
+            "totalBytes": 90120,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/autumn-damask-rose.jpg?v",
+            "wastedBytes": 65783.2,
+            "totalBytes": 82229,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 6139.200000000001,
+            "totalBytes": 15348,
+            "cacheLifetimeMs": 86400000
+          }
+        ]
+      },
+      {
+        "id": "image-delivery-insight",
+        "score": 0,
+        "title": "Improve image delivery",
+        "displayValue": "Est savings of 585 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/batsheba-rose.jpg?v=1782",
+            "wastedBytes": 121780,
+            "totalBytes": 129071
+          },
+          {
+            "wastedBytes": 121573
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/annabelle.jpg?v=17823884",
+            "wastedBytes": 84291,
+            "totalBytes": 89489
+          },
+          {
+            "wastedBytes": 84291
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/autumn-damask-rose.jpg?v",
+            "wastedBytes": 76853,
+            "totalBytes": 81593
+          },
+          {
+            "wastedBytes": 76853
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/potentilla-abbotswood.webp",
+            "wastedBytes": 25724,
+            "totalBytes": 33016
+          },
+          {
+            "wastedBytes": 25345
+          }
+        ]
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree",
+        "displayValue": null,
+        "items": []
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0.5,
+        "title": "Render-blocking requests",
+        "displayValue": null,
+        "items": [
+          {
+            "url": "http://localhost:4321/_astro/Layout.BDtOC_yW.css",
+            "totalBytes": 8791
+          }
+        ]
+      }
+    ],
+    "a11y": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "seo": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "bestPractices": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "resourceSummary": [
+      {
+        "type": "total",
+        "count": 36,
+        "transferSize": 921703
+      },
+      {
+        "type": "image",
+        "count": 31,
+        "transferSize": 726699
+      },
+      {
+        "type": "font",
+        "count": 3,
+        "transferSize": 140087
+      },
+      {
+        "type": "document",
+        "count": 1,
+        "transferSize": 46126
+      },
+      {
+        "type": "stylesheet",
+        "count": 1,
+        "transferSize": 8791
+      },
+      {
+        "type": "media",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "script",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "other",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "third-party",
+        "count": 30,
+        "transferSize": 711351
+      }
+    ]
+  },
+  {
+    "key": "bloom-combo",
+    "formFactor": "mobile",
+    "runtimeError": null,
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "lcp_ms": 2177.545525,
+      "lcp_score": 0.95,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 1352.8542000000002,
+      "si_ms": 1352.8542000000002,
+      "tti_ms": 2185.0496275,
+      "maxFid_ms": 16,
+      "domNodes": 27615,
+      "totalBytes": 480621,
+      "mainThread_ms": 791.0680000000003,
+      "bootup_ms": 49.608,
+      "serverResponse_ms": 12
+    },
+    "lcpElement": null,
+    "failingPerfInsights": [
+      {
+        "id": "cache-insight",
+        "score": 0.5,
+        "title": "Use efficient cache lifetimes",
+        "displayValue": "Est savings of 76 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/annabelle.jpg?v=17823884",
+            "wastedBytes": 72105.6,
+            "totalBytes": 90132,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 6139.200000000001,
+            "totalBytes": 15348,
+            "cacheLifetimeMs": 86400000
+          }
+        ]
+      },
+      {
+        "id": "image-delivery-insight",
+        "score": 0.5,
+        "title": "Improve image delivery",
+        "displayValue": "Est savings of 183 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/annabelle.jpg?v=17823884",
+            "wastedBytes": 79691,
+            "totalBytes": 89489
+          },
+          {
+            "wastedBytes": 79691
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/potentilla-abbotswood.webp",
+            "wastedBytes": 19194,
+            "totalBytes": 33016
+          },
+          {
+            "wastedBytes": 18557
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 14055,
+            "totalBytes": 14534
+          },
+          {
+            "wastedBytes": 13286
+          },
+          {
+            "wastedBytes": 8951
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/astilbe-amethyst.webp",
+            "wastedBytes": 11032,
+            "totalBytes": 19628
+          }
+        ]
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree",
+        "displayValue": null,
+        "items": []
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0,
+        "title": "Render-blocking requests",
+        "displayValue": "Est savings of 350 ms",
+        "items": [
+          {
+            "url": "http://localhost:4321/_astro/Layout.BDtOC_yW.css",
+            "wastedMs": 151,
+            "totalBytes": 8791
+          }
+        ]
+      }
+    ],
+    "a11y": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "seo": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "bestPractices": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "resourceSummary": [
+      {
+        "type": "total",
+        "count": 18,
+        "transferSize": 472970
+      },
+      {
+        "type": "image",
+        "count": 13,
+        "transferSize": 277966
+      },
+      {
+        "type": "font",
+        "count": 3,
+        "transferSize": 140087
+      },
+      {
+        "type": "document",
+        "count": 1,
+        "transferSize": 46126
+      },
+      {
+        "type": "stylesheet",
+        "count": 1,
+        "transferSize": 8791
+      },
+      {
+        "type": "media",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "script",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "other",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "third-party",
+        "count": 12,
+        "transferSize": 262618
+      }
+    ]
+  },
+  {
+    "key": "guide",
+    "formFactor": "desktop",
+    "runtimeError": null,
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "lcp_ms": 529.95345,
+      "lcp_score": 1,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 283.54795,
+      "si_ms": 283.54795,
+      "tti_ms": 531.95345,
+      "maxFid_ms": 16,
+      "domNodes": 1066,
+      "totalBytes": 469124,
+      "mainThread_ms": 112.027,
+      "bootup_ms": 3.828,
+      "serverResponse_ms": 1
+    },
+    "lcpElement": null,
+    "failingPerfInsights": [
+      {
+        "id": "cache-insight",
+        "score": 0.5,
+        "title": "Use efficient cache lifetimes",
+        "displayValue": "Est savings of 56 KiB",
+        "items": [
+          {
+            "url": "http://localhost:4321/previews/cool-border.jpg",
+            "wastedBytes": 51182.8,
+            "totalBytes": 127957,
+            "cacheLifetimeMs": 86400000
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 6139.200000000001,
+            "totalBytes": 15348,
+            "cacheLifetimeMs": 86400000
+          }
+        ]
+      },
+      {
+        "id": "image-delivery-insight",
+        "score": 0,
+        "title": "Improve image delivery",
+        "displayValue": "Est savings of 180 KiB",
+        "items": [
+          {
+            "url": "http://localhost:4321/previews/cool-border.jpg",
+            "wastedBytes": 73873,
+            "totalBytes": 127141
+          },
+          {
+            "wastedBytes": 73873
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/delphinium.webp",
+            "wastedBytes": 26479,
+            "totalBytes": 43690
+          },
+          {
+            "wastedBytes": 26479
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 14377,
+            "totalBytes": 14534
+          },
+          {
+            "wastedBytes": 13286
+          },
+          {
+            "wastedBytes": 12711
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/russian-sage.webp",
+            "wastedBytes": 11827,
+            "totalBytes": 18768
+          }
+        ]
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree",
+        "displayValue": null,
+        "items": []
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0.5,
+        "title": "Render-blocking requests",
+        "displayValue": null,
+        "items": [
+          {
+            "url": "http://localhost:4321/_astro/Layout.BDtOC_yW.css",
+            "totalBytes": 8791
+          }
+        ]
+      }
+    ],
+    "a11y": {
+      "score": 100,
+      "failures": [
+        {
+          "id": "label-content-name-mismatch",
+          "title": "Elements with visible text labels do not have matching accessible names.",
+          "errored": false,
+          "errorMessage": null,
+          "items": [
+            "<a class=\"garden-preview\" href=\"https://studio.bloomseye.com/p/cool-border\" aria-label=\"Open the interactive 3D preview: Walk this cool bord",
+            "<a href=\"https://studio.bloomseye.com/?add=salvia-caradonna\" aria-label=\"Add Caradonna to a garden\">",
+            "<a href=\"https://studio.bloomseye.com/?add=catmint-walkers-low\" aria-label=\"Add Walker's Low to a garden\">",
+            "<a href=\"https://studio.bloomseye.com/?add=russian-sage\" aria-label=\"Add Russian Sage to a garden\">"
+          ]
+        }
+      ],
+      "erroredAudits": []
+    },
+    "seo": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "bestPractices": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "resourceSummary": [
+      {
+        "type": "total",
+        "count": 16,
+        "transferSize": 461473
+      },
+      {
+        "type": "image",
+        "count": 11,
+        "transferSize": 302796
+      },
+      {
+        "type": "font",
+        "count": 3,
+        "transferSize": 140087
+      },
+      {
+        "type": "document",
+        "count": 1,
+        "transferSize": 9799
+      },
+      {
+        "type": "stylesheet",
+        "count": 1,
+        "transferSize": 8791
+      },
+      {
+        "type": "media",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "script",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "other",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "third-party",
+        "count": 9,
+        "transferSize": 159491
+      }
+    ]
+  },
+  {
+    "key": "guide",
+    "formFactor": "mobile",
+    "runtimeError": null,
+    "scores": {
+      "performance": 96,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "lcp_ms": 2702.8554,
+      "lcp_score": 0.85,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 1053.7017,
+      "si_ms": 1053.7017,
+      "tti_ms": 2762.86764,
+      "maxFid_ms": 16,
+      "domNodes": 1066,
+      "totalBytes": 431561,
+      "mainThread_ms": 424.34400000000005,
+      "bootup_ms": 17.243999999999993,
+      "serverResponse_ms": 3
+    },
+    "lcpElement": null,
+    "failingPerfInsights": [
+      {
+        "id": "cache-insight",
+        "score": 0.5,
+        "title": "Use efficient cache lifetimes",
+        "displayValue": "Est savings of 56 KiB",
+        "items": [
+          {
+            "url": "http://localhost:4321/previews/cool-border.jpg",
+            "wastedBytes": 51182.8,
+            "totalBytes": 127957,
+            "cacheLifetimeMs": 86400000
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 6139.200000000001,
+            "totalBytes": 15348,
+            "cacheLifetimeMs": 86400000
+          }
+        ]
+      },
+      {
+        "id": "image-delivery-insight",
+        "score": 0.5,
+        "title": "Improve image delivery",
+        "displayValue": "Est savings of 114 KiB",
+        "items": [
+          {
+            "url": "http://localhost:4321/previews/cool-border.jpg",
+            "wastedBytes": 90803,
+            "totalBytes": 127141
+          },
+          {
+            "wastedBytes": 90803
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 14055,
+            "totalBytes": 14534
+          },
+          {
+            "wastedBytes": 13286
+          },
+          {
+            "wastedBytes": 8951
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/delphinium.webp",
+            "wastedBytes": 11553,
+            "totalBytes": 43690
+          },
+          {
+            "wastedBytes": 11553
+          }
+        ]
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree",
+        "displayValue": null,
+        "items": []
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0,
+        "title": "Render-blocking requests",
+        "displayValue": "Est savings of 340 ms",
+        "items": [
+          {
+            "url": "http://localhost:4321/_astro/Layout.BDtOC_yW.css",
+            "wastedMs": 151,
+            "totalBytes": 8791
+          }
+        ]
+      }
+    ],
+    "a11y": {
+      "score": 100,
+      "failures": [
+        {
+          "id": "label-content-name-mismatch",
+          "title": "Elements with visible text labels do not have matching accessible names.",
+          "errored": false,
+          "errorMessage": null,
+          "items": [
+            "<a class=\"garden-preview\" href=\"https://studio.bloomseye.com/p/cool-border\" aria-label=\"Open the interactive 3D preview: Walk this cool bord",
+            "<a href=\"https://studio.bloomseye.com/?add=salvia-caradonna\" aria-label=\"Add Caradonna to a garden\">",
+            "<a href=\"https://studio.bloomseye.com/?add=catmint-walkers-low\" aria-label=\"Add Walker's Low to a garden\">",
+            "<a href=\"https://studio.bloomseye.com/?add=russian-sage\" aria-label=\"Add Russian Sage to a garden\">"
+          ]
+        }
+      ],
+      "erroredAudits": []
+    },
+    "seo": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "bestPractices": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "resourceSummary": [
+      {
+        "type": "total",
+        "count": 13,
+        "transferSize": 423910
+      },
+      {
+        "type": "image",
+        "count": 8,
+        "transferSize": 265233
+      },
+      {
+        "type": "font",
+        "count": 3,
+        "transferSize": 140087
+      },
+      {
+        "type": "document",
+        "count": 1,
+        "transferSize": 9799
+      },
+      {
+        "type": "stylesheet",
+        "count": 1,
+        "transferSize": 8791
+      },
+      {
+        "type": "media",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "script",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "other",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "third-party",
+        "count": 6,
+        "transferSize": 121928
+      }
+    ]
+  },
+  {
+    "key": "home",
+    "formFactor": "desktop",
+    "runtimeError": null,
+    "scores": {
+      "performance": 100,
+      "accessibility": 95,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "lcp_ms": 603.37385,
+      "lcp_score": 0.99,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 282.856,
+      "si_ms": 293.18766242628493,
+      "tti_ms": 603.37385,
+      "maxFid_ms": 16,
+      "domNodes": 1158,
+      "totalBytes": 1129734,
+      "mainThread_ms": 247.07100000000085,
+      "bootup_ms": 5.362000000000001,
+      "serverResponse_ms": 1
+    },
+    "lcpElement": null,
+    "failingPerfInsights": [
+      {
+        "id": "cache-insight",
+        "score": 0,
+        "title": "Use efficient cache lifetimes",
+        "displayValue": "Est savings of 435 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-firebird.jpg?v",
+            "wastedBytes": 94272,
+            "totalBytes": 117840,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-apricot-sprite",
+            "wastedBytes": 93832.8,
+            "totalBytes": 117291,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/orange-coneflower.jpg?v=",
+            "wastedBytes": 88900,
+            "totalBytes": 111125,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/giant-coneflower.jpg?v=1",
+            "wastedBytes": 81877.6,
+            "totalBytes": 102347,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/rosa-damascena-damask-ro",
+            "wastedBytes": 80267.20000000001,
+            "totalBytes": 100334,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 6139.200000000001,
+            "totalBytes": 15348,
+            "cacheLifetimeMs": 86400000
+          }
+        ]
+      },
+      {
+        "id": "image-delivery-insight",
+        "score": 0.5,
+        "title": "Improve image delivery",
+        "displayValue": "Est savings of 472 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-firebird.jpg?v",
+            "wastedBytes": 105940,
+            "totalBytes": 117199
+          },
+          {
+            "wastedBytes": 105940
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-apricot-sprite",
+            "wastedBytes": 105443,
+            "totalBytes": 116649
+          },
+          {
+            "wastedBytes": 105443
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/rosa-damascena-damask-ro",
+            "wastedBytes": 96511,
+            "totalBytes": 99691
+          },
+          {
+            "wastedBytes": 12874
+          },
+          {
+            "wastedBytes": 96040
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/potentilla-abbotswood.webp",
+            "wastedBytes": 20932,
+            "totalBytes": 33016
+          }
+        ]
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree",
+        "displayValue": null,
+        "items": []
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0.5,
+        "title": "Render-blocking requests",
+        "displayValue": null,
+        "items": [
+          {
+            "url": "http://localhost:4321/_astro/Layout.BDtOC_yW.css",
+            "totalBytes": 8791
+          }
+        ]
+      }
+    ],
+    "a11y": {
+      "score": 95,
+      "failures": [
+        {
+          "id": "aria-required-children",
+          "title": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` are missing some or all of those required children.",
+          "errored": false,
+          "errorMessage": null,
+          "items": [
+            "<div class=\"hero-tiles\" role=\"list\" aria-label=\"A few plants from the library\">"
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "title": "Elements with visible text labels do not have matching accessible names.",
+          "errored": false,
+          "errorMessage": null,
+          "items": [
+            "<a class=\"ht-tile ht-more\" href=\"/plants/\" style=\"--i:19\" aria-label=\"Browse all plants, 1,658 more\">"
+          ]
+        }
+      ],
+      "erroredAudits": []
+    },
+    "seo": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "bestPractices": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "resourceSummary": [
+      {
+        "type": "total",
+        "count": 37,
+        "transferSize": 1122083
+      },
+      {
+        "type": "image",
+        "count": 32,
+        "transferSize": 961882
+      },
+      {
+        "type": "font",
+        "count": 3,
+        "transferSize": 140087
+      },
+      {
+        "type": "document",
+        "count": 1,
+        "transferSize": 11323
+      },
+      {
+        "type": "stylesheet",
+        "count": 1,
+        "transferSize": 8791
+      },
+      {
+        "type": "media",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "script",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "other",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "third-party",
+        "count": 31,
+        "transferSize": 946534
+      }
+    ]
+  },
+  {
+    "key": "home",
+    "formFactor": "mobile",
+    "runtimeError": null,
+    "scores": {
+      "performance": 82,
+      "accessibility": 95,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "lcp_ms": 4954.2029999999995,
+      "lcp_score": 0.27,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 1052.382,
+      "si_ms": 1052.382,
+      "tti_ms": 4972.4499,
+      "maxFid_ms": 16,
+      "domNodes": 1158,
+      "totalBytes": 811681,
+      "mainThread_ms": 818.4800000000025,
+      "bootup_ms": 22.287999999999993,
+      "serverResponse_ms": 1
+    },
+    "lcpElement": null,
+    "failingPerfInsights": [
+      {
+        "id": "cache-insight",
+        "score": 0,
+        "title": "Use efficient cache lifetimes",
+        "displayValue": "Est savings of 251 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/orange-coneflower.jpg?v=",
+            "wastedBytes": 88894.40000000001,
+            "totalBytes": 111118,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/giant-coneflower.jpg?v=1",
+            "wastedBytes": 81876.8,
+            "totalBytes": 102346,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/rosa-damascena-damask-ro",
+            "wastedBytes": 80303.20000000001,
+            "totalBytes": 100379,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 6139.200000000001,
+            "totalBytes": 15348,
+            "cacheLifetimeMs": 86400000
+          }
+        ]
+      },
+      {
+        "id": "image-delivery-insight",
+        "score": 0,
+        "title": "Improve image delivery",
+        "displayValue": "Est savings of 390 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/giant-coneflower.jpg?v=1",
+            "wastedBytes": 94761,
+            "totalBytes": 101711
+          },
+          {
+            "wastedBytes": 15065
+          },
+          {
+            "wastedBytes": 93553
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/rosa-damascena-damask-ro",
+            "wastedBytes": 92741,
+            "totalBytes": 99691
+          },
+          {
+            "wastedBytes": 13045
+          },
+          {
+            "wastedBytes": 91695
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/potentilla-abbotswood.webp",
+            "wastedBytes": 19194,
+            "totalBytes": 33016
+          },
+          {
+            "wastedBytes": 18557
+          }
+        ]
+      },
+      {
+        "id": "lcp-discovery-insight",
+        "score": 0,
+        "title": "LCP request discovery",
+        "displayValue": null,
+        "items": []
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree",
+        "displayValue": null,
+        "items": []
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0,
+        "title": "Render-blocking requests",
+        "displayValue": "Est savings of 300 ms",
+        "items": [
+          {
+            "url": "http://localhost:4321/_astro/Layout.BDtOC_yW.css",
+            "wastedMs": 151,
+            "totalBytes": 8791
+          }
+        ]
+      }
+    ],
+    "a11y": {
+      "score": 95,
+      "failures": [
+        {
+          "id": "aria-required-children",
+          "title": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` are missing some or all of those required children.",
+          "errored": false,
+          "errorMessage": null,
+          "items": [
+            "<div class=\"hero-tiles\" role=\"list\" aria-label=\"A few plants from the library\">"
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "title": "Elements with visible text labels do not have matching accessible names.",
+          "errored": false,
+          "errorMessage": null,
+          "items": [
+            "<a class=\"ht-tile ht-more\" href=\"/plants/\" style=\"--i:19\" aria-label=\"Browse all plants, 1,658 more\">"
+          ]
+        }
+      ],
+      "erroredAudits": []
+    },
+    "seo": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "bestPractices": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "resourceSummary": [
+      {
+        "type": "total",
+        "count": 29,
+        "transferSize": 804030
+      },
+      {
+        "type": "image",
+        "count": 24,
+        "transferSize": 643829
+      },
+      {
+        "type": "font",
+        "count": 3,
+        "transferSize": 140087
+      },
+      {
+        "type": "document",
+        "count": 1,
+        "transferSize": 11323
+      },
+      {
+        "type": "stylesheet",
+        "count": 1,
+        "transferSize": 8791
+      },
+      {
+        "type": "media",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "script",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "other",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "third-party",
+        "count": 23,
+        "transferSize": 628481
+      }
+    ]
+  },
+  {
+    "key": "hub-trait",
+    "formFactor": "desktop",
+    "runtimeError": null,
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "lcp_ms": 792.6449,
+      "lcp_score": 0.98,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 322.0016,
+      "si_ms": 322.0016,
+      "tti_ms": 792.6449,
+      "maxFid_ms": 16,
+      "domNodes": 20105,
+      "totalBytes": 1035988,
+      "mainThread_ms": 198.11500000000035,
+      "bootup_ms": 8.505,
+      "serverResponse_ms": 1
+    },
+    "lcpElement": null,
+    "failingPerfInsights": [
+      {
+        "id": "cache-insight",
+        "score": 0,
+        "title": "Use efficient cache lifetimes",
+        "displayValue": "Est savings of 359 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-firebird.jpg?v",
+            "wastedBytes": 94276,
+            "totalBytes": 117845,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-apricot-sprite",
+            "wastedBytes": 93828.8,
+            "totalBytes": 117286,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/black-adder-agastache.jp",
+            "wastedBytes": 91503.20000000001,
+            "totalBytes": 114379,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/giant-coneflower.jpg?v=1",
+            "wastedBytes": 81883.20000000001,
+            "totalBytes": 102354,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 6139.200000000001,
+            "totalBytes": 15348,
+            "cacheLifetimeMs": 86400000
+          }
+        ]
+      },
+      {
+        "id": "image-delivery-insight",
+        "score": 0,
+        "title": "Improve image delivery",
+        "displayValue": "Est savings of 699 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-firebird.jpg?v",
+            "wastedBytes": 110391,
+            "totalBytes": 117199
+          },
+          {
+            "wastedBytes": 110391
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-apricot-sprite",
+            "wastedBytes": 109873,
+            "totalBytes": 116649
+          },
+          {
+            "wastedBytes": 109873
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/black-adder-agastache.jp",
+            "wastedBytes": 107124,
+            "totalBytes": 113730
+          },
+          {
+            "wastedBytes": 107124
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/giant-coneflower.jpg?v=1",
+            "wastedBytes": 95803,
+            "totalBytes": 101711
+          },
+          {
+            "wastedBytes": 95803
+          }
+        ]
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree",
+        "displayValue": null,
+        "items": []
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0.5,
+        "title": "Render-blocking requests",
+        "displayValue": null,
+        "items": [
+          {
+            "url": "http://localhost:4321/_astro/Layout.BDtOC_yW.css",
+            "totalBytes": 8791
+          }
+        ]
+      }
+    ],
+    "a11y": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "seo": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "bestPractices": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "resourceSummary": [
+      {
+        "type": "total",
+        "count": 36,
+        "transferSize": 1028337
+      },
+      {
+        "type": "image",
+        "count": 31,
+        "transferSize": 844759
+      },
+      {
+        "type": "font",
+        "count": 3,
+        "transferSize": 140087
+      },
+      {
+        "type": "document",
+        "count": 1,
+        "transferSize": 34700
+      },
+      {
+        "type": "stylesheet",
+        "count": 1,
+        "transferSize": 8791
+      },
+      {
+        "type": "media",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "script",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "other",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "third-party",
+        "count": 30,
+        "transferSize": 829411
+      }
+    ]
+  },
+  {
+    "key": "hub-trait",
+    "formFactor": "mobile",
+    "runtimeError": null,
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "lcp_ms": 2028.4533999999999,
+      "lcp_score": 0.97,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 1204.6536,
+      "si_ms": 1204.6536,
+      "tti_ms": 2035.95574,
+      "maxFid_ms": 16,
+      "domNodes": 20105,
+      "totalBytes": 606476,
+      "mainThread_ms": 727.3000000000009,
+      "bootup_ms": 47.42,
+      "serverResponse_ms": 8
+    },
+    "lcpElement": null,
+    "failingPerfInsights": [
+      {
+        "id": "cache-insight",
+        "score": 0.5,
+        "title": "Use efficient cache lifetimes",
+        "displayValue": "Est savings of 190 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-firebird.jpg?v",
+            "wastedBytes": 94286.40000000001,
+            "totalBytes": 117858,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-apricot-sprite",
+            "wastedBytes": 93838.40000000001,
+            "totalBytes": 117298,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 6139.200000000001,
+            "totalBytes": 15348,
+            "cacheLifetimeMs": 86400000
+          }
+        ]
+      },
+      {
+        "id": "image-delivery-insight",
+        "score": 0.5,
+        "title": "Improve image delivery",
+        "displayValue": "Est savings of 305 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-firebird.jpg?v",
+            "wastedBytes": 104368,
+            "totalBytes": 117199
+          },
+          {
+            "wastedBytes": 104368
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-apricot-sprite",
+            "wastedBytes": 103878,
+            "totalBytes": 116649
+          },
+          {
+            "wastedBytes": 103878
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/potentilla-abbotswood.webp",
+            "wastedBytes": 19194,
+            "totalBytes": 33016
+          },
+          {
+            "wastedBytes": 18557
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 14055,
+            "totalBytes": 14534
+          },
+          {
+            "wastedBytes": 13286
+          }
+        ]
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree",
+        "displayValue": null,
+        "items": []
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0,
+        "title": "Render-blocking requests",
+        "displayValue": "Est savings of 330 ms",
+        "items": [
+          {
+            "url": "http://localhost:4321/_astro/Layout.BDtOC_yW.css",
+            "wastedMs": 152,
+            "totalBytes": 8791
+          }
+        ]
+      }
+    ],
+    "a11y": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "seo": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "bestPractices": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "resourceSummary": [
+      {
+        "type": "total",
+        "count": 18,
+        "transferSize": 598825
+      },
+      {
+        "type": "image",
+        "count": 13,
+        "transferSize": 415247
+      },
+      {
+        "type": "font",
+        "count": 3,
+        "transferSize": 140087
+      },
+      {
+        "type": "document",
+        "count": 1,
+        "transferSize": 34700
+      },
+      {
+        "type": "stylesheet",
+        "count": 1,
+        "transferSize": 8791
+      },
+      {
+        "type": "media",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "script",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "other",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "third-party",
+        "count": 12,
+        "transferSize": 399899
+      }
+    ]
+  },
+  {
+    "key": "hub-zone",
+    "formFactor": "desktop",
+    "runtimeError": null,
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "lcp_ms": 483.8180000000001,
+      "lcp_score": 1,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 323.1170000000001,
+      "si_ms": 323.1170000000001,
+      "tti_ms": 483.8180000000001,
+      "maxFid_ms": 27,
+      "domNodes": 56960,
+      "totalBytes": 786462,
+      "mainThread_ms": 350.0669999999998,
+      "bootup_ms": 21.722999999999985,
+      "serverResponse_ms": 1
+    },
+    "lcpElement": null,
+    "failingPerfInsights": [
+      {
+        "id": "cache-insight",
+        "score": 0.5,
+        "title": "Use efficient cache lifetimes",
+        "displayValue": "Est savings of 76 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/annabelle.jpg?v=17823884",
+            "wastedBytes": 72131.2,
+            "totalBytes": 90164,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 6139.200000000001,
+            "totalBytes": 15348,
+            "cacheLifetimeMs": 86400000
+          }
+        ]
+      },
+      {
+        "id": "image-delivery-insight",
+        "score": 0.5,
+        "title": "Improve image delivery",
+        "displayValue": "Est savings of 413 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/annabelle.jpg?v=17823884",
+            "wastedBytes": 84291,
+            "totalBytes": 89489
+          },
+          {
+            "wastedBytes": 84291
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/japanese-forest-grass-white.web",
+            "wastedBytes": 36878,
+            "totalBytes": 44170
+          },
+          {
+            "wastedBytes": 12789
+          },
+          {
+            "wastedBytes": 33907
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/potentilla-abbotswood.webp",
+            "wastedBytes": 25724,
+            "totalBytes": 33016
+          },
+          {
+            "wastedBytes": 25345
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/boxwood-american.webp",
+            "wastedBytes": 15852,
+            "totalBytes": 20650
+          }
+        ]
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree",
+        "displayValue": null,
+        "items": []
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0.5,
+        "title": "Render-blocking requests",
+        "displayValue": null,
+        "items": [
+          {
+            "url": "http://localhost:4321/_astro/Layout.BDtOC_yW.css",
+            "totalBytes": 8791
+          }
+        ]
+      }
+    ],
+    "a11y": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "seo": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "bestPractices": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "resourceSummary": [
+      {
+        "type": "total",
+        "count": 36,
+        "transferSize": 778811
+      },
+      {
+        "type": "image",
+        "count": 31,
+        "transferSize": 541360
+      },
+      {
+        "type": "font",
+        "count": 3,
+        "transferSize": 140087
+      },
+      {
+        "type": "document",
+        "count": 1,
+        "transferSize": 88573
+      },
+      {
+        "type": "stylesheet",
+        "count": 1,
+        "transferSize": 8791
+      },
+      {
+        "type": "media",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "script",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "other",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "third-party",
+        "count": 30,
+        "transferSize": 526012
+      }
+    ]
+  },
+  {
+    "key": "hub-zone",
+    "formFactor": "mobile",
+    "runtimeError": null,
+    "scores": {
+      "performance": 97,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "lcp_ms": 2556.342,
+      "lcp_score": 0.88,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 1504.9426,
+      "si_ms": 1504.9426,
+      "tti_ms": 2556.3420000000006,
+      "maxFid_ms": 48,
+      "domNodes": 56960,
+      "totalBytes": 461673,
+      "mainThread_ms": 1131.3079999999982,
+      "bootup_ms": 75.46799999999996,
+      "serverResponse_ms": 19
+    },
+    "lcpElement": null,
+    "failingPerfInsights": [
+      {
+        "id": "cache-insight",
+        "score": 0.5,
+        "title": "Use efficient cache lifetimes",
+        "displayValue": "Est savings of 6 KiB",
+        "items": [
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 6139.200000000001,
+            "totalBytes": 15348,
+            "cacheLifetimeMs": 86400000
+          }
+        ]
+      },
+      {
+        "id": "image-delivery-insight",
+        "score": 0,
+        "title": "Improve image delivery",
+        "displayValue": "Est savings of 126 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/japanese-forest-grass-white.web",
+            "wastedBytes": 30348,
+            "totalBytes": 44170
+          },
+          {
+            "wastedBytes": 12608
+          },
+          {
+            "wastedBytes": 24827
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/potentilla-abbotswood.webp",
+            "wastedBytes": 19194,
+            "totalBytes": 33016
+          },
+          {
+            "wastedBytes": 18557
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 14055,
+            "totalBytes": 14534
+          },
+          {
+            "wastedBytes": 13286
+          },
+          {
+            "wastedBytes": 8951
+          }
+        ]
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree",
+        "displayValue": null,
+        "items": []
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0,
+        "title": "Render-blocking requests",
+        "displayValue": "Est savings of 350 ms",
+        "items": [
+          {
+            "url": "http://localhost:4321/_astro/Layout.BDtOC_yW.css",
+            "wastedMs": 151,
+            "totalBytes": 8791
+          }
+        ]
+      }
+    ],
+    "a11y": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "seo": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "bestPractices": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "resourceSummary": [
+      {
+        "type": "total",
+        "count": 18,
+        "transferSize": 454022
+      },
+      {
+        "type": "image",
+        "count": 13,
+        "transferSize": 216571
+      },
+      {
+        "type": "font",
+        "count": 3,
+        "transferSize": 140087
+      },
+      {
+        "type": "document",
+        "count": 1,
+        "transferSize": 88573
+      },
+      {
+        "type": "stylesheet",
+        "count": 1,
+        "transferSize": 8791
+      },
+      {
+        "type": "media",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "script",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "other",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "third-party",
+        "count": 12,
+        "transferSize": 201223
+      }
+    ]
+  },
+  {
+    "key": "plant-detail",
+    "formFactor": "desktop",
+    "runtimeError": null,
+    "scores": {
+      "performance": 100,
+      "accessibility": 96,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "lcp_ms": 482.73620000000005,
+      "lcp_score": 1,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 282.07105,
+      "si_ms": 282.07105,
+      "tti_ms": 482.73620000000005,
+      "maxFid_ms": 16,
+      "domNodes": 837,
+      "totalBytes": 444560,
+      "mainThread_ms": 105.98799999999997,
+      "bootup_ms": 4.8199999999999985,
+      "serverResponse_ms": 1
+    },
+    "lcpElement": null,
+    "failingPerfInsights": [
+      {
+        "id": "cache-insight",
+        "score": 0.5,
+        "title": "Use efficient cache lifetimes",
+        "displayValue": "Est savings of 6 KiB",
+        "items": [
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 6139.200000000001,
+            "totalBytes": 15348,
+            "cacheLifetimeMs": 86400000
+          }
+        ]
+      },
+      {
+        "id": "image-delivery-insight",
+        "score": 0.5,
+        "title": "Improve image delivery",
+        "displayValue": "Est savings of 211 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-photos/aster/4eb174ddf05334b831009861ba75721f5a7",
+            "wastedBytes": 31334,
+            "totalBytes": 40046
+          },
+          {
+            "wastedBytes": 28834
+          },
+          {
+            "wastedBytes": 8930
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-photos/aster/c7a5ecdb7b7f0a3853ed9fc5a7d682d0216",
+            "wastedBytes": 29296,
+            "totalBytes": 38008
+          },
+          {
+            "wastedBytes": 26796
+          },
+          {
+            "wastedBytes": 8475
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-photos/aster/74282c012ae0f69bcbae6f25b27f58ba88e",
+            "wastedBytes": 28224,
+            "totalBytes": 36936
+          },
+          {
+            "wastedBytes": 25724
+          }
+        ]
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree",
+        "displayValue": null,
+        "items": []
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0.5,
+        "title": "Render-blocking requests",
+        "displayValue": null,
+        "items": [
+          {
+            "url": "http://localhost:4321/_astro/Layout.BDtOC_yW.css",
+            "totalBytes": 8791
+          }
+        ]
+      }
+    ],
+    "a11y": {
+      "score": 96,
+      "failures": [
+        {
+          "id": "link-in-text-block",
+          "title": "Links rely on color to be distinguishable.",
+          "errored": false,
+          "errorMessage": null,
+          "items": [
+            "<a href=\"/credits/\">"
+          ]
+        }
+      ],
+      "erroredAudits": []
+    },
+    "seo": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "bestPractices": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "resourceSummary": [
+      {
+        "type": "total",
+        "count": 19,
+        "transferSize": 436909
+      },
+      {
+        "type": "image",
+        "count": 14,
+        "transferSize": 278267
+      },
+      {
+        "type": "font",
+        "count": 3,
+        "transferSize": 140087
+      },
+      {
+        "type": "document",
+        "count": 1,
+        "transferSize": 9764
+      },
+      {
+        "type": "stylesheet",
+        "count": 1,
+        "transferSize": 8791
+      },
+      {
+        "type": "media",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "script",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "other",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "third-party",
+        "count": 13,
+        "transferSize": 262919
+      }
+    ]
+  },
+  {
+    "key": "plant-detail",
+    "formFactor": "mobile",
+    "runtimeError": null,
+    "scores": {
+      "performance": 98,
+      "accessibility": 96,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "lcp_ms": 2328.6423,
+      "lcp_score": 0.93,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 1054.4844,
+      "si_ms": 1054.4844,
+      "tti_ms": 2351.15193,
+      "maxFid_ms": 16,
+      "domNodes": 837,
+      "totalBytes": 397391,
+      "mainThread_ms": 377.81600000000014,
+      "bootup_ms": 19.491999999999997,
+      "serverResponse_ms": 2
+    },
+    "lcpElement": null,
+    "failingPerfInsights": [
+      {
+        "id": "cache-insight",
+        "score": 0.5,
+        "title": "Use efficient cache lifetimes",
+        "displayValue": "Est savings of 6 KiB",
+        "items": [
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 6139.200000000001,
+            "totalBytes": 15348,
+            "cacheLifetimeMs": 86400000
+          }
+        ]
+      },
+      {
+        "id": "image-delivery-insight",
+        "score": 0,
+        "title": "Improve image delivery",
+        "displayValue": "Est savings of 157 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-photos/aster/4eb174ddf05334b831009861ba75721f5a7",
+            "wastedBytes": 28824,
+            "totalBytes": 40046
+          },
+          {
+            "wastedBytes": 28824
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-photos/aster/c7a5ecdb7b7f0a3853ed9fc5a7d682d0216",
+            "wastedBytes": 26786,
+            "totalBytes": 38008
+          },
+          {
+            "wastedBytes": 26786
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-photos/aster/74282c012ae0f69bcbae6f25b27f58ba88e",
+            "wastedBytes": 25714,
+            "totalBytes": 36936
+          },
+          {
+            "wastedBytes": 25714
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-photos/aster/9f1554e9f108ca0fa2aa1486689e8e98841",
+            "wastedBytes": 20446,
+            "totalBytes": 31668
+          },
+          {
+            "wastedBytes": 20446
+          }
+        ]
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree",
+        "displayValue": null,
+        "items": []
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0,
+        "title": "Render-blocking requests",
+        "displayValue": "Est savings of 380 ms",
+        "items": [
+          {
+            "url": "http://localhost:4321/_astro/Layout.BDtOC_yW.css",
+            "wastedMs": 151,
+            "totalBytes": 8791
+          }
+        ]
+      }
+    ],
+    "a11y": {
+      "score": 96,
+      "failures": [
+        {
+          "id": "link-in-text-block",
+          "title": "Links rely on color to be distinguishable.",
+          "errored": false,
+          "errorMessage": null,
+          "items": [
+            "<a href=\"/credits/\">"
+          ]
+        }
+      ],
+      "erroredAudits": []
+    },
+    "seo": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "bestPractices": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "resourceSummary": [
+      {
+        "type": "total",
+        "count": 14,
+        "transferSize": 389740
+      },
+      {
+        "type": "image",
+        "count": 9,
+        "transferSize": 231098
+      },
+      {
+        "type": "font",
+        "count": 3,
+        "transferSize": 140087
+      },
+      {
+        "type": "document",
+        "count": 1,
+        "transferSize": 9764
+      },
+      {
+        "type": "stylesheet",
+        "count": 1,
+        "transferSize": 8791
+      },
+      {
+        "type": "media",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "script",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "other",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "third-party",
+        "count": 8,
+        "transferSize": 215750
+      }
+    ]
+  },
+  {
+    "key": "plants-index",
+    "formFactor": "desktop",
+    "runtimeError": {
+      "code": "PROTOCOL_TIMEOUT",
+      "message": "Waiting for DevTools protocol response has exceeded the allotted time. (Method: Runtime.evaluate)",
+      "errorStack": "LighthouseError: PROTOCOL_TIMEOUT\n    at file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/session.js:121:47\n    at new Promise (<anonymous>)\n    at ProtocolSession.sendCommand (file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/session.js:118:28)\n    at ExecutionContext._evaluateInContext (file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/driver/execution-context.js:123:42)\n    at ExecutionContext.evaluateAsync (file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/driver/execution-context.js:175:25)\n    at async file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/runner-helpers.js:106:24\n    at async collectPhaseArtifacts (file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/runner-helpers.js:123:5)\n    at async _computeNavigationResult (file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/navigation-runner.js:173:5)\n    at async gatherFn (file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/navigation-runner.js:297:23)\n    at async Runner.gather (file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/runner.js:211:25)",
+      "artifactKey": "Accessibility"
+    },
+    "scores": {
+      "performance": 100,
+      "accessibility": null,
+      "best-practices": 100,
+      "seo": null
+    },
+    "metrics": {
+      "lcp_ms": 523.956,
+      "lcp_score": 1,
+      "cls": 0,
+      "tbt_ms": 23.545500000000004,
+      "fcp_ms": 363.78700000000003,
+      "si_ms": 364.2009874581264,
+      "tti_ms": 527.75595,
+      "maxFid_ms": 77,
+      "domNodes": 89370,
+      "totalBytes": 967580,
+      "mainThread_ms": 433.1180000000012,
+      "bootup_ms": 40.905999999999885,
+      "serverResponse_ms": 1
+    },
+    "lcpElement": null,
+    "failingPerfInsights": [
+      {
+        "id": "cache-insight",
+        "score": 0.5,
+        "title": "Use efficient cache lifetimes",
+        "displayValue": "Est savings of 190 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-firebird.jpg?v",
+            "wastedBytes": 94272.8,
+            "totalBytes": 117841,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-apricot-sprite",
+            "wastedBytes": 93829.6,
+            "totalBytes": 117287,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 6139.200000000001,
+            "totalBytes": 15348,
+            "cacheLifetimeMs": 86400000
+          }
+        ]
+      },
+      {
+        "id": "image-delivery-insight",
+        "score": 0.5,
+        "title": "Improve image delivery",
+        "displayValue": "Est savings of 538 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-firebird.jpg?v",
+            "wastedBytes": 110391,
+            "totalBytes": 117199
+          },
+          {
+            "wastedBytes": 110391
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-apricot-sprite",
+            "wastedBytes": 109873,
+            "totalBytes": 116649
+          },
+          {
+            "wastedBytes": 109873
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/japanese-forest-grass-white.web",
+            "wastedBytes": 36878,
+            "totalBytes": 44170
+          },
+          {
+            "wastedBytes": 12789
+          },
+          {
+            "wastedBytes": 33907
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/potentilla-abbotswood.webp",
+            "wastedBytes": 25724,
+            "totalBytes": 33016
+          }
+        ]
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree",
+        "displayValue": null,
+        "items": []
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0.5,
+        "title": "Render-blocking requests",
+        "displayValue": null,
+        "items": [
+          {
+            "url": "http://localhost:4321/_astro/Layout.BDtOC_yW.css",
+            "totalBytes": 8791
+          }
+        ]
+      }
+    ],
+    "a11y": {
+      "score": null,
+      "failures": [],
+      "erroredAudits": [
+        {
+          "id": "accesskeys",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-allowed-attr",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-command-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-conditional-attr",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-deprecated-role",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-dialog-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-hidden-body",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-hidden-focus",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-input-field-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-meter-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-progressbar-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-prohibited-attr",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-required-attr",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-required-children",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-required-parent",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-roles",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-text",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-toggle-field-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-tooltip-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-treeitem-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-valid-attr-value",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-valid-attr",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "button-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "bypass",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "color-contrast",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "definition-list",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "dlitem",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "document-title",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "duplicate-id-aria",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "form-field-multiple-labels",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "frame-title",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "heading-order",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "html-has-lang",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "html-lang-valid",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "html-xml-lang-mismatch",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "image-alt",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "input-button-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "input-image-alt",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "label",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "link-in-text-block",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "link-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "list",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "listitem",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "meta-refresh",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "meta-viewport",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "object-alt",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "select-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "skip-link",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "tabindex",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "target-size",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "td-headers-attr",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "th-has-data-cells",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "valid-lang",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "video-caption",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "landmark-one-main",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "autocomplete-valid",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "presentation-role-conflict",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "svg-img-alt",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "table-duplicate-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "empty-heading",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-allowed-role",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "image-redundant-alt",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "identical-links-same-purpose",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "table-fake-caption",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "td-has-header",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        }
+      ]
+    },
+    "seo": {
+      "score": null,
+      "failures": [],
+      "erroredAudits": [
+        {
+          "id": "document-title",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "image-alt",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        }
+      ]
+    },
+    "bestPractices": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "resourceSummary": [
+      {
+        "type": "total",
+        "count": 36,
+        "transferSize": 959929
+      },
+      {
+        "type": "image",
+        "count": 31,
+        "transferSize": 674299
+      },
+      {
+        "type": "font",
+        "count": 3,
+        "transferSize": 140087
+      },
+      {
+        "type": "document",
+        "count": 1,
+        "transferSize": 136752
+      },
+      {
+        "type": "stylesheet",
+        "count": 1,
+        "transferSize": 8791
+      },
+      {
+        "type": "media",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "script",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "other",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "third-party",
+        "count": 30,
+        "transferSize": 658951
+      }
+    ]
+  },
+  {
+    "key": "plants-index",
+    "formFactor": "mobile",
+    "runtimeError": {
+      "code": "PROTOCOL_TIMEOUT",
+      "message": "Waiting for DevTools protocol response has exceeded the allotted time. (Method: Runtime.evaluate)",
+      "errorStack": "LighthouseError: PROTOCOL_TIMEOUT\n    at file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/session.js:121:47\n    at new Promise (<anonymous>)\n    at ProtocolSession.sendCommand (file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/session.js:118:28)\n    at ExecutionContext._evaluateInContext (file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/driver/execution-context.js:123:42)\n    at ExecutionContext.evaluateAsync (file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/driver/execution-context.js:175:25)\n    at async file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/runner-helpers.js:106:24\n    at async collectPhaseArtifacts (file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/runner-helpers.js:123:5)\n    at async _computeNavigationResult (file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/navigation-runner.js:173:5)\n    at async gatherFn (file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/gather/navigation-runner.js:297:23)\n    at async Runner.gather (file:///C:/Users/etano/AppData/Local/Temp/claude/C--Users-etano-bloomseye-directory/aef9d6df-eb99-44ba-9430-b01f65c352be/scratchpad/harness/node_modules/lighthouse/core/runner.js:211:25)",
+      "artifactKey": "Accessibility"
+    },
+    "scores": {
+      "performance": 88,
+      "accessibility": null,
+      "best-practices": 100,
+      "seo": null
+    },
+    "metrics": {
+      "lcp_ms": 3302.581,
+      "lcp_score": 0.69,
+      "cls": 0.002648336469479983,
+      "tbt_ms": 201,
+      "fcp_ms": 1801.9225,
+      "si_ms": 1801.9225,
+      "tti_ms": 3302.581,
+      "maxFid_ms": 251,
+      "domNodes": 89370,
+      "totalBytes": 573895,
+      "mainThread_ms": 1442.960000000002,
+      "bootup_ms": 150.7479999999998,
+      "serverResponse_ms": 1
+    },
+    "lcpElement": null,
+    "failingPerfInsights": [
+      {
+        "id": "cache-insight",
+        "score": 0.5,
+        "title": "Use efficient cache lifetimes",
+        "displayValue": "Est savings of 98 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-apricot-sprite",
+            "wastedBytes": 93826.40000000001,
+            "totalBytes": 117283,
+            "cacheLifetimeMs": 3600000
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 6139.200000000001,
+            "totalBytes": 15348,
+            "cacheLifetimeMs": 86400000
+          }
+        ]
+      },
+      {
+        "id": "image-delivery-insight",
+        "score": 0,
+        "title": "Improve image delivery",
+        "displayValue": "Est savings of 194 KiB",
+        "items": [
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/agastache-apricot-sprite",
+            "wastedBytes": 103878,
+            "totalBytes": 116649
+          },
+          {
+            "wastedBytes": 103878
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/potentilla-abbotswood.webp",
+            "wastedBytes": 19194,
+            "totalBytes": 33016
+          },
+          {
+            "wastedBytes": 18557
+          },
+          {
+            "url": "http://localhost:4321/bloomsee-logo-96.png",
+            "wastedBytes": 14055,
+            "totalBytes": 14534
+          },
+          {
+            "wastedBytes": 13286
+          },
+          {
+            "wastedBytes": 8951
+          },
+          {
+            "url": "https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/abraham-darby.webp",
+            "wastedBytes": 10010,
+            "totalBytes": 17810
+          }
+        ]
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree",
+        "displayValue": null,
+        "items": []
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0,
+        "title": "Render-blocking requests",
+        "displayValue": "Est savings of 340 ms",
+        "items": [
+          {
+            "url": "http://localhost:4321/_astro/Layout.BDtOC_yW.css",
+            "wastedMs": 150,
+            "totalBytes": 8791
+          }
+        ]
+      }
+    ],
+    "a11y": {
+      "score": null,
+      "failures": [],
+      "erroredAudits": [
+        {
+          "id": "accesskeys",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-allowed-attr",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-command-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-conditional-attr",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-deprecated-role",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-dialog-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-hidden-body",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-hidden-focus",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-input-field-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-meter-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-progressbar-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-prohibited-attr",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-required-attr",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-required-children",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-required-parent",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-roles",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-text",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-toggle-field-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-tooltip-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-treeitem-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-valid-attr-value",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-valid-attr",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "button-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "bypass",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "color-contrast",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "definition-list",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "dlitem",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "document-title",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "duplicate-id-aria",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "form-field-multiple-labels",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "frame-title",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "heading-order",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "html-has-lang",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "html-lang-valid",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "html-xml-lang-mismatch",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "image-alt",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "input-button-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "input-image-alt",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "label",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "link-in-text-block",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "link-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "list",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "listitem",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "meta-refresh",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "meta-viewport",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "object-alt",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "select-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "skip-link",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "tabindex",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "target-size",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "td-headers-attr",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "th-has-data-cells",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "valid-lang",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "video-caption",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "landmark-one-main",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "autocomplete-valid",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "presentation-role-conflict",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "svg-img-alt",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "table-duplicate-name",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "empty-heading",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "aria-allowed-role",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "image-redundant-alt",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "identical-links-same-purpose",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "table-fake-caption",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "td-has-header",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        }
+      ]
+    },
+    "seo": {
+      "score": null,
+      "failures": [],
+      "erroredAudits": [
+        {
+          "id": "document-title",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        },
+        {
+          "id": "image-alt",
+          "errorMessage": "Required Accessibility gatherer encountered an error: PROTOCOL_TIMEOUT"
+        }
+      ]
+    },
+    "bestPractices": {
+      "score": 100,
+      "failures": [],
+      "erroredAudits": []
+    },
+    "resourceSummary": [
+      {
+        "type": "total",
+        "count": 16,
+        "transferSize": 566244
+      },
+      {
+        "type": "image",
+        "count": 11,
+        "transferSize": 280614
+      },
+      {
+        "type": "font",
+        "count": 3,
+        "transferSize": 140087
+      },
+      {
+        "type": "document",
+        "count": 1,
+        "transferSize": 136752
+      },
+      {
+        "type": "stylesheet",
+        "count": 1,
+        "transferSize": 8791
+      },
+      {
+        "type": "media",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "script",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "other",
+        "count": 0,
+        "transferSize": 0
+      },
+      {
+        "type": "third-party",
+        "count": 10,
+        "transferSize": 265266
+      }
+    ]
+  }
+]

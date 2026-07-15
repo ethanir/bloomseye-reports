@@ -1,0 +1,290 @@
+[
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "betty-magnolia",
+    "companion": "lavender",
+    "detail": "Betty Magnolia (magnolia, acid soil) with Lavender (lavandula, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 54.2,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer as this one finishes; evergreen, so the bed keeps its shape through winter; low at 0.6 m, to carpet the ground beneath it."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "butterflies-magnolia",
+    "companion": "lavender",
+    "detail": "Butterflies Magnolia (magnolia, acid soil) with Lavender (lavandula, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 48.1,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer, extending the bed's season; evergreen, so the bed keeps its shape through winter; purple against yellow, for contrast."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "catmint-early-bird",
+    "companion": "witch-hazel",
+    "detail": "Witch Hazel (hamamelis, acid soil) with Early Bird (nepeta, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 53.9,
+    "reason": "Takes full sun to part sun and low to moderate water; blooms in late winter, before this one opens; both offer pollinator forage, in different months; stands well above at 3 m, a canopy to plant beneath."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "clematis-doctor-ruppel",
+    "companion": "azalea",
+    "detail": "Azalea (rhododendron, acid soil) with Doctor Ruppel (clematis, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 50.2,
+    "reason": "Shares part shade and moderate water; opens in mid spring and overlaps into this one's season; evergreen, so the bed keeps its shape through winter; echoes the pink."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "clematis-doctor-ruppel",
+    "companion": "camellia",
+    "detail": "Camellia (camellia, acid soil) with Doctor Ruppel (clematis, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 48.1,
+    "reason": "Shares part shade and moderate water; blooms in midwinter, before this one opens; evergreen, so the bed keeps its shape through winter; echoes the pink."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "clematis-hagley-hybrid",
+    "companion": "azalea",
+    "detail": "Azalea (rhododendron, acid soil) with Hagley Hybrid (clematis, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 54.1,
+    "reason": "Shares part shade and moderate water; blooms in mid spring, before this one opens; evergreen, so the bed keeps its shape through winter; echoes the pink."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "clematis-hagley-hybrid",
+    "companion": "dogwood-tree",
+    "detail": "Flowering Dogwood (cornus, acid soil) with Hagley Hybrid (clematis, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 50.1,
+    "reason": "Shares part shade and moderate water; blooms in mid spring, before this one opens; taller at 7 m, for the layer behind it; its white flowers settle the pink."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "clematis-nelly-moser",
+    "companion": "azalea",
+    "detail": "Azalea (rhododendron, acid soil) with Nelly Moser (clematis, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 50.2,
+    "reason": "Shares part shade and moderate water; opens in mid spring and overlaps into this one's season; evergreen, so the bed keeps its shape through winter; echoes the pink."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "clematis-nelly-moser",
+    "companion": "camellia",
+    "detail": "Camellia (camellia, acid soil) with Nelly Moser (clematis, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 48.1,
+    "reason": "Shares part shade and moderate water; blooms in midwinter, before this one opens; evergreen, so the bed keeps its shape through winter; echoes the pink."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "cornelian-cherry",
+    "companion": "lavender",
+    "detail": "Cornelian Cherry (cornus, acid soil) with Lavender (lavandula, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 47.7,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer, extending the bed's season; evergreen, so the bed keeps its shape through winter; purple against yellow, for contrast."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "cornelian-cherry",
+    "companion": "lilac",
+    "detail": "Cornelian Cherry (cornus, acid soil) with Lilac (syringa, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 47.1,
+    "reason": "Shares full sun and moderate water; blooms in mid spring as this one finishes; shorter at 3 m, an understory layer; purple against yellow, for contrast."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "dianthus-georgia-peach-pie",
+    "companion": "witch-hazel",
+    "detail": "Witch Hazel (hamamelis, acid soil) with Georgia Peach Pie (dianthus, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 54.1,
+    "reason": "Takes full sun to part sun and low to moderate water; blooms in late winter, before this one opens; stands well above at 3 m, a canopy to plant beneath; both offer pollinator forage, in different months."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "gardenia-crown-jewel",
+    "companion": "forsythia",
+    "detail": "Crown Jewel (gardenia, acid soil) with Forsythia (forsythia, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 55.4,
+    "reason": "Takes full sun to part sun and moderate to high water; blooms in early spring, before this one opens; taller at 2 m, for the layer behind it; a soft colour beside the yellow."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "genie-magnolia",
+    "companion": "lavender",
+    "detail": "Genie Magnolia (magnolia, acid soil) with Lavender (lavandula, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 51.9,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer as this one finishes; evergreen, so the bed keeps its shape through winter; low at 0.6 m, to carpet the ground beneath it."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "honeysuckle",
+    "companion": "witch-hazel",
+    "detail": "Witch Hazel (hamamelis, acid soil) with Honeysuckle (lonicera, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 55.2,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late winter, before this one opens; both offer pollinator forage, in different months; lower at 3 m, for the front of the border."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "honeysuckle-white",
+    "companion": "witch-hazel",
+    "detail": "Witch Hazel (hamamelis, acid soil) with Dutch Woodbine (lonicera, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 54.9,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late winter, before this one opens; both offer pollinator forage, in different months; lower at 3 m, for the front of the border."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "honeysuckle-yellow",
+    "companion": "witch-hazel",
+    "detail": "Witch Hazel (hamamelis, acid soil) with Scentsation Honeysuckle (lonicera, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 55.2,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late winter, before this one opens; both offer pollinator forage, in different months; lower at 3 m, for the front of the border."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "jane-magnolia",
+    "companion": "lavender",
+    "detail": "Jane Magnolia (magnolia, acid soil) with Lavender (lavandula, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 51.9,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer as this one finishes; evergreen, so the bed keeps its shape through winter; low at 0.6 m, to carpet the ground beneath it."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "little-gem",
+    "companion": "forsythia",
+    "detail": "Little Gem Magnolia (magnolia, acid soil) with Forsythia (forsythia, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 52.5,
+    "reason": "Shares full sun and moderate water; blooms in early spring, before this one opens; shorter at 2 m, an understory layer; a soft colour beside the yellow; they only overlap in zones 7 to 8."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "pincushion-flower",
+    "companion": "witch-hazel",
+    "detail": "Witch Hazel (hamamelis, acid soil) with Pincushion Flower (scabiosa, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 53,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late winter, before this one opens; both offer pollinator forage, in different months; taller at 3 m, for the layer behind it."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "royal-star",
+    "companion": "lavender",
+    "detail": "Royal Star Magnolia (magnolia, acid soil) with Lavender (lavandula, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 48.6,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer, extending the bed's season; evergreen, so the bed keeps its shape through winter; low at 0.6 m, to carpet the ground beneath it."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "southern-magnolia",
+    "companion": "forsythia",
+    "detail": "Southern Magnolia (magnolia, acid soil) with Forsythia (forsythia, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 50.9,
+    "reason": "Shares full sun and moderate water; blooms in early spring, before this one opens; a soft colour beside the yellow; they only overlap in zones 7 to 8."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "star-magnolia",
+    "companion": "lavender",
+    "detail": "Star Magnolia (magnolia, acid soil) with Lavender (lavandula, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 48.1,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer, extending the bed's season; evergreen, so the bed keeps its shape through winter; a soft colour beside the orange."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "star-magnolia",
+    "companion": "lilac",
+    "detail": "Star Magnolia (magnolia, acid soil) with Lilac (syringa, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 47.2,
+    "reason": "Shares full sun and moderate water; blooms in mid spring as this one finishes; shorter at 3 m, an understory layer; a soft colour beside the orange."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "weigela-sonic-bloom-pink",
+    "companion": "saucer-magnolia",
+    "detail": "Saucer Magnolia (magnolia, acid soil) with Sonic Bloom Pink (weigela, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 46.5,
+    "reason": "Shares full sun and moderate water; blooms in early spring, before this one opens; taller at 7 m, for the layer behind it; echoes the pink."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "weigela-sonic-bloom-red",
+    "companion": "saucer-magnolia",
+    "detail": "Saucer Magnolia (magnolia, acid soil) with Sonic Bloom Red (weigela, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 46.5,
+    "reason": "Shares full sun and moderate water; blooms in early spring, before this one opens; taller at 7 m, for the layer behind it; pink sits close to red on the wheel."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "witch-hazel",
+    "companion": "lavender",
+    "detail": "Witch Hazel (hamamelis, acid soil) with Lavender (lavandula, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 64.4,
+    "reason": "Takes full sun to part sun and low to moderate water; blooms in early summer, extending the bed's season; both offer pollinator forage, in different months; evergreen, so the bed keeps its shape through winter."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "witch-hazel-arnold-promise",
+    "companion": "lavender",
+    "detail": "Arnold Promise (hamamelis, acid soil) with Lavender (lavandula, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 65,
+    "reason": "Takes full sun to part sun and low to moderate water; blooms in early summer, extending the bed's season; both offer pollinator forage, in different months; evergreen, so the bed keeps its shape through winter."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "witch-hazel-arnold-promise",
+    "companion": "lilac",
+    "detail": "Arnold Promise (hamamelis, acid soil) with Lilac (syringa, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 60.6,
+    "reason": "Takes full sun to part sun and moderate water; blooms in mid spring as this one finishes; both offer pollinator forage, in different months; purple against yellow, for contrast."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "witch-hazel-jelena",
+    "companion": "lavender",
+    "detail": "Jelena (hamamelis, acid soil) with Lavender (lavandula, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 64.4,
+    "reason": "Takes full sun to part sun and low to moderate water; blooms in early summer, extending the bed's season; both offer pollinator forage, in different months; evergreen, so the bed keeps its shape through winter."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "witch-hazel-pallida",
+    "companion": "lavender",
+    "detail": "Pallida (hamamelis, acid soil) with Lavender (lavandula, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 64.4,
+    "reason": "Takes full sun to part sun and low to moderate water; blooms in early summer, extending the bed's season; both offer pollinator forage, in different months; evergreen, so the bed keeps its shape through winter."
+  },
+  {
+    "rule": "soil-ph-conflict",
+    "severity": "medium",
+    "subject": "witch-hazel-vernalis",
+    "companion": "lavender",
+    "detail": "Ozark Witch Hazel (hamamelis, acid soil) with Lavender (lavandula, prefers/tolerates neutral-alkaline); pH is not modelled",
+    "score": 64.4,
+    "reason": "Takes full sun to part sun and low to moderate water; blooms in early summer, extending the bed's season; both offer pollinator forage, in different months; evergreen, so the bed keeps its shape through winter."
+  }
+]

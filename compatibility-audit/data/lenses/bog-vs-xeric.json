@@ -1,0 +1,164 @@
+[
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "agave",
+    "companion": "tropical-hibiscus",
+    "detail": "Agave (low) with Tropical Hibiscus (moderate): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 42.8,
+    "reason": "Shares full sun and low to moderate water; taller at 1.5 m, for the layer behind it."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "echeveria",
+    "companion": "tropical-hibiscus",
+    "detail": "Echeveria (low) with Tropical Hibiscus (moderate): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 52,
+    "reason": "Shares full sun and low to moderate water; overlaps, then carries the display into mid fall; stands well above at 1.5 m, a canopy to plant beneath; echoes the pink."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "lobelia",
+    "companion": "echinops",
+    "detail": "Lobelia (moderate) with Globe Thistle (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 71.7,
+    "reason": "Takes full sun to part sun and low to moderate water; taller at 1 m, for the layer behind it; both are strong pollinator plants; its seed heads stand through winter, for structure and the birds."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "lobelia-crystal-palace",
+    "companion": "echinops",
+    "detail": "Crystal Palace (moderate) with Globe Thistle (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 71.7,
+    "reason": "Takes full sun to part sun and low to moderate water; stands well above at 1 m, a canopy to plant beneath; both are strong pollinator plants; its seed heads stand through winter, for structure and the birds."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "lobelia-sky-blue",
+    "companion": "echinops",
+    "detail": "Sky Blue Lobelia (moderate) with Globe Thistle (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 71.7,
+    "reason": "Takes full sun to part sun and low to moderate water; taller at 1 m, for the layer behind it; both are strong pollinator plants; its seed heads stand through winter, for structure and the birds."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "lobelia-white",
+    "companion": "echinops",
+    "detail": "White Lobelia (moderate) with Globe Thistle (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 71.4,
+    "reason": "Takes full sun to part sun and low to moderate water; taller at 1 m, for the layer behind it; both are strong pollinator plants; its seed heads stand through winter, for structure and the birds."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "tropical-hibiscus",
+    "companion": "echeveria",
+    "detail": "Tropical Hibiscus (moderate) with Echeveria (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 52,
+    "reason": "Shares full sun and low to moderate water; opens in late spring and overlaps into this one's season; low at 0.1 m, to carpet the ground beneath; echoes the pink."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "tropical-hibiscus-coral",
+    "companion": "echeveria",
+    "detail": "Coral Tropical Hibiscus (moderate) with Echeveria (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 52,
+    "reason": "Shares full sun and low to moderate water; opens in late spring and overlaps into this one's season; low at 0.1 m, to carpet the ground beneath; echoes the pink."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "tropical-hibiscus-fiesta",
+    "companion": "echeveria",
+    "detail": "Fiesta (moderate) with Echeveria (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 52,
+    "reason": "Shares full sun and low to moderate water; opens in late spring and overlaps into this one's season; low at 0.1 m, to carpet the ground beneath; pink sits close to orange on the wheel."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "tropical-hibiscus-hula-girl",
+    "companion": "echeveria",
+    "detail": "Hula Girl (moderate) with Echeveria (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 49.7,
+    "reason": "Shares full sun and low to moderate water; opens in late spring and overlaps into this one's season; low at 0.1 m, to carpet the ground beneath."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "tropical-hibiscus-lavender",
+    "companion": "echeveria",
+    "detail": "Lavender Tropical Hibiscus (moderate) with Echeveria (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 49.7,
+    "reason": "Shares full sun and low to moderate water; opens in late spring and overlaps into this one's season; low at 0.1 m, to carpet the ground beneath."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "tropical-hibiscus-magenta",
+    "companion": "echeveria",
+    "detail": "Magenta Tropical Hibiscus (moderate) with Echeveria (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 52,
+    "reason": "Shares full sun and low to moderate water; opens in late spring and overlaps into this one's season; low at 0.1 m, to carpet the ground beneath; pink sits close to purple on the wheel."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "tropical-hibiscus-orange",
+    "companion": "echeveria",
+    "detail": "Orange Tropical Hibiscus (moderate) with Echeveria (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 49.7,
+    "reason": "Shares full sun and low to moderate water; opens in late spring and overlaps into this one's season; low at 0.1 m, to carpet the ground beneath."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "tropical-hibiscus-peach",
+    "companion": "echeveria",
+    "detail": "Peach Tropical Hibiscus (moderate) with Echeveria (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 49.7,
+    "reason": "Shares full sun and low to moderate water; opens in late spring and overlaps into this one's season; low at 0.1 m, to carpet the ground beneath."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "tropical-hibiscus-president",
+    "companion": "echeveria",
+    "detail": "President (moderate) with Echeveria (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 52,
+    "reason": "Shares full sun and low to moderate water; opens in late spring and overlaps into this one's season; low at 0.1 m, to carpet the ground beneath; pink sits close to red on the wheel."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "tropical-hibiscus-red",
+    "companion": "echeveria",
+    "detail": "Red Tropical Hibiscus (moderate) with Echeveria (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 52,
+    "reason": "Shares full sun and low to moderate water; opens in late spring and overlaps into this one's season; low at 0.1 m, to carpet the ground beneath; pink sits close to red on the wheel."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "tropical-hibiscus-white",
+    "companion": "echeveria",
+    "detail": "White Tropical Hibiscus (moderate) with Echeveria (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 51.8,
+    "reason": "Shares full sun and low to moderate water; opens in late spring and overlaps into this one's season; low at 0.1 m, to carpet the ground beneath; a soft colour beside the yellow."
+  },
+  {
+    "rule": "bog-vs-xeric",
+    "severity": "high",
+    "subject": "tropical-hibiscus-yellow",
+    "companion": "echeveria",
+    "detail": "Yellow Tropical Hibiscus (moderate) with Echeveria (low): a moisture-obligate genus beside a drought-obligate genus",
+    "score": 49.7,
+    "reason": "Shares full sun and low to moderate water; opens in late spring and overlaps into this one's season; low at 0.1 m, to carpet the ground beneath."
+  }
+]

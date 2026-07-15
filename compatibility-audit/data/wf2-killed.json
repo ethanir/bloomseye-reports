@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Aster's top companion is an unqualified \"Honeysuckle\" (Lonicera, no species), praised for exactly what makes Japanese honeysuckle invasive",
+    "why": "The mechanics check out (aster -> honeysuckle really is rank #1 at 84.6, no penalties, with the quoted reason in chunks/chunk-02.json), but the botany is wrong at every load-bearing point. (1) \"Lonicera unqualified is the name of Lonicera japonica\" is false: Lonicera is a ~180-species genus, and the invasive bush honeysuckles (L. maackii/tatarica) are shrubs, whereas this entry is cat: \"Climber\". (2) The library data does not describe L. japonica: japonica is white-aging-to-yellow and climbs 3-9 m+, while plantLibrary.ts:2602 is orange (#f4a000), 4 m, fragrant, zones 4-9 - a generic garden climbing honeysuckle. Every variant in the honeysuckle group (line 1578) is a benign garden taxon (L. sempervirens 'Major Wheeler', L. x heckrottii 'Goldflame', L. periclymenum 'Scentsation' and 'Belgica'). (3) The \"chimera of L. sempervirens\" claim and the proposed fix are themselves botanically wrong: L. sempervirens is scentless, so the entry's `fragrant` tag is not sempervirens' data, and pinning the archetype to sempervirens would both assert a false fragrance and duplicate 'Major Wheeler', a sempervirens cultivar already in the same variant group. Additionally, the reason text contains no berry claim at all (the finding invents \"berries-and-nectar wildlife value\"), and the traits it does cite - climbs 4 m, pollinator forage - are shared by clematis, wisteria and every desirable garden climber, so they are not evidence of invasiveness. The absent spreader flag is also correct rather than an oversight: taxonomy.ts does flag aggressive vines (campsis:385 and parthenocissus:387 both carry spreader: true); garden climbing honeysuckles are not aggressive spreaders. The pair itself is sound advice a horticulturist would sign: honeysuckle May-Aug on a fence behind an aster flowering Sep-Oct, same sun, same water, zone overlap 4-8, genuine succession and layering."
+  },
+  {
+    "title": "Bald Cypress -> Boxwood: \"Shares full sun and moderate to high water\" hides a fatal drainage conflict",
+    "why": "The finding rests on a false botanical premise. It claims bald cypress is a swamp-only tree (\"the entire reason to plant one is a soggy, poorly drained or periodically flooded spot\"). Taxodium distichum is in fact one of the most soil-adaptable native trees: standard reference guidance is \"easily grown in average, medium to wet soils... tolerates a wide range of soil conditions ranging from wet swampy soils to dry upland soils,\" and it is a common street and lawn tree in ordinary, compacted, well-drained urban soil. Knees form in saturated ground, not in normal garden soil. So the pair CAN thrive in one spot - an average moist-but-drained bed, which is where a home gardener will actually plant both - and no horticulturist would sign \"bald cypress kills boxwood.\" There is no documented poor combination between them. Two supporting sub-claims are also wrong: (1) \"the pairing earns nothing\" - bald cypress is a DECIDUOUS conifer, so an evergreen at its feet holding structure through winter is a genuine, classic benefit, and that is exactly what the reason states; (2) \"filed full-sun and would sit under an 18 m canopy\" - Buxus is one of the most shade-tolerant broadleaf evergreens (full sun to part shade; light shade is often recommended to prevent winter bronzing), so underplanting a high canopy is standard practice, not a strike. The only residual truth is conditional: IF a user reads water:high plus the \"water\" tag as an instruction to site the tree in a bog, a boxwood there would be at Phytophthora risk. That is contingent on a siting the app never instructs, and the honest read is that water:high is itself mildly overstated for Taxodium (references say \"medium to wet\"). The same template also generated bald-cypress -> arborvitae, an unimpeachable wet-tolerant pairing, so the clause is not the defect. Verified against the audit data: pair exists at score 38.2 with the quoted reason; boxwood is water:moderate/zones 5-9; the quotation is accurate but the judgement is not."
+  },
+  {
+    "title": "Bleeding Heart's top companion is Cardinal Flower - a wet-soil obligate whose watering will rot the summer-dormant Lamprocapnos crown",
+    "why": "The core botanical mechanism is wrong on both species. (1) Lobelia cardinalis is not a wet-soil obligate: its USDA wetland-indicator status is FACW (facultative wetland), and standard guidance (MOBOT) is \"rich, humusy, MEDIUM TO WET soils, full sun to part shade\". It needs soil that does not dry out, not soil kept saturated. (2) Lamprocapnos spectabilis is not a summer-dry geophyte. Standard guidance is \"organically rich, humusy, medium moisture, well-drained soil\" and it \"appreciates consistent moisture during the growing season\"; the canonical note is that the foliage goes dormant in summer PARTICULARLY IF SOILS ARE ALLOWED TO DRY OUT - i.e. moisture DELAYS the dieback rather than rotting the crown. Bleeding heart's rot risk is a drainage/waterlogging issue (classically winter wet in heavy soil), not a \"neighbour gets watered\" issue; the finding conflates \"consistently moist\" with \"soggy\". The species the finding actually describes is Papaver orientale, which genuinely demands a dry summer rest; that does not transfer to Lamprocapnos. (3) The decisive counterexample is in the library itself: astilbe (part-shade, water: high), ligularia (high), ostrich-fern (high) and summersweet (high, ranked #3 for this same subject) are the textbook bleeding-heart bed-mates in every shade-garden reference. If a high-water neighbour rotted a dormant Lamprocapnos crown, the entire standard moist-shade palette would be malpractice beside it. No trained horticulturist would sign that claim. (4) The proposed fix (hard-filter high-water companions for bleeding heart) would delete astilbe/ferns/ligularia - the best advice the engine has for this plant - to prevent a failure mode that does not exist. Also note the pairing already performs the gap-fill the finding says is missing: cardinal flower is 1 m and blooms 7-9, exactly as bleeding heart's 4-6 window closes and it dies back. Data was verified (pair is real, ranked #1/8, water-differs penalty, reason verbatim) and the pollinator clause is legitimate (taxonomy.ts: lamprocapnos pollinator \"some\", lobelia \"high\" - bumblebee forage on bleeding heart is real). Only defensible residue is the inverse of the finding: the beginner risk is to the short-lived Lobelia if the bed dries out, which the reason's \"moderate to high water\" clause already signals. Not a finding."
+  },
+  {
+    "title": "Caladium -> Rhododendron puts a constantly-moist bedding plant on the same watering schedule as a shrub that dies of wet feet",
+    "why": "The botanical premise is false, and the pairing is in fact a textbook one. (1) Caladium is not a wet-soil plant. Extension and grower guidance (Clemson HGIC; Proven Winners; Wisconsin Hort) all specify humus-rich, WELL-DRAINED, slightly acidic soil (pH 5.5-6.2), \"moist but NOT saturated,\" \"evenly moist to touch but not saturated,\" 1-2 in of water per week. The finding's load-bearing step - \"kept evenly moist to wet,\" so \"watering the bed to the caladium's schedule\" means constantly wet soil - is not what caladium culture says. The library's water:\"high\" means \"will not tolerate drying out,\" not \"keep soil saturated.\" (2) Rhododendron's own requirement is the same 1-2 in/week; its enemy is DRAINAGE, not irrigation frequency (shallow roots in the top 2-3 in, \"sensitive to both drought and soggy conditions,\" mulched to hold moisture, acid pH 4.5-5.5). Both plants ask for the identical bed: acidic, humus-rich, mulched, sharply drained, part shade. In that bed the schedules converge; the engine never instructs the user to saturate anything, and it already penalizes the one-rung gap (water-differs, x0.92, present in the data). (3) Caladiums planted in front of azaleas/rhododendrons/camellias is a stock, widely recommended Southern shade combination - evergreen shrub bones plus summer caladium colour - close to the canonical landscape use of caladium. A horticulturist would sign it. (4) The reason is not empty: for a plant the engine correctly knows has no bloom, it gives shared part-shade/moisture culture, an evergreen backbone that holds the bed in the months the summer-only tuber is entirely absent (a genuinely well-chosen benefit), and 1.8 m behind 0.4 m as the back layer. All three are true; \"evergreen\" is correct for the generic elepidote Rhododendron. The same reasoning dissolves the Camellia (38.1) extension. The only true statement in the finding - rhododendrons rot in poorly drained soil - is exactly the general soil/drainage fact the brief excludes unless it makes a named pairing actively wrong, which here it does not."
+  },
+  {
+    "title": "Christmas Fern is paired with two bog ferns, on one watering schedule that the app's own care note says will kill it",
+    "why": "The botanical premise is wrong at species level. (1) Osmundastrum cinnamomeum is a FACULTATIVE wetland fern (FACW), not a saturation obligate: NC State lists its drainage tolerance as \"Good drainage, Moist, Occasionally wet, Occasionally dry, Frequent standing water\" and MOBOT says \"easily grown in medium to wet soils in part shade to full shade.\" Moist, well-drained woodland soil is inside its range, not an exception to it. The repo's own curated card says \"constantly moist to wet,\" never \"saturated.\" (2) Polystichum acrostichoides is not a dry-slope-only plant; its preferred siting is moist, organically rich soil, with drought tolerance only as a post-establishment bonus - the repo's own note says exactly that. Its documented failure is crown rot in \"wet, heavy CLAY\" - a drainage/texture failure, not a moisture-level failure. The finding conflates \"moist\" with \"saturated clay,\" and that conflation is the whole argument. (3) The two therefore share a large, real band - humus-rich, consistently moist, acidic, well-drained shade - which is the recommended zone for BOTH, not a compromise. Christmas fern with cinnamon fern is a mainstream native woodland-shade combination specified by extension shade-garden lists and native nurseries; the species co-occur across eastern deciduous forest. A horticulturist would sign it. (4) The engine did not paper over anything: it applied the water-differs penalty, scored the pair 48.1 (bottom of the Christmas fern list, below wild-ginger 52.3, goatsbeard 50.6, dogwood-tree 49.6), and the reason text explicitly discloses the gap (\"moderate to high water\"). Every clause in the reason is true: cinnamon fern is taller (1.0 m vs 0.5 m), both are native, and reciprocally Christmas fern really is the evergreen winter structure. Library values (full-shade/moderate; part-shade/high) are correct, so nothing is inherited wrong."
+  },
+  {
+    "title": "Cinnamon Fern (a bog fern) is given Hellebore and Bergenia, both of which rot in saturated soil",
+    "why": "The core botanical claim fails on the species, not the genus. Osmundastrum cinnamomeum is a FACULTATIVE wetland species (FACW, not OBL) - it tolerates bog and standing water but does not require it; MBG/RHS describe it as \"medium to wet, humusy, acidic soil in part to full shade,\" and it is a mainstream woodland shade-border fern. (Notably, royal fern - which the finding proposes as an \"honest\" alternative partner - is the wetter of the two, OBL in much of its range.) Helleborus x hybridus is likewise a humus-rich woodland plant whose failure mode is winter waterlogging, not co-residence with a moisture-loving fern; its neutral-to-alkaline preference is a preference (RHS lists hellebores for acid, neutral and alkaline soil), not a requirement. A humus-rich, evenly moist, drained part-shade bed serves both, and fern + hellebore is standard published shade-garden practice. So \"there is no single watering schedule or soil mix that serves both\" is false. Three further checks kill it: (a) the library's water:\"high\" bucket contains dahlia, canna, impatiens, hydrangea and gardenia - all rot in saturated soil - so \"high\" plainly means \"water often / keep moist,\" not \"bog\"; (b) the reason text says \"moderate TO high water,\" disclosing the rung difference (engine lines 1011-1015), and the engine already applies the water-differs penalty, so it is not asserting a shared schedule; (c) Bergenia cordifolia is one of the more forgiving damp-shade perennials, routinely recommended for moist ground, so the Bergenia half is weaker still. Reductio: every companion on cinnamon fern's list (christmas fern, hemlock, wild ginger, autumn fern, holly fern, Japanese forest grass, bergenia, hellebore) is moderate-water, so this logic would delete the whole list of every high-water plant - i.e. it is the generic \"coarse water field\" complaint the brief excludes, not a specific bad pair."
+  },
+  {
+    "title": "Daffodil -> Bearded Iris: the bulb-cover clause is false for a rhizomatous iris, and the planting it describes rots the rhizome",
+    "why": "The pair data is real (daffodil: Bulb, full-sun, moderate, z3-8, h0.4, bloom 3-4; iris-bearded: Iris germanica, Perennial, full-sun, moderate, z3-9, h0.8, spread 0.4, bloom 5-6; score 53.1, no penalties; reason exactly as quoted). But the horticulture does not support the finding.\n\n1. The pairing itself is mainstream, correct advice, not a hazard. Daffodils and bearded iris are a classic bed combination recommended by the iris trade itself (spring bulbs planted among/behind iris clumps to open the season before the iris). Both want full sun, sharp drainage and a DRY summer dormancy - that shared summer-dry requirement is the single strongest reason the pair works, and the engine's coarse fields happen to get it right (both \"moderate\"). None of the reason's other clauses is wrong: bloom succession (Mar-Apr into May-Jun) is true and genuinely useful, and purple-against-yellow is true.\n\n2. \"The planting it describes rots the rhizome\" is an extrapolation the reason never makes. The rot rule is: do not bury/mulch over the rhizome, do not crowd it with dense groundcover, do not sit it in wet soil. Nothing in \"plant bearded iris with your daffodils\" instructs a beginner to plant bulbs on top of a rhizome; iris are set 30-45 cm apart and daffodils go 15 cm deep in the open soil between clumps, which is exactly how this is done. Soft rot (Erwinia) is a wet-soil/heavy-mulch/high-nitrogen disease, not a \"a few daffodil leaves lay near the rhizome for six weeks in spring\" disease. Calling this high-severity, rhizome-killing advice is not something a trained horticulturist would sign.\n\n3. The \"false clause\" claim is a matter of degree, not a botanical error. Bearded iris fans ARE fully up and 0.8 m tall exactly while daffodil leaves (0.4 m) yellow in May-June, so the cover is temporally correct; the only quibble is that an upright 0.4 m-wide fan screens less effectively than a hosta or hardy geranium. \"Less effective screen than the ideal cover plant\" is a design-taste critique, which the audit brief explicitly excludes, and it does not make the sentence untrue.\n\n4. No library-data error: full sun / moderate water / z3-9 / 0.8 m for Iris germanica are all correct values.\n\nWhat survives is not this pair at all. The only defensible residue is the engine nit that `coversEphemeral` (compatibility.ts:672) gates on height alone, which produces one genuinely self-contradicting sentence on a DIFFERENT pair: crocus -> blue-oat-grass and crocus -> sea-thrift say \"leafs out to hide the ripening bulb foliage as it dies back; evergreen, so the bed keeps its shape through winter\" - an evergreen does not \"leaf out\". That is a real (low-severity, reason-wording) bug and should be reported as its own finding on those pairs, not as a high-severity botanical hazard on daffodil -> iris-bearded."
+  },
+  {
+    "title": "Cyclamen -> Summersweet: a dry-summer-dormant corm under a shrub that must be kept wet all summer",
+    "why": "The finding's three load-bearing botanical claims each fail at the species level. (a) \"Summer irrigation kills a dormant cyclamen corm\" is true of Mediterranean cyclamen as a class but not of C. hederifolium, the species the row (bloom 9-11, zones 5-9, part-shade, 0.2 m) actually denotes: it is the most adaptable hardy species, listed by RHS for acid/neutral/alkaline soil and for \"moist but well-drained\" as well as \"well-drained\", and it naturalises and self-sows in Britain, the Pacific Northwest and the northeastern US - all summer-rainfall climates. Its dry-shade reputation is a tolerance, not a requirement; the tuber is killed by waterlogging/poor drainage, not by a normally irrigated, drained bed. (b) \"Clethra must be kept wet all summer\" overstates it: Clethra alnifolia tolerates wet feet but is cultivated in \"average, medium to wet, well-drained\" soil (its real constraint is drought-intolerance), and is a routine mixed-border shrub, not a bog-only plant. The two requirements overlap in an ordinary humusy woodland bed. (c) The pH conflict is wrong: C. hederifolium grows on both calcareous and siliceous substrates and is explicitly listed for acid soils, so there is no calcicole/ericaceous clash with Clethra. Worse for the finding, the phenology runs the opposite way from its argument: Clethra is deciduous (bare from leaf-fall to May, when cyclamen foliage is up; in leaf through summer, when the tuber is dormant and wants shade), which is the textbook summer-dormant-geophyte-under-a-deciduous-shrub underplanting. The generated reason itself contains no false clause (Jul-Aug bloom does precede Sep-Nov; 1.8 m over 0.2 m is a canopy; white beside pink) and it discloses the water difference. Data checked: chunks/chunk-08.json (subject cyclamen, companion summersweet, score 53.3, penalty water-differs) and plantLibrary.ts lines 3277 and 2927 - the rows are as described, but the horticultural conclusion drawn from them is not one a trained horticulturist would sign. The proposed fix (hard-filter all water-high companions out of summer-dormant subjects) would remove legitimate combinations on a false premise."
+  },
+  {
+    "title": "Dahlia's top companion is Gardenia - an acid-soil, part-shade, root-sensitive evergreen paired with a full-sun, neutral-soil tuber that gets dug up every autumn",
+    "why": "The data is real (dahlia -> gardenia at 51.3, reason text quoted correctly), but the botany does not hold. (1) The pH argument overstates: Gardenia jasminoides tolerates pH 5.0-6.5 and dahlias grow well 6.0-7.5 (optimal ~6.5), so a rich, humusy, moist, well-drained bed at pH ~6.0-6.5 - the ordinary soil of the zone 8-10 Southeast where this pair is offered - suits both. \"One of the two is always wrong\" is false. (2) The light argument is backwards and botanically muddled: gardenia is listed by Missouri Botanical as full sun to part shade (afternoon shade merely preferred in hot summers), and dahlias in the Deep South likewise want afternoon shade; gardenia chlorosis is an iron/alkaline-soil symptom, not a full-sun symptom, so the finding misattributes it. (3) The load-bearing \"tubers get lifted every autumn, so you dig the shrub's root zone\" claim does not apply: the pairing only exists inside the zone intersection 8-10, and the library files dahlia hardy 8-10 precisely because tubers overwinter in the ground there; lifting is a zone 3-7 practice, and nobody plants a dahlia inside a shrub's root ball. (4) Gardenia 5-7 handing to dahlia 7-10 is textbook succession (near-continuous May-October), not a \"thin\" one-month shoulder; the evergreen/winter-structure clause is genuinely good advice for a bed whose tuber vanishes in winter. (5) The only surviving kernel is cosmetic: colorName() in src/browse/plantFacets.ts:88 buckets dahlia's #d6406a as \"red\" (L=0.545, just under the 0.55 pink cut) while the tag says \"pink\" - but that artifact appears in every dahlia companion reason (stock, amaryllis), so it is a systemic hue-label nit, not a gardenia-specific defect, and #d6406a is genuinely a rose-red. Gardenia + dahlia is a defensible zone 8-10 mixed-border combination; a horticulturist would not sign this finding as written."
+  },
+  {
+    "title": "Northern Sea Oats is recommended to Foxglove and praised for the seed heads that make it self-sow into a weed, with no spreader flag",
+    "why": "The pair and reason exist as quoted, and Chasmanthium latifolium does self-seed freely - but the finding's horticulture does not hold up. (1) The reason is not false: the repo's own NC State-sourced curated card (src/garden/intel/curated/northern-sea-oats.json) lists, as free-tier facts, \"Winter interest and dried bouquets: the persistent seed heads carry winter interest\" and \"Larval host and bird food: the abundant seeds feed birds, including turkey and quail\" - alongside \"Self-seeds prolifically; contain it\". Both are standard advice and are shipped to the user on the sea oats card; the engine's sentence (\"seed heads stand through winter, for structure and the birds\") is exactly what the sources say, not \"the exact opposite\" of them. (2) The Miscanthus parallel is overstated: the load-bearing half of that taxonomy comment is \"invasive in much of the US\". C. latifolium is a US native on no invasive list; its volunteers are a weeding chore, not the invasive failure mode the rubric's example targets. (3) The proposed fix would introduce a false claim: in this engine spreader means a running smotherer (blocker \"spreader-smothers\"; generated copy at compatibility.ts:1147 is \"a vigorous spreader, so give it room or an edging\"), the bucket holding mint, ajuga, ostrich fern. Sea oats is a clump-former whose aggression is by seed; edging does not stop seed. Flagging it would mislabel the plant and hard-block a first-rate native shade grass from nearly every small shade companion (foxglove spread 0.4 m is under DELICATE_SPREAD_M = 0.5, so the pair would be excluded outright). (4) The pairing itself is horticulturally sound: Digitalis (part shade/moderate/z4-8) and Chasmanthium (part shade/moderate/z3-8) is a conventional woodland-edge combination, and foxglove is itself a self-sowing biennial in the same conditions. The residue is a copy nit shared by every benefit-only reason the engine writes, not wrong library data."
+  },
+  {
+    "title": "Hardy Hibiscus (a marsh perennial the library rates 'high' water) is paired with Chives and Sweet Alyssum, which rot in permanently moist soil",
+    "why": "Checked at the species level, the botanical bad-pairing claim is overstated and a horticulturist would not sign it. (1) Hibiscus moscheutos, though a wetland native, is grown in ordinary moist, rich, well-drained garden borders in cultivation - its garden hybrids (Berry Awesome, Cranberry Crush, etc.) especially. \"High\" water is a defensible rating (MoBot: \"medium to wet\"), but it does not mean the obligate saturated bog the finding assumes. (2) Chives (Allium schoenoprasum) are among the MOST moisture-tolerant alliums: a clumping perennial of damp meadows and streamsides, not a dormant true bulb; \"rots at the bulb in wet soil\" mischaracterizes the species. (3) The gap is a single rung (high vs moderate) - both are regular-watering bands, not xeric. Tellingly, the engine's own bog-vs-xeric and xeric-vs-wetter lenses contain ZERO hardy-hibiscus rows; they fire only on genuine moisture-obligate-vs-drought-obligate pairs (agave/echeveria vs hibiscus), and correctly found no such conflict here. The only surviving grain is the copy nit that \"Shares ... moderate to high water\" uses \"Shares\" for a one-rung range - a low-severity wording imprecision, not a medium bad-pairing that will rot the neighbours. The library data (hibiscus high, chives moderate) is not wrong, so the pairing inherits no data error either."
+  },
+  {
+    "title": "Honeylocust is told to pair with Trumpet Vine (Campsis radicans), praised as a native pollinator plant with no aggressive-spreader flag or caution",
+    "why": "The finding's load-bearing data claim is a misread. It asserts trumpet-vine \"has no aggressive-spreader flag\" because plantLibrary.ts line 2940 tags it only [\"orange\",\"native\",\"pollinator\",\"vine\"], and that this is why no SPREADER_SOFT_PENALTY / caution fires. But the engine never derives the spreader flag from library tags. plant.ts:161 sets aggressiveSpreader = trait.spreader === true, where trait = traitFor(genus, slug); taxonomy.ts line 385 declares campsis: { pollinator: \"high\", spreader: true, ... }. So trumpet-vine and ALL its Campsis variant members already carry aggressiveSpreader = true. The proposed fix (\"Set aggressiveSpreader = true on trumpet-vine and its three variant members\") is a no-op; it is already set. The audit record for honeylocust->trumpet-vine does show penalties: [] and an uncautioned reason, but the real cause is unrelated to the flag: the spreader caution fires via spreaderNeedsWatching, which requires a \"soft\" neighbour (!spreader && !ROBUST_CATEGORIES.has(category)), and ROBUST_CATEGORIES (compatibility.ts:155) includes \"Tree\". Honeylocust is a Tree, so the engine treats it as too robust to be smothered and suppresses the caution. The finding misdiagnoses cause and fix, so as a DATA finding it does not survive."
+  },
+  {
+    "title": "\"Honeysuckle\" is a bare genus entry (Lonicera) with contradictory traits, so the app recommends a plant that may be Japanese honeysuckle, a listed noxious weed",
+    "why": "The finding's botanical core is false and its headline is unsupported. (1) \"Recommends a plant that may be Japanese honeysuckle, a noxious weed\" is not supported: the entry is explicitly ORANGE (#f4a000), whereas L. japonica is white->yellow and never orange, so the color steers away from japonica; the variant group is curated non-invasive named cultivars (L. sempervirens 'Major Wheeler' [native], L. x heckrottii 'Goldflame', L. periclymenum 'Scentsation'/'Belgica'), no japonica; and the audit's OWN invasive-recount.json (which lists pampas grass, butterfly bush, periwinkle, even Siberian squill at 0 lists) does NOT contain honeysuckle/Lonicera at all. flags.json treats the archetype as a legitimate pollinator plant and pH-tolerant general Lonicera. (2) \"No real honeysuckle is both orange-flowered and fragrant\" is FALSE: Lonicera x heckrottii 'Goldflame' (coral/orange-yellow, fragrant) is a common garden honeysuckle and is literally a sibling in this same group (honeysuckle-pink, line 2604). A trained horticulturist would not sign that absolute claim. (3) The bare botanical \"Lonicera\" is a deliberate, consistent library convention for a variant group's generic default -- clematis=\"Clematis\", wisteria=\"Wisteria\", morning-glory=\"Ipomoea\", climbing-rose=\"Rosa\" all use bare genus -- not a unique data error."
+  },
+  {
+    "title": "Ligularia, a bog-side plant watered 'high', is paired with two plants whose top killer is wet soil",
+    "why": "The pairing and reason strings are real (ligularia->rhododendron, score 49.3), and the quoted curated file text is accurate. But the botanical thesis does not survive. Rhododendron is filed water=\"moderate\" (verified, plantLibrary.ts line 2451), correctly - it is a moisture-loving, acid-soil (pH 4.5-5.5), part-shade WOODLAND shrub, not a xeric/lavender-type. It is NOT \"the opposite kind of moisture\" from ligularia; both want reliably moist, humus-rich, acidic, part-shade soil. Rhododendron + ligularia (with astilbe/hosta/rodgersia/primula/ferns) is a textbook moist-woodland / ericaceous-bed community, commonly and successfully grown together. The finding conflates \"watered high\" with \"waterlogged\": the curated file's own killer is \"soggy, poorly DRAINED soil,\" and its own remedy is \"plant high\" - a drainage/siting decision the gardener controls independently of the companion. In well-drained soil a shallow-rooted rhododendron NEEDS generous summer water and will not rot from irrigation volume, only from a saturated root zone. That root-rot risk is identical for a rhododendron next to any moderate/high-water shade perennial, or grown alone in clay - it is not specific to ligularia in a way that makes THIS pair wrong. Every reason clause is factually true (shared part-shade; both want moisture; real May->Jul bloom succession; real evergreen winter structure). A trained horticulturist would recommend this pairing, not flag it. The finding also appears in wf-killed.json/wf-not-verified.json, not wf-survivors.json."
+  },
+  {
+    "title": "Pampas Grass recommended to Moonflower in zones 9-11, praised for the seed heads that are its invasion vector, and called a front-of-border plant at 2.5 m",
+    "why": ""
+  },
+  {
+    "title": "Mint's spreader warning is misattributed: \"this one spreads\" reads as the companion, and mint gets no warning at all beside Bugleweed or Azalea",
+    "why": "The finding's mechanics are accurate (mint is a flagged Herb spreader; the sunflower/aster entries carry \"this one spreads...\"; ajuga and the woody entries carry no caution), but its central claims fail the horticulture test. (1) The headline \"nowhere on the mint card does it say Mentha runs\" is contradicted by the cited data: the caution \"this one spreads, so it will crowd its neighbour in time\" appears TWICE on the mint card (perennial-sunflower and aster), and by construction it is generated from a.spreader where a = mint, matching the engine's consistent use of \"this one\" = the subject (\"before this one opens\", \"overlaps into this one's season\" elsewhere on the same card). So the mint-spread warning IS present and IS about mint. (2) The reason is not botanically false or misleading in content: \"this one spreads, so it will crowd its neighbour in time\" is true, correctly-directed advice about mint, and self-disambiguates (\"this one ... its neighbour\" — the neighbour is the sunflower, so \"this one\" is the mint). The finding's whole case reduces to a hypothesis that beginners misread the pronoun \"this one\" as the companion, which is a copy-clarity concern, not a wrong botanical claim. (3) The horticultural harm is overstated: an established woody azalea is not smothered by mint the way a small perennial is, so exempting robust/woody categories is defensible, and the ajuga entry's reason says \"for the front of the border,\" not \"sold as tidy edging\" as the finding embellishes. There is a small legitimate kernel (the \"this one\" pronoun is ambiguous and could be misattached, and the caution never fires on spreader+spreader or spreader+woody pairs), but that is a low-severity wording/coverage nit, not the high-severity misattribution-and-absence the finding asserts."
+  },
+  {
+    "title": "Sweet Potato Vine and Basil, both with no bloom in the library, are told to \"offer pollinator forage\" (genus trait overrides the foliage check)",
+    "why": ""
+  },
+  {
+    "title": "Mandevilla + Agave: a fed, evenly moist tropical vine paired with a succulent that rots on that watering schedule",
+    "why": ""
+  },
+  {
+    "title": "Pampas Grass (Cortaderia selloana) is recommended to Nasturtium and Oregano and praised for the very seed plumes that make it invasive",
+    "why": ""
+  },
+  {
+    "title": "Ostrich Fern -> Mint: two of the most aggressive runners in the moist-shade palette, recommended together with no benefit stated and no caution",
+    "why": ""
+  },
+  {
+    "title": "Obedient Plant -> Blue Oat Grass: the caution 'this one spreads' lands on the innocent clumping grass on the companion card",
+    "why": ""
+  },
+  {
+    "title": "Northern Sea Oats is treated as an ORANGE-flowered plant; four of its eight reasons build a colour scheme that does not exist",
+    "why": ""
+  },
+  {
+    "title": "New Dawn -> Maiden Grass sells the seed heads of a grass the library itself annotates as invasive, and the caution is silently dropped because a Rose is a 'robust' category",
+    "why": ""
+  },
+  {
+    "title": "Osteospermum's TOP companion is Joe Pye Weed: a wet-meadow perennial as the partner for a drainage-critical bedding daisy it will also overshadow",
+    "why": ""
+  },
+  {
+    "title": "Pampas Grass's white plume is printed as \"the yellow\" in all 8 of its reasons, including \"its white flowers settle the yellow\" beside white Candytuft",
+    "why": ""
+  },
+  {
+    "title": "Peony is told to plant itself beneath a 6 m Arborvitae hedge - a full-sun plant under a dense evergreen screen will never bloom",
+    "why": ""
+  },
+  {
+    "title": "Tulip Tree (20 m x 12 m forest tree) is recommended as a bed companion for a 1.5 m perennial and a 4 m vine, with no mention of its size",
+    "why": ""
+  },
+  {
+    "title": "Peony's top companion is a wet-meadow plant, and the water conflict is printed as agreement: \"Shares full sun and moderate to high water\"",
+    "why": ""
+  },
+  {
+    "title": "Parsley's whole companion set is ranked on \"both offer pollinator forage\" - for a plant the library gives no bloom period at all",
+    "why": ""
+  },
+  {
+    "title": "Periwinkle (Vinca minor) is told to carpet beneath shrubs with no spread warning at all - the shrub companions are exempted from the caution",
+    "why": ""
+  },
+  {
+    "title": "Portulaca is told to grow \"beneath\" seven taller neighbours, but its flowers only open in direct sun",
+    "why": ""
+  },
+  {
+    "title": "Maiden Grass (Miscanthus sinensis) is recommended to Potentilla with no caution, praised for the seed heads that make it invasive",
+    "why": ""
+  },
+  {
+    "title": "Pampas Grass is recommended in zones 8-10 with no invasive caution, and its seed plumes are sold as a benefit",
+    "why": ""
+  },
+  {
+    "title": "Agave is credited with \"leafing out to hide the ripening bulb foliage\" of Ranunculus - it does no such thing, and the pair conflicts on water",
+    "why": ""
+  },
+  {
+    "title": "Garden Phlox's top-ranked companion (80.6) is Sea Thrift, which rots in the rich moist soil Garden Phlox demands",
+    "why": ""
+  },
+  {
+    "title": "Red Maple and Douglas Fir are called \"both native plants\", but their native ranges do not overlap anywhere in North America",
+    "why": ""
+  },
+  {
+    "title": "Lantana camara is recommended to Rosemary and Rock Cress and praised as a pollinator plant, with no invasiveness or toxicity caution",
+    "why": ""
+  },
+  {
+    "title": "Rhododendron -> Lily of the Valley tells beginners to \"carpet the ground beneath\" a shallow-rooted shrub with a running, toxic colonizer, and the engine's own spreader warning is silently dropped",
+    "why": ""
+  },
+  {
+    "title": "River Birch (water: high) -> Boxwood, with the reason claiming they \"share ... moderate to high water\" - boxwood dies of Phytophthora root rot in a soil kept that wet",
+    "why": ""
+  },
+  {
+    "title": "Royal Fern (a bog fern, water: high) -> Hellebore, sold as sharing \"moderate to high water\" - hellebores rot in permanently wet ground",
+    "why": ""
+  },
+  {
+    "title": "Rock Cress -> Mullein (and 4 more) calls a 1.0-1.2 m herbaceous plant \"a canopy to plant beneath\" for a sun-demanding alpine mat",
+    "why": ""
+  },
+  {
+    "title": "Rose of Sharon -> Tulip Tree: a full-sun shrub is offered a 20 m forest tree \"a canopy to plant beneath\"",
+    "why": ""
+  },
+  {
+    "title": "Butterfly Bush (Buddleia davidii) is recommended to Sage and Sea Thrift, praised as a \"strong pollinator plant\", with no invasiveness caution",
+    "why": ""
+  },
+  {
+    "title": "Pampas Grass (and Miscanthus) recommended for the exact trait that makes them invasive: \"its seed heads stand through winter\"",
+    "why": ""
+  },
+  {
+    "title": "Sea Thrift -> Garden Phlox (score 86.9, its 2nd-best pick) is a soil and moisture conflict the low/moderate water band hides",
+    "why": ""
+  },
+  {
+    "title": "\"a canopy to plant beneath\" tells beginners to plant full-sun plants in shade: Fan Flower under a Lilac and under a Witch Hazel",
+    "why": ""
+  },
+  {
+    "title": "Serviceberry -> Tulip Tree offers a 20 m forest tree as a garden companion, and the reason never mentions its size",
+    "why": ""
+  },
+  {
+    "title": "Scilla -> Blue Oat Grass: the bulb-cover reason is false and contradicts itself in the same sentence",
+    "why": ""
+  },
+  {
+    "title": "\"A canopy to plant beneath\" is emitted from height ratio alone, with no light check: Shasta Daisy is told to go under a 6 m crabapple",
+    "why": ""
+  },
+  {
+    "title": "Pampas Grass recommended to Star of Bethlehem and praised for the seed heads, which are exactly what makes it invasive",
+    "why": ""
+  },
+  {
+    "title": "Butterfly Bush is the top-scoring companion for Snow-in-Summer with no invasiveness caution",
+    "why": ""
+  },
+  {
+    "title": "Japanese Forest Grass is credited with winter seed heads \"for structure and the birds\" although its own library record has no bloom months at all",
+    "why": ""
+  },
+  {
+    "title": "Rosemary paired with Spiderwort: a Mediterranean subshrub that rots in a moist, part-sun border, on one watering schedule",
+    "why": ""
+  },
+  {
+    "title": "Colchicum's library height (0.15 m) is the flower only, so the engine front-rows a bulb whose defining problem is 0.4 m of collapsing spring foliage",
+    "why": ""
+  },
+  {
+    "title": "Pampas Grass is recommended to three subjects and praised for the seed plumes that make it a Cal-IPC \"High\" invasive",
+    "why": ""
+  },
+  {
+    "title": "Sweet Potato Vine is credited with \"pollinator forage\" in 6 of its 8 reasons, but it is a foliage plant that never flowers",
+    "why": ""
+  },
+  {
+    "title": "Sugar Maple -> Trumpet Vine: a suckering woody vine recommended for a tree, with the spreader warning silently deleted",
+    "why": ""
+  },
+  {
+    "title": "Lavender and Rosemary are sold as sharing a watering schedule with thirsty bedding plants (\"Shares full sun and low to moderate water\")",
+    "why": ""
+  },
+  {
+    "title": "Sugar Maple's entire companion list is full-sun, moisture-loving plants - the engine matched the tree's own light need, not the shade and root mat it creates",
+    "why": ""
+  },
+  {
+    "title": "Summersweet -> Bugleweed: an aggressive stoloniferous groundcover sold on its carpeting habit, with the caution suppressed",
+    "why": ""
+  },
+  {
+    "title": "Trumpet Vine is presented as a canopy with lilac, viburnum and witch hazel as its \"understory\" - Campsis will strangle all three",
+    "why": ""
+  },
+  {
+    "title": "Thyme's second-best companion tells the beginner to plant it beneath a 1.5 m sunflower - a shaded, damp grave for a drought mat",
+    "why": ""
+  },
+  {
+    "title": "Sweet Woodruff is paired with Pachysandra: two rhizomatous mats in the same 0.2 m tier, and the engine's 'let them fight' rule silences every warning",
+    "why": ""
+  },
+  {
+    "title": "Northern Sea Oats is missing spreader:true, so it is recommended (top slot) to Trillium, a slow, disturbance-intolerant woodland native it will seed over",
+    "why": ""
+  },
+  {
+    "title": "Sweet Potato Vine is credited with \"pollinator forage\" although the library gives it no bloom period at all",
+    "why": ""
+  },
+  {
+    "title": "\"This one spreads, so it will crowd its neighbour in time\" names the wrong plant - it is the subject that spreads, but every other clause in the sentence describes the companion",
+    "why": ""
+  },
+  {
+    "title": "Vinca -> Pampas Grass: an invasive grass recommended in exactly its invasive zones, praised for the seed heads that make it invasive",
+    "why": ""
+  },
+  {
+    "title": "Viburnum -> Trumpet Vine: a flagged aggressive spreader is recommended to sit beside a 2 m shrub, and sold as 'height without the footprint'",
+    "why": ""
+  },
+  {
+    "title": "Weeping Willow -> Joe Pye Weed (and sunflower, canna, hydrangea): full-sun perennials told to 'carpet the ground beneath' a 12 m willow",
+    "why": ""
+  },
+  {
+    "title": "Turtlehead -> Asiatic Lily: a bog-margin perennial paired with a bulb that rots in soil that stays wet",
+    "why": ""
+  },
+  {
+    "title": "Wild Ginger -> Japanese Forest Grass: the reason credits Hakonechloa with winter seed heads it does not have",
+    "why": ""
+  },
+  {
+    "title": "Verbena -> Feather Reed Grass: the reason promises 'orange against purple' from a green-and-wheat grass",
+    "why": ""
+  },
+  {
+    "title": "Trumpet Vine (Campsis radicans) is sold to beginners as \"height without the footprint\" beside Winterberry and Witch Hazel - it is a root-suckering thug that will engulf both shrubs",
+    "why": ""
+  },
+  {
+    "title": "Pampas Grass is recommended to Wisteria and Yarrow and praised for the wind-borne seed plumes that make it a listed invasive across its own hardiness range",
+    "why": ""
+  },
+  {
+    "title": "Winterberry gets 8 companions and not one of them is the male Ilex it must have to set a single berry - the same-genus hard filter guarantees the correct companion can never be shown",
+    "why": ""
+  },
+  {
+    "title": "Winterberry's bloom window is filed as October-December in red - that is the berry display, not the flowers - so the highest-weighted scoring factor for all 8 of its pairings is computed against a bloom that does not exist",
+    "why": ""
+  },
+  {
+    "title": "The height-layering clause tells beginners to carpet the ground beneath big shrubs and trees with full-sun, sharp-drainage plants: Sea Thrift under Witch Hazel (its top companion, 74.2), Calibrachoa under a swamp-loving Winterberry, Zinnia under a 6 m Crabapple",
+    "why": ""
+  },
+  {
+    "title": "The bulb-cover clause is fired at evergreens, producing a self-contradictory sentence: Blue Oat Grass \"leafs out to hide the ripening bulb foliage as it dies back\" and, in the same breath, is \"evergreen\"",
+    "why": ""
+  },
+  {
+    "title": "Pampas Grass (Cortaderia selloana) is recommended in ~191 lists, praised for the plumes that ARE the invasion vector, and carries no spreader flag at all",
+    "why": ""
+  },
+  {
+    "title": "Maiden Grass (Miscanthus sinensis): 68 lists, and the reason praises \"its seed heads stand through winter\" - the seed heads are exactly how it invades",
+    "why": ""
+  },
+  {
+    "title": "Butterfly Bush: the engine recommends the fertile species Buddleia davidii (illegal to sell in WA and OR) in 42 lists and praises it as a \"strong pollinator plant\", while the two seed-sterile cultivars in the same group can never be recommended",
+    "why": ""
+  },
+  {
+    "title": "Periwinkle (Vinca minor) is recommended under azaleas and praised for being an evergreen mat that will \"carpet the ground beneath\" - the exact behaviour that makes it a woodland invasive, and a poor root partner for a shallow-rooted azalea",
+    "why": ""
+  },
+  {
+    "title": "\"Wisteria\" is filed as a bare genus with no species, no spreader flag, and is recommended with the clause \"climbs to 8 m behind it, height without the footprint\" - false for a tree-girdling, root-suckering vine",
+    "why": ""
+  },
+  {
+    "title": "\"Honeysuckle\" is filed as bare genus Lonicera, ranks as a top-scoring companion (84.6 for aster), and is praised as a \"strong pollinator plant\" - the name a beginner will buy is one of the worst invasives in the eastern US",
+    "why": ""
+  },
+  {
+    "title": "The caution clause is structurally unreachable for a spreader recommended under a shrub, tree, rose or climber - which is why 0 of the 72 rows in this lens carry any warning",
+    "why": ""
+  },
+  {
+    "title": "Siberian Squill (Scilla siberica) is recommended in ~10 lists and praised for its ability to \"carpet the ground beneath\", with no spreader flag and no caution",
+    "why": ""
+  },
+  {
+    "title": "The \"witch-hazel\" archetype (bare genus Hamamelis) is tagged native but carries the Feb-Mar bloom of the East-Asian hybrid H. x intermedia; 18 pairings inherit both errors",
+    "why": ""
+  },
+  {
+    "title": "\"Jacob's ladder\" (bare genus Polemonium) is called native from the genus flag, but the 50 cm blue May-June garden plant is the Eurasian Polemonium caeruleum",
+    "why": ""
+  },
+  {
+    "title": "The default \"columbine\" and \"columbine-white\" are bare-genus Aquilegia in purple and white - the colours of the European A. vulgaris, which the library elsewhere explicitly demotes as non-native",
+    "why": ""
+  },
+  {
+    "title": "\"Wild ginger\" carries a hard native TAG on a genus-only record (Asarum); the wild ginger in commerce is very often the European A. europaeum",
+    "why": ""
+  },
+  {
+    "title": "The default \"viburnum\" is an unpinned, fragrant, white spring shrub - the profile of the Asian V. carlesii - yet it is the one viburnum in the library still flagged native",
+    "why": ""
+  },
+  {
+    "title": "'Green Giant' arborvitae is filed as Thuja plicata but is the hybrid Thuja standishii x plicata (Japanese parent); it is called a native plant in 6 pairings",
+    "why": ""
+  },
+  {
+    "title": "Campsis x tagliabuana 'Madame Galen' is a hybrid with the Chinese C. grandiflora, but inherits the genus native flag and is sold to the user as a native",
+    "why": ""
+  },
+  {
+    "title": "Agave (unpinned genus, zones 8-11) is flagged native and paired with California poppy as \"both are native plants\" - two plants native to nothing the reader's garden shares",
+    "why": ""
+  },
+  {
+    "title": "Every Tropical Hibiscus card tells you to carpet Echeveria under it; the Echeveria rots",
+    "why": ""
+  },
+  {
+    "title": "Library data: Tropical Hibiscus is filed water=moderate; it is a high-water plant",
+    "why": ""
+  },
+  {
+    "title": "Agave and Aloe are the fallback companion for zone 10-11 thirsty vines (Mandevilla, Thunbergia, Moonflower, Passiflora): the succulent rots",
+    "why": ""
+  },
+  {
+    "title": "Agave is credited as a bulb cover and the reason claims it \"leafs out\" - it is an evergreen succulent and it cannot",
+    "why": ""
+  },
+  {
+    "title": "Lavender is recommended as the carpet beneath magnolias and a Japanese maple, and as a bedfellow for witch hazel: the lavender dies",
+    "why": ""
+  },
+  {
+    "title": "Ironweed and Perennial Sunflower list Thyme as their #1 companion, to \"carpet the ground beneath\" them",
+    "why": ""
+  },
+  {
+    "title": "Library data: Monkshood is filed water=moderate, which lets it pair with Lavender and be used as a canopy over Creeping Sedum",
+    "why": ""
+  },
+  {
+    "title": "When water needs differ the reason says \"shares ... low to moderate water\" and no caution is ever printed",
+    "why": ""
+  },
+  {
+    "title": "Witch Hazel's top-ranked companion is Lavender, a plant the repo's own data says dies in exactly the soil witch hazel demands",
+    "why": ""
+  },
+  {
+    "title": "Six magnolias tell the beginner to 'carpet the ground beneath' the tree with lavender",
+    "why": ""
+  },
+  {
+    "title": "Georgia Peach Pie dianthus is told to plant beneath a witch hazel canopy, the one place its own data says it rots",
+    "why": ""
+  },
+  {
+    "title": "Star Magnolia's white flowers are described to the reader as 'the orange' (and Gardenia's and Southern Magnolia's as 'the yellow')",
+    "why": ""
+  },
+  {
+    "title": "The colour clause promises a contrast between two flowers that are never open in the same month",
+    "why": ""
+  },
+  {
+    "title": "Clematis recommended into an azalea or camellia, whose shallow root plates must stay undisturbed and unlimed",
+    "why": ""
+  },
+  {
+    "title": "Crown Jewel gardenia is given a 2 m forsythia to sit under, though its own data says it dislikes root competition",
+    "why": ""
+  },
+  {
+    "title": "An 18 m evergreen Southern Magnolia is sold to a forsythia as 'shares full sun' - the tree is what removes the sun",
+    "why": ""
+  },
+  {
+    "title": "Pampas grass is recommended 191 times and every single reason praises the seed heads that make it invasive",
+    "why": ""
+  },
+  {
+    "title": "The spreader caution never fires for a woody neighbour, so trumpet vine is offered to a 0.6 m English boxwood with no warning",
+    "why": ""
+  },
+  {
+    "title": "Two documented garden thugs get zero caution because the engine decides to 'let them fight': mint is recommended next to bugleweed",
+    "why": ""
+  },
+  {
+    "title": "The colour clause names the wrong colour in roughly half the reasons that mention colour: black-eyed Susan is called orange, Solomon's Seal is called yellow",
+    "why": ""
+  },
+  {
+    "title": "\"A soft colour beside the white\" is attributed to the wrong plant: a blazing orange Kniphofia is called a soft colour",
+    "why": ""
+  },
+  {
+    "title": "\"A canopy to plant beneath\" is applied to sunflowers, ferns, alliums and pampas grass: 1,179 of 3,077 canopy clauses have no canopy",
+    "why": ""
+  },
+  {
+    "title": "A 15 m Colorado blue spruce is offered as a bed companion for garden phlox at exactly the 15.0:1 height cap, with a reason that states no benefit",
+    "why": ""
+  },
+  {
+    "title": "The layering clause floor makes the canopy sentence unreachable above 8:1, which is what produces 43 of the 44 empty reasons",
+    "why": ""
+  },
+  {
+    "title": "The height clause is silently suppressed on exactly the most extreme pairings: 15 m Colorado blue spruce is the #2 companion for 1 m garden phlox, and the reason is \"Shares full sun and moderate water.\"",
+    "why": ""
+  },
+  {
+    "title": "Sun-loving prairie perennials recommended under an 18 m sugar maple, with the reason asserting \"Shares full sun\"",
+    "why": ""
+  },
+  {
+    "title": "A 20 m tulip tree is the #2 companion for a 1.4 m annual sunflower, scored 86.5, with no hint that it is a forest tree",
+    "why": ""
+  },
+  {
+    "title": "\"Carpet the ground beneath\" is printed for herbaceous plants with no canopy at all: a 1.1 m Allium 'Gladiator' (a bare flower stalk) told to have crocus carpeting beneath it",
+    "why": ""
+  },
+  {
+    "title": "Spring-ephemeral bulbs are cast as the ground \"carpet\" in 561 reasons, though the engine's own code documents that bulbs go dormant and cannot cover",
+    "why": ""
+  },
+  {
+    "title": "\"Low at 2.5 m, to carpet the ground beneath it\": a 2.5 m Rose of Sharon and a 2 m ninebark are called ground carpets",
+    "why": ""
+  },
+  {
+    "title": "Ground-sweeping dwarf conifers are treated as canopies: all 8 of Mugo Pine's companions are told to \"carpet the ground beneath it\", under a plant 1.5 m tall and 2.5 m wide",
+    "why": ""
+  },
+  {
+    "title": "Echeveria (a succulent) is the #2 companion for Tropical Hibiscus, recommended to carpet the ground beneath a thirsty, heavy-feeding shrub",
+    "why": ""
+  },
+  {
+    "title": "Dahlia's whole companion list is a zone 8-10 list: half of it (gardenia, calla lily, amaryllis, ranunculus) dies in the zones where dahlias are actually grown",
+    "why": ""
+  },
+  {
+    "title": "Every \"they only overlap in zone N\" pairing is, by construction, the one zone where BOTH plants are marginal - and the code comment asserts the opposite",
+    "why": ""
+  },
+  {
+    "title": "Tropical hibiscus is told to plant creeping phlox and candytuft at its feet - two dry, cool-climate mat plants, in zone 9, the one zone that kills them",
+    "why": ""
+  },
+  {
+    "title": "Echeveria, a 10 cm full-sun succulent, is told to carpet the ground beneath a 1.5 m sunflower and a 1.5 m switchgrass",
+    "why": ""
+  },
+  {
+    "title": "Black-eyed Susan vine and Mandevilla, sold everywhere as annual patio vines, get pure zone-10 companion lists: agave and aloe for a zone 6 buyer",
+    "why": ""
+  },
+  {
+    "title": "Freesia is told to build its bed structure out of two cool-season grasses, in the one zone where those grasses fail",
+    "why": ""
+  },
+  {
+    "title": "Annual sunflower is credited with holding the bed's winter structure in 172 reasons",
+    "why": ""
+  },
+  {
+    "title": "Lily of the valley -> Camellia works only in zone 7, and nearly everyone reading the lily-of-the-valley page gardens in zones 3-6 where the camellia is killed",
+    "why": ""
+  },
+  {
+    "title": "Hosta is filed sun \"full-shade\" with no bloom window, so America's best-selling shade perennial is recommended to nobody (0 of 1,611 lists)",
+    "why": ""
+  },
+  {
+    "title": "Coral Bells (Heuchera) has no bloom in the library, yet its own hybrid Heucherella does - the parent is orphaned and its 8 reasons are contentless",
+    "why": ""
+  },
+  {
+    "title": "Perennial Sunflower (bare genus Helianthus) has no spreader flag, so the #1 companion in the catalog (402 of 1,611 lists) is never once cautioned",
+    "why": ""
+  },
+  {
+    "title": "Every ornamental-grass genus row in taxonomy.ts is empty, so pampas grass (a listed noxious weed) is recommended 191 times and praised for its plumes with zero caution",
+    "why": ""
+  },
+  {
+    "title": "Fountain Grass is filed water \"low\"; it is a medium-water grass, and 112 of its 308 recommendations put it in genuinely xeric beds under the words \"shares full sun and low water\"",
+    "why": ""
+  },
+  {
+    "title": "Autumn Crocus (Colchicum) records only its 15 cm flower, so 187 of its 188 recommendations put a plant with 40 cm of coarse spring foliage at the very front of the border",
+    "why": ""
+  },
+  {
+    "title": "Rosemary's zone floor is one zone too warm (7-10, should be 8-10), and it is the single most-recommended companion in the catalog (419 of 1,611 lists)",
+    "why": ""
+  },
+  {
+    "title": "Japanese Maple is filed sun \"part-shade\", which blocks it from all 1,211 full-sun plants and leaves the most-planted specimen tree in America recommended to nobody",
+    "why": ""
+  },
+  {
+    "title": "Ostrich Fern is recommended Mint \"for the front of the border\" with no caution: the engine mutes the warning precisely when both plants are thugs",
+    "why": ""
+  },
+  {
+    "title": "Oregano (an edible herb you pick and eat) is told to plant Autumn Crocus at the front of the border: Colchicum is lethally toxic and its leaves are mistaken for wild garlic",
+    "why": ""
+  },
+  {
+    "title": "Bee Balm, the most mildew-prone perennial in the catalog, is told to plant itself beneath a 6 m Crabapple canopy",
+    "why": ""
+  },
+  {
+    "title": "\"A canopy to plant beneath\" is said of Pampas Grass, a solid 2.5 m clump with razor-serrated leaves: there is no beneath, and reaching in cuts you",
+    "why": ""
+  },
+  {
+    "title": "Lily of the Valley is recommended \"for the front of the border\": red berries at toddler height, cardiac glycosides in every part, and a coloniser that will eat the bed",
+    "why": ""
+  },
+  {
+    "title": "Northern Sea Oats is not flagged as a spreader although it self-seeds prolifically, so the catalog's 5th most-recommended companion is never cautioned",
+    "why": ""
+  },
+  {
+    "title": "Basil is filed as a zone 10-11 Herb, so its entire companion list is tropical plants a zone 5 gardener cannot grow",
+    "why": ""
+  },
+  {
+    "title": "A running groundcover under a shrub is never cautioned: Bugleweed is recommended as a \"carpet\" under Beautyberry with no mention that it runs into the lawn",
+    "why": ""
+  }
+]

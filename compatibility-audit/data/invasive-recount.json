@@ -1,0 +1,118 @@
+{
+  "tier1Recommendations": 305,
+  "tier1Cautioned": 0,
+  "tier2Recommendations": 540,
+  "total": 845,
+  "rows": [
+    {
+      "slug": "pampas-grass",
+      "tier": 1,
+      "bot": "Cortaderia selloana",
+      "why": "Invasive in CA, HI, TX and the Southeast; a listed noxious weed in several counties. Also physically hazardous: the leaf margins cut skin.",
+      "lists": 191,
+      "cautioned": 0,
+      "praised": 191,
+      "sampleReason": "Shares full sun and low to moderate water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 2.5 m, for the layer behind it.",
+      "praisePhrase": "its seed heads stand through winter, for structure and the birds"
+    },
+    {
+      "slug": "maiden-grass",
+      "tier": 1,
+      "bot": "Miscanthus sinensis",
+      "why": "Self-seeds into wild land; listed invasive across much of the eastern US; regulated in several states.",
+      "lists": 68,
+      "cautioned": 0,
+      "praised": 68,
+      "sampleReason": "Shares full sun and low to moderate water; blooms in early fall, extending the bed's season; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer.",
+      "praisePhrase": "blooms in early fall, extending the bed's season"
+    },
+    {
+      "slug": "butterfly-bush",
+      "tier": 1,
+      "bot": "Buddleia davidii",
+      "why": "Class B noxious weed in Washington and a quarantine-listed noxious weed in Oregon; invasive in the PNW and parts of the East.",
+      "lists": 42,
+      "cautioned": 0,
+      "praised": 6,
+      "sampleReason": "Shares full sun and low water; overlaps, then carries the display into early fall; both are strong pollinator plants; taller at 2 m, for the layer behind it.",
+      "praisePhrase": "blooms in early summer, extending the bed's season"
+    },
+    {
+      "slug": "periwinkle",
+      "tier": 1,
+      "bot": "Vinca minor",
+      "why": "Escapes into woodland and forms monocultures; listed invasive in much of the eastern US.",
+      "lists": 4,
+      "cautioned": 0,
+      "praised": 4,
+      "sampleReason": "Shares part shade and low to moderate water; low at 0.15 m, to carpet the ground beneath; evergreen, so the bed keeps its shape through winter; blue against red, for contrast.",
+      "praisePhrase": "to carpet the ground beneath"
+    },
+    {
+      "slug": "siberian-squill",
+      "tier": 1,
+      "bot": "Scilla siberica",
+      "why": "Naturalises aggressively into woodland and lawns; increasingly listed invasive in the Upper Midwest and Northeast.",
+      "lists": 0,
+      "cautioned": 0,
+      "praised": 0,
+      "sampleReason": "",
+      "praisePhrase": ""
+    },
+    {
+      "slug": "northern-sea-oats",
+      "tier": 2,
+      "bot": "Chasmanthium latifolium",
+      "why": "Native, but reseeds prolifically; extension guides warn it becomes a weed in a small garden.",
+      "lists": 213,
+      "cautioned": 7,
+      "praised": 211,
+      "sampleReason": "Shares part shade and moderate water; blooms in midsummer as this one finishes; stands well above at 1 m, a canopy to plant beneath; orange against blue, for contrast; this one spreads, so it will crowd its neighbour in time.",
+      "praisePhrase": "blooms in midsummer, extending the bed's season"
+    },
+    {
+      "slug": "sweet-alyssum",
+      "tier": 2,
+      "bot": "Lobularia maritima",
+      "why": "Naturalised and invasive in coastal California.",
+      "lists": 97,
+      "cautioned": 0,
+      "praised": 94,
+      "sampleReason": "Shares full sun and moderate water; low at 0.12 m, to carpet the ground beneath; overlaps, then carries the display into mid fall; both offer pollinator forage.",
+      "praisePhrase": "to carpet the ground beneath"
+    },
+    {
+      "slug": "english-daisy",
+      "tier": 2,
+      "bot": "Bellis perennis",
+      "why": "Invasive in the Pacific Northwest; a lawn and meadow weed.",
+      "lists": 84,
+      "cautioned": 0,
+      "praised": 70,
+      "sampleReason": "Shares full sun and moderate water; blooms in mid spring, before this one opens; low at 0.15 m, to carpet the ground beneath; pink sits close to red on the wheel.",
+      "praisePhrase": "to carpet the ground beneath"
+    },
+    {
+      "slug": "cleome",
+      "tier": 2,
+      "bot": "Cleome hassleriana",
+      "why": "Self-seeds heavily; volunteers everywhere the next year.",
+      "lists": 74,
+      "cautioned": 0,
+      "praised": 2,
+      "sampleReason": "Shares full sun and moderate water; blooms in early summer as this one finishes; both are strong pollinator plants, and they feed in different months; shorter at 1.2 m, an understory layer.",
+      "praisePhrase": "blooms in early summer, extending the bed's season"
+    },
+    {
+      "slug": "snow-in-summer",
+      "tier": 2,
+      "bot": "Cerastium tomentosum",
+      "why": "Can run and swamp neighbours in a rock garden.",
+      "lists": 72,
+      "cautioned": 0,
+      "praised": 72,
+      "sampleReason": "Shares full sun and low to moderate water; low at 0.15 m, to carpet the ground beneath; evergreen, so the bed keeps its shape through winter; its white flowers settle the orange.",
+      "praisePhrase": "to carpet the ground beneath"
+    }
+  ]
+}

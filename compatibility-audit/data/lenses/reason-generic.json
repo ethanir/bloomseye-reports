@@ -1,0 +1,398 @@
+[
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "autumn-fern",
+    "companion": "dogwood-tree",
+    "detail": "the reason states shared conditions and nothing else: \"Shares part shade and moderate water.\"",
+    "score": 44.5,
+    "reason": "Shares part shade and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "blue-spruce",
+    "companion": "phlox",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 44.2,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "blue-spruce",
+    "companion": "obedient-plant",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 44.2,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "blue-spruce",
+    "companion": "hollyhock",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 43,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "blue-spruce-fat-albert",
+    "companion": "phlox",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 46.2,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "blue-spruce-fat-albert",
+    "companion": "obedient-plant",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 46.2,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "blue-spruce-fat-albert",
+    "companion": "bee-balm",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 45.9,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "blue-spruce-hoopsii",
+    "companion": "phlox",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 46.2,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "blue-spruce-hoopsii",
+    "companion": "obedient-plant",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 46.2,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "blue-spruce-hoopsii",
+    "companion": "bee-balm",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 45.9,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "boston-ivy",
+    "companion": "obedient-plant",
+    "detail": "the reason states shared conditions and nothing else: \"Takes full sun to part sun and moderate water.\"",
+    "score": 29.4,
+    "reason": "Takes full sun to part sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "boston-ivy-gold",
+    "companion": "obedient-plant",
+    "detail": "the reason states shared conditions and nothing else: \"Takes full sun to part sun and moderate water.\"",
+    "score": 30.1,
+    "reason": "Takes full sun to part sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "boxwood-baby-gem",
+    "companion": "trumpet-vine",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 44.8,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "boxwood-english",
+    "companion": "trumpet-vine",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 44.8,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "douglas-fir",
+    "companion": "hollyhock",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 45.9,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "douglas-fir",
+    "companion": "sweet-pea",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 45.9,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "eastern-white-pine",
+    "companion": "hollyhock",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 45.9,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "eastern-white-pine-fastigiata",
+    "companion": "phlox",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 45.2,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "eastern-white-pine-fastigiata",
+    "companion": "obedient-plant",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 45.2,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "eastern-white-pine-fastigiata",
+    "companion": "bee-balm",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 44.8,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "hemlock",
+    "companion": "beautyberry",
+    "detail": "the reason states shared conditions and nothing else: \"Takes part sun to part shade and moderate water.\"",
+    "score": 45.9,
+    "reason": "Takes part sun to part shade and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "holly-fern",
+    "companion": "dogwood-tree",
+    "detail": "the reason states shared conditions and nothing else: \"Takes part shade to full shade and moderate water.\"",
+    "score": 44.5,
+    "reason": "Takes part shade to full shade and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "italian-cypress",
+    "companion": "gaura",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 44.2,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "italian-cypress",
+    "companion": "mullein",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 42.5,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "italian-cypress",
+    "companion": "russian-sage",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 42.5,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "italian-cypress",
+    "companion": "cosmos",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 41.8,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "italian-cypress-glauca",
+    "companion": "gaura",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 44.2,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "italian-cypress-glauca",
+    "companion": "mullein",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 42.5,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "italian-cypress-glauca",
+    "companion": "russian-sage",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 42.5,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "italian-cypress-glauca",
+    "companion": "cosmos",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 41.8,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "italian-cypress-swanes-gold",
+    "companion": "california-poppy",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 44.8,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "italian-cypress-swanes-gold",
+    "companion": "oregano",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 42.5,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "italian-cypress-tiny-tower",
+    "companion": "california-poppy",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 44.8,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "italian-cypress-tiny-tower",
+    "companion": "oregano",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 42.5,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "japanese-forest-grass-white",
+    "companion": "dogwood-tree",
+    "detail": "the reason states shared conditions and nothing else: \"Shares part shade and moderate water.\"",
+    "score": 44.5,
+    "reason": "Shares part shade and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "juniper",
+    "companion": "california-poppy",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 44.8,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "juniper-blue-point",
+    "companion": "smokebush",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 45.4,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "juniper-blue-point",
+    "companion": "california-poppy",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 45.3,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "juniper-skyrocket",
+    "companion": "butterfly-weed",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 46.4,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "juniper-spartan",
+    "companion": "california-poppy",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and low water.\"",
+    "score": 44.2,
+    "reason": "Shares full sun and low water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "norway-spruce",
+    "companion": "ninebark",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 46.2,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "norway-spruce",
+    "companion": "hollyhock",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 42.5,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "norway-spruce",
+    "companion": "sweet-pea",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 42.5,
+    "reason": "Shares full sun and moderate water."
+  },
+  {
+    "rule": "reason-generic",
+    "severity": "medium",
+    "subject": "norway-spruce",
+    "companion": "trumpet-vine",
+    "detail": "the reason states shared conditions and nothing else: \"Shares full sun and moderate water.\"",
+    "score": 41.9,
+    "reason": "Shares full sun and moderate water."
+  }
+]

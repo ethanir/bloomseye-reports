@@ -1,0 +1,530 @@
+{
+  "genusDrops": 581,
+  "capDrops": 15138,
+  "capSubjects": 1373,
+  "pass2Ran": 6,
+  "worstCapDrops": [
+    {
+      "subject": "Star of Persia",
+      "skipped": "Purple Coneflower",
+      "skippedCat": "Perennial",
+      "score": 76.8,
+      "rank": 4,
+      "rule": "category-cap",
+      "weakestKept": "Butterfly Bush",
+      "weakestKeptScore": 56.7
+    },
+    {
+      "subject": "Sage",
+      "skipped": "Purple Coneflower",
+      "skippedCat": "Perennial",
+      "score": 76.8,
+      "rank": 4,
+      "rule": "category-cap",
+      "weakestKept": "Butterfly Bush",
+      "weakestKeptScore": 56.7
+    },
+    {
+      "subject": "Glory of the Snow",
+      "skipped": "Bluestar",
+      "skippedCat": "Perennial",
+      "score": 59.3,
+      "rank": 4,
+      "rule": "category-cap",
+      "weakestKept": "Asiatic Lily",
+      "weakestKeptScore": 39.9
+    },
+    {
+      "subject": "Violet Beauty",
+      "skipped": "Bluestar",
+      "skippedCat": "Perennial",
+      "score": 59.3,
+      "rank": 4,
+      "rule": "category-cap",
+      "weakestKept": "Asiatic Lily",
+      "weakestKeptScore": 39.9
+    },
+    {
+      "subject": "Early Squill",
+      "skipped": "Bluestar",
+      "skippedCat": "Perennial",
+      "score": 59.3,
+      "rank": 4,
+      "rule": "category-cap",
+      "weakestKept": "Asiatic Lily",
+      "weakestKeptScore": 39.9
+    },
+    {
+      "subject": "Crater Lake Blue",
+      "skipped": "Globe Thistle",
+      "skippedCat": "Perennial",
+      "score": 79.6,
+      "rank": 4,
+      "rule": "category-cap",
+      "weakestKept": "Crocosmia",
+      "weakestKeptScore": 60.3
+    },
+    {
+      "subject": "Alba",
+      "skipped": "Bluestar",
+      "skippedCat": "Perennial",
+      "score": 59.1,
+      "rank": 4,
+      "rule": "category-cap",
+      "weakestKept": "Cleome",
+      "weakestKeptScore": 39.9
+    },
+    {
+      "subject": "Purple Sensation",
+      "skipped": "Black-Eyed Susan",
+      "skippedCat": "Perennial",
+      "score": 75.8,
+      "rank": 4,
+      "rule": "category-cap",
+      "weakestKept": "Butterfly Bush",
+      "weakestKeptScore": 56.7
+    },
+    {
+      "subject": "Mount Everest",
+      "skipped": "Creeping Sedum",
+      "skippedCat": "Perennial",
+      "score": 81.3,
+      "rank": 4,
+      "rule": "category-cap",
+      "weakestKept": "Hyacinth",
+      "weakestKeptScore": 62.2
+    },
+    {
+      "subject": "Crater Lake Blue",
+      "skipped": "Perennial Sunflower",
+      "skippedCat": "Perennial",
+      "score": 79.2,
+      "rank": 5,
+      "rule": "category-cap",
+      "weakestKept": "Crocosmia",
+      "weakestKeptScore": 60.3
+    },
+    {
+      "subject": "Gladiator",
+      "skipped": "Purple Coneflower",
+      "skippedCat": "Perennial",
+      "score": 81.2,
+      "rank": 4,
+      "rule": "category-cap",
+      "weakestKept": "Hyacinth",
+      "weakestKeptScore": 62.4
+    },
+    {
+      "subject": "Glory of the Snow",
+      "skipped": "Candytuft",
+      "skippedCat": "Perennial",
+      "score": 58.7,
+      "rank": 5,
+      "rule": "category-cap",
+      "weakestKept": "Asiatic Lily",
+      "weakestKeptScore": 39.9
+    },
+    {
+      "subject": "Alba",
+      "skipped": "Candytuft",
+      "skippedCat": "Perennial",
+      "score": 58.7,
+      "rank": 5,
+      "rule": "category-cap",
+      "weakestKept": "Cleome",
+      "weakestKeptScore": 39.9
+    },
+    {
+      "subject": "Violet Beauty",
+      "skipped": "Candytuft",
+      "skippedCat": "Perennial",
+      "score": 58.7,
+      "rank": 5,
+      "rule": "category-cap",
+      "weakestKept": "Asiatic Lily",
+      "weakestKeptScore": 39.9
+    },
+    {
+      "subject": "Early Squill",
+      "skipped": "Candytuft",
+      "skippedCat": "Perennial",
+      "score": 58.7,
+      "rank": 5,
+      "rule": "category-cap",
+      "weakestKept": "Asiatic Lily",
+      "weakestKeptScore": 39.9
+    },
+    {
+      "subject": "White Triumphator",
+      "skipped": "Spiderwort",
+      "skippedCat": "Perennial",
+      "score": 55.6,
+      "rank": 6,
+      "rule": "category-cap",
+      "weakestKept": "Lavender",
+      "weakestKeptScore": 37.1
+    },
+    {
+      "subject": "Winecraft Black",
+      "skipped": "Creeping Phlox",
+      "skippedCat": "Perennial",
+      "score": 71.9,
+      "rank": 4,
+      "rule": "category-cap",
+      "weakestKept": "Fountain Grass",
+      "weakestKeptScore": 53.6
+    },
+    {
+      "subject": "Angelique",
+      "skipped": "Spiderwort",
+      "skippedCat": "Perennial",
+      "score": 55.6,
+      "rank": 6,
+      "rule": "category-cap",
+      "weakestKept": "Sunflower",
+      "weakestKeptScore": 37.8
+    },
+    {
+      "subject": "Cheerfulness",
+      "skipped": "Spiderwort",
+      "skippedCat": "Perennial",
+      "score": 55.6,
+      "rank": 6,
+      "rule": "category-cap",
+      "weakestKept": "Sunflower",
+      "weakestKeptScore": 37.8
+    },
+    {
+      "subject": "Sir Winston Churchill",
+      "skipped": "Spiderwort",
+      "skippedCat": "Perennial",
+      "score": 55.6,
+      "rank": 6,
+      "rule": "category-cap",
+      "weakestKept": "Sunflower",
+      "weakestKeptScore": 37.8
+    },
+    {
+      "subject": "Alba",
+      "skipped": "Sea Thrift",
+      "skippedCat": "Perennial",
+      "score": 57.6,
+      "rank": 8,
+      "rule": "category-cap",
+      "weakestKept": "Cleome",
+      "weakestKeptScore": 39.9
+    },
+    {
+      "subject": "Apeldoorn",
+      "skipped": "Spiderwort",
+      "skippedCat": "Perennial",
+      "score": 53.8,
+      "rank": 6,
+      "rule": "category-cap",
+      "weakestKept": "Cleome",
+      "weakestKeptScore": 36.1
+    },
+    {
+      "subject": "Golden Apeldoorn",
+      "skipped": "Hollyhock",
+      "skippedCat": "Perennial",
+      "score": 54.8,
+      "rank": 6,
+      "rule": "category-cap",
+      "weakestKept": "Lavender",
+      "weakestKeptScore": 37.1
+    },
+    {
+      "subject": "Pink Impression",
+      "skipped": "Spiderwort",
+      "skippedCat": "Perennial",
+      "score": 53.8,
+      "rank": 6,
+      "rule": "category-cap",
+      "weakestKept": "Cleome",
+      "weakestKeptScore": 36.1
+    },
+    {
+      "subject": "Queen of Night",
+      "skipped": "Spiderwort",
+      "skippedCat": "Perennial",
+      "score": 53.8,
+      "rank": 6,
+      "rule": "category-cap",
+      "weakestKept": "Cleome",
+      "weakestKeptScore": 36.1
+    },
+    {
+      "subject": "Smokebush",
+      "skipped": "Candytuft",
+      "skippedCat": "Perennial",
+      "score": 69.9,
+      "rank": 4,
+      "rule": "category-cap",
+      "weakestKept": "Little Bluestem",
+      "weakestKeptScore": 52.3
+    },
+    {
+      "subject": "Winecraft Black",
+      "skipped": "Sea Thrift",
+      "skippedCat": "Perennial",
+      "score": 71.1,
+      "rank": 5,
+      "rule": "category-cap",
+      "weakestKept": "Fountain Grass",
+      "weakestKeptScore": 53.6
+    },
+    {
+      "subject": "Smokebush",
+      "skipped": "Purple Coneflower",
+      "skippedCat": "Perennial",
+      "score": 69.7,
+      "rank": 5,
+      "rule": "category-cap",
+      "weakestKept": "Little Bluestem",
+      "weakestKeptScore": 52.3
+    },
+    {
+      "subject": "Tulip",
+      "skipped": "Spiderwort",
+      "skippedCat": "Perennial",
+      "score": 53.8,
+      "rank": 6,
+      "rule": "category-cap",
+      "weakestKept": "Sunflower",
+      "weakestKeptScore": 36.4
+    },
+    {
+      "subject": "Glory of the Snow",
+      "skipped": "False Indigo",
+      "skippedCat": "Perennial",
+      "score": 57.3,
+      "rank": 8,
+      "rule": "category-cap",
+      "weakestKept": "Asiatic Lily",
+      "weakestKeptScore": 39.9
+    },
+    {
+      "subject": "Violet Beauty",
+      "skipped": "False Indigo",
+      "skippedCat": "Perennial",
+      "score": 57.3,
+      "rank": 8,
+      "rule": "category-cap",
+      "weakestKept": "Asiatic Lily",
+      "weakestKeptScore": 39.9
+    },
+    {
+      "subject": "Early Squill",
+      "skipped": "False Indigo",
+      "skippedCat": "Perennial",
+      "score": 57.3,
+      "rank": 8,
+      "rule": "category-cap",
+      "weakestKept": "Asiatic Lily",
+      "weakestKeptScore": 39.9
+    },
+    {
+      "subject": "English Daisy",
+      "skipped": "Globe Thistle",
+      "skippedCat": "Perennial",
+      "score": 77.3,
+      "rank": 4,
+      "rule": "category-cap",
+      "weakestKept": "Cosmos",
+      "weakestKeptScore": 59.9
+    },
+    {
+      "subject": "Young Lady",
+      "skipped": "Goldenrod",
+      "skippedCat": "Perennial",
+      "score": 68.3,
+      "rank": 4,
+      "rule": "category-cap",
+      "weakestKept": "Switchgrass",
+      "weakestKeptScore": 51
+    },
+    {
+      "subject": "Alba",
+      "skipped": "False Indigo",
+      "skippedCat": "Perennial",
+      "score": 57.1,
+      "rank": 9,
+      "rule": "category-cap",
+      "weakestKept": "Cleome",
+      "weakestKeptScore": 39.9
+    },
+    {
+      "subject": "Apeldoorn",
+      "skipped": "Carnation",
+      "skippedCat": "Perennial",
+      "score": 53.3,
+      "rank": 7,
+      "rule": "category-cap",
+      "weakestKept": "Cleome",
+      "weakestKeptScore": 36.1
+    },
+    {
+      "subject": "Apeldoorn",
+      "skipped": "Daylily",
+      "skippedCat": "Perennial",
+      "score": 53.3,
+      "rank": 8,
+      "rule": "category-cap",
+      "weakestKept": "Cleome",
+      "weakestKeptScore": 36.1
+    },
+    {
+      "subject": "Pink Impression",
+      "skipped": "Carnation",
+      "skippedCat": "Perennial",
+      "score": 53.3,
+      "rank": 7,
+      "rule": "category-cap",
+      "weakestKept": "Cleome",
+      "weakestKeptScore": 36.1
+    },
+    {
+      "subject": "Queen of Night",
+      "skipped": "Carnation",
+      "skippedCat": "Perennial",
+      "score": 53.3,
+      "rank": 7,
+      "rule": "category-cap",
+      "weakestKept": "Cleome",
+      "weakestKeptScore": 36.1
+    },
+    {
+      "subject": "English Daisy",
+      "skipped": "Perennial Sunflower",
+      "skippedCat": "Perennial",
+      "score": 77.1,
+      "rank": 5,
+      "rule": "category-cap",
+      "weakestKept": "Cosmos",
+      "weakestKeptScore": 59.9
+    }
+  ],
+  "mostHidden": [
+    [
+      "Blazing Star",
+      762
+    ],
+    [
+      "Ironweed",
+      678
+    ],
+    [
+      "Aster",
+      667
+    ],
+    [
+      "Purple Coneflower",
+      658
+    ],
+    [
+      "Goldenrod",
+      640
+    ],
+    [
+      "Black-Eyed Susan",
+      635
+    ],
+    [
+      "False Sunflower",
+      600
+    ],
+    [
+      "Autumn Joy Sedum",
+      588
+    ],
+    [
+      "Globe Thistle",
+      550
+    ],
+    [
+      "Perennial Sunflower",
+      536
+    ],
+    [
+      "Creeping Sedum",
+      486
+    ],
+    [
+      "Sneezeweed",
+      463
+    ],
+    [
+      "Sea Thrift",
+      382
+    ],
+    [
+      "Candytuft",
+      374
+    ],
+    [
+      "Joe Pye Weed",
+      367
+    ],
+    [
+      "Bergenia",
+      364
+    ],
+    [
+      "False Indigo",
+      331
+    ],
+    [
+      "Rock Cress",
+      313
+    ],
+    [
+      "Creeping Phlox",
+      283
+    ],
+    [
+      "Garden Phlox",
+      267
+    ],
+    [
+      "Bluestar",
+      252
+    ],
+    [
+      "Little Bluestem",
+      157
+    ],
+    [
+      "Switchgrass",
+      129
+    ],
+    [
+      "Monkshood",
+      128
+    ],
+    [
+      "English Daisy",
+      126
+    ],
+    [
+      "Cardinal Flower",
+      123
+    ],
+    [
+      "Mullein",
+      119
+    ],
+    [
+      "Russian Sage",
+      95
+    ],
+    [
+      "Red Hot Poker",
+      94
+    ],
+    [
+      "Hens and Chicks",
+      93
+    ]
+  ]
+}

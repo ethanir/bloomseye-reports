@@ -1,0 +1,3449 @@
+[
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "agave",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Agave + Eschscholzia",
+    "score": 46.9,
+    "reason": "Shares full sun and low water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "agave",
+    "companion": "gaillardia",
+    "detail": "claims \"both are native plants\": Agave + Gaillardia",
+    "score": 46.9,
+    "reason": "Shares full sun and low water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "appalachian-red",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Cercis canadensis 'Appalachian Red' + Liriodendron tulipifera",
+    "score": 68.8,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae",
+    "companion": "ninebark",
+    "detail": "claims \"both are native plants\": Thuja occidentalis + Physocarpus opulifolius",
+    "score": 53.2,
+    "reason": "Shares full sun and moderate water; shorter at 2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae",
+    "companion": "phlox",
+    "detail": "claims \"both are native plants\": Thuja occidentalis + Phlox paniculata",
+    "score": 52.2,
+    "reason": "Shares full sun and moderate water; shorter at 1 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae",
+    "companion": "obedient-plant",
+    "detail": "claims \"both are native plants\": Thuja occidentalis + Physostegia",
+    "score": 52.2,
+    "reason": "Shares full sun and moderate water; shorter at 1 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae",
+    "companion": "bee-balm",
+    "detail": "claims \"both are native plants\": Thuja occidentalis + Monarda",
+    "score": 52,
+    "reason": "Shares full sun and moderate water; low at 0.9 m, to carpet the ground beneath it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Thuja occidentalis + Hamamelis",
+    "score": 49.4,
+    "reason": "Takes full sun to part sun and moderate water; shorter at 3 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae",
+    "companion": "winterberry",
+    "detail": "claims \"both are native plants\": Thuja occidentalis + Ilex verticillata",
+    "score": 49,
+    "reason": "Shares full sun and moderate to high water; shorter at 2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-danica",
+    "companion": "phlox",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Danica' + Phlox paniculata",
+    "score": 51.6,
+    "reason": "Shares full sun and moderate water; taller at 1 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-danica",
+    "companion": "ninebark",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Danica' + Physocarpus opulifolius",
+    "score": 51.6,
+    "reason": "Shares full sun and moderate water; taller at 2 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-danica",
+    "companion": "obedient-plant",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Danica' + Physostegia",
+    "score": 51.6,
+    "reason": "Shares full sun and moderate water; taller at 1 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-danica",
+    "companion": "trumpet-vine",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Danica' + Campsis radicans",
+    "score": 49.8,
+    "reason": "Shares full sun and moderate water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-danica",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Danica' + Hamamelis",
+    "score": 47.6,
+    "reason": "Takes full sun to part sun and moderate water; taller at 3 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-danica",
+    "companion": "cardinal-flower",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Danica' + Lobelia cardinalis",
+    "score": 47.5,
+    "reason": "Takes full sun to part sun and moderate to high water; taller at 1 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-danica",
+    "companion": "winterberry",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Danica' + Ilex verticillata",
+    "score": 47.5,
+    "reason": "Shares full sun and moderate to high water; taller at 2 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-degroots-spire",
+    "companion": "ninebark",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'DeGroot's Spire' + Physocarpus opulifolius",
+    "score": 53.5,
+    "reason": "Shares full sun and moderate water; shorter at 2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-degroots-spire",
+    "companion": "phlox",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'DeGroot's Spire' + Phlox paniculata",
+    "score": 52.7,
+    "reason": "Shares full sun and moderate water; shorter at 1 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-degroots-spire",
+    "companion": "obedient-plant",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'DeGroot's Spire' + Physostegia",
+    "score": 52.7,
+    "reason": "Shares full sun and moderate water; shorter at 1 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-degroots-spire",
+    "companion": "bee-balm",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'DeGroot's Spire' + Monarda",
+    "score": 52.6,
+    "reason": "Shares full sun and moderate water; shorter at 0.9 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-degroots-spire",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'DeGroot's Spire' + Hamamelis",
+    "score": 49.6,
+    "reason": "Takes full sun to part sun and moderate water; shorter at 3 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-degroots-spire",
+    "companion": "winterberry",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'DeGroot's Spire' + Ilex verticillata",
+    "score": 49.2,
+    "reason": "Shares full sun and moderate to high water; shorter at 2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-emerald-green",
+    "companion": "ninebark",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Smaragd' + Physocarpus opulifolius",
+    "score": 53.6,
+    "reason": "Shares full sun and moderate water; shorter at 2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-emerald-green",
+    "companion": "phlox",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Smaragd' + Phlox paniculata",
+    "score": 52.9,
+    "reason": "Shares full sun and moderate water; shorter at 1 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-emerald-green",
+    "companion": "obedient-plant",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Smaragd' + Physostegia",
+    "score": 52.9,
+    "reason": "Shares full sun and moderate water; shorter at 1 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-emerald-green",
+    "companion": "bee-balm",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Smaragd' + Monarda",
+    "score": 52.8,
+    "reason": "Shares full sun and moderate water; shorter at 0.9 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-emerald-green",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Smaragd' + Hamamelis",
+    "score": 49.6,
+    "reason": "Takes full sun to part sun and moderate water; shorter at 3 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-emerald-green",
+    "companion": "winterberry",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Smaragd' + Ilex verticillata",
+    "score": 49.3,
+    "reason": "Shares full sun and moderate to high water; shorter at 2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-fire-chief",
+    "companion": "creeping-phlox",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Fire Chief' + Phlox subulata",
+    "score": 55.9,
+    "reason": "Shares full sun and low to moderate water; low at 0.15 m, to carpet the ground beneath it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-golden-globe",
+    "companion": "creeping-phlox",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Golden Globe' + Phlox subulata",
+    "score": 55.9,
+    "reason": "Shares full sun and low to moderate water; low at 0.15 m, to carpet the ground beneath it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-green-giant",
+    "companion": "ninebark",
+    "detail": "claims \"both are native plants\": Thuja plicata 'Green Giant' + Physocarpus opulifolius",
+    "score": 52.2,
+    "reason": "Shares full sun and moderate water; shorter at 2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-green-giant",
+    "companion": "phlox",
+    "detail": "claims \"both are native plants\": Thuja plicata 'Green Giant' + Phlox paniculata",
+    "score": 50.3,
+    "reason": "Shares full sun and moderate water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-green-giant",
+    "companion": "obedient-plant",
+    "detail": "claims \"both are native plants\": Thuja plicata 'Green Giant' + Physostegia",
+    "score": 50.3,
+    "reason": "Shares full sun and moderate water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-green-giant",
+    "companion": "bee-balm",
+    "detail": "claims \"both are native plants\": Thuja plicata 'Green Giant' + Monarda",
+    "score": 49.8,
+    "reason": "Shares full sun and moderate water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-green-giant",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Thuja plicata 'Green Giant' + Hamamelis",
+    "score": 48.8,
+    "reason": "Takes full sun to part sun and moderate water; shorter at 3 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-green-giant",
+    "companion": "winterberry",
+    "detail": "claims \"both are native plants\": Thuja plicata 'Green Giant' + Ilex verticillata",
+    "score": 48.1,
+    "reason": "Shares full sun and moderate to high water; shorter at 2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-holmstrup",
+    "companion": "honeylocust",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Holmstrup' + Gleditsia triacanthos",
+    "score": 53.8,
+    "reason": "Shares full sun and moderate water; taller at 15 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-holmstrup",
+    "companion": "red-maple",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Holmstrup' + Acer rubrum",
+    "score": 53.8,
+    "reason": "Shares full sun and moderate water; taller at 15 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-holmstrup",
+    "companion": "trumpet-vine",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Holmstrup' + Campsis radicans",
+    "score": 53.3,
+    "reason": "Shares full sun and moderate water; climbs to 8 m behind it, height without the footprint; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-rheingold",
+    "companion": "creeping-phlox",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Rheingold' + Phlox subulata",
+    "score": 55.9,
+    "reason": "Shares full sun and low to moderate water; low at 0.15 m, to carpet the ground beneath it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-techny",
+    "companion": "ninebark",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Techny' + Physocarpus opulifolius",
+    "score": 53.5,
+    "reason": "Shares full sun and moderate water; shorter at 2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-techny",
+    "companion": "phlox",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Techny' + Phlox paniculata",
+    "score": 52.7,
+    "reason": "Shares full sun and moderate water; shorter at 1 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-techny",
+    "companion": "obedient-plant",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Techny' + Physostegia",
+    "score": 52.7,
+    "reason": "Shares full sun and moderate water; shorter at 1 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-techny",
+    "companion": "bee-balm",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Techny' + Monarda",
+    "score": 52.6,
+    "reason": "Shares full sun and moderate water; shorter at 0.9 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-techny",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Techny' + Hamamelis",
+    "score": 49.6,
+    "reason": "Takes full sun to part sun and moderate water; shorter at 3 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "arborvitae-techny",
+    "companion": "winterberry",
+    "detail": "claims \"both are native plants\": Thuja occidentalis 'Techny' + Ilex verticillata",
+    "score": 49.2,
+    "reason": "Shares full sun and moderate to high water; shorter at 2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Symphyotrichum + Tradescantia",
+    "score": 79.1,
+    "reason": "Takes full sun to part sun and moderate water; blooms in early summer, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster",
+    "companion": "butterfly-weed",
+    "detail": "claims \"both are native plants\": Symphyotrichum + Asclepias tuberosa",
+    "score": 77.1,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Symphyotrichum + Eschscholzia",
+    "score": 77.1,
+    "reason": "Shares full sun and low to moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-alma-potschke",
+    "companion": "phlox",
+    "detail": "claims \"both are native plants\": Symphyotrichum novae-angliae 'Alma Pötschke' + Phlox paniculata",
+    "score": 78.5,
+    "reason": "Shares full sun and moderate water; opens in midsummer and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-alma-potschke",
+    "companion": "penstemon",
+    "detail": "claims \"both are native plants\": Symphyotrichum novae-angliae 'Alma Pötschke' + Penstemon",
+    "score": 77.4,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-alma-potschke",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Symphyotrichum novae-angliae 'Alma Pötschke' + Tradescantia",
+    "score": 76.6,
+    "reason": "Takes full sun to part sun and moderate water; blooms in early summer, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-alma-potschke",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Symphyotrichum novae-angliae 'Alma Pötschke' + Eschscholzia",
+    "score": 75.1,
+    "reason": "Shares full sun and low to moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-kickin-carmine",
+    "companion": "penstemon",
+    "detail": "claims \"both are native plants\": Symphyotrichum 'Kickin Carmine Red' + Penstemon",
+    "score": 77.4,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-kickin-carmine",
+    "companion": "butterfly-weed",
+    "detail": "claims \"both are native plants\": Symphyotrichum 'Kickin Carmine Red' + Asclepias tuberosa",
+    "score": 75.1,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-kickin-carmine",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Symphyotrichum 'Kickin Carmine Red' + Eschscholzia",
+    "score": 75.1,
+    "reason": "Shares full sun and low to moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-october-skies",
+    "companion": "butterfly-weed",
+    "detail": "claims \"both are native plants\": Symphyotrichum oblongifolium 'October Skies' + Asclepias tuberosa",
+    "score": 83.8,
+    "reason": "Shares full sun and low water; blooms in early summer, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-october-skies",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Symphyotrichum oblongifolium 'October Skies' + Eschscholzia",
+    "score": 83.8,
+    "reason": "Shares full sun and low water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-october-skies",
+    "companion": "penstemon",
+    "detail": "claims \"both are native plants\": Symphyotrichum oblongifolium 'October Skies' + Penstemon",
+    "score": 81.6,
+    "reason": "Shares full sun and low water; blooms in early summer, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-october-skies",
+    "companion": "potentilla",
+    "detail": "claims \"both are native plants\": Symphyotrichum oblongifolium 'October Skies' + Potentilla fruticosa",
+    "score": 75.1,
+    "reason": "Shares full sun and low water; opens in early summer and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-patricia-ballard",
+    "companion": "phlox",
+    "detail": "claims \"both are native plants\": Symphyotrichum novi-belgii 'Patricia Ballard' + Phlox paniculata",
+    "score": 78.5,
+    "reason": "Shares full sun and moderate water; opens in midsummer and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-patricia-ballard",
+    "companion": "penstemon",
+    "detail": "claims \"both are native plants\": Symphyotrichum novi-belgii 'Patricia Ballard' + Penstemon",
+    "score": 77.4,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-patricia-ballard",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Symphyotrichum novi-belgii 'Patricia Ballard' + Tradescantia",
+    "score": 76.6,
+    "reason": "Takes full sun to part sun and moderate water; blooms in early summer, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-patricia-ballard",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Symphyotrichum novi-belgii 'Patricia Ballard' + Eschscholzia",
+    "score": 75.1,
+    "reason": "Shares full sun and low to moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-professor-kippenberg",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Symphyotrichum novi-belgii 'Professor Anton Kippenberg' + Tradescantia",
+    "score": 79.1,
+    "reason": "Takes full sun to part sun and moderate water; blooms in early summer, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-professor-kippenberg",
+    "companion": "butterfly-weed",
+    "detail": "claims \"both are native plants\": Symphyotrichum novi-belgii 'Professor Anton Kippenberg' + Asclepias tuberosa",
+    "score": 77.1,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-professor-kippenberg",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Symphyotrichum novi-belgii 'Professor Anton Kippenberg' + Eschscholzia",
+    "score": 77.1,
+    "reason": "Shares full sun and low to moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-purple-dome",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Symphyotrichum novae-angliae 'Purple Dome' + Tradescantia",
+    "score": 79.1,
+    "reason": "Takes full sun to part sun and moderate water; blooms in early summer, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-purple-dome",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Symphyotrichum novae-angliae 'Purple Dome' + Eschscholzia",
+    "score": 77.1,
+    "reason": "Shares full sun and low to moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-raydons-favorite",
+    "companion": "butterfly-weed",
+    "detail": "claims \"both are native plants\": Symphyotrichum oblongifolium 'Raydon's Favorite' + Asclepias tuberosa",
+    "score": 83.8,
+    "reason": "Shares full sun and low water; blooms in early summer, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-raydons-favorite",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Symphyotrichum oblongifolium 'Raydon's Favorite' + Eschscholzia",
+    "score": 83.8,
+    "reason": "Shares full sun and low water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-woods-blue",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Symphyotrichum dumosum 'Wood's Blue' + Tradescantia",
+    "score": 79.1,
+    "reason": "Takes full sun to part sun and moderate water; blooms in early summer, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-woods-blue",
+    "companion": "butterfly-weed",
+    "detail": "claims \"both are native plants\": Symphyotrichum dumosum 'Wood's Blue' + Asclepias tuberosa",
+    "score": 77.1,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-woods-blue",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Symphyotrichum dumosum 'Wood's Blue' + Eschscholzia",
+    "score": 77.1,
+    "reason": "Shares full sun and low to moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-woods-pink",
+    "companion": "penstemon",
+    "detail": "claims \"both are native plants\": Symphyotrichum dumosum 'Wood's Pink' + Penstemon",
+    "score": 77.4,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-woods-pink",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Symphyotrichum dumosum 'Wood's Pink' + Tradescantia",
+    "score": 76.6,
+    "reason": "Takes full sun to part sun and moderate water; blooms in early summer, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-woods-pink",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Symphyotrichum dumosum 'Wood's Pink' + Eschscholzia",
+    "score": 75.1,
+    "reason": "Shares full sun and low to moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-woods-purple",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Symphyotrichum dumosum 'Wood's Purple' + Tradescantia",
+    "score": 79.1,
+    "reason": "Takes full sun to part sun and moderate water; blooms in early summer, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-woods-purple",
+    "companion": "butterfly-weed",
+    "detail": "claims \"both are native plants\": Symphyotrichum dumosum 'Wood's Purple' + Asclepias tuberosa",
+    "score": 77.1,
+    "reason": "Shares full sun and low to moderate water; blooms in early summer, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "aster-woods-purple",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Symphyotrichum dumosum 'Wood's Purple' + Eschscholzia",
+    "score": 77.1,
+    "reason": "Shares full sun and low to moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "autumn-brilliance",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Amelanchier × grandiflora 'Autumn Brilliance' + Liriodendron tulipifera",
+    "score": 68.8,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress",
+    "companion": "joe-pye-weed",
+    "detail": "claims \"both are native plants\": Taxodium distichum + Eutrochium",
+    "score": 50.9,
+    "reason": "Shares full sun and high water; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress",
+    "companion": "perennial-sunflower",
+    "detail": "claims \"both are native plants\": Taxodium distichum + Helianthus",
+    "score": 43.9,
+    "reason": "Shares full sun and moderate to high water; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Taxodium distichum + Thuja occidentalis",
+    "score": 41.9,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress",
+    "companion": "false-sunflower",
+    "detail": "claims \"both are native plants\": Taxodium distichum + Heliopsis",
+    "score": 41,
+    "reason": "Shares full sun and moderate to high water; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress",
+    "companion": "douglas-fir",
+    "detail": "claims \"both are native plants\": Taxodium distichum + Pseudotsuga menziesii",
+    "score": 37.2,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress",
+    "companion": "eastern-white-pine",
+    "detail": "claims \"both are native plants\": Taxodium distichum + Pinus strobus",
+    "score": 37.2,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-falling-waters",
+    "companion": "joe-pye-weed",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Falling Waters' + Eutrochium",
+    "score": 53.1,
+    "reason": "Shares full sun and high water; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-falling-waters",
+    "companion": "perennial-sunflower",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Falling Waters' + Helianthus",
+    "score": 46.2,
+    "reason": "Shares full sun and moderate to high water; its seed heads stand through winter, for structure and the birds; shorter at 1.5 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-falling-waters",
+    "companion": "helenium",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Falling Waters' + Helenium",
+    "score": 45.6,
+    "reason": "Shares full sun and moderate to high water; its seed heads stand through winter, for structure and the birds; shorter at 1 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-falling-waters",
+    "companion": "douglas-fir",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Falling Waters' + Pseudotsuga menziesii",
+    "score": 41.9,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-falling-waters",
+    "companion": "eastern-white-pine",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Falling Waters' + Pinus strobus",
+    "score": 41.9,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-peve-minaret",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Peve Minaret' + Thuja occidentalis",
+    "score": 50.8,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; taller at 6 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-peve-minaret",
+    "companion": "douglas-fir",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Peve Minaret' + Pseudotsuga menziesii",
+    "score": 49,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; taller at 18 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-peve-minaret",
+    "companion": "eastern-white-pine",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Peve Minaret' + Pinus strobus",
+    "score": 49,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; taller at 18 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-peve-minaret",
+    "companion": "joe-pye-weed",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Peve Minaret' + Eutrochium",
+    "score": 46.9,
+    "reason": "Shares full sun and high water; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-peve-minaret",
+    "companion": "aster",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Peve Minaret' + Symphyotrichum",
+    "score": 44.2,
+    "reason": "Shares full sun and moderate to high water; its seed heads stand through winter, for structure and the birds; shorter at 0.9 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-shawnee-brave",
+    "companion": "joe-pye-weed",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Shawnee Brave' + Eutrochium",
+    "score": 51.5,
+    "reason": "Shares full sun and high water; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-shawnee-brave",
+    "companion": "perennial-sunflower",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Shawnee Brave' + Helianthus",
+    "score": 44.5,
+    "reason": "Shares full sun and moderate to high water; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-shawnee-brave",
+    "companion": "helenium",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Shawnee Brave' + Helenium",
+    "score": 43,
+    "reason": "Shares full sun and moderate to high water; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-shawnee-brave",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Shawnee Brave' + Thuja occidentalis",
+    "score": 41.9,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-shawnee-brave",
+    "companion": "douglas-fir",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Shawnee Brave' + Pseudotsuga menziesii",
+    "score": 41.9,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bald-cypress-shawnee-brave",
+    "companion": "eastern-white-pine",
+    "detail": "claims \"both are native plants\": Taxodium distichum 'Shawnee Brave' + Pinus strobus",
+    "score": 41.9,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "baptisia",
+    "companion": "creeping-phlox",
+    "detail": "claims \"both are native plants\": Baptisia + Phlox subulata",
+    "score": 66.4,
+    "reason": "Shares full sun and low water; opens in mid spring and overlaps into this one's season; low at 0.15 m, to carpet the ground beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "baptisia-alba",
+    "companion": "creeping-phlox",
+    "detail": "claims \"both are native plants\": Baptisia alba + Phlox subulata",
+    "score": 68.5,
+    "reason": "Shares full sun and low water; opens in mid spring and overlaps into this one's season; low at 0.15 m, to carpet the ground beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "baptisia-carolina-moonlight",
+    "companion": "creeping-phlox",
+    "detail": "claims \"both are native plants\": Baptisia 'Carolina Moonlight' + Phlox subulata",
+    "score": 68.5,
+    "reason": "Shares full sun and low water; opens in mid spring and overlaps into this one's season; low at 0.15 m, to carpet the ground beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "baptisia-cherries-jubilee",
+    "companion": "phlox",
+    "detail": "claims \"both are native plants\": Baptisia 'Cherries Jubilee' + Phlox paniculata",
+    "score": 63,
+    "reason": "Shares full sun and low to moderate water; blooms in midsummer as this one finishes; both are native plants; pink sits close to red on the wheel."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "baptisia-cherries-jubilee",
+    "companion": "gaillardia",
+    "detail": "claims \"both are native plants\": Baptisia 'Cherries Jubilee' + Gaillardia",
+    "score": 59.3,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into early fall; both are native plants; orange sits close to red on the wheel."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "baptisia-dutch-chocolate",
+    "companion": "phlox",
+    "detail": "claims \"both are native plants\": Baptisia 'Dutch Chocolate' + Phlox paniculata",
+    "score": 63,
+    "reason": "Shares full sun and low to moderate water; blooms in midsummer as this one finishes; both are native plants; pink sits close to red on the wheel."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "baptisia-pink-lemonade",
+    "companion": "creeping-phlox",
+    "detail": "claims \"both are native plants\": Baptisia 'Pink Lemonade' + Phlox subulata",
+    "score": 68.8,
+    "reason": "Shares full sun and low water; opens in mid spring and overlaps into this one's season; low at 0.15 m, to carpet the ground beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "baptisia-purple-smoke",
+    "companion": "creeping-phlox",
+    "detail": "claims \"both are native plants\": Baptisia 'Purple Smoke' + Phlox subulata",
+    "score": 66.4,
+    "reason": "Shares full sun and low water; opens in mid spring and overlaps into this one's season; low at 0.15 m, to carpet the ground beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "baptisia-screaming-yellow",
+    "companion": "phlox",
+    "detail": "claims \"both are native plants\": Baptisia sphaerocarpa 'Screaming Yellow' + Phlox paniculata",
+    "score": 60.7,
+    "reason": "Shares full sun and low to moderate water; blooms in midsummer as this one finishes; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "baptisia-screaming-yellow",
+    "companion": "coreopsis",
+    "detail": "claims \"both are native plants\": Baptisia sphaerocarpa 'Screaming Yellow' + Coreopsis",
+    "score": 59.3,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into early fall; both are native plants; echoes the yellow."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "beautyberry-american",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Callicarpa americana + Thuja occidentalis",
+    "score": 53.1,
+    "reason": "Takes full sun to part sun and moderate water; evergreen, so the bed keeps its shape through winter; taller at 6 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bee-balm",
+    "companion": "trumpet-vine",
+    "detail": "claims \"both are native plants\": Monarda + Campsis radicans",
+    "score": 57.2,
+    "reason": "Shares full sun and moderate water; overlaps, then carries the display into early fall; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bee-balm-grand-marshall",
+    "companion": "redbud",
+    "detail": "claims \"both are native plants\": Monarda 'Grand Marshall' + Cercis canadensis",
+    "score": 59.2,
+    "reason": "Takes full sun to part sun and moderate water; blooms in mid spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bee-balm-jacob-cline",
+    "companion": "viburnum",
+    "detail": "claims \"both are native plants\": Monarda didyma 'Jacob Cline' + Viburnum",
+    "score": 53,
+    "reason": "Shares full sun and moderate water; blooms in mid spring, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bee-balm-raspberry-wine",
+    "companion": "viburnum",
+    "detail": "claims \"both are native plants\": Monarda 'Raspberry Wine' + Viburnum",
+    "score": 53,
+    "reason": "Shares full sun and moderate water; blooms in mid spring, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bee-balm-rockin-raspberry",
+    "companion": "redbud",
+    "detail": "claims \"both are native plants\": Monarda 'Rockin' Raspberry' + Cercis canadensis",
+    "score": 58.4,
+    "reason": "Takes full sun to part sun and moderate water; blooms in mid spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "black-eyed-susan",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Rudbeckia + Eschscholzia",
+    "score": 70.5,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "black-eyed-susan-american-gold-rush",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Rudbeckia 'American Gold Rush' + Eschscholzia",
+    "score": 70.5,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "black-eyed-susan-autumn-colors",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Rudbeckia hirta 'Autumn Colors' + Eschscholzia",
+    "score": 70.5,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "black-eyed-susan-denver-daisy",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Rudbeckia hirta 'Denver Daisy' + Eschscholzia",
+    "score": 70.5,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "black-eyed-susan-goldilocks",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Rudbeckia hirta 'Goldilocks' + Eschscholzia",
+    "score": 70.5,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "black-eyed-susan-goldsturm",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Rudbeckia fulgida 'Goldsturm' + Eschscholzia",
+    "score": 70.5,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "black-eyed-susan-indian-summer",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Rudbeckia hirta 'Indian Summer' + Eschscholzia",
+    "score": 70.5,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "black-eyed-susan-prairie-sun",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Rudbeckia hirta 'Prairie Sun' + Eschscholzia",
+    "score": 70.5,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bleeding-heart-burning-hearts",
+    "companion": "goatsbeard",
+    "detail": "claims \"both are native plants\": Dicentra 'Burning Hearts' + Aruncus dioicus",
+    "score": 61.5,
+    "reason": "Shares part shade and moderate water; taller at 1.2 m, for the layer behind it; both are native plants; a soft colour beside the red."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bleeding-heart-burning-hearts",
+    "companion": "northern-sea-oats",
+    "detail": "claims \"both are native plants\": Dicentra 'Burning Hearts' + Chasmanthium latifolium",
+    "score": 57.5,
+    "reason": "Shares part shade and moderate water; taller at 1 m, for the layer behind it; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bleeding-heart-burning-hearts",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Dicentra 'Burning Hearts' + Polystichum acrostichoides",
+    "score": 51.2,
+    "reason": "Takes part shade to full shade and moderate water; evergreen, so the bed keeps its shape through winter; taller at 0.5 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bleeding-heart-king-of-hearts",
+    "companion": "goatsbeard",
+    "detail": "claims \"both are native plants\": Dicentra 'King of Hearts' + Aruncus dioicus",
+    "score": 61.5,
+    "reason": "Shares part shade and moderate water; taller at 1.2 m, for the layer behind it; both are native plants; a soft colour beside the pink."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bleeding-heart-king-of-hearts",
+    "companion": "northern-sea-oats",
+    "detail": "claims \"both are native plants\": Dicentra 'King of Hearts' + Chasmanthium latifolium",
+    "score": 57.5,
+    "reason": "Shares part shade and moderate water; taller at 1 m, for the layer behind it; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "bleeding-heart-king-of-hearts",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Dicentra 'King of Hearts' + Polystichum acrostichoides",
+    "score": 51.2,
+    "reason": "Takes part shade to full shade and moderate water; evergreen, so the bed keeps its shape through winter; taller at 0.5 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cherokee-brave",
+    "companion": "goatsbeard",
+    "detail": "claims \"both are native plants\": Cornus florida 'Cherokee Brave' + Aruncus dioicus",
+    "score": 53.2,
+    "reason": "Shares part shade and moderate water; blooms in early summer as this one finishes; shorter at 1.2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cherokee-brave",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Cornus florida 'Cherokee Brave' + Polystichum acrostichoides",
+    "score": 49.9,
+    "reason": "Takes part shade to full shade and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cherokee-brave",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Cornus florida 'Cherokee Brave' + Tradescantia",
+    "score": 49.7,
+    "reason": "Takes part sun to part shade and moderate water; blooms in early summer as this one finishes; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cherokee-chief",
+    "companion": "goatsbeard",
+    "detail": "claims \"both are native plants\": Cornus florida 'Cherokee Chief' + Aruncus dioicus",
+    "score": 53.2,
+    "reason": "Shares part shade and moderate water; blooms in early summer as this one finishes; shorter at 1.2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cherokee-chief",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Cornus florida 'Cherokee Chief' + Polystichum acrostichoides",
+    "score": 49.9,
+    "reason": "Takes part shade to full shade and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cherokee-chief",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Cornus florida 'Cherokee Chief' + Tradescantia",
+    "score": 49.7,
+    "reason": "Takes part sun to part shade and moderate water; blooms in early summer as this one finishes; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cherokee-princess",
+    "companion": "goatsbeard",
+    "detail": "claims \"both are native plants\": Cornus florida 'Cherokee Princess' + Aruncus dioicus",
+    "score": 53.2,
+    "reason": "Shares part shade and moderate water; blooms in early summer as this one finishes; shorter at 1.2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cherokee-princess",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Cornus florida 'Cherokee Princess' + Tradescantia",
+    "score": 52,
+    "reason": "Takes part sun to part shade and moderate water; blooms in early summer as this one finishes; both are native plants; a soft colour beside the yellow."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cherokee-princess",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Cornus florida 'Cherokee Princess' + Hamamelis",
+    "score": 50.9,
+    "reason": "Takes part sun to part shade and moderate water; blooms in late winter, before this one opens; shorter at 3 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cherokee-princess",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Cornus florida 'Cherokee Princess' + Polystichum acrostichoides",
+    "score": 49.9,
+    "reason": "Takes part shade to full shade and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "christmas-fern",
+    "companion": "wild-ginger",
+    "detail": "claims \"both are native plants\": Polystichum acrostichoides + Asarum",
+    "score": 52.3,
+    "reason": "Shares full shade and moderate water; lower at 0.15 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "christmas-fern",
+    "companion": "goatsbeard",
+    "detail": "claims \"both are native plants\": Polystichum acrostichoides + Aruncus dioicus",
+    "score": 50.6,
+    "reason": "Takes part shade to full shade and moderate water; taller at 1.2 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "christmas-fern",
+    "companion": "dogwood-tree",
+    "detail": "claims \"both are native plants\": Polystichum acrostichoides + Cornus florida",
+    "score": 49.6,
+    "reason": "Takes part shade to full shade and moderate water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "christmas-fern",
+    "companion": "cinnamon-fern",
+    "detail": "claims \"both are native plants\": Polystichum acrostichoides + Osmundastrum cinnamomeum",
+    "score": 48.1,
+    "reason": "Takes part shade to full shade and moderate to high water; taller at 1 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "christmas-fern",
+    "companion": "royal-fern",
+    "detail": "claims \"both are native plants\": Polystichum acrostichoides + Osmunda regalis",
+    "score": 48.1,
+    "reason": "Takes part shade to full shade and moderate to high water; taller at 1.2 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "christmas-fern",
+    "companion": "foam-flower",
+    "detail": "claims \"both are native plants\": Polystichum acrostichoides + Tiarella",
+    "score": 46.9,
+    "reason": "Takes part shade to full shade and moderate water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cinnamon-fern",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Osmundastrum cinnamomeum + Polystichum acrostichoides",
+    "score": 47.8,
+    "reason": "Takes part shade to full shade and moderate to high water; evergreen, so the bed keeps its shape through winter; lower at 0.5 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cinnamon-fern",
+    "companion": "hemlock",
+    "detail": "claims \"both are native plants\": Osmundastrum cinnamomeum + Tsuga canadensis",
+    "score": 45,
+    "reason": "Shares part shade and moderate to high water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cinnamon-fern",
+    "companion": "wild-ginger",
+    "detail": "claims \"both are native plants\": Osmundastrum cinnamomeum + Asarum",
+    "score": 42.5,
+    "reason": "Takes part shade to full shade and moderate to high water; low at 0.15 m, to carpet the ground beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cloud-nine",
+    "companion": "goatsbeard",
+    "detail": "claims \"both are native plants\": Cornus florida 'Cloud Nine' + Aruncus dioicus",
+    "score": 53.2,
+    "reason": "Shares part shade and moderate water; blooms in early summer as this one finishes; shorter at 1.2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cloud-nine",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Cornus florida 'Cloud Nine' + Tradescantia",
+    "score": 52,
+    "reason": "Takes part sun to part shade and moderate water; blooms in early summer as this one finishes; both are native plants; a soft colour beside the yellow."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cloud-nine",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Cornus florida 'Cloud Nine' + Hamamelis",
+    "score": 50.9,
+    "reason": "Takes part sun to part shade and moderate water; blooms in late winter, before this one opens; shorter at 3 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "cloud-nine",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Cornus florida 'Cloud Nine' + Polystichum acrostichoides",
+    "score": 49.9,
+    "reason": "Takes part shade to full shade and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "coles-select",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Amelanchier × grandiflora 'Cole's Select' + Liriodendron tulipifera",
+    "score": 68.8,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Aquilegia + Hamamelis",
+    "score": 49.1,
+    "reason": "Takes part sun to part shade and moderate water; blooms in late winter, before this one opens; taller at 3 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine",
+    "companion": "summersweet",
+    "detail": "claims \"both are native plants\": Aquilegia + Clethra alnifolia",
+    "score": 47.8,
+    "reason": "Shares part shade and moderate to high water; blooms in midsummer as this one finishes; taller at 1.8 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine",
+    "companion": "cardinal-flower",
+    "detail": "claims \"both are native plants\": Aquilegia + Lobelia cardinalis",
+    "score": 46.9,
+    "reason": "Takes part sun to part shade and moderate to high water; blooms in midsummer as this one finishes; taller at 1 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Aquilegia + Polystichum acrostichoides",
+    "score": 46.6,
+    "reason": "Takes part shade to full shade and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-blue",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Aquilegia caerulea + Hamamelis",
+    "score": 49.1,
+    "reason": "Takes part sun to part shade and moderate water; blooms in late winter, before this one opens; taller at 3 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-blue",
+    "companion": "summersweet",
+    "detail": "claims \"both are native plants\": Aquilegia caerulea + Clethra alnifolia",
+    "score": 47.8,
+    "reason": "Shares part shade and moderate to high water; blooms in midsummer as this one finishes; taller at 1.8 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-blue",
+    "companion": "cardinal-flower",
+    "detail": "claims \"both are native plants\": Aquilegia caerulea + Lobelia cardinalis",
+    "score": 46.9,
+    "reason": "Takes part sun to part shade and moderate to high water; blooms in midsummer as this one finishes; taller at 1 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-blue",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Aquilegia caerulea + Polystichum acrostichoides",
+    "score": 46.6,
+    "reason": "Takes part shade to full shade and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-red",
+    "companion": "cardinal-flower",
+    "detail": "claims \"both are native plants\": Aquilegia canadensis + Lobelia cardinalis",
+    "score": 49.2,
+    "reason": "Takes part sun to part shade and moderate to high water; blooms in midsummer as this one finishes; taller at 1 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-red",
+    "companion": "summersweet",
+    "detail": "claims \"both are native plants\": Aquilegia canadensis + Clethra alnifolia",
+    "score": 47.8,
+    "reason": "Shares part shade and moderate to high water; blooms in midsummer as this one finishes; taller at 1.8 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-red",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Aquilegia canadensis + Hamamelis",
+    "score": 47.1,
+    "reason": "Takes part sun to part shade and moderate water; blooms in late winter, before this one opens; taller at 3 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-red",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Aquilegia canadensis + Polystichum acrostichoides",
+    "score": 46.6,
+    "reason": "Takes part shade to full shade and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-white",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Aquilegia + Hamamelis",
+    "score": 49.1,
+    "reason": "Takes part sun to part shade and moderate water; blooms in late winter, before this one opens; taller at 3 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-white",
+    "companion": "cardinal-flower",
+    "detail": "claims \"both are native plants\": Aquilegia + Lobelia cardinalis",
+    "score": 49,
+    "reason": "Takes part sun to part shade and moderate to high water; blooms in midsummer as this one finishes; taller at 1 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-white",
+    "companion": "summersweet",
+    "detail": "claims \"both are native plants\": Aquilegia + Clethra alnifolia",
+    "score": 47.8,
+    "reason": "Shares part shade and moderate to high water; blooms in midsummer as this one finishes; taller at 1.8 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-white",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Aquilegia + Polystichum acrostichoides",
+    "score": 46.6,
+    "reason": "Takes part shade to full shade and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-yellow",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Aquilegia chrysantha + Hamamelis",
+    "score": 49.4,
+    "reason": "Takes part sun to part shade and moderate water; blooms in late winter, before this one opens; taller at 3 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-yellow",
+    "companion": "summersweet",
+    "detail": "claims \"both are native plants\": Aquilegia chrysantha + Clethra alnifolia",
+    "score": 47.8,
+    "reason": "Shares part shade and moderate to high water; blooms in midsummer as this one finishes; taller at 1.8 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-yellow",
+    "companion": "cardinal-flower",
+    "detail": "claims \"both are native plants\": Aquilegia chrysantha + Lobelia cardinalis",
+    "score": 46.9,
+    "reason": "Takes part sun to part shade and moderate to high water; blooms in midsummer as this one finishes; taller at 1 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "columbine-yellow",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Aquilegia chrysantha + Polystichum acrostichoides",
+    "score": 46.6,
+    "reason": "Takes part shade to full shade and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "coneflower-cheyenne-spirit",
+    "companion": "bluestar",
+    "detail": "claims \"both are native plants\": Echinacea 'Cheyenne Spirit' + Amsonia",
+    "score": 72.5,
+    "reason": "Shares full sun and low to moderate water; blooms in mid spring, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "coneflower-hot-papaya",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Echinacea 'Hot Papaya' + Eschscholzia",
+    "score": 70.5,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "coneflower-kismet-raspberry",
+    "companion": "bluestar",
+    "detail": "claims \"both are native plants\": Echinacea 'Kismet Raspberry' + Amsonia",
+    "score": 70.5,
+    "reason": "Shares full sun and low to moderate water; blooms in mid spring, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "coneflower-marmalade",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Echinacea 'Marmalade' + Eschscholzia",
+    "score": 70.5,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "coneflower-powwow-wild-berry",
+    "companion": "bluestar",
+    "detail": "claims \"both are native plants\": Echinacea 'PowWow Wild Berry' + Amsonia",
+    "score": 70.5,
+    "reason": "Shares full sun and low to moderate water; blooms in mid spring, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "coneflower-sombrero-adobe-orange",
+    "companion": "bluestar",
+    "detail": "claims \"both are native plants\": Echinacea 'Sombrero Adobe Orange' + Amsonia",
+    "score": 72.5,
+    "reason": "Shares full sun and low to moderate water; blooms in mid spring, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "coneflower-sombrero-hot-coral",
+    "companion": "bluestar",
+    "detail": "claims \"both are native plants\": Echinacea 'Sombrero Hot Coral' + Amsonia",
+    "score": 72.5,
+    "reason": "Shares full sun and low to moderate water; blooms in mid spring, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "coneflower-sombrero-lemon-yellow",
+    "companion": "bluestar",
+    "detail": "claims \"both are native plants\": Echinacea 'Sombrero Lemon Yellow' + Amsonia",
+    "score": 72.5,
+    "reason": "Shares full sun and low to moderate water; blooms in mid spring, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "coneflower-sombrero-salsa-red",
+    "companion": "bluestar",
+    "detail": "claims \"both are native plants\": Echinacea 'Sombrero Salsa Red' + Amsonia",
+    "score": 72.5,
+    "reason": "Shares full sun and low to moderate water; blooms in mid spring, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "coneflower-tomato-soup",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Echinacea 'Tomato Soup' + Eschscholzia",
+    "score": 70.5,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "dogwood-rubra",
+    "companion": "goatsbeard",
+    "detail": "claims \"both are native plants\": Cornus florida var. rubra + Aruncus dioicus",
+    "score": 53.2,
+    "reason": "Shares part shade and moderate water; blooms in early summer as this one finishes; shorter at 1.2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "dogwood-rubra",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Cornus florida var. rubra + Polystichum acrostichoides",
+    "score": 49.9,
+    "reason": "Takes part shade to full shade and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "dogwood-rubra",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Cornus florida var. rubra + Tradescantia",
+    "score": 49.7,
+    "reason": "Takes part sun to part shade and moderate water; blooms in early summer as this one finishes; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "dogwood-tree",
+    "companion": "goatsbeard",
+    "detail": "claims \"both are native plants\": Cornus florida + Aruncus dioicus",
+    "score": 52.9,
+    "reason": "Shares part shade and moderate water; blooms in early summer as this one finishes; shorter at 1.2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "dogwood-tree",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Cornus florida + Tradescantia",
+    "score": 51.4,
+    "reason": "Takes part sun to part shade and moderate water; blooms in early summer as this one finishes; both are native plants; a soft colour beside the white."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "dogwood-tree",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Cornus florida + Hamamelis",
+    "score": 50.8,
+    "reason": "Takes part sun to part shade and moderate water; blooms in late winter, before this one opens; shorter at 3 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "dogwood-tree",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Cornus florida + Polystichum acrostichoides",
+    "score": 49.2,
+    "reason": "Takes part shade to full shade and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "douglas-fir",
+    "companion": "ninebark",
+    "detail": "claims \"both are native plants\": Pseudotsuga menziesii + Physocarpus opulifolius",
+    "score": 51.2,
+    "reason": "Shares full sun and moderate water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "douglas-fir",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Pseudotsuga menziesii + Hamamelis",
+    "score": 48.2,
+    "reason": "Takes full sun to part sun and moderate water; shorter at 3 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "douglas-fir",
+    "companion": "trumpet-vine",
+    "detail": "claims \"both are native plants\": Pseudotsuga menziesii + Campsis radicans",
+    "score": 46.9,
+    "reason": "Shares full sun and moderate water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "douglas-fir",
+    "companion": "queen-of-the-prairie",
+    "detail": "claims \"both are native plants\": Pseudotsuga menziesii + Filipendula rubra",
+    "score": 46.2,
+    "reason": "Shares full sun and moderate to high water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "eastern-white-pine",
+    "companion": "ninebark",
+    "detail": "claims \"both are native plants\": Pinus strobus + Physocarpus opulifolius",
+    "score": 51.2,
+    "reason": "Shares full sun and moderate water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "eastern-white-pine",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Pinus strobus + Hamamelis",
+    "score": 48.2,
+    "reason": "Takes full sun to part sun and moderate water; shorter at 3 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "eastern-white-pine",
+    "companion": "trumpet-vine",
+    "detail": "claims \"both are native plants\": Pinus strobus + Campsis radicans",
+    "score": 46.9,
+    "reason": "Shares full sun and moderate water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "eastern-white-pine",
+    "companion": "queen-of-the-prairie",
+    "detail": "claims \"both are native plants\": Pinus strobus + Filipendula rubra",
+    "score": 46.2,
+    "reason": "Shares full sun and moderate to high water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "flame-thrower",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Cercis canadensis 'Flame Thrower' + Liriodendron tulipifera",
+    "score": 68.8,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "foam-flower",
+    "companion": "goatsbeard",
+    "detail": "claims \"both are native plants\": Tiarella + Aruncus dioicus",
+    "score": 54.2,
+    "reason": "Shares part shade and moderate water; overlaps, then carries the display into midsummer; taller at 1.2 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "forest-pansy",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Cercis canadensis 'Forest Pansy' + Liriodendron tulipifera",
+    "score": 68.8,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "goatsbeard",
+    "companion": "dogwood-tree",
+    "detail": "claims \"both are native plants\": Aruncus dioicus + Cornus florida",
+    "score": 53.9,
+    "reason": "Shares part shade and moderate water; blooms in mid spring, before this one opens; taller at 7 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "goldenrod",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Solidago + Eschscholzia",
+    "score": 76.1,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "goldenrod",
+    "companion": "butterfly-weed",
+    "detail": "claims \"both are native plants\": Solidago + Asclepias tuberosa",
+    "score": 75.3,
+    "reason": "Shares full sun and low water; opens in early summer and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "hearts-of-gold",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Cercis canadensis 'Hearts of Gold' + Liriodendron tulipifera",
+    "score": 68.8,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "hemlock",
+    "companion": "goatsbeard",
+    "detail": "claims \"both are native plants\": Tsuga canadensis + Aruncus dioicus",
+    "score": 49.2,
+    "reason": "Shares part shade and moderate water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "hemlock",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Tsuga canadensis + Hamamelis",
+    "score": 48.5,
+    "reason": "Takes part sun to part shade and moderate water; shorter at 3 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "hemlock",
+    "companion": "dogwood-tree",
+    "detail": "claims \"both are native plants\": Tsuga canadensis + Cornus florida",
+    "score": 46.9,
+    "reason": "Shares part shade and moderate water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "hemlock",
+    "companion": "summersweet",
+    "detail": "claims \"both are native plants\": Tsuga canadensis + Clethra alnifolia",
+    "score": 46.2,
+    "reason": "Shares part shade and moderate to high water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "hemlock",
+    "companion": "ostrich-fern",
+    "detail": "claims \"both are native plants\": Tsuga canadensis + Matteuccia struthiopteris",
+    "score": 46.1,
+    "reason": "Shares part shade and moderate to high water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "hemlock",
+    "companion": "royal-fern",
+    "detail": "claims \"both are native plants\": Tsuga canadensis + Osmunda regalis",
+    "score": 46.1,
+    "reason": "Shares part shade and moderate to high water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "hemlock",
+    "companion": "cardinal-flower",
+    "detail": "claims \"both are native plants\": Tsuga canadensis + Lobelia cardinalis",
+    "score": 45.3,
+    "reason": "Takes part sun to part shade and moderate to high water; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "hemlock-gentsch-white",
+    "companion": "wild-ginger",
+    "detail": "claims \"both are native plants\": Tsuga canadensis 'Gentsch White' + Asarum",
+    "score": 69.2,
+    "reason": "Takes part shade to full shade and moderate water; low at 0.15 m, to carpet the ground beneath it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "hemlock-jeddeloh",
+    "companion": "wild-ginger",
+    "detail": "claims \"both are native plants\": Tsuga canadensis 'Jeddeloh' + Asarum",
+    "score": 69.2,
+    "reason": "Takes part shade to full shade and moderate water; low at 0.15 m, to carpet the ground beneath it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "hemlock-sargent",
+    "companion": "dogwood-tree",
+    "detail": "claims \"both are native plants\": Tsuga canadensis 'Sargentii' + Cornus florida",
+    "score": 53.5,
+    "reason": "Shares part shade and moderate water; taller at 7 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "hemlock-sargent",
+    "companion": "lady-fern",
+    "detail": "claims \"both are native plants\": Tsuga canadensis 'Sargentii' + Athyrium filix-femina",
+    "score": 52.3,
+    "reason": "Shares part shade and moderate water; shorter at 0.7 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "honeylocust",
+    "companion": "perennial-sunflower",
+    "detail": "claims \"both are native plants\": Gleditsia triacanthos + Helianthus",
+    "score": 63.3,
+    "reason": "Shares full sun and moderate water; both offer pollinator forage; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "honeylocust",
+    "companion": "joe-pye-weed",
+    "detail": "claims \"both are native plants\": Gleditsia triacanthos + Eutrochium",
+    "score": 61.9,
+    "reason": "Shares full sun and moderate to high water; both offer pollinator forage; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "honeylocust",
+    "companion": "helenium",
+    "detail": "claims \"both are native plants\": Gleditsia triacanthos + Helenium",
+    "score": 61.7,
+    "reason": "Shares full sun and moderate water; both offer pollinator forage; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "honeylocust",
+    "companion": "trumpet-vine",
+    "detail": "claims \"both are native plants\": Gleditsia triacanthos + Campsis radicans",
+    "score": 46.9,
+    "reason": "Shares full sun and moderate water; both offer pollinator forage; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "honeylocust",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Gleditsia triacanthos + Liriodendron tulipifera",
+    "score": 46.9,
+    "reason": "Shares full sun and moderate water; both offer pollinator forage; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "honeylocust",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Gleditsia triacanthos + Thuja occidentalis",
+    "score": 45.5,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "honeylocust",
+    "companion": "douglas-fir",
+    "detail": "claims \"both are native plants\": Gleditsia triacanthos + Pseudotsuga menziesii",
+    "score": 45.5,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ironweed",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Vernonia + Liriodendron tulipifera",
+    "score": 80.6,
+    "reason": "Shares full sun and moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "jacobs-ladder",
+    "companion": "redbud",
+    "detail": "claims \"both are native plants\": Polemonium + Cercis canadensis",
+    "score": 60.8,
+    "reason": "Takes part sun to part shade and moderate water; blooms in mid spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "jacobs-ladder",
+    "companion": "serviceberry",
+    "detail": "claims \"both are native plants\": Polemonium + Amelanchier",
+    "score": 59.8,
+    "reason": "Takes part sun to part shade and moderate water; blooms in mid spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "joe-pye-weed",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Eutrochium + Liriodendron tulipifera",
+    "score": 80.3,
+    "reason": "Shares full sun and moderate to high water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "lady-fern",
+    "companion": "northern-sea-oats",
+    "detail": "claims \"both are native plants\": Athyrium filix-femina + Chasmanthium latifolium",
+    "score": 47.4,
+    "reason": "Shares part shade and moderate water; its seed heads stand through winter, for structure and the birds; taller at 1 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "lady-fern",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Athyrium filix-femina + Polystichum acrostichoides",
+    "score": 45.2,
+    "reason": "Takes part shade to full shade and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "little-bluestem",
+    "companion": "creeping-phlox",
+    "detail": "claims \"both are native plants\": Schizachyrium scoparium + Phlox subulata",
+    "score": 68.3,
+    "reason": "Shares full sun and low water; blooms in mid spring, before this one opens; low at 0.15 m, to carpet the ground beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "little-bluestem",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Schizachyrium scoparium + Eschscholzia",
+    "score": 63.7,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; lower at 0.3 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "little-bluestem-purple",
+    "companion": "creeping-phlox",
+    "detail": "claims \"both are native plants\": Schizachyrium scoparium 'Twilight Zone' + Phlox subulata",
+    "score": 68.3,
+    "reason": "Shares full sun and low water; blooms in mid spring, before this one opens; low at 0.15 m, to carpet the ground beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "little-bluestem-purple",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Schizachyrium scoparium 'Twilight Zone' + Eschscholzia",
+    "score": 63.7,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; lower at 0.3 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "little-bluestem-red",
+    "companion": "creeping-phlox",
+    "detail": "claims \"both are native plants\": Schizachyrium scoparium 'Blaze' + Phlox subulata",
+    "score": 68.3,
+    "reason": "Shares full sun and low water; blooms in mid spring, before this one opens; low at 0.15 m, to carpet the ground beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "little-bluestem-red",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Schizachyrium scoparium 'Blaze' + Eschscholzia",
+    "score": 63.7,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; lower at 0.3 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "maidenhair-fern",
+    "companion": "northern-sea-oats",
+    "detail": "claims \"both are native plants\": Adiantum + Chasmanthium latifolium",
+    "score": 43.6,
+    "reason": "Takes part shade to full shade and moderate to high water; its seed heads stand through winter, for structure and the birds; taller at 1 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "maidenhair-fern",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Adiantum + Polystichum acrostichoides",
+    "score": 41.6,
+    "reason": "Shares full shade and moderate to high water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "maidenhair-fern",
+    "companion": "summersweet",
+    "detail": "claims \"both are native plants\": Adiantum + Clethra alnifolia",
+    "score": 34.9,
+    "reason": "Takes part shade to full shade and high water; taller at 1.8 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius + Thuja occidentalis",
+    "score": 53.2,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; taller at 6 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark-amber-jubilee",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius 'Jefam' + Thuja occidentalis",
+    "score": 53.1,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; taller at 6 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark-coppertina",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius 'Mindia' + Thuja occidentalis",
+    "score": 53.4,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; taller at 6 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark-coppertina",
+    "companion": "sunflower",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius 'Mindia' + Helianthus annuus",
+    "score": 53,
+    "reason": "Shares full sun and moderate water; blooms in midsummer as this one finishes; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark-coppertina",
+    "companion": "douglas-fir",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius 'Mindia' + Pseudotsuga menziesii",
+    "score": 51.8,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; stands well above at 18 m, a canopy to plant beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark-diabolo",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius 'Monlo' + Thuja occidentalis",
+    "score": 53.4,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; taller at 6 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark-diabolo",
+    "companion": "sunflower",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius 'Monlo' + Helianthus annuus",
+    "score": 53,
+    "reason": "Shares full sun and moderate water; blooms in midsummer as this one finishes; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark-diabolo",
+    "companion": "douglas-fir",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius 'Monlo' + Pseudotsuga menziesii",
+    "score": 51.8,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; stands well above at 18 m, a canopy to plant beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark-little-devil",
+    "companion": "helenium",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius 'Donna May' + Helenium",
+    "score": 64.8,
+    "reason": "Shares full sun and moderate water; blooms in midsummer as this one finishes; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark-little-devil",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius 'Donna May' + Thuja occidentalis",
+    "score": 52,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; stands well above at 6 m, a canopy to plant beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark-nugget",
+    "companion": "sunflower",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius 'Nugget' + Helianthus annuus",
+    "score": 53,
+    "reason": "Shares full sun and moderate water; blooms in midsummer as this one finishes; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark-nugget",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius 'Nugget' + Thuja occidentalis",
+    "score": 52.9,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; taller at 6 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark-summer-wine",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius 'Seward' + Thuja occidentalis",
+    "score": 53.1,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; taller at 6 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark-tiny-wine",
+    "companion": "coneflower",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius 'SMNPOTW' + Echinacea purpurea",
+    "score": 62.8,
+    "reason": "Shares full sun and low to moderate water; blooms in midsummer as this one finishes; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark-tiny-wine",
+    "companion": "sunflower",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius 'SMNPOTW' + Helianthus annuus",
+    "score": 53,
+    "reason": "Shares full sun and moderate water; blooms in midsummer as this one finishes; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ninebark-tiny-wine",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Physocarpus opulifolius 'SMNPOTW' + Thuja occidentalis",
+    "score": 52.2,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; taller at 6 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "northern-sea-oats",
+    "companion": "jacobs-ladder",
+    "detail": "claims \"both are native plants\": Chasmanthium latifolium + Polemonium",
+    "score": 68.3,
+    "reason": "Shares part shade and moderate water; blooms in late spring, before this one opens; lower at 0.5 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "northern-sea-oats",
+    "companion": "foam-flower",
+    "detail": "claims \"both are native plants\": Chasmanthium latifolium + Tiarella",
+    "score": 68.3,
+    "reason": "Shares part shade and moderate water; blooms in mid spring, before this one opens; lower at 0.3 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "northern-sea-oats",
+    "companion": "dogwood-tree",
+    "detail": "claims \"both are native plants\": Chasmanthium latifolium + Cornus florida",
+    "score": 62.6,
+    "reason": "Shares part shade and moderate water; blooms in mid spring, before this one opens; stands well above at 7 m, a canopy to plant beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "northern-sea-oats-white",
+    "companion": "jacobs-ladder",
+    "detail": "claims \"both are native plants\": Chasmanthium latifolium 'River Mist' + Polemonium",
+    "score": 63.9,
+    "reason": "Shares part shade and moderate water; blooms in late spring, before this one opens; both are native plants; blue against orange, for contrast."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "northern-sea-oats-white",
+    "companion": "foam-flower",
+    "detail": "claims \"both are native plants\": Chasmanthium latifolium 'River Mist' + Tiarella",
+    "score": 63.9,
+    "reason": "Shares part shade and moderate water; blooms in mid spring, before this one opens; both are native plants; a soft colour beside the orange."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "northern-sea-oats-white",
+    "companion": "columbine",
+    "detail": "claims \"both are native plants\": Chasmanthium latifolium 'River Mist' + Aquilegia",
+    "score": 63.9,
+    "reason": "Shares part shade and moderate water; blooms in mid spring, before this one opens; both are native plants; purple against orange, for contrast."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "northern-sea-oats-white",
+    "companion": "dogwood-tree",
+    "detail": "claims \"both are native plants\": Chasmanthium latifolium 'River Mist' + Cornus florida",
+    "score": 62.3,
+    "reason": "Shares part shade and moderate water; blooms in mid spring, before this one opens; stands well above at 7 m, a canopy to plant beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "northern-sea-oats-white",
+    "companion": "witch-hazel",
+    "detail": "claims \"both are native plants\": Chasmanthium latifolium 'River Mist' + Hamamelis",
+    "score": 57.7,
+    "reason": "Takes part sun to part shade and moderate water; blooms in late winter, before this one opens; taller at 3 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "obedient-plant",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Physostegia + Thuja occidentalis",
+    "score": 52.2,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; taller at 6 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "obedient-plant",
+    "companion": "bee-balm",
+    "detail": "claims \"both are native plants\": Physostegia + Monarda",
+    "score": 45.5,
+    "reason": "Shares full sun and moderate water; opens in midsummer and overlaps into this one's season; both are native plants; red sits close to pink on the wheel."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "obedient-plant",
+    "companion": "queen-of-the-prairie",
+    "detail": "claims \"both are native plants\": Physostegia + Filipendula rubra",
+    "score": 45.2,
+    "reason": "Shares full sun and moderate to high water; blooms in early summer, before this one opens; both are native plants; echoes the pink."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "obedient-plant",
+    "companion": "winterberry",
+    "detail": "claims \"both are native plants\": Physostegia + Ilex verticillata",
+    "score": 45.2,
+    "reason": "Shares full sun and moderate to high water; blooms in mid fall as this one finishes; both are native plants; red sits close to pink on the wheel."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "oklahoma-redbud",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Cercis canadensis var. texensis 'Oklahoma' + Liriodendron tulipifera",
+    "score": 68.8,
+    "reason": "Shares full sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ostrich-fern",
+    "companion": "hemlock",
+    "detail": "claims \"both are native plants\": Matteuccia struthiopteris + Tsuga canadensis",
+    "score": 46.1,
+    "reason": "Shares part shade and moderate to high water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ostrich-fern",
+    "companion": "dogwood-tree",
+    "detail": "claims \"both are native plants\": Matteuccia struthiopteris + Cornus florida",
+    "score": 33.6,
+    "reason": "Shares part shade and moderate to high water; taller at 7 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ostrich-fern",
+    "companion": "northern-sea-oats",
+    "detail": "claims \"both are native plants\": Matteuccia struthiopteris + Chasmanthium latifolium",
+    "score": 31.7,
+    "reason": "Shares part shade and moderate to high water; its seed heads stand through winter, for structure and the birds; both are native plants; this one spreads, so it will crowd its neighbour in time."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "perennial-sunflower",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Helianthus + Liriodendron tulipifera",
+    "score": 80.8,
+    "reason": "Shares full sun and moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "phlox-coral-flame",
+    "companion": "redbud",
+    "detail": "claims \"both are native plants\": Phlox paniculata 'Coral Flame' + Cercis canadensis",
+    "score": 57.7,
+    "reason": "Takes full sun to part sun and moderate water; blooms in mid spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "princess-diana",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Amelanchier × grandiflora 'Princess Diana' + Liriodendron tulipifera",
+    "score": 68.8,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "queen-of-the-prairie",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Filipendula rubra + Liriodendron tulipifera",
+    "score": 51.1,
+    "reason": "Shares full sun and moderate to high water; opens in late spring and overlaps into this one's season; both offer pollinator forage; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "queen-of-the-prairie",
+    "companion": "viburnum",
+    "detail": "claims \"both are native plants\": Filipendula rubra + Viburnum",
+    "score": 49.6,
+    "reason": "Shares full sun and moderate to high water; blooms in mid spring, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "rainbow-pillar",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Amelanchier canadensis 'Rainbow Pillar' + Liriodendron tulipifera",
+    "score": 68.8,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "red-maple",
+    "companion": "perennial-sunflower",
+    "detail": "claims \"both are native plants\": Acer rubrum + Helianthus",
+    "score": 63.3,
+    "reason": "Shares full sun and moderate water; both offer pollinator forage; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "red-maple",
+    "companion": "joe-pye-weed",
+    "detail": "claims \"both are native plants\": Acer rubrum + Eutrochium",
+    "score": 61.9,
+    "reason": "Shares full sun and moderate to high water; both offer pollinator forage; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "red-maple",
+    "companion": "helenium",
+    "detail": "claims \"both are native plants\": Acer rubrum + Helenium",
+    "score": 61.7,
+    "reason": "Shares full sun and moderate water; both offer pollinator forage; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "red-maple",
+    "companion": "trumpet-vine",
+    "detail": "claims \"both are native plants\": Acer rubrum + Campsis radicans",
+    "score": 46.9,
+    "reason": "Shares full sun and moderate water; both offer pollinator forage; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "red-maple",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Acer rubrum + Liriodendron tulipifera",
+    "score": 46.9,
+    "reason": "Shares full sun and moderate water; both offer pollinator forage; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "red-maple",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Acer rubrum + Thuja occidentalis",
+    "score": 45.5,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "red-maple",
+    "companion": "douglas-fir",
+    "detail": "claims \"both are native plants\": Acer rubrum + Pseudotsuga menziesii",
+    "score": 45.5,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "redbud",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Cercis canadensis + Liriodendron tulipifera",
+    "score": 68.8,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "regent-serviceberry",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Amelanchier alnifolia 'Regent' + Liriodendron tulipifera",
+    "score": 72.6,
+    "reason": "Shares full sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "rising-sun",
+    "companion": "annual-phlox",
+    "detail": "claims \"both are native plants\": Cercis canadensis 'The Rising Sun' + Phlox drummondii",
+    "score": 71.8,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "rising-sun",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Cercis canadensis 'The Rising Sun' + Liriodendron tulipifera",
+    "score": 68.8,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "river-birch",
+    "companion": "joe-pye-weed",
+    "detail": "claims \"both are native plants\": Betula nigra + Eutrochium",
+    "score": 51.5,
+    "reason": "Shares full sun and high water; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "river-birch",
+    "companion": "perennial-sunflower",
+    "detail": "claims \"both are native plants\": Betula nigra + Helianthus",
+    "score": 44.5,
+    "reason": "Shares full sun and moderate to high water; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "river-birch",
+    "companion": "helenium",
+    "detail": "claims \"both are native plants\": Betula nigra + Helenium",
+    "score": 43,
+    "reason": "Shares full sun and moderate to high water; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "river-birch",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Betula nigra + Thuja occidentalis",
+    "score": 41.9,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "river-birch",
+    "companion": "douglas-fir",
+    "detail": "claims \"both are native plants\": Betula nigra + Pseudotsuga menziesii",
+    "score": 41.9,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "river-birch",
+    "companion": "eastern-white-pine",
+    "detail": "claims \"both are native plants\": Betula nigra + Pinus strobus",
+    "score": 41.9,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "royal-fern",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Osmunda regalis + Polystichum acrostichoides",
+    "score": 47.8,
+    "reason": "Takes part shade to full shade and moderate to high water; evergreen, so the bed keeps its shape through winter; lower at 0.5 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "royal-fern",
+    "companion": "hemlock",
+    "detail": "claims \"both are native plants\": Osmunda regalis + Tsuga canadensis",
+    "score": 46.1,
+    "reason": "Shares part shade and moderate to high water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "royal-fern",
+    "companion": "wild-ginger",
+    "detail": "claims \"both are native plants\": Osmunda regalis + Asarum",
+    "score": 42.5,
+    "reason": "Takes part shade to full shade and moderate to high water; low at 0.15 m, to carpet the ground beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "royal-white",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Cercis canadensis f. alba 'Royal White' + Liriodendron tulipifera",
+    "score": 68.8,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "ruby-falls",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Cercis canadensis 'Ruby Falls' + Liriodendron tulipifera",
+    "score": 72.6,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "serviceberry",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Amelanchier + Liriodendron tulipifera",
+    "score": 68.8,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "serviceberry-ballerina",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Amelanchier × grandiflora 'Ballerina' + Liriodendron tulipifera",
+    "score": 68.8,
+    "reason": "Takes full sun to part sun and moderate water; blooms in late spring as this one finishes; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "solomons-seal",
+    "companion": "redbud",
+    "detail": "claims \"both are native plants\": Polygonatum + Cercis canadensis",
+    "score": 59.5,
+    "reason": "Takes part sun to part shade and moderate water; blooms in mid spring, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "solomons-seal",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Polygonatum + Tradescantia",
+    "score": 58.9,
+    "reason": "Takes part sun to part shade and moderate water; blooms in early summer as this one finishes; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "solomons-seal",
+    "companion": "serviceberry",
+    "detail": "claims \"both are native plants\": Polygonatum + Amelanchier",
+    "score": 56.5,
+    "reason": "Takes part sun to part shade and moderate water; blooms in mid spring, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sugar-maple",
+    "companion": "perennial-sunflower",
+    "detail": "claims \"both are native plants\": Acer saccharum + Helianthus",
+    "score": 62.7,
+    "reason": "Shares full sun and moderate water; both offer pollinator forage; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sugar-maple",
+    "companion": "joe-pye-weed",
+    "detail": "claims \"both are native plants\": Acer saccharum + Eutrochium",
+    "score": 61.4,
+    "reason": "Shares full sun and moderate to high water; both offer pollinator forage; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sugar-maple",
+    "companion": "false-sunflower",
+    "detail": "claims \"both are native plants\": Acer saccharum + Heliopsis",
+    "score": 58.9,
+    "reason": "Shares full sun and moderate water; both offer pollinator forage; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sugar-maple",
+    "companion": "trumpet-vine",
+    "detail": "claims \"both are native plants\": Acer saccharum + Campsis radicans",
+    "score": 46.9,
+    "reason": "Shares full sun and moderate water; both offer pollinator forage; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sugar-maple",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Acer saccharum + Thuja occidentalis",
+    "score": 45.5,
+    "reason": "Shares full sun and moderate water; evergreen, so the bed keeps its shape through winter; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sugar-maple",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Acer saccharum + Liriodendron tulipifera",
+    "score": 43.5,
+    "reason": "Shares full sun and moderate water; both offer pollinator forage; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "summersweet-hummingbird",
+    "companion": "jacobs-ladder",
+    "detail": "claims \"both are native plants\": Clethra alnifolia 'Hummingbird' + Polemonium",
+    "score": 63.3,
+    "reason": "Shares part shade and moderate to high water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "summersweet-sugartina",
+    "companion": "jacobs-ladder",
+    "detail": "claims \"both are native plants\": Clethra alnifolia 'Crystalina' + Polemonium",
+    "score": 63.3,
+    "reason": "Shares part shade and moderate to high water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "summersweet-sugartina",
+    "companion": "redbud",
+    "detail": "claims \"both are native plants\": Clethra alnifolia 'Crystalina' + Cercis canadensis",
+    "score": 54.2,
+    "reason": "Takes part sun to part shade and moderate to high water; blooms in mid spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sunflower",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Helianthus annuus + Liriodendron tulipifera",
+    "score": 87.9,
+    "reason": "Shares full sun and moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sunflower-autumn-beauty",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Helianthus annuus 'Autumn Beauty' + Liriodendron tulipifera",
+    "score": 85,
+    "reason": "Shares full sun and moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sunflower-italian-white",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Helianthus annuus 'Italian White' + Liriodendron tulipifera",
+    "score": 86.6,
+    "reason": "Shares full sun and moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sunflower-lemon-queen",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Helianthus annuus 'Lemon Queen' + Liriodendron tulipifera",
+    "score": 87.5,
+    "reason": "Shares full sun and moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sunflower-moulin-rouge",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Helianthus annuus 'Moulin Rouge' + Liriodendron tulipifera",
+    "score": 84.3,
+    "reason": "Shares full sun and moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sunflower-ring-of-fire",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Helianthus annuus 'Ring of Fire' + Liriodendron tulipifera",
+    "score": 84,
+    "reason": "Shares full sun and moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sunflower-soraya",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Helianthus annuus 'Soraya' + Liriodendron tulipifera",
+    "score": 84.3,
+    "reason": "Shares full sun and moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sunflower-strawberry-blonde",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Helianthus annuus 'Strawberry Blonde' + Liriodendron tulipifera",
+    "score": 84.3,
+    "reason": "Shares full sun and moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sunflower-teddy-bear",
+    "companion": "bluestar",
+    "detail": "claims \"both are native plants\": Helianthus annuus 'Teddy Bear' + Amsonia",
+    "score": 72.8,
+    "reason": "Shares full sun and moderate water; blooms in mid spring, before this one opens; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sunflower-vanilla-ice",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Helianthus annuus 'Vanilla Ice' + Liriodendron tulipifera",
+    "score": 86.5,
+    "reason": "Shares full sun and moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sunflower-velvet-queen",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Helianthus annuus 'Velvet Queen' + Liriodendron tulipifera",
+    "score": 85,
+    "reason": "Shares full sun and moderate water; blooms in late spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sweetbay-magnolia",
+    "companion": "helenium",
+    "detail": "claims \"both are native plants\": Magnolia virginiana + Helenium",
+    "score": 55.1,
+    "reason": "Takes full sun to part sun and moderate to high water; overlaps, then carries the display into early fall; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sweetbay-magnolia",
+    "companion": "northern-sea-oats",
+    "detail": "claims \"both are native plants\": Magnolia virginiana + Chasmanthium latifolium",
+    "score": 53.4,
+    "reason": "Takes part sun to part shade and moderate to high water; overlaps, then carries the display into early fall; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "sweetbay-magnolia",
+    "companion": "winterberry",
+    "detail": "claims \"both are native plants\": Magnolia virginiana + Ilex verticillata",
+    "score": 48.3,
+    "reason": "Takes full sun to part sun and high water; blooms in mid fall, extending the bed's season; shorter at 2 m, an understory layer; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "switchgrass",
+    "companion": "creeping-phlox",
+    "detail": "claims \"both are native plants\": Panicum virgatum + Phlox subulata",
+    "score": 68.3,
+    "reason": "Shares full sun and low water; blooms in mid spring, before this one opens; low at 0.15 m, to carpet the ground beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "switchgrass",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Panicum virgatum + Eschscholzia",
+    "score": 64.5,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; lower at 0.3 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "switchgrass-blue",
+    "companion": "creeping-phlox",
+    "detail": "claims \"both are native plants\": Panicum virgatum 'Heavy Metal' + Phlox subulata",
+    "score": 68.3,
+    "reason": "Shares full sun and low water; blooms in mid spring, before this one opens; low at 0.15 m, to carpet the ground beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "switchgrass-blue",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Panicum virgatum 'Heavy Metal' + Eschscholzia",
+    "score": 64.5,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; lower at 0.3 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "switchgrass-green",
+    "companion": "creeping-phlox",
+    "detail": "claims \"both are native plants\": Panicum virgatum 'Northwind' + Phlox subulata",
+    "score": 68.3,
+    "reason": "Shares full sun and low water; blooms in mid spring, before this one opens; low at 0.15 m, to carpet the ground beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "switchgrass-green",
+    "companion": "california-poppy",
+    "detail": "claims \"both are native plants\": Panicum virgatum 'Northwind' + Eschscholzia",
+    "score": 64.5,
+    "reason": "Shares full sun and low water; opens in late spring and overlaps into this one's season; lower at 0.3 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "switchgrass-green",
+    "companion": "butterfly-weed",
+    "detail": "claims \"both are native plants\": Panicum virgatum 'Northwind' + Asclepias tuberosa",
+    "score": 63.7,
+    "reason": "Shares full sun and low water; opens in early summer and overlaps into this one's season; lower at 0.6 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "switchgrass-red",
+    "companion": "creeping-phlox",
+    "detail": "claims \"both are native plants\": Panicum virgatum 'Shenandoah' + Phlox subulata",
+    "score": 68.3,
+    "reason": "Shares full sun and low water; blooms in mid spring, before this one opens; low at 0.15 m, to carpet the ground beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "trillium",
+    "companion": "goatsbeard",
+    "detail": "claims \"both are native plants\": Trillium + Aruncus dioicus",
+    "score": 52.3,
+    "reason": "Takes part shade to full shade and moderate water; blooms in early summer as this one finishes; taller at 1.2 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "trumpet-vine",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Campsis radicans + Liriodendron tulipifera",
+    "score": 57.8,
+    "reason": "Shares full sun and moderate water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "trumpet-vine",
+    "companion": "bee-balm",
+    "detail": "claims \"both are native plants\": Campsis radicans + Monarda",
+    "score": 57.2,
+    "reason": "Shares full sun and moderate water; both are strong pollinator plants; both are native plants; red sits close to orange on the wheel."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "trumpet-vine",
+    "companion": "serviceberry",
+    "detail": "claims \"both are native plants\": Campsis radicans + Amelanchier",
+    "score": 52.2,
+    "reason": "Takes full sun to part sun and moderate water; blooms in mid spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "trumpet-vine-apricot",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Campsis × tagliabuana 'Madame Galen' + Liriodendron tulipifera",
+    "score": 57.8,
+    "reason": "Shares full sun and moderate water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "trumpet-vine-apricot",
+    "companion": "bee-balm",
+    "detail": "claims \"both are native plants\": Campsis × tagliabuana 'Madame Galen' + Monarda",
+    "score": 57.2,
+    "reason": "Shares full sun and moderate water; both are strong pollinator plants; both are native plants; red sits close to orange on the wheel."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "trumpet-vine-apricot",
+    "companion": "serviceberry",
+    "detail": "claims \"both are native plants\": Campsis × tagliabuana 'Madame Galen' + Amelanchier",
+    "score": 52.2,
+    "reason": "Takes full sun to part sun and moderate water; blooms in mid spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "trumpet-vine-red",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Campsis radicans 'Crimson Trumpet' + Liriodendron tulipifera",
+    "score": 57.8,
+    "reason": "Shares full sun and moderate water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "trumpet-vine-red",
+    "companion": "bee-balm",
+    "detail": "claims \"both are native plants\": Campsis radicans 'Crimson Trumpet' + Monarda",
+    "score": 57.2,
+    "reason": "Shares full sun and moderate water; both are strong pollinator plants; both are native plants; echoes the red."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "trumpet-vine-red",
+    "companion": "redbud",
+    "detail": "claims \"both are native plants\": Campsis radicans 'Crimson Trumpet' + Cercis canadensis",
+    "score": 52.6,
+    "reason": "Takes full sun to part sun and moderate water; blooms in mid spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "trumpet-vine-yellow",
+    "companion": "tulip-tree",
+    "detail": "claims \"both are native plants\": Campsis radicans f. flava + Liriodendron tulipifera",
+    "score": 57.8,
+    "reason": "Shares full sun and moderate water; opens in late spring and overlaps into this one's season; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "trumpet-vine-yellow",
+    "companion": "bee-balm",
+    "detail": "claims \"both are native plants\": Campsis radicans f. flava + Monarda",
+    "score": 54.7,
+    "reason": "Shares full sun and moderate water; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "trumpet-vine-yellow",
+    "companion": "serviceberry",
+    "detail": "claims \"both are native plants\": Campsis radicans f. flava + Amelanchier",
+    "score": 52.2,
+    "reason": "Takes full sun to part sun and moderate water; blooms in mid spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "tulip-tree",
+    "companion": "redbud",
+    "detail": "claims \"both are native plants\": Liriodendron tulipifera + Cercis canadensis",
+    "score": 60.6,
+    "reason": "Takes full sun to part sun and moderate water; blooms in mid spring, before this one opens; both are strong pollinator plants, and they feed in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "tulip-tree",
+    "companion": "trumpet-vine",
+    "detail": "claims \"both are native plants\": Liriodendron tulipifera + Campsis radicans",
+    "score": 57.8,
+    "reason": "Shares full sun and moderate water; overlaps, then carries the display into early fall; both are strong pollinator plants; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "viburnum-blackhaw",
+    "companion": "trumpet-vine",
+    "detail": "claims \"both are native plants\": Viburnum prunifolium + Campsis radicans",
+    "score": 63.9,
+    "reason": "Shares full sun and moderate water; blooms in early summer as this one finishes; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "virginia-bluebells",
+    "companion": "spiderwort",
+    "detail": "claims \"both are native plants\": Mertensia virginica + Tradescantia",
+    "score": 55.8,
+    "reason": "Takes part sun to part shade and moderate water; blooms in early summer as this one finishes; both offer pollinator forage, in different months; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "wild-ginger",
+    "companion": "northern-sea-oats",
+    "detail": "claims \"both are native plants\": Asarum + Chasmanthium latifolium",
+    "score": 58,
+    "reason": "Takes part shade to full shade and moderate water; stands well above at 1 m, a canopy to plant beneath; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "wild-ginger",
+    "companion": "christmas-fern",
+    "detail": "claims \"both are native plants\": Asarum + Polystichum acrostichoides",
+    "score": 51.9,
+    "reason": "Shares full shade and moderate water; evergreen, so the bed keeps its shape through winter; taller at 0.5 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "wild-ginger",
+    "companion": "goatsbeard",
+    "detail": "claims \"both are native plants\": Asarum + Aruncus dioicus",
+    "score": 46.5,
+    "reason": "Takes part shade to full shade and moderate water; stands well above at 1.2 m, a canopy to plant beneath; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry",
+    "companion": "joe-pye-weed",
+    "detail": "claims \"both are native plants\": Ilex verticillata + Eutrochium",
+    "score": 60.8,
+    "reason": "Shares full sun and high water; blooms in midsummer, before this one opens; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry",
+    "companion": "helenium",
+    "detail": "claims \"both are native plants\": Ilex verticillata + Helenium",
+    "score": 56,
+    "reason": "Shares full sun and moderate to high water; blooms in midsummer, before this one opens; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry",
+    "companion": "turtlehead",
+    "detail": "claims \"both are native plants\": Ilex verticillata + Chelone",
+    "score": 53.5,
+    "reason": "Takes full sun to part sun and high water; blooms in late summer, before this one opens; lower at 0.9 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry",
+    "companion": "trumpet-vine",
+    "detail": "claims \"both are native plants\": Ilex verticillata + Campsis radicans",
+    "score": 50.4,
+    "reason": "Shares full sun and moderate to high water; blooms in early summer, before this one opens; climbs to 8 m behind it, height without the footprint; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Ilex verticillata + Thuja occidentalis",
+    "score": 49,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; taller at 6 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-berry-heavy",
+    "companion": "joe-pye-weed",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'Spravy' + Eutrochium",
+    "score": 64.1,
+    "reason": "Shares full sun and high water; blooms in midsummer, before this one opens; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-berry-heavy",
+    "companion": "helenium",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'Spravy' + Helenium",
+    "score": 56,
+    "reason": "Shares full sun and moderate to high water; blooms in midsummer, before this one opens; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-berry-heavy",
+    "companion": "turtlehead",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'Spravy' + Chelone",
+    "score": 53.5,
+    "reason": "Takes full sun to part sun and high water; blooms in late summer, before this one opens; lower at 0.9 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-berry-heavy",
+    "companion": "trumpet-vine",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'Spravy' + Campsis radicans",
+    "score": 50.6,
+    "reason": "Shares full sun and moderate to high water; blooms in early summer, before this one opens; climbs to 8 m behind it, height without the footprint; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-berry-heavy",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'Spravy' + Thuja occidentalis",
+    "score": 49.2,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; taller at 6 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-berry-poppins",
+    "companion": "joe-pye-weed",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'FarrowBPop' + Eutrochium",
+    "score": 64.1,
+    "reason": "Shares full sun and high water; blooms in midsummer, before this one opens; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-berry-poppins",
+    "companion": "helenium",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'FarrowBPop' + Helenium",
+    "score": 56,
+    "reason": "Shares full sun and moderate to high water; blooms in midsummer, before this one opens; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-berry-poppins",
+    "companion": "turtlehead",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'FarrowBPop' + Chelone",
+    "score": 53.5,
+    "reason": "Takes full sun to part sun and high water; blooms in late summer, before this one opens; lower at 0.9 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-berry-poppins",
+    "companion": "trumpet-vine",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'FarrowBPop' + Campsis radicans",
+    "score": 49.6,
+    "reason": "Shares full sun and moderate to high water; blooms in early summer, before this one opens; climbs to 8 m behind it, height without the footprint; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-berry-poppins",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'FarrowBPop' + Thuja occidentalis",
+    "score": 48.4,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; taller at 6 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-red-sprite",
+    "companion": "joe-pye-weed",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'Red Sprite' + Eutrochium",
+    "score": 64.1,
+    "reason": "Shares full sun and high water; blooms in midsummer, before this one opens; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-red-sprite",
+    "companion": "turtlehead",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'Red Sprite' + Chelone",
+    "score": 53.5,
+    "reason": "Takes full sun to part sun and high water; blooms in late summer, before this one opens; both are native plants; pink sits close to red on the wheel."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-red-sprite",
+    "companion": "helenium",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'Red Sprite' + Helenium",
+    "score": 53.1,
+    "reason": "Shares full sun and moderate to high water; blooms in midsummer, before this one opens; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-red-sprite",
+    "companion": "trumpet-vine",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'Red Sprite' + Campsis radicans",
+    "score": 49.2,
+    "reason": "Shares full sun and moderate to high water; blooms in early summer, before this one opens; climbs to 8 m behind it, height without the footprint; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-red-sprite",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'Red Sprite' + Thuja occidentalis",
+    "score": 48.1,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; taller at 6 m, for the layer behind it; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-winter-red",
+    "companion": "joe-pye-weed",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'Winter Red' + Eutrochium",
+    "score": 64.1,
+    "reason": "Shares full sun and high water; blooms in midsummer, before this one opens; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-winter-red",
+    "companion": "helenium",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'Winter Red' + Helenium",
+    "score": 56,
+    "reason": "Shares full sun and moderate to high water; blooms in midsummer, before this one opens; its seed heads stand through winter, for structure and the birds; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-winter-red",
+    "companion": "turtlehead",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'Winter Red' + Chelone",
+    "score": 53.5,
+    "reason": "Takes full sun to part sun and high water; blooms in late summer, before this one opens; lower at 0.9 m, for the front of the border; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-winter-red",
+    "companion": "trumpet-vine",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'Winter Red' + Campsis radicans",
+    "score": 50.6,
+    "reason": "Shares full sun and moderate to high water; blooms in early summer, before this one opens; climbs to 8 m behind it, height without the footprint; both are native plants."
+  },
+  {
+    "rule": "native-claim",
+    "severity": "check",
+    "subject": "winterberry-winter-red",
+    "companion": "arborvitae",
+    "detail": "claims \"both are native plants\": Ilex verticillata 'Winter Red' + Thuja occidentalis",
+    "score": 49.2,
+    "reason": "Shares full sun and moderate to high water; evergreen, so the bed keeps its shape through winter; taller at 6 m, for the layer behind it; both are native plants."
+  }
+]

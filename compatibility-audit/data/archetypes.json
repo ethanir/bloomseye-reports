@@ -1,0 +1,1934 @@
+[
+  {
+    "slug": "rosemary",
+    "name": "Rosemary",
+    "bot": "Salvia rosmarinus",
+    "cat": "Herb",
+    "lists": 419
+  },
+  {
+    "slug": "perennial-sunflower",
+    "name": "Perennial Sunflower",
+    "bot": "Helianthus",
+    "cat": "Perennial",
+    "lists": 402
+  },
+  {
+    "slug": "fountain-grass",
+    "name": "Fountain Grass",
+    "bot": "Pennisetum alopecuroides",
+    "cat": "Grass",
+    "lists": 308
+  },
+  {
+    "slug": "helenium",
+    "name": "Sneezeweed",
+    "bot": "Helenium",
+    "cat": "Perennial",
+    "lists": 284
+  },
+  {
+    "slug": "feather-reed-grass",
+    "name": "Feather Reed Grass",
+    "bot": "Calamagrostis × acutiflora",
+    "cat": "Grass",
+    "lists": 267
+  },
+  {
+    "slug": "lavender",
+    "name": "Lavender",
+    "bot": "Lavandula",
+    "cat": "Herb",
+    "lists": 264
+  },
+  {
+    "slug": "lilac",
+    "name": "Lilac",
+    "bot": "Syringa vulgaris",
+    "cat": "Shrub",
+    "lists": 261
+  },
+  {
+    "slug": "sea-thrift",
+    "name": "Sea Thrift",
+    "bot": "Armeria maritima",
+    "cat": "Perennial",
+    "lists": 245
+  },
+  {
+    "slug": "aster",
+    "name": "Aster",
+    "bot": "Symphyotrichum",
+    "cat": "Perennial",
+    "lists": 240
+  },
+  {
+    "slug": "crabapple",
+    "name": "Flowering Crabapple",
+    "bot": "Malus",
+    "cat": "Tree",
+    "lists": 237
+  },
+  {
+    "slug": "rock-cress",
+    "name": "Rock Cress",
+    "bot": "Aubrieta",
+    "cat": "Perennial",
+    "lists": 230
+  },
+  {
+    "slug": "hyacinth",
+    "name": "Hyacinth",
+    "bot": "Hyacinthus orientalis",
+    "cat": "Bulb",
+    "lists": 229
+  },
+  {
+    "slug": "candytuft",
+    "name": "Candytuft",
+    "bot": "Iberis sempervirens",
+    "cat": "Perennial",
+    "lists": 227
+  },
+  {
+    "slug": "viburnum",
+    "name": "Viburnum",
+    "bot": "Viburnum",
+    "cat": "Shrub",
+    "lists": 221
+  },
+  {
+    "slug": "baptisia",
+    "name": "False Indigo",
+    "bot": "Baptisia",
+    "cat": "Perennial",
+    "lists": 218
+  },
+  {
+    "slug": "bergenia",
+    "name": "Bergenia",
+    "bot": "Bergenia",
+    "cat": "Perennial",
+    "lists": 216
+  },
+  {
+    "slug": "pansy",
+    "name": "Pansy",
+    "bot": "Viola × wittrockiana",
+    "cat": "Annual",
+    "lists": 215
+  },
+  {
+    "slug": "blue-oat-grass",
+    "name": "Blue Oat Grass",
+    "bot": "Helictotrichon sempervirens",
+    "cat": "Grass",
+    "lists": 215
+  },
+  {
+    "slug": "joe-pye-weed",
+    "name": "Joe Pye Weed",
+    "bot": "Eutrochium",
+    "cat": "Perennial",
+    "lists": 214
+  },
+  {
+    "slug": "northern-sea-oats",
+    "name": "Northern Sea Oats",
+    "bot": "Chasmanthium latifolium",
+    "cat": "Grass",
+    "lists": 213
+  },
+  {
+    "slug": "grape-hyacinth",
+    "name": "Grape Hyacinth",
+    "bot": "Muscari",
+    "cat": "Bulb",
+    "lists": 209
+  },
+  {
+    "slug": "gardenia",
+    "name": "Gardenia",
+    "bot": "Gardenia jasminoides",
+    "cat": "Shrub",
+    "lists": 204
+  },
+  {
+    "slug": "sunflower",
+    "name": "Sunflower",
+    "bot": "Helianthus annuus",
+    "cat": "Annual",
+    "lists": 191
+  },
+  {
+    "slug": "pampas-grass",
+    "name": "Pampas Grass",
+    "bot": "Cortaderia selloana",
+    "cat": "Grass",
+    "lists": 191
+  },
+  {
+    "slug": "switchgrass",
+    "name": "Switchgrass",
+    "bot": "Panicum virgatum",
+    "cat": "Grass",
+    "lists": 188
+  },
+  {
+    "slug": "colchicum",
+    "name": "Autumn Crocus",
+    "bot": "Colchicum",
+    "cat": "Bulb",
+    "lists": 188
+  },
+  {
+    "slug": "echinops",
+    "name": "Globe Thistle",
+    "bot": "Echinops",
+    "cat": "Perennial",
+    "lists": 187
+  },
+  {
+    "slug": "hellebore",
+    "name": "Hellebore",
+    "bot": "Helleborus",
+    "cat": "Perennial",
+    "lists": 186
+  },
+  {
+    "slug": "creeping-phlox",
+    "name": "Creeping Phlox",
+    "bot": "Phlox subulata",
+    "cat": "Perennial",
+    "lists": 186
+  },
+  {
+    "slug": "camellia",
+    "name": "Camellia",
+    "bot": "Camellia japonica",
+    "cat": "Shrub",
+    "lists": 179
+  },
+  {
+    "slug": "goldenrod",
+    "name": "Goldenrod",
+    "bot": "Solidago",
+    "cat": "Perennial",
+    "lists": 178
+  },
+  {
+    "slug": "windflower",
+    "name": "Windflower",
+    "bot": "Anemone blanda",
+    "cat": "Bulb",
+    "lists": 162
+  },
+  {
+    "slug": "crocus",
+    "name": "Crocus",
+    "bot": "Crocus",
+    "cat": "Bulb",
+    "lists": 153
+  },
+  {
+    "slug": "christmas-fern",
+    "name": "Christmas Fern",
+    "bot": "Polystichum acrostichoides",
+    "cat": "Fern",
+    "lists": 136
+  },
+  {
+    "slug": "arborvitae",
+    "name": "Arborvitae",
+    "bot": "Thuja occidentalis",
+    "cat": "Conifer",
+    "lists": 135
+  },
+  {
+    "slug": "lobelia",
+    "name": "Lobelia",
+    "bot": "Lobelia erinus",
+    "cat": "Annual",
+    "lists": 124
+  },
+  {
+    "slug": "azalea",
+    "name": "Azalea",
+    "bot": "Rhododendron",
+    "cat": "Shrub",
+    "lists": 124
+  },
+  {
+    "slug": "redbud",
+    "name": "Eastern Redbud",
+    "bot": "Cercis canadensis",
+    "cat": "Tree",
+    "lists": 117
+  },
+  {
+    "slug": "rhododendron",
+    "name": "Rhododendron",
+    "bot": "Rhododendron",
+    "cat": "Shrub",
+    "lists": 110
+  },
+  {
+    "slug": "mock-orange",
+    "name": "Mock Orange",
+    "bot": "Philadelphus",
+    "cat": "Shrub",
+    "lists": 109
+  },
+  {
+    "slug": "witch-hazel",
+    "name": "Witch Hazel",
+    "bot": "Hamamelis",
+    "cat": "Shrub",
+    "lists": 106
+  },
+  {
+    "slug": "thyme",
+    "name": "Thyme",
+    "bot": "Thymus",
+    "cat": "Herb",
+    "lists": 101
+  },
+  {
+    "slug": "tulip-tree",
+    "name": "Tulip Tree",
+    "bot": "Liriodendron tulipifera",
+    "cat": "Tree",
+    "lists": 101
+  },
+  {
+    "slug": "sweet-alyssum",
+    "name": "Sweet Alyssum",
+    "bot": "Lobularia maritima",
+    "cat": "Annual",
+    "lists": 97
+  },
+  {
+    "slug": "chives",
+    "name": "Chives",
+    "bot": "Allium schoenoprasum",
+    "cat": "Herb",
+    "lists": 93
+  },
+  {
+    "slug": "summersweet",
+    "name": "Summersweet",
+    "bot": "Clethra alnifolia",
+    "cat": "Shrub",
+    "lists": 91
+  },
+  {
+    "slug": "scilla",
+    "name": "Siberian Squill",
+    "bot": "Scilla siberica",
+    "cat": "Bulb",
+    "lists": 89
+  },
+  {
+    "slug": "english-daisy",
+    "name": "English Daisy",
+    "bot": "Bellis perennis",
+    "cat": "Perennial",
+    "lists": 84
+  },
+  {
+    "slug": "autumn-fern",
+    "name": "Autumn Fern",
+    "bot": "Dryopteris erythrosora",
+    "cat": "Fern",
+    "lists": 82
+  },
+  {
+    "slug": "little-bluestem",
+    "name": "Little Bluestem",
+    "bot": "Schizachyrium scoparium",
+    "cat": "Grass",
+    "lists": 80
+  },
+  {
+    "slug": "false-sunflower",
+    "name": "False Sunflower",
+    "bot": "Heliopsis",
+    "cat": "Perennial",
+    "lists": 78
+  },
+  {
+    "slug": "cleome",
+    "name": "Cleome",
+    "bot": "Cleome hassleriana",
+    "cat": "Annual",
+    "lists": 74
+  },
+  {
+    "slug": "snow-in-summer",
+    "name": "Snow-in-Summer",
+    "bot": "Cerastium tomentosum",
+    "cat": "Perennial",
+    "lists": 72
+  },
+  {
+    "slug": "liatris",
+    "name": "Blazing Star",
+    "bot": "Liatris",
+    "cat": "Perennial",
+    "lists": 70
+  },
+  {
+    "slug": "maiden-grass",
+    "name": "Maiden Grass",
+    "bot": "Miscanthus sinensis",
+    "cat": "Grass",
+    "lists": 68
+  },
+  {
+    "slug": "bacopa",
+    "name": "Bacopa",
+    "bot": "Chaenostoma cordatum",
+    "cat": "Annual",
+    "lists": 68
+  },
+  {
+    "slug": "serviceberry",
+    "name": "Serviceberry",
+    "bot": "Amelanchier",
+    "cat": "Tree",
+    "lists": 66
+  },
+  {
+    "slug": "coneflower",
+    "name": "Purple Coneflower",
+    "bot": "Echinacea purpurea",
+    "cat": "Perennial",
+    "lists": 62
+  },
+  {
+    "slug": "black-eyed-susan",
+    "name": "Black-Eyed Susan",
+    "bot": "Rudbeckia",
+    "cat": "Perennial",
+    "lists": 62
+  },
+  {
+    "slug": "cosmos",
+    "name": "Cosmos",
+    "bot": "Cosmos bipinnatus",
+    "cat": "Annual",
+    "lists": 61
+  },
+  {
+    "slug": "torenia",
+    "name": "Wishbone Flower",
+    "bot": "Torenia fournieri",
+    "cat": "Annual",
+    "lists": 59
+  },
+  {
+    "slug": "calibrachoa",
+    "name": "Calibrachoa",
+    "bot": "Calibrachoa",
+    "cat": "Annual",
+    "lists": 57
+  },
+  {
+    "slug": "creeping-sedum",
+    "name": "Creeping Sedum",
+    "bot": "Sedum",
+    "cat": "Perennial",
+    "lists": 55
+  },
+  {
+    "slug": "snowdrop",
+    "name": "Snowdrop",
+    "bot": "Galanthus",
+    "cat": "Bulb",
+    "lists": 54
+  },
+  {
+    "slug": "ninebark",
+    "name": "Ninebark",
+    "bot": "Physocarpus opulifolius",
+    "cat": "Shrub",
+    "lists": 54
+  },
+  {
+    "slug": "dogwood-tree",
+    "name": "Flowering Dogwood",
+    "bot": "Cornus florida",
+    "cat": "Tree",
+    "lists": 53
+  },
+  {
+    "slug": "trumpet-vine",
+    "name": "Trumpet Vine",
+    "bot": "Campsis radicans",
+    "cat": "Climber",
+    "lists": 52
+  },
+  {
+    "slug": "passionflower",
+    "name": "Passionflower",
+    "bot": "Passiflora",
+    "cat": "Climber",
+    "lists": 52
+  },
+  {
+    "slug": "sedum-autumn",
+    "name": "Autumn Joy Sedum",
+    "bot": "Hylotelephium 'Herbstfreude'",
+    "cat": "Perennial",
+    "lists": 49
+  },
+  {
+    "slug": "flowering-cherry",
+    "name": "Flowering Cherry",
+    "bot": "Prunus serrulata",
+    "cat": "Tree",
+    "lists": 49
+  },
+  {
+    "slug": "goatsbeard",
+    "name": "Goatsbeard",
+    "bot": "Aruncus dioicus",
+    "cat": "Perennial",
+    "lists": 48
+  },
+  {
+    "slug": "primrose",
+    "name": "Primrose",
+    "bot": "Primula",
+    "cat": "Perennial",
+    "lists": 48
+  },
+  {
+    "slug": "blue-fescue",
+    "name": "Blue Fescue",
+    "bot": "Festuca glauca",
+    "cat": "Grass",
+    "lists": 45
+  },
+  {
+    "slug": "stock",
+    "name": "Stock",
+    "bot": "Matthiola",
+    "cat": "Annual",
+    "lists": 45
+  },
+  {
+    "slug": "canterbury-bells",
+    "name": "Canterbury Bells",
+    "bot": "Campanula medium",
+    "cat": "Annual",
+    "lists": 44
+  },
+  {
+    "slug": "california-poppy",
+    "name": "California Poppy",
+    "bot": "Eschscholzia",
+    "cat": "Annual",
+    "lists": 44
+  },
+  {
+    "slug": "sage",
+    "name": "Sage",
+    "bot": "Salvia officinalis",
+    "cat": "Herb",
+    "lists": 43
+  },
+  {
+    "slug": "ajuga",
+    "name": "Bugleweed",
+    "bot": "Ajuga reptans",
+    "cat": "Perennial",
+    "lists": 43
+  },
+  {
+    "slug": "cyclamen",
+    "name": "Cyclamen",
+    "bot": "Cyclamen",
+    "cat": "Perennial",
+    "lists": 43
+  },
+  {
+    "slug": "butterfly-bush",
+    "name": "Butterfly Bush",
+    "bot": "Buddleia davidii",
+    "cat": "Shrub",
+    "lists": 42
+  },
+  {
+    "slug": "honeysuckle",
+    "name": "Honeysuckle",
+    "bot": "Lonicera",
+    "cat": "Climber",
+    "lists": 42
+  },
+  {
+    "slug": "japanese-forest-grass",
+    "name": "Japanese Forest Grass",
+    "bot": "Hakonechloa macra",
+    "cat": "Grass",
+    "lists": 41
+  },
+  {
+    "slug": "crocosmia",
+    "name": "Crocosmia",
+    "bot": "Crocosmia",
+    "cat": "Bulb",
+    "lists": 40
+  },
+  {
+    "slug": "scaevola",
+    "name": "Fan Flower",
+    "bot": "Scaevola aemula",
+    "cat": "Annual",
+    "lists": 40
+  },
+  {
+    "slug": "cardinal-flower",
+    "name": "Cardinal Flower",
+    "bot": "Lobelia cardinalis",
+    "cat": "Perennial",
+    "lists": 39
+  },
+  {
+    "slug": "osteospermum",
+    "name": "African Daisy",
+    "bot": "Osteospermum",
+    "cat": "Annual",
+    "lists": 39
+  },
+  {
+    "slug": "boxwood",
+    "name": "Boxwood",
+    "bot": "Buxus",
+    "cat": "Shrub",
+    "lists": 38
+  },
+  {
+    "slug": "clematis",
+    "name": "Clematis",
+    "bot": "Clematis",
+    "cat": "Climber",
+    "lists": 38
+  },
+  {
+    "slug": "winterberry",
+    "name": "Winterberry",
+    "bot": "Ilex verticillata",
+    "cat": "Shrub",
+    "lists": 38
+  },
+  {
+    "slug": "lamium",
+    "name": "Dead Nettle",
+    "bot": "Lamium maculatum",
+    "cat": "Perennial",
+    "lists": 38
+  },
+  {
+    "slug": "solomons-seal",
+    "name": "Solomon's Seal",
+    "bot": "Polygonatum",
+    "cat": "Perennial",
+    "lists": 37
+  },
+  {
+    "slug": "dill",
+    "name": "Dill",
+    "bot": "Anethum graveolens",
+    "cat": "Herb",
+    "lists": 37
+  },
+  {
+    "slug": "spiderwort",
+    "name": "Spiderwort",
+    "bot": "Tradescantia",
+    "cat": "Perennial",
+    "lists": 37
+  },
+  {
+    "slug": "agave",
+    "name": "Agave",
+    "bot": "Agave",
+    "cat": "Perennial",
+    "lists": 37
+  },
+  {
+    "slug": "ironweed",
+    "name": "Ironweed",
+    "bot": "Vernonia",
+    "cat": "Perennial",
+    "lists": 36
+  },
+  {
+    "slug": "lily-asiatic",
+    "name": "Asiatic Lily",
+    "bot": "Lilium",
+    "cat": "Bulb",
+    "lists": 34
+  },
+  {
+    "slug": "sweet-potato-vine",
+    "name": "Sweet Potato Vine",
+    "bot": "Ipomoea batatas",
+    "cat": "Annual",
+    "lists": 34
+  },
+  {
+    "slug": "gazania",
+    "name": "Gazania",
+    "bot": "Gazania",
+    "cat": "Annual",
+    "lists": 34
+  },
+  {
+    "slug": "jacobs-ladder",
+    "name": "Jacob's Ladder",
+    "bot": "Polemonium",
+    "cat": "Perennial",
+    "lists": 32
+  },
+  {
+    "slug": "allium",
+    "name": "Giant Allium",
+    "bot": "Allium giganteum",
+    "cat": "Bulb",
+    "lists": 30
+  },
+  {
+    "slug": "rose-of-sharon",
+    "name": "Rose of Sharon",
+    "bot": "Hibiscus syriacus",
+    "cat": "Shrub",
+    "lists": 29
+  },
+  {
+    "slug": "glory-of-the-snow",
+    "name": "Glory of the Snow",
+    "bot": "Scilla",
+    "cat": "Bulb",
+    "lists": 29
+  },
+  {
+    "slug": "basket-of-gold",
+    "name": "Basket of Gold",
+    "bot": "Aurinia saxatilis",
+    "cat": "Perennial",
+    "lists": 28
+  },
+  {
+    "slug": "cornflower",
+    "name": "Bachelor's Button",
+    "bot": "Centaurea cyanus",
+    "cat": "Annual",
+    "lists": 27
+  },
+  {
+    "slug": "spirea",
+    "name": "Spirea",
+    "bot": "Spiraea",
+    "cat": "Shrub",
+    "lists": 26
+  },
+  {
+    "slug": "bee-balm",
+    "name": "Bee Balm",
+    "bot": "Monarda",
+    "cat": "Perennial",
+    "lists": 24
+  },
+  {
+    "slug": "bluestar",
+    "name": "Bluestar",
+    "bot": "Amsonia",
+    "cat": "Perennial",
+    "lists": 24
+  },
+  {
+    "slug": "hollyhock",
+    "name": "Hollyhock",
+    "bot": "Alcea rosea",
+    "cat": "Perennial",
+    "lists": 24
+  },
+  {
+    "slug": "phlox",
+    "name": "Garden Phlox",
+    "bot": "Phlox paniculata",
+    "cat": "Perennial",
+    "lists": 23
+  },
+  {
+    "slug": "potentilla",
+    "name": "Potentilla",
+    "bot": "Potentilla fruticosa",
+    "cat": "Shrub",
+    "lists": 23
+  },
+  {
+    "slug": "saucer-magnolia",
+    "name": "Saucer Magnolia",
+    "bot": "Magnolia × soulangeana",
+    "cat": "Tree",
+    "lists": 22
+  },
+  {
+    "slug": "delphinium",
+    "name": "Delphinium",
+    "bot": "Delphinium",
+    "cat": "Perennial",
+    "lists": 21
+  },
+  {
+    "slug": "verbena-annual",
+    "name": "Verbena",
+    "bot": "Verbena",
+    "cat": "Annual",
+    "lists": 21
+  },
+  {
+    "slug": "beautyberry",
+    "name": "Beautyberry",
+    "bot": "Callicarpa",
+    "cat": "Shrub",
+    "lists": 21
+  },
+  {
+    "slug": "obedient-plant",
+    "name": "Obedient Plant",
+    "bot": "Physostegia",
+    "cat": "Perennial",
+    "lists": 21
+  },
+  {
+    "slug": "pentas",
+    "name": "Pentas",
+    "bot": "Pentas lanceolata",
+    "cat": "Annual",
+    "lists": 21
+  },
+  {
+    "slug": "pachysandra",
+    "name": "Pachysandra",
+    "bot": "Pachysandra terminalis",
+    "cat": "Perennial",
+    "lists": 21
+  },
+  {
+    "slug": "gaillardia",
+    "name": "Blanket Flower",
+    "bot": "Gaillardia",
+    "cat": "Perennial",
+    "lists": 20
+  },
+  {
+    "slug": "smokebush",
+    "name": "Smokebush",
+    "bot": "Cotinus coggygria",
+    "cat": "Shrub",
+    "lists": 20
+  },
+  {
+    "slug": "virginia-bluebells",
+    "name": "Virginia Bluebells",
+    "bot": "Mertensia virginica",
+    "cat": "Perennial",
+    "lists": 19
+  },
+  {
+    "slug": "mullein",
+    "name": "Mullein",
+    "bot": "Verbascum",
+    "cat": "Perennial",
+    "lists": 19
+  },
+  {
+    "slug": "aloe",
+    "name": "Aloe",
+    "bot": "Aloe",
+    "cat": "Perennial",
+    "lists": 19
+  },
+  {
+    "slug": "butterfly-weed",
+    "name": "Butterfly Weed",
+    "bot": "Asclepias tuberosa",
+    "cat": "Perennial",
+    "lists": 18
+  },
+  {
+    "slug": "climbing-rose",
+    "name": "Climbing Rose",
+    "bot": "Rosa",
+    "cat": "Climber",
+    "lists": 17
+  },
+  {
+    "slug": "portulaca",
+    "name": "Portulaca",
+    "bot": "Portulaca grandiflora",
+    "cat": "Annual",
+    "lists": 17
+  },
+  {
+    "slug": "moonflower",
+    "name": "Moonflower",
+    "bot": "Ipomoea alba",
+    "cat": "Climber",
+    "lists": 17
+  },
+  {
+    "slug": "iris-bearded",
+    "name": "Bearded Iris",
+    "bot": "Iris germanica",
+    "cat": "Perennial",
+    "lists": 16
+  },
+  {
+    "slug": "penstemon",
+    "name": "Penstemon",
+    "bot": "Penstemon",
+    "cat": "Perennial",
+    "lists": 16
+  },
+  {
+    "slug": "globeflower",
+    "name": "Globeflower",
+    "bot": "Trollius",
+    "cat": "Perennial",
+    "lists": 16
+  },
+  {
+    "slug": "amaryllis",
+    "name": "Amaryllis",
+    "bot": "Hippeastrum",
+    "cat": "Bulb",
+    "lists": 16
+  },
+  {
+    "slug": "russian-sage",
+    "name": "Russian Sage",
+    "bot": "Salvia yangii",
+    "cat": "Perennial",
+    "lists": 15
+  },
+  {
+    "slug": "zinnia",
+    "name": "Zinnia",
+    "bot": "Zinnia elegans",
+    "cat": "Annual",
+    "lists": 15
+  },
+  {
+    "slug": "hydrangea",
+    "name": "Bigleaf Hydrangea",
+    "bot": "Hydrangea macrophylla",
+    "cat": "Shrub",
+    "lists": 15
+  },
+  {
+    "slug": "turtlehead",
+    "name": "Turtlehead",
+    "bot": "Chelone",
+    "cat": "Perennial",
+    "lists": 15
+  },
+  {
+    "slug": "echeveria",
+    "name": "Echeveria",
+    "bot": "Echeveria",
+    "cat": "Perennial",
+    "lists": 15
+  },
+  {
+    "slug": "holly-fern",
+    "name": "Holly Fern",
+    "bot": "Cyrtomium falcatum",
+    "cat": "Fern",
+    "lists": 15
+  },
+  {
+    "slug": "salvia",
+    "name": "Perennial Salvia",
+    "bot": "Salvia nemorosa",
+    "cat": "Perennial",
+    "lists": 14
+  },
+  {
+    "slug": "forsythia",
+    "name": "Forsythia",
+    "bot": "Forsythia",
+    "cat": "Shrub",
+    "lists": 14
+  },
+  {
+    "slug": "climbing-hydrangea",
+    "name": "Climbing Hydrangea",
+    "bot": "Hydrangea petiolaris",
+    "cat": "Climber",
+    "lists": 14
+  },
+  {
+    "slug": "ranunculus",
+    "name": "Ranunculus",
+    "bot": "Ranunculus asiaticus",
+    "cat": "Bulb",
+    "lists": 14
+  },
+  {
+    "slug": "monkshood",
+    "name": "Monkshood",
+    "bot": "Aconitum",
+    "cat": "Perennial",
+    "lists": 14
+  },
+  {
+    "slug": "douglas-fir",
+    "name": "Douglas Fir",
+    "bot": "Pseudotsuga menziesii",
+    "cat": "Conifer",
+    "lists": 14
+  },
+  {
+    "slug": "lily-of-valley",
+    "name": "Lily of the Valley",
+    "bot": "Convallaria majalis",
+    "cat": "Perennial",
+    "lists": 13
+  },
+  {
+    "slug": "ice-plant",
+    "name": "Ice Plant",
+    "bot": "Delosperma",
+    "cat": "Perennial",
+    "lists": 13
+  },
+  {
+    "slug": "cuphea",
+    "name": "Cuphea (Cigar Plant)",
+    "bot": "Cuphea ignea",
+    "cat": "Annual",
+    "lists": 13
+  },
+  {
+    "slug": "basil",
+    "name": "Basil",
+    "bot": "Ocimum basilicum",
+    "cat": "Herb",
+    "lists": 12
+  },
+  {
+    "slug": "salvia-annual",
+    "name": "Salvia (Annual)",
+    "bot": "Salvia splendens",
+    "cat": "Annual",
+    "lists": 11
+  },
+  {
+    "slug": "anemone",
+    "name": "Poppy Anemone",
+    "bot": "Anemone coronaria",
+    "cat": "Bulb",
+    "lists": 11
+  },
+  {
+    "slug": "wild-ginger",
+    "name": "Wild Ginger",
+    "bot": "Asarum",
+    "cat": "Perennial",
+    "lists": 11
+  },
+  {
+    "slug": "eastern-white-pine",
+    "name": "Eastern White Pine",
+    "bot": "Pinus strobus",
+    "cat": "Conifer",
+    "lists": 11
+  },
+  {
+    "slug": "sweet-woodruff",
+    "name": "Sweet Woodruff",
+    "bot": "Galium odoratum",
+    "cat": "Perennial",
+    "lists": 11
+  },
+  {
+    "slug": "foxglove",
+    "name": "Foxglove",
+    "bot": "Digitalis",
+    "cat": "Perennial",
+    "lists": 10
+  },
+  {
+    "slug": "impatiens",
+    "name": "Impatiens",
+    "bot": "Impatiens walleriana",
+    "cat": "Annual",
+    "lists": 10
+  },
+  {
+    "slug": "crape-myrtle",
+    "name": "Crape Myrtle",
+    "bot": "Lagerstroemia",
+    "cat": "Shrub",
+    "lists": 10
+  },
+  {
+    "slug": "foam-flower",
+    "name": "Foam Flower",
+    "bot": "Tiarella",
+    "cat": "Perennial",
+    "lists": 10
+  },
+  {
+    "slug": "hemlock",
+    "name": "Eastern Hemlock",
+    "bot": "Tsuga canadensis",
+    "cat": "Conifer",
+    "lists": 10
+  },
+  {
+    "slug": "jasmine",
+    "name": "Jasmine",
+    "bot": "Jasminum officinale",
+    "cat": "Climber",
+    "lists": 9
+  },
+  {
+    "slug": "oregano",
+    "name": "Oregano",
+    "bot": "Origanum",
+    "cat": "Herb",
+    "lists": 9
+  },
+  {
+    "slug": "calla-lily",
+    "name": "Calla Lily",
+    "bot": "Zantedeschia",
+    "cat": "Bulb",
+    "lists": 9
+  },
+  {
+    "slug": "queen-of-the-prairie",
+    "name": "Queen of the Prairie",
+    "bot": "Filipendula rubra",
+    "cat": "Perennial",
+    "lists": 9
+  },
+  {
+    "slug": "annual-phlox",
+    "name": "Annual Phlox",
+    "bot": "Phlox drummondii",
+    "cat": "Annual",
+    "lists": 9
+  },
+  {
+    "slug": "snowflake",
+    "name": "Snowflake",
+    "bot": "Leucojum",
+    "cat": "Bulb",
+    "lists": 9
+  },
+  {
+    "slug": "gaura",
+    "name": "Gaura",
+    "bot": "Oenothera lindheimeri",
+    "cat": "Perennial",
+    "lists": 8
+  },
+  {
+    "slug": "wisteria",
+    "name": "Wisteria",
+    "bot": "Wisteria",
+    "cat": "Climber",
+    "lists": 7
+  },
+  {
+    "slug": "sweet-pea",
+    "name": "Sweet Pea",
+    "bot": "Lathyrus odoratus",
+    "cat": "Annual",
+    "lists": 7
+  },
+  {
+    "slug": "meadow-rue",
+    "name": "Meadow Rue",
+    "bot": "Thalictrum",
+    "cat": "Perennial",
+    "lists": 7
+  },
+  {
+    "slug": "juniper",
+    "name": "Juniper",
+    "bot": "Juniperus",
+    "cat": "Conifer",
+    "lists": 7
+  },
+  {
+    "slug": "canna",
+    "name": "Canna Lily",
+    "bot": "Canna",
+    "cat": "Bulb",
+    "lists": 6
+  },
+  {
+    "slug": "catmint",
+    "name": "Catmint",
+    "bot": "Nepeta",
+    "cat": "Perennial",
+    "lists": 6
+  },
+  {
+    "slug": "lupine",
+    "name": "Lupine",
+    "bot": "Lupinus",
+    "cat": "Perennial",
+    "lists": 6
+  },
+  {
+    "slug": "amaranth",
+    "name": "Love-Lies-Bleeding",
+    "bot": "Amaranthus caudatus",
+    "cat": "Annual",
+    "lists": 6
+  },
+  {
+    "slug": "fuchsia",
+    "name": "Fuchsia",
+    "bot": "Fuchsia",
+    "cat": "Annual",
+    "lists": 6
+  },
+  {
+    "slug": "red-hot-poker",
+    "name": "Red Hot Poker",
+    "bot": "Kniphofia",
+    "cat": "Perennial",
+    "lists": 5
+  },
+  {
+    "slug": "carnation",
+    "name": "Carnation",
+    "bot": "Dianthus caryophyllus",
+    "cat": "Perennial",
+    "lists": 5
+  },
+  {
+    "slug": "nicotiana",
+    "name": "Flowering Tobacco",
+    "bot": "Nicotiana",
+    "cat": "Annual",
+    "lists": 5
+  },
+  {
+    "slug": "ostrich-fern",
+    "name": "Ostrich Fern",
+    "bot": "Matteuccia struthiopteris",
+    "cat": "Fern",
+    "lists": 5
+  },
+  {
+    "slug": "dahlia",
+    "name": "Dahlia",
+    "bot": "Dahlia",
+    "cat": "Bulb",
+    "lists": 4
+  },
+  {
+    "slug": "shasta-daisy",
+    "name": "Shasta Daisy",
+    "bot": "Leucanthemum",
+    "cat": "Perennial",
+    "lists": 4
+  },
+  {
+    "slug": "mint",
+    "name": "Mint",
+    "bot": "Mentha",
+    "cat": "Herb",
+    "lists": 4
+  },
+  {
+    "slug": "ligularia",
+    "name": "Ligularia",
+    "bot": "Ligularia",
+    "cat": "Perennial",
+    "lists": 4
+  },
+  {
+    "slug": "tropical-hibiscus",
+    "name": "Tropical Hibiscus",
+    "bot": "Hibiscus rosa-sinensis",
+    "cat": "Shrub",
+    "lists": 4
+  },
+  {
+    "slug": "cinnamon-fern",
+    "name": "Cinnamon Fern",
+    "bot": "Osmundastrum cinnamomeum",
+    "cat": "Fern",
+    "lists": 4
+  },
+  {
+    "slug": "periwinkle",
+    "name": "Periwinkle",
+    "bot": "Vinca minor",
+    "cat": "Perennial",
+    "lists": 4
+  },
+  {
+    "slug": "coreopsis",
+    "name": "Coreopsis",
+    "bot": "Coreopsis",
+    "cat": "Perennial",
+    "lists": 3
+  },
+  {
+    "slug": "bleeding-heart",
+    "name": "Bleeding Heart",
+    "bot": "Lamprocapnos spectabilis",
+    "cat": "Perennial",
+    "lists": 3
+  },
+  {
+    "slug": "lungwort",
+    "name": "Lungwort",
+    "bot": "Pulmonaria",
+    "cat": "Perennial",
+    "lists": 3
+  },
+  {
+    "slug": "lantana",
+    "name": "Lantana",
+    "bot": "Lantana camara",
+    "cat": "Annual",
+    "lists": 3
+  },
+  {
+    "slug": "lemon-balm",
+    "name": "Lemon Balm",
+    "bot": "Melissa officinalis",
+    "cat": "Herb",
+    "lists": 3
+  },
+  {
+    "slug": "larkspur",
+    "name": "Larkspur",
+    "bot": "Consolida",
+    "cat": "Annual",
+    "lists": 3
+  },
+  {
+    "slug": "ladys-mantle",
+    "name": "Lady's Mantle",
+    "bot": "Alchemilla mollis",
+    "cat": "Perennial",
+    "lists": 3
+  },
+  {
+    "slug": "royal-fern",
+    "name": "Royal Fern",
+    "bot": "Osmunda regalis",
+    "cat": "Fern",
+    "lists": 3
+  },
+  {
+    "slug": "new-dawn-rose",
+    "name": "New Dawn",
+    "bot": "Rosa 'New Dawn'",
+    "cat": "Rose",
+    "lists": 3
+  },
+  {
+    "slug": "gladiolus",
+    "name": "Gladiolus",
+    "bot": "Gladiolus",
+    "cat": "Bulb",
+    "lists": 2
+  },
+  {
+    "slug": "browallia",
+    "name": "Browallia",
+    "bot": "Browallia speciosa",
+    "cat": "Annual",
+    "lists": 2
+  },
+  {
+    "slug": "four-oclock",
+    "name": "Four O'Clock",
+    "bot": "Mirabilis jalapa",
+    "cat": "Annual",
+    "lists": 2
+  },
+  {
+    "slug": "peony",
+    "name": "Peony",
+    "bot": "Paeonia",
+    "cat": "Perennial",
+    "lists": 1
+  },
+  {
+    "slug": "columbine",
+    "name": "Columbine",
+    "bot": "Aquilegia",
+    "cat": "Perennial",
+    "lists": 1
+  },
+  {
+    "slug": "lambs-ear",
+    "name": "Lamb's Ear",
+    "bot": "Stachys byzantina",
+    "cat": "Perennial",
+    "lists": 1
+  },
+  {
+    "slug": "hardy-geranium",
+    "name": "Hardy Geranium",
+    "bot": "Geranium",
+    "cat": "Perennial",
+    "lists": 1
+  },
+  {
+    "slug": "chrysanthemum",
+    "name": "Garden Mum",
+    "bot": "Chrysanthemum",
+    "cat": "Perennial",
+    "lists": 1
+  },
+  {
+    "slug": "dianthus",
+    "name": "Dianthus",
+    "bot": "Dianthus",
+    "cat": "Perennial",
+    "lists": 1
+  },
+  {
+    "slug": "weigela",
+    "name": "Weigela",
+    "bot": "Weigela florida",
+    "cat": "Shrub",
+    "lists": 1
+  },
+  {
+    "slug": "red-maple",
+    "name": "Red Maple",
+    "bot": "Acer rubrum",
+    "cat": "Tree",
+    "lists": 1
+  },
+  {
+    "slug": "honeylocust",
+    "name": "Honeylocust",
+    "bot": "Gleditsia triacanthos",
+    "cat": "Tree",
+    "lists": 1
+  },
+  {
+    "slug": "hardy-hibiscus",
+    "name": "Hardy Hibiscus",
+    "bot": "Hibiscus moscheutos",
+    "cat": "Perennial",
+    "lists": 1
+  },
+  {
+    "slug": "mandevilla",
+    "name": "Mandevilla",
+    "bot": "Mandevilla",
+    "cat": "Climber",
+    "lists": 1
+  },
+  {
+    "slug": "bidens",
+    "name": "Bidens",
+    "bot": "Bidens ferulifolia",
+    "cat": "Annual",
+    "lists": 1
+  },
+  {
+    "slug": "black-eyed-susan-vine",
+    "name": "Black-Eyed Susan Vine",
+    "bot": "Thunbergia alata",
+    "cat": "Climber",
+    "lists": 1
+  },
+  {
+    "slug": "lady-fern",
+    "name": "Lady Fern",
+    "bot": "Athyrium filix-femina",
+    "cat": "Fern",
+    "lists": 1
+  },
+  {
+    "slug": "gertrude-jekyll",
+    "name": "Gertrude Jekyll",
+    "bot": "Rosa 'Ausbord'",
+    "cat": "Rose",
+    "lists": 1
+  },
+  {
+    "slug": "tulip",
+    "name": "Tulip",
+    "bot": "Tulipa",
+    "cat": "Bulb",
+    "lists": 0
+  },
+  {
+    "slug": "daffodil",
+    "name": "Daffodil",
+    "bot": "Narcissus",
+    "cat": "Bulb",
+    "lists": 0
+  },
+  {
+    "slug": "daylily",
+    "name": "Daylily",
+    "bot": "Hemerocallis",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "yarrow",
+    "name": "Yarrow",
+    "bot": "Achillea",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "coral-bells",
+    "name": "Coral Bells",
+    "bot": "Heuchera",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "hosta",
+    "name": "Hosta",
+    "bot": "Hosta",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "astilbe",
+    "name": "Astilbe",
+    "bot": "Astilbe",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "veronica",
+    "name": "Veronica",
+    "bot": "Veronica spicata",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "japanese-anemone",
+    "name": "Japanese Anemone",
+    "bot": "Anemone hupehensis",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "marigold",
+    "name": "Marigold",
+    "bot": "Tagetes",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "petunia",
+    "name": "Petunia",
+    "bot": "Petunia",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "begonia",
+    "name": "Begonia",
+    "bot": "Begonia",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "geranium-annual",
+    "name": "Geranium (Annual)",
+    "bot": "Pelargonium",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "snapdragon",
+    "name": "Snapdragon",
+    "bot": "Antirrhinum",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "nasturtium",
+    "name": "Nasturtium",
+    "bot": "Tropaeolum",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "celosia",
+    "name": "Celosia",
+    "bot": "Celosia",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "vinca",
+    "name": "Vinca",
+    "bot": "Catharanthus roseus",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "calendula",
+    "name": "Calendula",
+    "bot": "Calendula",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "rose-shrub",
+    "name": "Shrub Rose",
+    "bot": "Rosa",
+    "cat": "Rose",
+    "lists": 0
+  },
+  {
+    "slug": "morning-glory",
+    "name": "Morning Glory",
+    "bot": "Ipomoea",
+    "cat": "Climber",
+    "lists": 0
+  },
+  {
+    "slug": "japanese-maple",
+    "name": "Japanese Maple",
+    "bot": "Acer palmatum",
+    "cat": "Tree",
+    "lists": 0
+  },
+  {
+    "slug": "sugar-maple",
+    "name": "Sugar Maple",
+    "bot": "Acer saccharum",
+    "cat": "Tree",
+    "lists": 0
+  },
+  {
+    "slug": "river-birch",
+    "name": "River Birch",
+    "bot": "Betula nigra",
+    "cat": "Tree",
+    "lists": 0
+  },
+  {
+    "slug": "ginkgo",
+    "name": "Ginkgo",
+    "bot": "Ginkgo biloba",
+    "cat": "Tree",
+    "lists": 0
+  },
+  {
+    "slug": "weeping-willow",
+    "name": "Weeping Willow",
+    "bot": "Salix babylonica",
+    "cat": "Tree",
+    "lists": 0
+  },
+  {
+    "slug": "linden",
+    "name": "Littleleaf Linden",
+    "bot": "Tilia cordata",
+    "cat": "Tree",
+    "lists": 0
+  },
+  {
+    "slug": "brunnera",
+    "name": "Brunnera",
+    "bot": "Brunnera macrophylla",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "coleus",
+    "name": "Coleus",
+    "bot": "Coleus scutellarioides",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "angelonia",
+    "name": "Angelonia",
+    "bot": "Angelonia angustifolia",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "ageratum",
+    "name": "Ageratum",
+    "bot": "Ageratum houstonianum",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "dusty-miller",
+    "name": "Dusty Miller",
+    "bot": "Jacobaea maritima",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "hybrid-tea-rose",
+    "name": "Hybrid Tea Rose",
+    "bot": "Rosa",
+    "cat": "Rose",
+    "lists": 0
+  },
+  {
+    "slug": "floribunda-rose",
+    "name": "Floribunda Rose",
+    "bot": "Rosa",
+    "cat": "Rose",
+    "lists": 0
+  },
+  {
+    "slug": "boston-ivy",
+    "name": "Boston Ivy",
+    "bot": "Parthenocissus tricuspidata",
+    "cat": "Climber",
+    "lists": 0
+  },
+  {
+    "slug": "parsley",
+    "name": "Parsley",
+    "bot": "Petroselinum crispum",
+    "cat": "Herb",
+    "lists": 0
+  },
+  {
+    "slug": "balloon-flower",
+    "name": "Balloon Flower",
+    "bot": "Platycodon",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "pincushion-flower",
+    "name": "Pincushion Flower",
+    "bot": "Scabiosa",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "toad-lily",
+    "name": "Toad Lily",
+    "bot": "Tricyrtis",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "sweet-william",
+    "name": "Sweet William",
+    "bot": "Dianthus barbatus",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "hens-and-chicks",
+    "name": "Hens and Chicks",
+    "bot": "Sempervivum",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "foamy-bells",
+    "name": "Foamy Bells",
+    "bot": "Heucherella",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "agastache",
+    "name": "Anise Hyssop",
+    "bot": "Agastache",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "gomphrena",
+    "name": "Globe Amaranth",
+    "bot": "Gomphrena",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "strawflower",
+    "name": "Strawflower",
+    "bot": "Xerochrysum",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "statice",
+    "name": "Statice",
+    "bot": "Limonium",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "lisianthus",
+    "name": "Lisianthus",
+    "bot": "Eustoma",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "ornamental-kale",
+    "name": "Ornamental Kale",
+    "bot": "Brassica oleracea",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "caladium",
+    "name": "Caladium",
+    "bot": "Caladium",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "tuberous-begonia",
+    "name": "Tuberous Begonia",
+    "bot": "Begonia × tuberhybrida",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "fritillaria",
+    "name": "Crown Imperial",
+    "bot": "Fritillaria imperialis",
+    "cat": "Bulb",
+    "lists": 0
+  },
+  {
+    "slug": "agapanthus",
+    "name": "Agapanthus",
+    "bot": "Agapanthus",
+    "cat": "Bulb",
+    "lists": 0
+  },
+  {
+    "slug": "freesia",
+    "name": "Freesia",
+    "bot": "Freesia",
+    "cat": "Bulb",
+    "lists": 0
+  },
+  {
+    "slug": "star-of-bethlehem",
+    "name": "Star of Bethlehem",
+    "bot": "Ornithogalum",
+    "cat": "Bulb",
+    "lists": 0
+  },
+  {
+    "slug": "elephant-ear",
+    "name": "Elephant Ear",
+    "bot": "Colocasia",
+    "cat": "Bulb",
+    "lists": 0
+  },
+  {
+    "slug": "gerbera",
+    "name": "Gerbera Daisy",
+    "bot": "Gerbera jamesonii",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "marguerite-daisy",
+    "name": "Marguerite Daisy",
+    "bot": "Argyranthemum",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "rex-begonia",
+    "name": "Rex Begonia",
+    "bot": "Begonia rex",
+    "cat": "Annual",
+    "lists": 0
+  },
+  {
+    "slug": "trillium",
+    "name": "Trillium",
+    "bot": "Trillium",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "sea-holly",
+    "name": "Sea Holly",
+    "bot": "Eryngium",
+    "cat": "Perennial",
+    "lists": 0
+  },
+  {
+    "slug": "boston-fern",
+    "name": "Boston Fern",
+    "bot": "Nephrolepis exaltata",
+    "cat": "Fern",
+    "lists": 0
+  },
+  {
+    "slug": "japanese-painted-fern",
+    "name": "Japanese Painted Fern",
+    "bot": "Athyrium niponicum",
+    "cat": "Fern",
+    "lists": 0
+  },
+  {
+    "slug": "maidenhair-fern",
+    "name": "Maidenhair Fern",
+    "bot": "Adiantum",
+    "cat": "Fern",
+    "lists": 0
+  },
+  {
+    "slug": "blue-spruce",
+    "name": "Colorado Blue Spruce",
+    "bot": "Picea pungens",
+    "cat": "Conifer",
+    "lists": 0
+  },
+  {
+    "slug": "italian-cypress",
+    "name": "Italian Cypress",
+    "bot": "Cupressus sempervirens",
+    "cat": "Conifer",
+    "lists": 0
+  },
+  {
+    "slug": "bald-cypress",
+    "name": "Bald Cypress",
+    "bot": "Taxodium distichum",
+    "cat": "Conifer",
+    "lists": 0
+  },
+  {
+    "slug": "epimedium",
+    "name": "Barrenwort",
+    "bot": "Epimedium",
+    "cat": "Perennial",
+    "lists": 0
+  }
+]

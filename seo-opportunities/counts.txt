@@ -1,0 +1,576 @@
+==============================================================================
+BLOOMSEYE CATALOG - SEO FACET ANALYSIS   (catalog snapshot: live plants.json)
+==============================================================================
+total plants ............ 1677
+distinct groups ......... 342
+grouped (has .group) .... 1511
+groupDefault=true ....... 176
+community=true .......... 66
+with real photos ........ 135
+with description ........ 66
+foliage only (no bloom) . 172
+deep-intel records ...... 276
+
+--- CATEGORY (/plants/type/) ---
+  perennial                    plants=  450  groups= 120
+  annual                       plants=  422  groups=  61
+  bulb                         plants=  231  groups=  29
+  shrub                        plants=  228  groups=  31
+  rose                         plants=   87  groups=  34
+  tree                         plants=   84  groups=  17
+  climber                      plants=   62  groups=  13
+  conifer                      plants=   48  groups=   8
+  grass                        plants=   33  groups=  10
+  herb                         plants=   22  groups=  11
+  fern                         plants=   10  groups=  10
+
+--- SUN (/plants/light/) ---
+  full-sun                     plants= 1273  groups= 255
+  part-shade                   plants=  249  groups=  57
+  part-sun                     plants=  130  groups=  32
+  full-shade                   plants=   25  groups=  12
+
+--- WATER (no hub today) ---
+  moderate                     plants= 1178  groups= 234
+  low                          plants=  374  groups=  85
+  high                         plants=  125  groups=  28
+
+--- ZONE (/plants/zone/) ---
+  8                            plants= 1217  groups= 274
+  7                            plants= 1199  groups= 272
+  6                            plants= 1118  groups= 265
+  5                            plants= 1070  groups= 243
+  9                            plants=  914  groups= 218
+  4                            plants=  812  groups= 205
+  10                           plants=  500  groups= 113
+  3                            plants=  483  groups= 128
+  11                           plants=  332  groups=  84
+  2                            plants=   64  groups=  15
+  12                           plants=    1  groups=   1   (below MIN_FACET=3)
+  13                           plants=    1  groups=   1   (below MIN_FACET=3)
+
+--- BLOOM COLOR (/plants/color/) ---
+  pink                         plants=  459  groups= 178
+  yellow                       plants=  351  groups= 150
+  purple                       plants=  316  groups= 127
+  white                        plants=  311  groups= 162
+  orange                       plants=  293  groups= 132
+  red                          plants=  284  groups= 123
+  blue                         plants=  166  groups=  76
+
+--- BLOOM MONTH (/plants/blooming-in/) ---
+  july                         plants=  966  groups= 202
+  june                         plants=  925  groups= 198
+  august                       plants=  892  groups= 188
+  september                    plants=  776  groups= 157
+  may                          plants=  637  groups= 138
+  october                      plants=  397  groups=  87
+  april                        plants=  297  groups=  68
+  march                        plants=  146  groups=  26
+  february                     plants=   45  groups=   7
+  november                     plants=   26  groups=   9
+  january                      plants=   10  groups=   3
+  december                     plants=    8  groups=   2
+
+--- HUB TAGS (/plants/traits/) - the 9 whitelisted ---
+  drought-tolerant             plants=  377  groups=  88
+  fragrant                     plants=  315  groups=  92
+  pollinator                   plants=  229  groups=  42
+  cut-flower                   plants=  161  groups=  25
+  shade                        plants=  154  groups=  55
+  native                       plants=  113  groups=  61
+  evergreen                    plants=   85  groups=  24
+  deer-resistant               plants=    3  groups=   1
+
+--- ALL TAGS in the catalog (raw slugified), >=8 plants, marking hub status ---
+  full-sun                     plants= 1273  groups= 255   -
+  summer                       plants= 1170  groups= 251   -
+  fall                         plants=  790  groups= 160   -
+  spring                       plants=  789  groups= 151   -
+  perennial                    plants=  450  groups= 120   -
+  annual                       plants=  428  groups=  62   -
+  pink                         plants=  404  groups= 166   color
+  drought-tolerant             plants=  377  groups=  88   HUB
+  fragrant                     plants=  315  groups=  92   HUB
+  white                        plants=  311  groups= 162   color
+  purple                       plants=  290  groups= 119   color
+  part-shade                   plants=  249  groups=  57   -
+  red                          plants=  245  groups= 116   color
+  bulb                         plants=  231  groups=  29   -
+  pollinator                   plants=  229  groups=  42   HUB
+  shrub                        plants=  228  groups=  31   -
+  yellow                       plants=  197  groups=  98   color
+  cut-flower                   plants=  161  groups=  25   HUB
+  shade                        plants=  154  groups=  55   HUB
+  orange                       plants=  149  groups=  80   color
+  blue                         plants=  146  groups=  72   color
+  foliage                      plants=  132  groups=  37   -
+  partial-sun                  plants=  130  groups=  32   -
+  rose                         plants=  124  groups=  65   -
+  native                       plants=  113  groups=  61   HUB
+  magenta                      plants=  104  groups=  58   -
+  tree                         plants=   97  groups=  18   -
+  green                        plants=   89  groups=  35   -
+  evergreen                    plants=   85  groups=  24   HUB
+  vine                         plants=   68  groups=  14   -
+  lavender                     plants=   65  groups=  45   -
+  gold                         plants=   64  groups=  36   -
+  climber                      plants=   63  groups=  14   -
+  violet                       plants=   54  groups=  27   -
+  winter                       plants=   53  groups=   8   -
+  bicolor                      plants=   52  groups=  26   -
+  early                        plants=   51  groups=  14   -
+  conifer                      plants=   48  groups=   8   -
+  heat                         plants=   47  groups=   7   -
+  groundcover                  plants=   47  groups=  15   -
+  trailing                     plants=   46  groups=   9   -
+  coral                        plants=   45  groups=  32   -
+  apricot                      plants=   44  groups=  36   -
+  cream                        plants=   44  groups=  37   -
+  dwarf                        plants=   43  groups=  23   -
+  english-rose                 plants=   39  groups=   4   -
+  peach                        plants=   38  groups=  33   -
+  burgundy                     plants=   38  groups=  33   -
+  tropical                     plants=   38  groups=   6   -
+  double                       plants=   33  groups=  13   -
+  grass                        plants=   33  groups=  10   -
+  container                    plants=   31  groups=   8   -
+  fall-color                   plants=   29  groups=   9   -
+  specimen                     plants=   28  groups=   5   -
+  easy                         plants=   26  groups=   7   -
+  edible                       plants=   25  groups=  15   -
+  cottage                      plants=   25  groups=   5   -
+  large                        plants=   24  groups=   2   -
+  tall                         plants=   23  groups=  16   -
+  berries                      plants=   23  groups=   3   -
+  herb                         plants=   22  groups=  11   -
+  architectural                plants=   21  groups=   8   -
+  plume                        plants=   20  groups=   5   -
+  crimson                      plants=   19  groups=  13   -
+  dramatic                     plants=   18  groups=   5   -
+  elegant                      plants=   16  groups=   2   -
+  colorful                     plants=   15  groups=   3   -
+  variegated                   plants=   14  groups=   7   -
+  repeat-blooming              plants=   13  groups=  12   -
+  edging                       plants=   12  groups=   9   -
+  cool-season                  plants=   12  groups=   1   -
+  silver                       plants=   12  groups=  11   -
+  succulent                    plants=   12  groups=   7   -
+  climbing                     plants=   12  groups=   3   -
+  vertical                     plants=   11  groups=   3   -
+  columnar                     plants=   11  groups=   4   -
+  hedge                        plants=   11  groups=   3   -
+  fern                         plants=   10  groups=  10   -
+  salmon                       plants=    9  groups=   8   -
+  scarlet                      plants=    9  groups=   9   -
+  blush                        plants=    9  groups=   5   -
+  reblooming                   plants=    9  groups=   1   -
+  repeat-flowering             plants=    9  groups=   9   -
+  weeping                      plants=    8  groups=   6   -
+  cottage-garden               plants=    8  groups=   8   -
+  old-rose                     plants=    8  groups=   8   -
+
+--- tag long tail (<8 plants): count of distinct tags ---
+  200 distinct tags below 8 plants; e.g. bronze(6), black(5), drought(7), california-k(4), california-poppy(2), self-seeding(2), wildflower(2), eschscholzia(2), carmine(1), spider-flower(5), hanging(5), lime(6), giant-sunflower(1), mammoth(1), copper(3), lilac(3), rosa-de-jamaica(1), roselle(1), rosa-de(4), hibiscus(1), herbal(1), tea-plant(1), viola(2), chartreuse(6), poeticus(1)
+
+--- SIZE distribution (matureHeight / matureSpread, metres) ---
+  height  n=1677  min=0.1  p10=0.25  p25=0.4  median=0.7  p75=1.5  p90=3  p99=12  max=20
+  spread  n=1677  min=0.08  p10=0.2  p25=0.3  median=0.5  p75=1  p90=2  p99=7  max=12
+  missing/zero height=0  spread=0
+
+--- SIZE BUCKETS ---
+  groundcover    plants=  351  groups=  89   <= 0.3 m (edging / groundcover)
+  short          plants=  462  groups= 115   0.3-0.6 m (front of border)
+  mid            plants=  407  groups= 129   0.6-1.2 m (mid border)
+  tall           plants=  244  groups=  76   1.2-3 m (back of border)
+  screening      plants=  176  groups=  37   3-8 m (privacy screen / hedge)
+  tree           plants=   37  groups=  21   >= 8 m (tree)
+  privacy (h>=2m)  plants=292  groups=67
+  privacy + evergreen tag  plants=43  groups=13
+
+--- BLOOM DURATION (months in flower) ---
+  0 month(s): 172 plants
+  1 month(s): 46 plants
+  2 month(s): 457 plants
+  3 month(s): 399 plants
+  4 month(s): 243 plants
+  5 month(s): 169 plants
+  6 month(s): 187 plants
+  7 month(s): 3 plants
+  8 month(s): 1 plants
+  "long blooming" (>=5 months): plants=360  groups=76
+  "very long"      (>=6 months): plants=191  groups=40
+
+##############################################################################
+# TWO-WAY CROSSES
+##############################################################################
+
+--- CROSS: COLOR x MONTH   /plants/color/<c>/blooming-in/<m>/  (84 possible cells) ---
+  >= 8 plants:   61 pages   (also >=5 distinct groups:   57)
+  >=12 plants:   58 pages   (also >=5 distinct groups:   57)
+  >=15 plants:   56 pages   (also >=5 distinct groups:   55)
+  >=20 plants:   54 pages   (also >=5 distinct groups:   54)
+  >=30 plants:   50 pages   (also >=5 distinct groups:   50)
+  biggest: pink x july=287, pink x june=284, pink x august=262, pink x september=232, orange x july=218
+  smallest kept (>=8): yellow x february=14, red x march=13, red x november=9, pink x february=9, purple x february=8
+  median kept page size (>=8): 96 plants
+  of the 61 pages at >=8, 57 also have >=5 distinct plant groups
+
+--- CROSS: COLOR x ZONE  (84 possible cells) ---
+  >= 8 plants:   70 pages   (also >=5 distinct groups:   70)
+  >=12 plants:   66 pages   (also >=5 distinct groups:   66)
+  >=15 plants:   63 pages   (also >=5 distinct groups:   63)
+  >=20 plants:   63 pages   (also >=5 distinct groups:   63)
+  >=30 plants:   62 pages   (also >=5 distinct groups:   62)
+  biggest: pink x 8=346, pink x 7=338, pink x 6=321, pink x 5=310, pink x 9=255
+  smallest kept (>=8): blue x 2=12, purple x 2=11, white x 2=10, orange x 2=9, red x 2=8
+  median kept page size (>=8): 130 plants
+  of the 70 pages at >=8, 70 also have >=5 distinct plant groups
+
+--- CROSS: COLOR x LIGHT  (28 possible cells) ---
+  >= 8 plants:   21 pages   (also >=5 distinct groups:   21)
+  >=12 plants:   21 pages   (also >=5 distinct groups:   21)
+  >=15 plants:   20 pages   (also >=5 distinct groups:   20)
+  >=20 plants:   17 pages   (also >=5 distinct groups:   17)
+  >=30 plants:   14 pages   (also >=5 distinct groups:   14)
+  biggest: pink x full-sun=355, yellow x full-sun=286, orange x full-sun=249, purple x full-sun=241, red x full-sun=224
+  smallest kept (>=8): pink x part-sun=28, blue x part-shade=16, orange x part-sun=15, red x part-sun=15, blue x part-sun=13
+  median kept page size (>=8): 38 plants
+  of the 21 pages at >=8, 21 also have >=5 distinct plant groups
+
+--- CROSS: COLOR x TYPE  (77 possible cells) ---
+  >= 8 plants:   47 pages   (also >=5 distinct groups:   43)
+  >=12 plants:   45 pages   (also >=5 distinct groups:   41)
+  >=15 plants:   34 pages   (also >=5 distinct groups:   33)
+  >=20 plants:   32 pages   (also >=5 distinct groups:   32)
+  >=30 plants:   27 pages   (also >=5 distinct groups:   27)
+  biggest: pink x perennial=130, pink x annual=109, purple x perennial=93, yellow x perennial=92, yellow x annual=91
+  smallest kept (>=8): red x climber=12, red x tree=12, pink x climber=12, purple x climber=10, white x rose=9
+  median kept page size (>=8): 39 plants
+  of the 47 pages at >=8, 43 also have >=5 distinct plant groups
+
+--- CROSS: TRAIT x ZONE    /plants/traits/<t>/zone/<z>/  (108 possible cells) ---
+  >= 8 plants:   66 pages   (also >=5 distinct groups:   61)
+  >=12 plants:   64 pages   (also >=5 distinct groups:   60)
+  >=15 plants:   61 pages   (also >=5 distinct groups:   59)
+  >=20 plants:   59 pages   (also >=5 distinct groups:   58)
+  >=30 plants:   59 pages   (also >=5 distinct groups:   58)
+  biggest: drought-tolerant x 8=301, drought-tolerant x 7=293, fragrant x 7=282, fragrant x 6=273, drought-tolerant x 6=272
+  smallest kept (>=8): fragrant x 2=14, native x 10=13, cut-flower x 2=13, evergreen x 11=9, evergreen x 2=8
+  median kept page size (>=8): 82 plants
+  of the 66 pages at >=8, 61 also have >=5 distinct plant groups
+
+--- CROSS: TRAIT x MONTH  (108 possible cells) ---
+  >= 8 plants:   53 pages   (also >=5 distinct groups:   45)
+  >=12 plants:   49 pages   (also >=5 distinct groups:   45)
+  >=15 plants:   45 pages   (also >=5 distinct groups:   43)
+  >=20 plants:   41 pages   (also >=5 distinct groups:   40)
+  >=30 plants:   37 pages   (also >=5 distinct groups:   36)
+  biggest: drought-tolerant x july=273, drought-tolerant x august=264, drought-tolerant x june=251, drought-tolerant x september=219, pollinator x july=213
+  smallest kept (>=8): drought-tolerant x february=12, shade x february=11, evergreen x march=10, native x november=8, evergreen x february=8
+  median kept page size (>=8): 51 plants
+  of the 53 pages at >=8, 45 also have >=5 distinct plant groups
+
+--- CROSS: TRAIT x LIGHT  (36 possible cells) ---
+  >= 8 plants:   16 pages   (also >=5 distinct groups:   13)
+  >=12 plants:   13 pages   (also >=5 distinct groups:   11)
+  >=15 plants:   12 pages   (also >=5 distinct groups:   11)
+  >=20 plants:   11 pages   (also >=5 distinct groups:   11)
+  >=30 plants:    7 pages   (also >=5 distinct groups:    7)
+  biggest: drought-tolerant x full-sun=376, fragrant x full-sun=280, pollinator x full-sun=210, cut-flower x full-sun=161, shade x part-shade=121
+  smallest kept (>=8): evergreen x part-shade=17, pollinator x part-sun=12, fragrant x part-shade=11, shade x full-sun=8, evergreen x part-sun=8
+  median kept page size (>=8): 25 plants
+  of the 16 pages at >=8, 13 also have >=5 distinct plant groups
+
+--- CROSS: TRAIT x COLOR  (63 possible cells) ---
+  >= 8 plants:   44 pages   (also >=5 distinct groups:   44)
+  >=12 plants:   42 pages   (also >=5 distinct groups:   42)
+  >=15 plants:   40 pages   (also >=5 distinct groups:   40)
+  >=20 plants:   37 pages   (also >=5 distinct groups:   37)
+  >=30 plants:   25 pages   (also >=5 distinct groups:   25)
+  biggest: drought-tolerant x yellow=102, fragrant x pink=99, drought-tolerant x pink=94, drought-tolerant x orange=82, drought-tolerant x purple=81
+  smallest kept (>=8): evergreen x blue=17, evergreen x white=14, evergreen x yellow=14, shade x blue=10, cut-flower x blue=8
+  median kept page size (>=8): 33 plants
+  of the 44 pages at >=8, 44 also have >=5 distinct plant groups
+
+--- CROSS: TRAIT x TYPE  (99 possible cells) ---
+  >= 8 plants:   32 pages   (also >=5 distinct groups:   26)
+  >=12 plants:   28 pages   (also >=5 distinct groups:   24)
+  >=15 plants:   25 pages   (also >=5 distinct groups:   24)
+  >=20 plants:   21 pages   (also >=5 distinct groups:   21)
+  >=30 plants:   17 pages   (also >=5 distinct groups:   17)
+  biggest: drought-tolerant x perennial=155, pollinator x perennial=119, drought-tolerant x annual=90, cut-flower x annual=85, fragrant x rose=74
+  smallest kept (>=8): pollinator x herb=13, shade x fern=10, cut-flower x perennial=10, native x grass=9, shade x tree=8
+  median kept page size (>=8): 30 plants
+  of the 32 pages at >=8, 26 also have >=5 distinct plant groups
+
+--- CROSS: WATER x LIGHT  (12 possible cells) ---
+  >= 8 plants:    9 pages   (also >=5 distinct groups:    8)
+  >=12 plants:    8 pages   (also >=5 distinct groups:    8)
+  >=15 plants:    8 pages   (also >=5 distinct groups:    8)
+  >=20 plants:    7 pages   (also >=5 distinct groups:    7)
+  >=30 plants:    6 pages   (also >=5 distinct groups:    6)
+  biggest: moderate x full-sun=846, low x full-sun=373, moderate x part-shade=219, moderate x part-sun=98, high x full-sun=54
+  smallest kept (>=8): high x full-sun=54, high x part-sun=32, high x part-shade=29, moderate x full-shade=15, high x full-shade=10
+  median kept page size (>=8): 54 plants
+  of the 9 pages at >=8, 8 also have >=5 distinct plant groups
+
+--- CROSS: WATER x ZONE  (36 possible cells) ---
+  >= 8 plants:   29 pages   (also >=5 distinct groups:   27)
+  >=12 plants:   29 pages   (also >=5 distinct groups:   27)
+  >=15 plants:   29 pages   (also >=5 distinct groups:   27)
+  >=20 plants:   27 pages   (also >=5 distinct groups:   27)
+  >=30 plants:   27 pages   (also >=5 distinct groups:   27)
+  biggest: moderate x 7=836, moderate x 8=815, moderate x 6=791, moderate x 5=761, moderate x 4=560
+  smallest kept (>=8): moderate x 2=47, high x 4=43, high x 3=35, low x 2=17, high x 11=17
+  median kept page size (>=8): 209 plants
+  of the 29 pages at >=8, 27 also have >=5 distinct plant groups
+
+--- CROSS: WATER x TYPE  (33 possible cells) ---
+  >= 8 plants:   20 pages   (also >=5 distinct groups:   14)
+  >=12 plants:   19 pages   (also >=5 distinct groups:   14)
+  >=15 plants:   18 pages   (also >=5 distinct groups:   14)
+  >=20 plants:   16 pages   (also >=5 distinct groups:   13)
+  >=30 plants:   13 pages   (also >=5 distinct groups:   12)
+  biggest: moderate x annual=315, moderate x perennial=267, moderate x bulb=160, moderate x shrub=158, low x perennial=153
+  smallest kept (>=8): high x shrub=22, high x annual=17, low x herb=16, low x conifer=14, moderate x grass=9
+  median kept page size (>=8): 43 plants
+  of the 20 pages at >=8, 14 also have >=5 distinct plant groups
+
+--- CROSS: LIGHT x ZONE  (48 possible cells) ---
+  >= 8 plants:   35 pages   (also >=5 distinct groups:   33)
+  >=12 plants:   33 pages   (also >=5 distinct groups:   33)
+  >=15 plants:   29 pages   (also >=5 distinct groups:   29)
+  >=20 plants:   27 pages   (also >=5 distinct groups:   27)
+  >=30 plants:   26 pages   (also >=5 distinct groups:   26)
+  biggest: full-sun x 8=932, full-sun x 7=921, full-sun x 6=854, full-sun x 5=816, full-sun x 9=738
+  smallest kept (>=8): full-shade x 4=14, full-shade x 5=14, full-shade x 8=14, full-shade x 9=9, full-shade x 3=8
+  median kept page size (>=8): 71 plants
+  of the 35 pages at >=8, 33 also have >=5 distinct plant groups
+
+--- CROSS: LIGHT x MONTH  (48 possible cells) ---
+  >= 8 plants:   33 pages   (also >=5 distinct groups:   25)
+  >=12 plants:   28 pages   (also >=5 distinct groups:   25)
+  >=15 plants:   24 pages   (also >=5 distinct groups:   23)
+  >=20 plants:   24 pages   (also >=5 distinct groups:   23)
+  >=30 plants:   22 pages   (also >=5 distinct groups:   22)
+  biggest: full-sun x july=824, full-sun x august=777, full-sun x june=745, full-sun x september=686, full-sun x may=491
+  smallest kept (>=8): full-shade x june=10, full-shade x july=9, full-shade x august=9, full-shade x september=9, full-shade x october=9
+  median kept page size (>=8): 48 plants
+  of the 33 pages at >=8, 25 also have >=5 distinct plant groups
+
+--- CROSS: LIGHT x TYPE  (44 possible cells) ---
+  >= 8 plants:   22 pages   (also >=5 distinct groups:   17)
+  >=12 plants:   20 pages   (also >=5 distinct groups:   17)
+  >=15 plants:   19 pages   (also >=5 distinct groups:   16)
+  >=20 plants:   16 pages   (also >=5 distinct groups:   14)
+  >=30 plants:   13 pages   (also >=5 distinct groups:   12)
+  biggest: full-sun x perennial=329, full-sun x annual=323, full-sun x bulb=186, full-sun x shrub=159, part-shade x perennial=92
+  smallest kept (>=8): part-sun x perennial=17, part-sun x tree=17, full-shade x perennial=12, full-shade x annual=10, part-shade x bulb=9
+  median kept page size (>=8): 36 plants
+  of the 22 pages at >=8, 17 also have >=5 distinct plant groups
+
+--- CROSS: TYPE x ZONE  (132 possible cells) ---
+  >= 8 plants:   83 pages   (also >=5 distinct groups:   79)
+  >=12 plants:   77 pages   (also >=5 distinct groups:   74)
+  >=15 plants:   73 pages   (also >=5 distinct groups:   71)
+  >=20 plants:   67 pages   (also >=5 distinct groups:   66)
+  >=30 plants:   58 pages   (also >=5 distinct groups:   58)
+  biggest: perennial x 7=447, perennial x 6=446, perennial x 5=440, perennial x 8=424, perennial x 4=395
+  smallest kept (>=8): fern x 6=9, fern x 7=9, conifer x 2=8, fern x 5=8, fern x 8=8
+  median kept page size (>=8): 43 plants
+  of the 83 pages at >=8, 79 also have >=5 distinct plant groups
+
+--- CROSS: TYPE x MONTH  (132 possible cells) ---
+  >= 8 plants:   61 pages   (also >=5 distinct groups:   46)
+  >=12 plants:   55 pages   (also >=5 distinct groups:   45)
+  >=15 plants:   52 pages   (also >=5 distinct groups:   45)
+  >=20 plants:   44 pages   (also >=5 distinct groups:   41)
+  >=30 plants:   38 pages   (also >=5 distinct groups:   37)
+  biggest: annual x june=362, annual x july=356, annual x august=339, annual x september=333, perennial x july=267
+  smallest kept (>=8): grass x july=10, tree x june=9, shrub x november=8, shrub x december=8, tree x march=8
+  median kept page size (>=8): 50 plants
+  of the 61 pages at >=8, 46 also have >=5 distinct plant groups
+
+--- CROSS: SIZE x LIGHT  (24 possible cells) ---
+  >= 8 plants:   18 pages   (also >=5 distinct groups:   16)
+  >=12 plants:   17 pages   (also >=5 distinct groups:   15)
+  >=15 plants:   17 pages   (also >=5 distinct groups:   15)
+  >=20 plants:   13 pages   (also >=5 distinct groups:   12)
+  >=30 plants:   12 pages   (also >=5 distinct groups:   12)
+  biggest: mid x full-sun=340, short x full-sun=326, groundcover x full-sun=249, tall x full-sun=194, screening x full-sun=133
+  smallest kept (>=8): screening x part-sun=19, groundcover x full-shade=15, mid x part-sun=15, tall x part-sun=15, short x full-shade=8
+  median kept page size (>=8): 36 plants
+  of the 18 pages at >=8, 16 also have >=5 distinct plant groups
+
+--- CROSS: SIZE x ZONE  (72 possible cells) ---
+  >= 8 plants:   56 pages   (also >=5 distinct groups:   53)
+  >=12 plants:   54 pages   (also >=5 distinct groups:   52)
+  >=15 plants:   52 pages   (also >=5 distinct groups:   50)
+  >=20 plants:   50 pages   (also >=5 distinct groups:   49)
+  >=30 plants:   47 pages   (also >=5 distinct groups:   47)
+  biggest: mid x 7=333, mid x 8=333, short x 8=330, mid x 6=313, mid x 5=303
+  smallest kept (>=8): groundcover x 2=15, tall x 2=13, tree x 3=12, screening x 11=11, short x 2=9
+  median kept page size (>=8): 142 plants
+  of the 56 pages at >=8, 53 also have >=5 distinct plant groups
+
+--- CROSS: SIZE x TYPE  (66 possible cells) ---
+  >= 8 plants:   29 pages   (also >=5 distinct groups:   23)
+  >=12 plants:   25 pages   (also >=5 distinct groups:   22)
+  >=15 plants:   20 pages   (also >=5 distinct groups:   18)
+  >=20 plants:   17 pages   (also >=5 distinct groups:   17)
+  >=30 plants:   15 pages   (also >=5 distinct groups:   15)
+  biggest: short x perennial=194, groundcover x annual=189, mid x perennial=159, short x annual=146, tall x shrub=124
+  smallest kept (>=8): short x shrub=12, tall x climber=11, screening x rose=11, tree x climber=11, mid x grass=10
+  median kept page size (>=8): 39 plants
+  of the 29 pages at >=8, 23 also have >=5 distinct plant groups
+
+--- CROSS: SIZE x TRAIT  (54 possible cells) ---
+  >= 8 plants:   31 pages   (also >=5 distinct groups:   30)
+  >=12 plants:   26 pages   (also >=5 distinct groups:   26)
+  >=15 plants:   25 pages   (also >=5 distinct groups:   25)
+  >=20 plants:   23 pages   (also >=5 distinct groups:   23)
+  >=30 plants:   15 pages   (also >=5 distinct groups:   15)
+  biggest: short x drought-tolerant=133, short x pollinator=108, mid x fragrant=104, groundcover x drought-tolerant=102, mid x drought-tolerant=86
+  smallest kept (>=8): groundcover x native=9, short x native=9, tree x native=9, tree x shade=9, short x evergreen=8
+  median kept page size (>=8): 29 plants
+  of the 31 pages at >=8, 30 also have >=5 distinct plant groups
+
+--- CROSS: SIZE x COLOR  (42 possible cells) ---
+  >= 8 plants:   35 pages   (also >=5 distinct groups:   35)
+  >=12 plants:   34 pages   (also >=5 distinct groups:   34)
+  >=15 plants:   34 pages   (also >=5 distinct groups:   34)
+  >=20 plants:   33 pages   (also >=5 distinct groups:   33)
+  >=30 plants:   30 pages   (also >=5 distinct groups:   30)
+  biggest: mid x pink=128, short x pink=110, short x yellow=97, short x red=93, short x orange=89
+  smallest kept (>=8): mid x blue=29, screening x red=27, screening x orange=20, tall x blue=18, screening x blue=10
+  median kept page size (>=8): 56 plants
+  of the 35 pages at >=8, 35 also have >=5 distinct plant groups
+
+--- CROSS: SIZE x WATER  (18 possible cells) ---
+  >= 8 plants:   15 pages   (also >=5 distinct groups:   14)
+  >=12 plants:   14 pages   (also >=5 distinct groups:   14)
+  >=15 plants:   14 pages   (also >=5 distinct groups:   14)
+  >=20 plants:   14 pages   (also >=5 distinct groups:   14)
+  >=30 plants:   11 pages   (also >=5 distinct groups:   11)
+  biggest: short x moderate=300, mid x moderate=273, groundcover x moderate=239, tall x moderate=187, screening x moderate=149
+  smallest kept (>=8): tree x moderate=30, tall x low=29, tall x high=28, screening x low=25, groundcover x high=10
+  median kept page size (>=8): 84 plants
+  of the 15 pages at >=8, 14 also have >=5 distinct plant groups
+
+##############################################################################
+# THREE-WAY CROSSES (thin-page risk is high; checking whether any survive)
+##############################################################################
+
+--- CROSS: ZONE x MONTH x COLOR (extends the bloom calendar)  (1008 possible cells) ---
+  >= 8 plants:  497 pages   (also >=5 distinct groups:  466)
+  >=12 plants:  454 pages   (also >=5 distinct groups:  447)
+  >=15 plants:  431 pages   (also >=5 distinct groups:  430)
+  >=20 plants:  407 pages   (also >=5 distinct groups:  407)
+  >=30 plants:  342 pages   (also >=5 distinct groups:  342)
+  biggest: 8 x july x pink=192, 7 x june x pink=186, 6 x june x pink=185, 8 x june x pink=183, 5 x june x pink=181
+  smallest kept (>=8): 7 x february x purple=8, 7 x march x red=8, 8 x february x purple=8, 11 x april x white=8, 11 x april x yellow=8
+  median kept page size (>=8): 50 plants
+  of the 497 pages at >=8, 466 also have >=5 distinct plant groups
+
+--- CROSS: ZONE x TRAIT x LIGHT  (432 possible cells) ---
+  >= 8 plants:  114 pages   (also >=5 distinct groups:   87)
+  >=12 plants:   90 pages   (also >=5 distinct groups:   77)
+  >=15 plants:   75 pages   (also >=5 distinct groups:   71)
+  >=20 plants:   67 pages   (also >=5 distinct groups:   66)
+  >=30 plants:   57 pages   (also >=5 distinct groups:   56)
+  biggest: 8 x drought-tolerant x full-sun=300, 7 x drought-tolerant x full-sun=292, 6 x drought-tolerant x full-sun=271, 9 x drought-tolerant x full-sun=260, 7 x fragrant x full-sun=257
+  smallest kept (>=8): 6 x shade x full-sun=8, 6 x evergreen x part-shade=8, 7 x shade x full-sun=8, 8 x shade x full-sun=8, 8 x evergreen x part-sun=8
+  median kept page size (>=8): 29 plants
+  of the 114 pages at >=8, 87 also have >=5 distinct plant groups
+
+--- CROSS: ZONE x TYPE x LIGHT  (528 possible cells) ---
+  >= 8 plants:  133 pages   (also >=5 distinct groups:   98)
+  >=12 plants:  122 pages   (also >=5 distinct groups:   96)
+  >=15 plants:  107 pages   (also >=5 distinct groups:   87)
+  >=20 plants:   84 pages   (also >=5 distinct groups:   72)
+  >=30 plants:   64 pages   (also >=5 distinct groups:   61)
+  biggest: 7 x perennial x full-sun=326, 6 x perennial x full-sun=325, 5 x perennial x full-sun=319, 8 x perennial x full-sun=308, 4 x perennial x full-sun=275
+  smallest kept (>=8): 5 x bulb x part-shade=9, 6 x bulb x part-shade=9, 7 x bulb x part-shade=9, 2 x conifer x full-sun=8, 10 x shrub x part-sun=8
+  median kept page size (>=8): 28 plants
+  of the 133 pages at >=8, 98 also have >=5 distinct plant groups
+
+--- CROSS: TRAIT x LIGHT x SIZE  (216 possible cells) ---
+  >= 8 plants:   33 pages   (also >=5 distinct groups:   29)
+  >=12 plants:   25 pages   (also >=5 distinct groups:   23)
+  >=15 plants:   22 pages   (also >=5 distinct groups:   22)
+  >=20 plants:   18 pages   (also >=5 distinct groups:   18)
+  >=30 plants:   14 pages   (also >=5 distinct groups:   14)
+  biggest: drought-tolerant x full-sun x short=133, drought-tolerant x full-sun x groundcover=101, pollinator x full-sun x short=100, fragrant x full-sun x mid=97, drought-tolerant x full-sun x mid=86
+  smallest kept (>=8): evergreen x full-sun x tall=9, pollinator x part-sun x short=8, fragrant x part-sun x short=8, shade x full-sun x tree=8, shade x full-shade x short=8
+  median kept page size (>=8): 25 plants
+  of the 33 pages at >=8, 29 also have >=5 distinct plant groups
+
+##############################################################################
+# EXISTING PAGE COUNTS (what the site generates today)
+##############################################################################
+
+  /plants/<slug>/ ............. 1677
+  /plants/zone/<z>/ ........... 10   (2,3,4,5,6,7,8,9,10,11)
+  /plants/blooming-in/<m>/ .... 12
+  /plants/color/<c>/ .......... 7   (white,yellow,orange,red,pink,purple,blue)
+  /plants/light/<s>/ .......... 4   (full-sun,part-shade,part-sun,full-shade)
+  /plants/type/<c>/ ........... 11   (annual,bulb,climber,conifer,fern,grass,herb,perennial,rose,shrub,tree)
+  /plants/traits/<t>/ ......... 8   (pollinator,native,drought-tolerant,fragrant,deer-resistant,shade,evergreen,cut-flower)
+  /bloom-calendar/zone-<z>/<m>/ 97   (threshold 8)
+  ------------------------------------
+  catalog-driven pages today .. 1826  (+ home, /plants/, /guides/, guide pages, /bloom-calendar/, /credits/, /privacy/, /terms/, 404)
+
+##############################################################################
+# PET TOXICITY / SAFETY DATA
+##############################################################################
+
+  deep-intel records .................. 276
+  ... that match a live catalog slug .. 276
+  ... carrying a safety block ......... 124  (matched: 124)
+      level=mild 59   level=serious 65
+  distinct groups with a safety block . 124
+  plants covered IF expanded by group . 762  (45.4% of the catalog)
+  plants with NO safety data .......... 915
+
+  safety text mentions pets and reads TOXIC ....... 71
+  safety text mentions pets and reads NON-TOXIC ... 4
+  safety text is about people/livestock only ...... 28
+  ambiguous (needs a human read) ................. 21
+  NOTE: this is a regex sniff of prose, not a field. There is no structured
+        toxicity field anywhere in the catalog or in deep-intel.
+
+  "Pet-safe plants" page would list ..... 4 species / 12 plants after group expansion
+  "Toxic to pets" page would list ....... 71 species / 473 plants after group expansion
+  extraFacts labelled about pets ........ 40
+
+  If pet-safe were a trait, could it cross with anything?
+    pet-safe x zone: 2 cells >= 8 plants  (of 12 possible)
+    pet-safe x light: 1 cells >= 8 plants  (of 4 possible)
+    pet-safe x type: 1 cells >= 8 plants  (of 11 possible)
+    toxic x zone: 9 cells >= 8 plants
+
+##############################################################################
+# PLANTING / SOWING CALENDAR - what data exists
+##############################################################################
+
+  catalog fields: _cat, _colors, _foliage, _grp, _hubTags, _months, _nMonths, _photos, _sun, _tags, _zones, bloom, botanicalName, card, cardSm, category, commonName, community, description, foliageColor, group, groupDefault, groupName, hardinessZones, id, image, matureHeight, matureSpread, slug, sun, tags, water, yearsToMaturity
+  fields that could carry planting/sowing timing: NONE
+  tags that hint at seasonality: bulb, fall, fall-blooming, fall-color, fall-foliage, late-summer-bloomer, seed-heads, self-seeding, spring, spring-bloomer, summer, winter
+  deep-intel notes touching planting/sowing/frost: 100 (of 334 notes)
+  deep-intel extraFacts touching the same: 427
+  examples: agastache: "Rabbit resistance is disputed" | aloe: "When it blooms varies" | amaryllis: "How deep to plant" | anemone: "Fall plant or spring annual?" | aster: "Cut back or leave standing" | azalea: "One name, two plants"
+
+  Hypothetical /planting-calendar/zone-<z>/<month>/: the cell population would have
+  to be DERIVED (sow date = f(zone last-frost, category, bloom start)), because no
+  planting-date field exists. Sizes of the derivable buckets, per zone:
+    zones present: 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+    categories: annual(422), bulb(231), climber(62), conifer(48), fern(10), grass(33), herb(22), perennial(450), rose(87), shrub(228), tree(84)
+
+##############################################################################
+# COMPANION DATA (src/data/compatibility.json)
+##############################################################################
+
+  top-level keys: chives, bald-cypress, nasturtium, snow-in-summer, veronica, annual-phlox, weeping-willow, climbing-hydrangea ...
+  entries: 276
+  sample: {"commonName":"Chives","companions":[{"slug":"helenium","commonName":"Sneezeweed","score":77.1,"reason":"Shares full sun and moderate water; blooms in midsummer as this one finishes; both are strong pollinator plants, and they feed in different months; its seed heads stand through winter, for struct

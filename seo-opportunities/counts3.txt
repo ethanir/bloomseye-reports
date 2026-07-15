@@ -1,0 +1,51 @@
+==============================================================================
+SIBLING DUPLICATION ON THE 97 SHIPPED BLOOM-CALENDAR PAGES
+Google's doorway policy: 'Creating substantially similar pages ...'
+==============================================================================
+  shipped combo pages: 97   (matches the 97 the site builds)
+
+  --- ADJACENT ZONE, same month (85 pairs) ---
+     median Jaccard ........ 72%
+     pairs >= 80% identical  37  (44%)
+     pairs 100% IDENTICAL .. 5
+        /bloom-calendar/zone-5/november/  ==  /bloom-calendar/zone-6/november/   (24 plants, same list)
+        /bloom-calendar/zone-7/january/  ==  /bloom-calendar/zone-8/january/   (10 plants, same list)
+        /bloom-calendar/zone-7/november/  ==  /bloom-calendar/zone-8/november/   (26 plants, same list)
+        /bloom-calendar/zone-7/december/  ==  /bloom-calendar/zone-8/december/   (8 plants, same list)
+        /bloom-calendar/zone-8/december/  ==  /bloom-calendar/zone-9/december/   (8 plants, same list)
+     worst 5 non-identical: z6/jun vs z7/jun=97%, z6/oct vs z7/oct=96%, z5/jun vs z6/jun=96%, z6/may vs z7/may=95%, z5/apr vs z6/apr=95%
+
+  --- ADJACENT MONTH, same zone (87 pairs) ---
+     median Jaccard ........ 42%
+     pairs >= 80% identical  7  (8%)
+     pairs 100% IDENTICAL .. 1
+        /bloom-calendar/zone-2/august/  ==  /bloom-calendar/zone-2/september/   (20 plants, same list)
+     worst 5 non-identical: z11/aug vs z11/sep=96%, z10/jul vs z10/aug=90%, z10/aug vs z10/sep=90%, z11/jul vs z11/aug=89%, z11/jun vs z11/jul=88%
+
+  NOTE: src/pages/bloom-calendar/[zoneslug]/[month].astro lines 52-55 push chips for
+        zone-1, zone+1, month-1, month+1 - i.e. the template DELIBERATELY cross-links
+        the most duplicative siblings.
+
+==============================================================================
+BARE PLANT PAGES (the live scaled-content exposure)
+==============================================================================
+  no description AND no real photo AND no deep-intel: 1335 of 1677  (80%)
+  with a description ...... 66
+  with a real photo ....... 135
+  with a deep-intel record  276
+  community: true ......... 66   (indexable, and ?add= silently drops them)
+
+==============================================================================
+LONG-BLOOMING: does the family survive contact with the data?
+==============================================================================
+  plants blooming 5+ months: 360
+  duration histogram: 5mo=169  6mo=187  7mo=3  8mo=1
+  -> quantised and capped. 187 plants tie at exactly 6 months, so a "longest blooming"
+     RANKING is not possible.
+  by category: Annual=219  Rose=77  Perennial=22  Climber=21  Shrub=19  Herb=1  Tree=1
+  with NO hardiness zone: 126 of 360
+  PERENNIAL and long-blooming: 22 plants across 8 species
+     "longest blooming perennials zone 5" -> 18 plants
+     "longest blooming perennials zone 6" -> 22 plants
+     "longest blooming perennials zone 7" -> 22 plants
+  -> the exact query autocomplete surfaces resolves to a THIN page. Family demoted.

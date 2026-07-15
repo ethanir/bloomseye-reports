@@ -1,0 +1,988 @@
+{
+  "generatedFrom": "dist/ at HEAD",
+  "pageCount": 1867,
+  "totalRawHtmlBytes": 178176711,
+  "sizeBuckets": {
+    ">3MB": 5,
+    "1-3MB": 40,
+    "500KB-1MB": 35,
+    "100-500KB": 42,
+    "<100KB": 1745
+  },
+  "top30Pages": [
+    {
+      "page": "/plants/index.html",
+      "raw": 4516415
+    },
+    {
+      "page": "/plants/light/full-sun/index.html",
+      "raw": 3427249
+    },
+    {
+      "page": "/plants/zone/8/index.html",
+      "raw": 3265465
+    },
+    {
+      "page": "/plants/zone/7/index.html",
+      "raw": 3215690
+    },
+    {
+      "page": "/plants/zone/6/index.html",
+      "raw": 3000579
+    },
+    {
+      "page": "/plants/zone/5/index.html",
+      "raw": 2870199
+    },
+    {
+      "page": "/plants/blooming-in/july/index.html",
+      "raw": 2623421
+    },
+    {
+      "page": "/plants/blooming-in/june/index.html",
+      "raw": 2510153
+    },
+    {
+      "page": "/plants/zone/9/index.html",
+      "raw": 2470345
+    },
+    {
+      "page": "/plants/blooming-in/august/index.html",
+      "raw": 2427362
+    },
+    {
+      "page": "/plants/zone/4/index.html",
+      "raw": 2180423
+    },
+    {
+      "page": "/plants/blooming-in/september/index.html",
+      "raw": 2118006
+    },
+    {
+      "page": "/plants/blooming-in/may/index.html",
+      "raw": 1726798
+    },
+    {
+      "page": "/bloom-calendar/zone-8/july/index.html",
+      "raw": 1681607
+    },
+    {
+      "page": "/bloom-calendar/zone-9/july/index.html",
+      "raw": 1613371
+    },
+    {
+      "page": "/bloom-calendar/zone-7/july/index.html",
+      "raw": 1576192
+    },
+    {
+      "page": "/bloom-calendar/zone-8/june/index.html",
+      "raw": 1566152
+    },
+    {
+      "page": "/bloom-calendar/zone-9/august/index.html",
+      "raw": 1551416
+    },
+    {
+      "page": "/bloom-calendar/zone-7/june/index.html",
+      "raw": 1521673
+    },
+    {
+      "page": "/bloom-calendar/zone-8/august/index.html",
+      "raw": 1516970
+    },
+    {
+      "page": "/bloom-calendar/zone-6/june/index.html",
+      "raw": 1473816
+    },
+    {
+      "page": "/bloom-calendar/zone-6/july/index.html",
+      "raw": 1438389
+    },
+    {
+      "page": "/bloom-calendar/zone-5/june/index.html",
+      "raw": 1412559
+    },
+    {
+      "page": "/bloom-calendar/zone-7/august/index.html",
+      "raw": 1393529
+    },
+    {
+      "page": "/plants/zone/10/index.html",
+      "raw": 1363848
+    },
+    {
+      "page": "/bloom-calendar/zone-5/july/index.html",
+      "raw": 1347531
+    },
+    {
+      "page": "/bloom-calendar/zone-9/june/index.html",
+      "raw": 1326786
+    },
+    {
+      "page": "/bloom-calendar/zone-9/september/index.html",
+      "raw": 1319810
+    },
+    {
+      "page": "/plants/zone/3/index.html",
+      "raw": 1304767
+    },
+    {
+      "page": "/bloom-calendar/zone-6/august/index.html",
+      "raw": 1261058
+    }
+  ],
+  "compressionOfBigPages": [
+    {
+      "page": "/plants/index.html",
+      "raw": 4516415,
+      "br": 135887,
+      "gz": 199697,
+      "ratio": 33.2
+    },
+    {
+      "page": "/plants/light/full-sun/index.html",
+      "raw": 3427249,
+      "br": 99565,
+      "gz": 146482,
+      "ratio": 34.4
+    },
+    {
+      "page": "/plants/zone/8/index.html",
+      "raw": 3265465,
+      "br": 99248,
+      "gz": 144378,
+      "ratio": 32.9
+    },
+    {
+      "page": "/plants/zone/7/index.html",
+      "raw": 3215690,
+      "br": 98480,
+      "gz": 143038,
+      "ratio": 32.7
+    },
+    {
+      "page": "/plants/zone/6/index.html",
+      "raw": 3000579,
+      "br": 92143,
+      "gz": 133365,
+      "ratio": 32.6
+    },
+    {
+      "page": "/plants/zone/5/index.html",
+      "raw": 2870199,
+      "br": 87709,
+      "gz": 127088,
+      "ratio": 32.7
+    },
+    {
+      "page": "/plants/blooming-in/july/index.html",
+      "raw": 2623421,
+      "br": 76235,
+      "gz": 109479,
+      "ratio": 34.4
+    },
+    {
+      "page": "/plants/blooming-in/june/index.html",
+      "raw": 2510153,
+      "br": 72901,
+      "gz": 105217,
+      "ratio": 34.4
+    },
+    {
+      "page": "/plants/zone/9/index.html",
+      "raw": 2470345,
+      "br": 74212,
+      "gz": 108564,
+      "ratio": 33.3
+    },
+    {
+      "page": "/plants/blooming-in/august/index.html",
+      "raw": 2427362,
+      "br": 70860,
+      "gz": 100862,
+      "ratio": 34.3
+    },
+    {
+      "page": "/plants/zone/4/index.html",
+      "raw": 2180423,
+      "br": 67917,
+      "gz": 97274,
+      "ratio": 32.1
+    },
+    {
+      "page": "/plants/blooming-in/september/index.html",
+      "raw": 2118006,
+      "br": 61738,
+      "gz": 87846,
+      "ratio": 34.3
+    },
+    {
+      "page": "/plants/blooming-in/may/index.html",
+      "raw": 1726798,
+      "br": 51643,
+      "gz": 74006,
+      "ratio": 33.4
+    },
+    {
+      "page": "/bloom-calendar/zone-8/july/index.html",
+      "raw": 1681607,
+      "br": 52752,
+      "gz": 73209,
+      "ratio": 31.9
+    },
+    {
+      "page": "/bloom-calendar/zone-9/july/index.html",
+      "raw": 1613371,
+      "br": 49244,
+      "gz": 69329,
+      "ratio": 32.8
+    },
+    {
+      "page": "/bloom-calendar/zone-7/july/index.html",
+      "raw": 1576192,
+      "br": 50297,
+      "gz": 69184,
+      "ratio": 31.3
+    },
+    {
+      "page": "/bloom-calendar/zone-8/june/index.html",
+      "raw": 1566152,
+      "br": 49437,
+      "gz": 68916,
+      "ratio": 31.7
+    },
+    {
+      "page": "/bloom-calendar/zone-9/august/index.html",
+      "raw": 1551416,
+      "br": 47739,
+      "gz": 66746,
+      "ratio": 32.5
+    },
+    {
+      "page": "/bloom-calendar/zone-7/june/index.html",
+      "raw": 1521673,
+      "br": 48802,
+      "gz": 67444,
+      "ratio": 31.2
+    },
+    {
+      "page": "/bloom-calendar/zone-8/august/index.html",
+      "raw": 1516970,
+      "br": 48254,
+      "gz": 66153,
+      "ratio": 31.4
+    },
+    {
+      "page": "/bloom-calendar/zone-6/june/index.html",
+      "raw": 1473816,
+      "br": 47357,
+      "gz": 65180,
+      "ratio": 31.1
+    },
+    {
+      "page": "/bloom-calendar/zone-6/july/index.html",
+      "raw": 1438389,
+      "br": 46399,
+      "gz": 63608,
+      "ratio": 31
+    },
+    {
+      "page": "/bloom-calendar/zone-5/june/index.html",
+      "raw": 1412559,
+      "br": 45262,
+      "gz": 62208,
+      "ratio": 31.2
+    },
+    {
+      "page": "/bloom-calendar/zone-7/august/index.html",
+      "raw": 1393529,
+      "br": 45233,
+      "gz": 61313,
+      "ratio": 30.8
+    },
+    {
+      "page": "/plants/zone/10/index.html",
+      "raw": 1363848,
+      "br": 39889,
+      "gz": 58620,
+      "ratio": 34.2
+    }
+  ],
+  "breakdowns": [
+    {
+      "page": "/plants/index.html",
+      "rawBytes": 4516415,
+      "brBytes": 135887,
+      "gzBytes": 199697,
+      "cards": 1677,
+      "parts": {
+        "inlineSvg": {
+          "count": 6712,
+          "bytes": 1540401
+        },
+        "bloomCells": {
+          "count": 20124,
+          "bytes": 751593
+        },
+        "bloomMonthLabels": {
+          "count": 1677,
+          "bytes": 357201
+        },
+        "specBlocks": {
+          "count": 6708,
+          "bytes": 1978361
+        },
+        "cardDataAttrs": {
+          "count": 12968,
+          "bytes": 388513
+        },
+        "imgTags": {
+          "count": 1679,
+          "bytes": 316037
+        },
+        "jsonLd": {
+          "count": 2,
+          "bytes": 7302
+        },
+        "inlineScripts": {
+          "count": 6,
+          "bytes": 17869
+        },
+        "head": {
+          "count": 1,
+          "bytes": 11771
+        }
+      },
+      "perCardRawBytes": 2693
+    },
+    {
+      "page": "/plants/light/full-sun/index.html",
+      "rawBytes": 3427249,
+      "brBytes": 99565,
+      "gzBytes": 146482,
+      "cards": 1273,
+      "parts": {
+        "inlineSvg": {
+          "count": 5095,
+          "bytes": 1169224
+        },
+        "bloomCells": {
+          "count": 15276,
+          "bytes": 577032
+        },
+        "bloomMonthLabels": {
+          "count": 1273,
+          "bytes": 271149
+        },
+        "specBlocks": {
+          "count": 5092,
+          "bytes": 1501141
+        },
+        "cardDataAttrs": {
+          "count": 9928,
+          "bytes": 299668
+        },
+        "imgTags": {
+          "count": 1275,
+          "bytes": 240516
+        },
+        "jsonLd": {
+          "count": 2,
+          "bytes": 7415
+        },
+        "inlineScripts": {
+          "count": 4,
+          "bytes": 3672
+        },
+        "head": {
+          "count": 1,
+          "bytes": 10931
+        }
+      },
+      "perCardRawBytes": 2692
+    },
+    {
+      "page": "/plants/zone/8/index.html",
+      "rawBytes": 3265465,
+      "brBytes": 99248,
+      "gzBytes": 144378,
+      "cards": 1217,
+      "parts": {
+        "inlineSvg": {
+          "count": 4871,
+          "bytes": 1119179
+        },
+        "bloomCells": {
+          "count": 14604,
+          "bytes": 536670
+        },
+        "bloomMonthLabels": {
+          "count": 1217,
+          "bytes": 259221
+        },
+        "specBlocks": {
+          "count": 4868,
+          "bytes": 1437723
+        },
+        "cardDataAttrs": {
+          "count": 9540,
+          "bytes": 285507
+        },
+        "imgTags": {
+          "count": 1219,
+          "bytes": 229980
+        },
+        "jsonLd": {
+          "count": 2,
+          "bytes": 7390
+        },
+        "inlineScripts": {
+          "count": 4,
+          "bytes": 3672
+        },
+        "head": {
+          "count": 1,
+          "bytes": 10968
+        }
+      },
+      "perCardRawBytes": 2683
+    },
+    {
+      "page": "/plants/zone/5/index.html",
+      "rawBytes": 2870199,
+      "brBytes": 87709,
+      "gzBytes": 127088,
+      "cards": 1070,
+      "parts": {
+        "inlineSvg": {
+          "count": 4283,
+          "bytes": 984086
+        },
+        "bloomCells": {
+          "count": 12840,
+          "bytes": 468168
+        },
+        "bloomMonthLabels": {
+          "count": 1070,
+          "bytes": 227910
+        },
+        "specBlocks": {
+          "count": 4280,
+          "bytes": 1264109
+        },
+        "cardDataAttrs": {
+          "count": 8360,
+          "bytes": 250240
+        },
+        "imgTags": {
+          "count": 1072,
+          "bytes": 202124
+        },
+        "jsonLd": {
+          "count": 2,
+          "bytes": 7371
+        },
+        "inlineScripts": {
+          "count": 4,
+          "bytes": 3672
+        },
+        "head": {
+          "count": 1,
+          "bytes": 10949
+        }
+      },
+      "perCardRawBytes": 2682
+    },
+    {
+      "page": "/bloom-calendar/zone-5/june/index.html",
+      "rawBytes": 1412559,
+      "brBytes": 45262,
+      "gzBytes": 62208,
+      "cards": 519,
+      "parts": {
+        "inlineSvg": {
+          "count": 2079,
+          "bytes": 477717
+        },
+        "bloomCells": {
+          "count": 6228,
+          "bytes": 236382
+        },
+        "bloomMonthLabels": {
+          "count": 519,
+          "bytes": 110547
+        },
+        "specBlocks": {
+          "count": 2076,
+          "bytes": 613096
+        },
+        "cardDataAttrs": {
+          "count": 4151,
+          "bytes": 127080
+        },
+        "imgTags": {
+          "count": 521,
+          "bytes": 98476
+        },
+        "jsonLd": {
+          "count": 2,
+          "bytes": 7511
+        },
+        "inlineScripts": {
+          "count": 4,
+          "bytes": 3672
+        },
+        "head": {
+          "count": 1,
+          "bytes": 11211
+        }
+      },
+      "perCardRawBytes": 2722
+    },
+    {
+      "page": "/bloom-calendar/zone-8/july/index.html",
+      "rawBytes": 1681607,
+      "brBytes": 52752,
+      "gzBytes": 73209,
+      "cards": 617,
+      "parts": {
+        "inlineSvg": {
+          "count": 2471,
+          "bytes": 567779
+        },
+        "bloomCells": {
+          "count": 7404,
+          "bytes": 284619
+        },
+        "bloomMonthLabels": {
+          "count": 617,
+          "bytes": 131421
+        },
+        "specBlocks": {
+          "count": 2468,
+          "bytes": 728596
+        },
+        "cardDataAttrs": {
+          "count": 4933,
+          "bytes": 151836
+        },
+        "imgTags": {
+          "count": 619,
+          "bytes": 117505
+        },
+        "jsonLd": {
+          "count": 2,
+          "bytes": 7632
+        },
+        "inlineScripts": {
+          "count": 4,
+          "bytes": 3672
+        },
+        "head": {
+          "count": 1,
+          "bytes": 11332
+        }
+      },
+      "perCardRawBytes": 2725
+    },
+    {
+      "page": "/plants/traits/drought-tolerant/index.html",
+      "rawBytes": 1033951,
+      "brBytes": 33836,
+      "gzBytes": 47109,
+      "cards": 377,
+      "parts": {
+        "inlineSvg": {
+          "count": 1511,
+          "bytes": 346933
+        },
+        "bloomCells": {
+          "count": 4524,
+          "bytes": 171018
+        },
+        "bloomMonthLabels": {
+          "count": 377,
+          "bytes": 80301
+        },
+        "specBlocks": {
+          "count": 1508,
+          "bytes": 443447
+        },
+        "cardDataAttrs": {
+          "count": 2962,
+          "bytes": 95107
+        },
+        "imgTags": {
+          "count": 379,
+          "bytes": 71512
+        },
+        "jsonLd": {
+          "count": 2,
+          "bytes": 7620
+        },
+        "inlineScripts": {
+          "count": 4,
+          "bytes": 3672
+        },
+        "head": {
+          "count": 1,
+          "bytes": 11142
+        }
+      },
+      "perCardRawBytes": 2743
+    },
+    {
+      "page": "/index.html",
+      "rawBytes": 74329,
+      "brBytes": 10459,
+      "gzBytes": 11331,
+      "cards": 44,
+      "parts": {
+        "inlineSvg": {
+          "count": 55,
+          "bytes": 12819
+        },
+        "bloomCells": {
+          "count": 144,
+          "bytes": 5490
+        },
+        "bloomMonthLabels": {
+          "count": 12,
+          "bytes": 2556
+        },
+        "specBlocks": {
+          "count": 48,
+          "bytes": 14154
+        },
+        "cardDataAttrs": {
+          "count": 93,
+          "bytes": 2775
+        },
+        "imgTags": {
+          "count": 33,
+          "bytes": 6164
+        },
+        "jsonLd": {
+          "count": 2,
+          "bytes": 910
+        },
+        "inlineScripts": {
+          "count": 4,
+          "bytes": 3672
+        },
+        "head": {
+          "count": 1,
+          "bytes": 4520
+        }
+      },
+      "perCardRawBytes": 1689
+    },
+    {
+      "page": "/plants/aster/index.html",
+      "rawBytes": 58084,
+      "brBytes": 8901,
+      "gzBytes": 9682,
+      "cards": 6,
+      "parts": {
+        "inlineSvg": {
+          "count": 30,
+          "bytes": 6815
+        },
+        "bloomCells": {
+          "count": 180,
+          "bytes": 6768
+        },
+        "bloomMonthLabels": {
+          "count": 15,
+          "bytes": 3195
+        },
+        "specBlocks": {
+          "count": 24,
+          "bytes": 7084
+        },
+        "cardDataAttrs": {
+          "count": 48,
+          "bytes": 1458
+        },
+        "imgTags": {
+          "count": 23,
+          "bytes": 4202
+        },
+        "jsonLd": {
+          "count": 3,
+          "bytes": 6273
+        },
+        "inlineScripts": {
+          "count": 5,
+          "bytes": 7610
+        },
+        "head": {
+          "count": 1,
+          "bytes": 9897
+        }
+      },
+      "perCardRawBytes": 9681
+    },
+    {
+      "page": "/guides/cool-border/index.html",
+      "rawBytes": 56840,
+      "brBytes": 8936,
+      "gzBytes": 9739,
+      "cards": 0,
+      "parts": {
+        "inlineSvg": {
+          "count": 5,
+          "bytes": 1208
+        },
+        "bloomCells": {
+          "count": 264,
+          "bytes": 9708
+        },
+        "bloomMonthLabels": {
+          "count": 22,
+          "bytes": 4686
+        },
+        "specBlocks": {
+          "count": 0,
+          "bytes": 0
+        },
+        "cardDataAttrs": {
+          "count": 0,
+          "bytes": 0
+        },
+        "imgTags": {
+          "count": 26,
+          "bytes": 5168
+        },
+        "jsonLd": {
+          "count": 3,
+          "bytes": 4194
+        },
+        "inlineScripts": {
+          "count": 4,
+          "bytes": 3672
+        },
+        "head": {
+          "count": 1,
+          "bytes": 8093
+        }
+      },
+      "perCardRawBytes": null
+    }
+  ],
+  "images": {
+    "totalImgTags": 61631,
+    "byHost": {
+      "relative": 3733,
+      "nlgxfcklwiwrmkwfvztf.supabase.co": 57626,
+      "s.pinimg.com": 1,
+      "i.pinimg.com": 1
+    },
+    "byExtension": {
+      "png": 3732,
+      "webp": 54461,
+      "jpg": 3167,
+      "gif": 1
+    },
+    "attributeGaps": {
+      "noWidth": 0,
+      "noHeight": 0,
+      "noAlt": 0,
+      "noLoading": 5443,
+      "noDecoding": 5443,
+      "srcsetPresent": 1611
+    },
+    "samples": [
+      {
+        "page": "/404.html",
+        "tag": "<img class=\"logo\" src=\"/bloomsee-logo-96.png\" alt=\"\" width=\"34\" height=\"34\">"
+      },
+      {
+        "page": "/404.html",
+        "tag": "<img class=\"logo\" src=\"/bloomsee-logo-96.png\" alt=\"\" width=\"30\" height=\"30\">"
+      },
+      {
+        "page": "/bloom-calendar/index.html",
+        "tag": "<img class=\"logo\" src=\"/bloomsee-logo-96.png\" alt=\"\" width=\"34\" height=\"34\">"
+      },
+      {
+        "page": "/bloom-calendar/index.html",
+        "tag": "<img class=\"logo\" src=\"/bloomsee-logo-96.png\" alt=\"\" width=\"30\" height=\"30\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img class=\"logo\" src=\"/bloomsee-logo-96.png\" alt=\"\" width=\"34\" height=\"34\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/anemone-admiral.webp\" alt=\"\" loading=\"eager\" fetchpriority=\"high\" decoding=\"async\" width=\"640\" height=\"360\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/osteospermum.webp\" alt=\"\" loading=\"eager\" fetchpriority=\"high\" decoding=\"async\" width=\"640\" height=\"360\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/amaryllis.webp\" alt=\"\" loading=\"eager\" fetchpriority=\"high\" decoding=\"async\" width=\"640\" height=\"360\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/amaryllis-apple-blossom.webp\" alt=\"\" loading=\"eager\" fetchpriority=\"high\" decoding=\"async\" width=\"640\" height=\"360\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/ranunculus-apricot.webp\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"360\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/freesia-blue.webp\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"360\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/california-flannel-bush-ken-taylor.jpg?v=1782499920252\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" height="
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/california-flannel-bush-pacific-sunset.jpg?v=1782499920135\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" hei"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/california-keiki-fremontodendron.jpg?v=1782499920117\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"3"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/california-lilac.jpg?v=1782499927943\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"360\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/california-poppy-cream-white.jpg?v=1782499927699\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"360\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards/community/california-poppy-rose-pink-mix.jpg?v=1782499928365\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"360"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/amaryllis-white.webp\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"360\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/ranunculus-cream.webp\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"360\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/stock-cream.webp\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"360\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/freesia.webp\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"360\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/anemone-hollandia.webp\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"360\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/osteospermum-lavender.webp\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"360\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/stock-lavender.webp\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"360\">"
+      },
+      {
+        "page": "/bloom-calendar/zone-10/april/index.html",
+        "tag": "<img src=\"https://nlgxfcklwiwrmkwfvztf.supabase.co/storage/v1/object/public/plant-cutouts/cards-sm/osteospermum-yellow.webp\" alt=\"\" loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"360\">"
+      }
+    ]
+  },
+  "nonHtmlAssets": [
+    {
+      "file": "/icon-512.png",
+      "bytes": 205045
+    },
+    {
+      "file": "/bloomsee-logo.png",
+      "bytes": 181125
+    },
+    {
+      "file": "/sitemap-0.xml",
+      "bytes": 129817
+    },
+    {
+      "file": "/previews/cool-border.jpg",
+      "bytes": 127141
+    },
+    {
+      "file": "/og-default.png",
+      "bytes": 84529
+    },
+    {
+      "file": "/fonts/fraunces-latin-opsz-normal.woff2",
+      "bytes": 67304
+    },
+    {
+      "file": "/fonts/fraunces-latin-ext-opsz-normal.woff2",
+      "bytes": 59388
+    },
+    {
+      "file": "/_astro/Layout.BDtOC_yW.css",
+      "bytes": 38565
+    },
+    {
+      "file": "/icon-192.png",
+      "bytes": 37601
+    },
+    {
+      "file": "/fonts/hanken-grotesk-latin-wght-italic.woff2",
+      "bytes": 35592
+    },
+    {
+      "file": "/fonts/hanken-grotesk-latin-wght-normal.woff2",
+      "bytes": 34704
+    },
+    {
+      "file": "/apple-touch-icon.png",
+      "bytes": 34026
+    },
+    {
+      "file": "/fonts/hanken-grotesk-latin-ext-wght-italic.woff2",
+      "bytes": 20388
+    },
+    {
+      "file": "/fonts/hanken-grotesk-latin-ext-wght-normal.woff2",
+      "bytes": 19588
+    },
+    {
+      "file": "/bloomsee-logo-96.png",
+      "bytes": 14534
+    },
+    {
+      "file": "/favicon-96.png",
+      "bytes": 11875
+    },
+    {
+      "file": "/favicon.ico",
+      "bytes": 6835
+    },
+    {
+      "file": "/favicon-48.png",
+      "bytes": 3767
+    },
+    {
+      "file": "/_headers",
+      "bytes": 3397
+    },
+    {
+      "file": "/_redirects",
+      "bytes": 697
+    },
+    {
+      "file": "/sitemap-index.xml",
+      "bytes": 184
+    },
+    {
+      "file": "/robots.txt",
+      "bytes": 129
+    }
+  ]
+}

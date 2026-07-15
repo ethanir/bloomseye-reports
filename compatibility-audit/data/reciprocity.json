@@ -1,0 +1,691 @@
+{
+  "sharpOneWayTopPicks": 170,
+  "sharpAndOutscores": 30,
+  "meanAsymmetry": 3.08,
+  "pairsAsym10Plus": 189,
+  "distinctArchetypePairs": 1922,
+  "sharp": [
+    {
+      "a": "Sunflower",
+      "b": "Tulip Tree",
+      "aToB": 87.9,
+      "bToA": 72.9,
+      "delta": 15,
+      "bWeakestShown": "Trumpet Vine",
+      "bWeakestScore": 57.8,
+      "aBeatsBsWeakest": true
+    },
+    {
+      "a": "Ironweed",
+      "b": "Thyme",
+      "aToB": 86.7,
+      "bToA": 75.5,
+      "delta": 11.2,
+      "bWeakestShown": "Cosmos",
+      "bWeakestScore": 64.5,
+      "aBeatsBsWeakest": true
+    },
+    {
+      "a": "Serviceberry",
+      "b": "Perennial Sunflower",
+      "aToB": 79.3,
+      "bToA": 69.3,
+      "delta": 10,
+      "bWeakestShown": "Sweet Alyssum",
+      "bWeakestScore": 78.5,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Eastern Redbud",
+      "b": "Joe Pye Weed",
+      "aToB": 77.1,
+      "bToA": 67.8,
+      "delta": 9.3,
+      "bWeakestShown": "Stock",
+      "bWeakestScore": 72.4,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Hyacinth",
+      "b": "False Indigo",
+      "aToB": 73,
+      "bToA": 65.2,
+      "delta": 7.8,
+      "bWeakestShown": "Basket of Gold",
+      "bWeakestScore": 64.2,
+      "aBeatsBsWeakest": true
+    },
+    {
+      "a": "Tulip",
+      "b": "Feather Reed Grass",
+      "aToB": 64.7,
+      "bToA": 58,
+      "delta": 6.7,
+      "bWeakestShown": "Wisteria",
+      "bWeakestScore": 61.1,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Daffodil",
+      "b": "False Indigo",
+      "aToB": 64.8,
+      "bToA": 58.4,
+      "delta": 6.4,
+      "bWeakestShown": "Basket of Gold",
+      "bWeakestScore": 64.2,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Snowflake",
+      "b": "False Indigo",
+      "aToB": 64.8,
+      "bToA": 58.4,
+      "delta": 6.4,
+      "bWeakestShown": "Basket of Gold",
+      "bWeakestScore": 64.2,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Poppy Anemone",
+      "b": "Feather Reed Grass",
+      "aToB": 66.5,
+      "bToA": 60.3,
+      "delta": 6.2,
+      "bWeakestShown": "Wisteria",
+      "bWeakestScore": 61.1,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Crown Imperial",
+      "b": "Feather Reed Grass",
+      "aToB": 66.6,
+      "bToA": 60.5,
+      "delta": 6.1,
+      "bWeakestShown": "Wisteria",
+      "bWeakestScore": 61.1,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Amaryllis",
+      "b": "False Indigo",
+      "aToB": 53.7,
+      "bToA": 47.9,
+      "delta": 5.8,
+      "bWeakestShown": "Basket of Gold",
+      "bWeakestScore": 64.2,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Ranunculus",
+      "b": "Feather Reed Grass",
+      "aToB": 55,
+      "bToA": 49.3,
+      "delta": 5.7,
+      "bWeakestShown": "Wisteria",
+      "bWeakestScore": 61.1,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Freesia",
+      "b": "Feather Reed Grass",
+      "aToB": 46.7,
+      "bToA": 42.4,
+      "delta": 4.3,
+      "bWeakestShown": "Wisteria",
+      "bWeakestScore": 61.1,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Windflower",
+      "b": "False Indigo",
+      "aToB": 73,
+      "bToA": 68.7,
+      "delta": 4.3,
+      "bWeakestShown": "Basket of Gold",
+      "bWeakestScore": 64.2,
+      "aBeatsBsWeakest": true
+    },
+    {
+      "a": "Flowering Crabapple",
+      "b": "Joe Pye Weed",
+      "aToB": 72.8,
+      "bToA": 70.1,
+      "delta": 2.7,
+      "bWeakestShown": "Stock",
+      "bWeakestScore": 72.4,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Viburnum",
+      "b": "Aster",
+      "aToB": 72,
+      "bToA": 70.8,
+      "delta": 1.2,
+      "bWeakestShown": "Lobelia",
+      "bWeakestScore": 74.3,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Witch Hazel",
+      "b": "Sea Thrift",
+      "aToB": 74.2,
+      "bToA": 73.9,
+      "delta": 0.3,
+      "bWeakestShown": "Rose of Sharon",
+      "bWeakestScore": 75.6,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Blue Oat Grass",
+      "b": "Basket of Gold",
+      "aToB": 60.5,
+      "bToA": 60.4,
+      "delta": 0.1,
+      "bWeakestShown": "Butterfly Bush",
+      "bWeakestScore": 56.3,
+      "aBeatsBsWeakest": true
+    },
+    {
+      "a": "Agave",
+      "b": "Crape Myrtle",
+      "aToB": 47.5,
+      "bToA": 47.5,
+      "delta": 0,
+      "bWeakestShown": "Rosemary",
+      "bWeakestScore": 44.4,
+      "aBeatsBsWeakest": true
+    },
+    {
+      "a": "Bald Cypress",
+      "b": "Joe Pye Weed",
+      "aToB": 50.9,
+      "bToA": 50.9,
+      "delta": 0,
+      "bWeakestShown": "Stock",
+      "bWeakestScore": 72.4,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Bee Balm",
+      "b": "Mock Orange",
+      "aToB": 63.5,
+      "bToA": 63.5,
+      "delta": 0,
+      "bWeakestShown": "Grape Hyacinth",
+      "bWeakestScore": 59.8,
+      "aBeatsBsWeakest": true
+    },
+    {
+      "a": "Bidens",
+      "b": "Globe Thistle",
+      "aToB": 68.3,
+      "bToA": 68.3,
+      "delta": 0,
+      "bWeakestShown": "Pansy",
+      "bWeakestScore": 75.7,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Bleeding Heart",
+      "b": "Cardinal Flower",
+      "aToB": 58.6,
+      "bToA": 58.6,
+      "delta": 0,
+      "bWeakestShown": "Hyacinth",
+      "bWeakestScore": 57.8,
+      "aBeatsBsWeakest": true
+    },
+    {
+      "a": "Colorado Blue Spruce",
+      "b": "Ninebark",
+      "aToB": 46.7,
+      "bToA": 46.7,
+      "delta": 0,
+      "bWeakestShown": "Calibrachoa",
+      "bWeakestScore": 51.5,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Boston Ivy",
+      "b": "Rhododendron",
+      "aToB": 43.6,
+      "bToA": 43.6,
+      "delta": 0,
+      "bWeakestShown": "Lobelia",
+      "bWeakestScore": 58.3,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Cardinal Flower",
+      "b": "English Daisy",
+      "aToB": 68.7,
+      "bToA": 68.7,
+      "delta": 0,
+      "bWeakestShown": "Cosmos",
+      "bWeakestScore": 59.9,
+      "aBeatsBsWeakest": true
+    },
+    {
+      "a": "Garden Mum",
+      "b": "Globe Thistle",
+      "aToB": 69.2,
+      "bToA": 69.2,
+      "delta": 0,
+      "bWeakestShown": "Pansy",
+      "bWeakestScore": 75.7,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Coleus",
+      "b": "Rhododendron",
+      "aToB": 43.2,
+      "bToA": 43.2,
+      "delta": 0,
+      "bWeakestShown": "Lobelia",
+      "bWeakestScore": 58.3,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Coral Bells",
+      "b": "Rhododendron",
+      "aToB": 43.2,
+      "bToA": 43.2,
+      "delta": 0,
+      "bWeakestShown": "Lobelia",
+      "bWeakestScore": 58.3,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Douglas Fir",
+      "b": "Ninebark",
+      "aToB": 51.2,
+      "bToA": 51.2,
+      "delta": 0,
+      "bWeakestShown": "Calibrachoa",
+      "bWeakestScore": 51.5,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Eastern White Pine",
+      "b": "Ninebark",
+      "aToB": 51.2,
+      "bToA": 51.2,
+      "delta": 0,
+      "bWeakestShown": "Calibrachoa",
+      "bWeakestScore": 51.5,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Echeveria",
+      "b": "Cosmos",
+      "aToB": 60.5,
+      "bToA": 60.5,
+      "delta": 0,
+      "bWeakestShown": "Flowering Crabapple",
+      "bWeakestScore": 58.5,
+      "aBeatsBsWeakest": true
+    },
+    {
+      "a": "Elephant Ear",
+      "b": "Sweet Alyssum",
+      "aToB": 35.8,
+      "bToA": 35.8,
+      "delta": 0,
+      "bWeakestShown": "Cleome",
+      "bWeakestScore": 56.3,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Foam Flower",
+      "b": "Cardinal Flower",
+      "aToB": 62.8,
+      "bToA": 62.8,
+      "delta": 0,
+      "bWeakestShown": "Hyacinth",
+      "bWeakestScore": 57.8,
+      "aBeatsBsWeakest": true
+    },
+    {
+      "a": "Hardy Hibiscus",
+      "b": "English Daisy",
+      "aToB": 61.2,
+      "bToA": 61.2,
+      "delta": 0,
+      "bWeakestShown": "Cosmos",
+      "bWeakestScore": 59.9,
+      "aBeatsBsWeakest": true
+    },
+    {
+      "a": "Hens and Chicks",
+      "b": "Cosmos",
+      "aToB": 54.7,
+      "bToA": 54.7,
+      "delta": 0,
+      "bWeakestShown": "Flowering Crabapple",
+      "bWeakestScore": 58.5,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Hosta",
+      "b": "Rhododendron",
+      "aToB": 43.2,
+      "bToA": 43.2,
+      "delta": 0,
+      "bWeakestShown": "Lobelia",
+      "bWeakestScore": 58.3,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Italian Cypress",
+      "b": "Gaura",
+      "aToB": 44.2,
+      "bToA": 44.2,
+      "delta": 0,
+      "bWeakestShown": "Crocus",
+      "bWeakestScore": 55.2,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Japanese Anemone",
+      "b": "Rhododendron",
+      "aToB": 54.5,
+      "bToA": 54.5,
+      "delta": 0,
+      "bWeakestShown": "Lobelia",
+      "bWeakestScore": 58.3,
+      "aBeatsBsWeakest": false
+    },
+    {
+      "a": "Japanese Painted Fern",
+      "b": "Rhododendron",
+      "aToB": 43.2,
+      "bToA": 43.2,
+      "delta": 0,
+      "bWeakestShown": "Lobelia",
+      "bWeakestScore": 58.3,
+      "aBeatsBsWeakest": false
+    }
+  ],
+  "asym": [
+    {
+      "a": "Sunflower",
+      "b": "Hyacinth",
+      "aToB": 79.2,
+      "bToA": 55,
+      "delta": 24.2
+    },
+    {
+      "a": "Daffodil",
+      "b": "Sunflower",
+      "aToB": 38,
+      "bToA": 57.7,
+      "delta": 19.7
+    },
+    {
+      "a": "Freesia",
+      "b": "Sunflower",
+      "aToB": 38,
+      "bToA": 57.7,
+      "delta": 19.7
+    },
+    {
+      "a": "Crown Imperial",
+      "b": "Sunflower",
+      "aToB": 38,
+      "bToA": 57.7,
+      "delta": 19.7
+    },
+    {
+      "a": "Ranunculus",
+      "b": "Sunflower",
+      "aToB": 36.4,
+      "bToA": 55.2,
+      "delta": 18.8
+    },
+    {
+      "a": "Tulip",
+      "b": "Sunflower",
+      "aToB": 36.4,
+      "bToA": 55.2,
+      "delta": 18.8
+    },
+    {
+      "a": "Azalea",
+      "b": "Snowdrop",
+      "aToB": 71.3,
+      "bToA": 54.5,
+      "delta": 16.8
+    },
+    {
+      "a": "Crocus",
+      "b": "Lavender",
+      "aToB": 53.3,
+      "bToA": 69.5,
+      "delta": 16.2
+    },
+    {
+      "a": "Sunflower",
+      "b": "Tulip Tree",
+      "aToB": 87.9,
+      "bToA": 72.9,
+      "delta": 15
+    },
+    {
+      "a": "Grape Hyacinth",
+      "b": "Lavender",
+      "aToB": 53.3,
+      "bToA": 68.2,
+      "delta": 14.9
+    },
+    {
+      "a": "English Daisy",
+      "b": "Sunflower",
+      "aToB": 72.4,
+      "bToA": 87.2,
+      "delta": 14.8
+    },
+    {
+      "a": "Ironweed",
+      "b": "Hyacinth",
+      "aToB": 79.4,
+      "bToA": 64.7,
+      "delta": 14.7
+    },
+    {
+      "a": "Gazania",
+      "b": "Rosemary",
+      "aToB": 71.9,
+      "bToA": 86.3,
+      "delta": 14.4
+    },
+    {
+      "a": "Azalea",
+      "b": "Windflower",
+      "aToB": 61,
+      "bToA": 46.7,
+      "delta": 14.3
+    },
+    {
+      "a": "Chives",
+      "b": "Sunflower",
+      "aToB": 69.3,
+      "bToA": 83.5,
+      "delta": 14.2
+    },
+    {
+      "a": "Rhododendron",
+      "b": "Windflower",
+      "aToB": 69,
+      "bToA": 54.8,
+      "delta": 14.2
+    },
+    {
+      "a": "Ice Plant",
+      "b": "Rosemary",
+      "aToB": 70,
+      "bToA": 84,
+      "delta": 14
+    },
+    {
+      "a": "Rosemary",
+      "b": "Creeping Sedum",
+      "aToB": 83.8,
+      "bToA": 69.8,
+      "delta": 14
+    },
+    {
+      "a": "Butterfly Weed",
+      "b": "Rosemary",
+      "aToB": 69.6,
+      "bToA": 83.5,
+      "delta": 13.9
+    },
+    {
+      "a": "Coreopsis",
+      "b": "Rosemary",
+      "aToB": 69.6,
+      "bToA": 83.5,
+      "delta": 13.9
+    },
+    {
+      "a": "Blanket Flower",
+      "b": "Rosemary",
+      "aToB": 69.6,
+      "bToA": 83.5,
+      "delta": 13.9
+    },
+    {
+      "a": "Gaura",
+      "b": "Rosemary",
+      "aToB": 67.7,
+      "bToA": 81.2,
+      "delta": 13.5
+    },
+    {
+      "a": "Canterbury Bells",
+      "b": "Sunflower",
+      "aToB": 65.1,
+      "bToA": 78.5,
+      "delta": 13.4
+    },
+    {
+      "a": "Autumn Crocus",
+      "b": "Sunflower",
+      "aToB": 66.8,
+      "bToA": 80.2,
+      "delta": 13.4
+    },
+    {
+      "a": "Lantana",
+      "b": "Rosemary",
+      "aToB": 66.9,
+      "bToA": 80.3,
+      "delta": 13.4
+    },
+    {
+      "a": "African Daisy",
+      "b": "Sunflower",
+      "aToB": 65.1,
+      "bToA": 78.5,
+      "delta": 13.4
+    },
+    {
+      "a": "Sea Holly",
+      "b": "Rosemary",
+      "aToB": 67.1,
+      "bToA": 80.5,
+      "delta": 13.4
+    },
+    {
+      "a": "Yarrow",
+      "b": "Rosemary",
+      "aToB": 66.9,
+      "bToA": 80.3,
+      "delta": 13.4
+    },
+    {
+      "a": "Snowflake",
+      "b": "Autumn Fern",
+      "aToB": 51.7,
+      "bToA": 38.5,
+      "delta": 13.2
+    },
+    {
+      "a": "Snowflake",
+      "b": "Japanese Forest Grass",
+      "aToB": 51.7,
+      "bToA": 38.5,
+      "delta": 13.2
+    },
+    {
+      "a": "Giant Allium",
+      "b": "Sunflower",
+      "aToB": 63.7,
+      "bToA": 76.8,
+      "delta": 13.1
+    },
+    {
+      "a": "Sage",
+      "b": "Sunflower",
+      "aToB": 63.7,
+      "bToA": 76.8,
+      "delta": 13.1
+    },
+    {
+      "a": "Cosmos",
+      "b": "Crocus",
+      "aToB": 63,
+      "bToA": 50,
+      "delta": 13
+    },
+    {
+      "a": "Oregano",
+      "b": "Rosemary",
+      "aToB": 65,
+      "bToA": 78,
+      "delta": 13
+    },
+    {
+      "a": "Stock",
+      "b": "Sunflower",
+      "aToB": 63.2,
+      "bToA": 76.2,
+      "delta": 13
+    },
+    {
+      "a": "Rosemary",
+      "b": "Thyme",
+      "aToB": 79.8,
+      "bToA": 66.9,
+      "delta": 12.9
+    },
+    {
+      "a": "Rosemary",
+      "b": "Sweet Alyssum",
+      "aToB": 77.5,
+      "bToA": 64.6,
+      "delta": 12.9
+    },
+    {
+      "a": "Mullein",
+      "b": "Rosemary",
+      "aToB": 63.2,
+      "bToA": 75.9,
+      "delta": 12.7
+    },
+    {
+      "a": "Butterfly Bush",
+      "b": "Rosemary",
+      "aToB": 63.5,
+      "bToA": 76.1,
+      "delta": 12.6
+    },
+    {
+      "a": "California Poppy",
+      "b": "Rosemary",
+      "aToB": 62.9,
+      "bToA": 75.5,
+      "delta": 12.6
+    }
+  ]
+}

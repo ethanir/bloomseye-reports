@@ -1,0 +1,650 @@
+[
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "alexandrina",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 49.2,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall, extending the bed's season; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "ann-magnolia",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 49.5,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall, extending the bed's season; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "azalea-fireball",
+    "companion": "periwinkle",
+    "detail": "recommends Periwinkle (Vinca minor): Vinca minor: invasive groundcover, escapes into woodlands [NO caution in the reason]",
+    "score": 50.8,
+    "reason": "Shares part shade and low to moderate water; low at 0.15 m, to carpet the ground beneath; evergreen, so the bed keeps its shape through winter; blue against red, for contrast."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "azalea-gibraltar",
+    "companion": "periwinkle",
+    "detail": "recommends Periwinkle (Vinca minor): Vinca minor: invasive groundcover, escapes into woodlands [NO caution in the reason]",
+    "score": 50.8,
+    "reason": "Shares part shade and low to moderate water; low at 0.15 m, to carpet the ground beneath; evergreen, so the bed keeps its shape through winter; blue against orange, for contrast."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "beautyberry-white",
+    "companion": "periwinkle",
+    "detail": "recommends Periwinkle (Vinca minor): Vinca minor: invasive groundcover, escapes into woodlands [NO caution in the reason]",
+    "score": 60,
+    "reason": "Takes part sun to part shade and low to moderate water; blooms in mid spring, before this one opens; low at 0.15 m, to carpet the ground beneath; evergreen, so the bed keeps its shape through winter."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "bee-balm-pardon-my-cerise",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 50.8,
+    "reason": "Shares full sun and low to moderate water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "bee-balm-pardon-my-purple",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 52.9,
+    "reason": "Shares full sun and low to moderate water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "boston-ivy",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 40.1,
+    "reason": "Takes full sun to part sun and low to moderate water; its seed heads stand through winter, for structure and the birds; low at 1.8 m, to carpet the ground beneath it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "boston-ivy-gold",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 40.4,
+    "reason": "Takes full sun to part sun and low to moderate water; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "boston-ivy-purple",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 40.8,
+    "reason": "Takes full sun to part sun and low to moderate water; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "butterflies-magnolia",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 51.6,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall, extending the bed's season; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "butterfly-bush-blue-chip",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 55.5,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "butterfly-bush-pugster-blue",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 55.5,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "cecile-brunner",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 48.1,
+    "reason": "Shares full sun and low to moderate water; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it; a soft colour beside the pink."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "clematis-jackmanii",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 52.8,
+    "reason": "Shares full sun and low to moderate water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; lower at 1.8 m, for the front of the border."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "cornelian-cherry",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 51.5,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall, before this one opens; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "crape-myrtle",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 53.8,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; lower at 1.8 m, for the front of the border."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "crape-myrtle-acoma",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 49.9,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; a soft colour beside the yellow."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "crape-myrtle-black-diamond-red",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 53.9,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; lower at 1.8 m, for the front of the border."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "crape-myrtle-catawba",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 56.2,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; lower at 1.8 m, for the front of the border."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "crape-myrtle-cherry-dazzle",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 47.6,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "crape-myrtle-dynamite",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 53.6,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; lower at 1.8 m, for the front of the border."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "crape-myrtle-hopi",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 47.6,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "crape-myrtle-muskogee",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 55.5,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "crape-myrtle-natchez",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 55.5,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "crape-myrtle-pink-velour",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 53.8,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; lower at 1.8 m, for the front of the border."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "crape-myrtle-red-rocket",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 53.5,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "crape-myrtle-sioux",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 53.8,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; lower at 1.8 m, for the front of the border."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "crape-myrtle-tuscarora",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 53.6,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; lower at 1.8 m, for the front of the border."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "crape-myrtle-twilight",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 55.7,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "drift-rose",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 46,
+    "reason": "Shares full sun and low to moderate water; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "floribunda-rose",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 46,
+    "reason": "Shares full sun and low to moderate water; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "flower-carpet-rose",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 46,
+    "reason": "Shares full sun and low to moderate water; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "forsythia-gold-tide",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 50.1,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall, extending the bed's season; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "ginkgo",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 39.6,
+    "reason": "Shares full sun and low to moderate water; its seed heads stand through winter, for structure and the birds."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "honeysuckle",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 57.3,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall as this one finishes; its seed heads stand through winter, for structure and the birds; lower at 1.8 m, for the front of the border."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "honeysuckle-pink",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 55,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall as this one finishes; its seed heads stand through winter, for structure and the birds; lower at 1.8 m, for the front of the border."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "honeysuckle-white",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 56.9,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall as this one finishes; its seed heads stand through winter, for structure and the birds; lower at 1.8 m, for the front of the border."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "honeysuckle-yellow",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 57.3,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall as this one finishes; its seed heads stand through winter, for structure and the birds; lower at 1.8 m, for the front of the border."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "jasmine",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 51.4,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall as this one finishes; its seed heads stand through winter, for structure and the birds; a soft colour beside the yellow."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "julia-child-rose",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 48.3,
+    "reason": "Shares full sun and low to moderate water; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it; orange sits close to yellow on the wheel."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "lady-banks-rose",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 51.5,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall, extending the bed's season; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "ladys-mantle",
+    "companion": "periwinkle",
+    "detail": "recommends Periwinkle (Vinca minor): Vinca minor: invasive groundcover, escapes into woodlands [NO caution in the reason]",
+    "score": 42.3,
+    "reason": "Shares part shade and low to moderate water; opens in mid spring and overlaps into this one's season; evergreen, so the bed keeps its shape through winter; lower at 0.15 m, for the front of the border."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "leonard-messel",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 49.2,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall, extending the bed's season; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "new-dawn-rose",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 49.8,
+    "reason": "Shares full sun and low to moderate water; its seed heads stand through winter, for structure and the birds; lower at 1.8 m, for the front of the border; a soft colour beside the pink."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "obedient-plant",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 44.9,
+    "reason": "Shares full sun and low to moderate water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "potentilla",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 58.9,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "potentilla-abbotswood",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 58.7,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "potentilla-goldfinger",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 58.9,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "potentilla-happy-face-yellow",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 58.9,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "potentilla-mango-tango",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 58.9,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "potentilla-mckays-white",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 58.7,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "potentilla-orange-whisper",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 58.9,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "potentilla-pink-beauty",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 56.4,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "potentilla-pink-whisper",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 56.4,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "potentilla-red-ace",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 56.4,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "potentilla-tangerine",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 58.9,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "royal-star",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 51.6,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall, extending the bed's season; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "rugosa-rose",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 49.6,
+    "reason": "Shares full sun and low water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "saucer-magnolia",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 49,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall, extending the bed's season; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "snow-in-summer",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 57.8,
+    "reason": "Shares full sun and low water; blooms in early fall, extending the bed's season; stands well above at 1.8 m, a canopy to plant beneath; a soft colour beside the white."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "spirea-neon-flash",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 53.4,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall as this one finishes; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "star-magnolia",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 51.4,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall, before this one opens; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "the-fairy-rose",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 46.6,
+    "reason": "Shares full sun and low to moderate water; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it; a soft colour beside the pink."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "the-generous-gardener",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 49.8,
+    "reason": "Shares full sun and low to moderate water; its seed heads stand through winter, for structure and the birds; lower at 1.8 m, for the front of the border; a soft colour beside the pink."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "trumpet-vine",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 52.9,
+    "reason": "Shares full sun and low to moderate water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "trumpet-vine-apricot",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 55.2,
+    "reason": "Shares full sun and low to moderate water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "trumpet-vine-red",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 52.9,
+    "reason": "Shares full sun and low to moderate water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "trumpet-vine-yellow",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 55.2,
+    "reason": "Shares full sun and low to moderate water; overlaps, then carries the display into mid fall; its seed heads stand through winter, for structure and the birds; shorter at 1.8 m, an understory layer."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "weigela-my-monet",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 47.8,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall, extending the bed's season; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "weigela-spilled-wine",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 47.8,
+    "reason": "Shares full sun and low to moderate water; blooms in early fall, extending the bed's season; its seed heads stand through winter, for structure and the birds; taller at 1.8 m, for the layer behind it."
+  },
+  {
+    "rule": "invasive-companion",
+    "severity": "high",
+    "subject": "wollerton-old-hall",
+    "companion": "maiden-grass",
+    "detail": "recommends Maiden Grass (Miscanthus sinensis): Miscanthus sinensis: self-seeds, listed invasive across much of the eastern US [NO caution in the reason]",
+    "score": 49.8,
+    "reason": "Shares full sun and low to moderate water; its seed heads stand through winter, for structure and the birds; lower at 1.8 m, for the front of the border; a soft colour beside the orange."
+  }
+]

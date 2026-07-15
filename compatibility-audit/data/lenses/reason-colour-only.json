@@ -1,0 +1,56 @@
+[
+  {
+    "rule": "reason-colour-only",
+    "severity": "medium",
+    "subject": "impatiens",
+    "companion": "solomons-seal",
+    "detail": "the only benefit named is colour: \"Takes part shade to full shade and moderate to high water; a soft colour beside the pink.\"",
+    "score": 44.2,
+    "reason": "Takes part shade to full shade and moderate to high water; a soft colour beside the pink."
+  },
+  {
+    "rule": "reason-colour-only",
+    "severity": "medium",
+    "subject": "impatiens-double-rose",
+    "companion": "solomons-seal",
+    "detail": "the only benefit named is colour: \"Takes part shade to full shade and moderate to high water; a soft colour beside the pink.\"",
+    "score": 44.2,
+    "reason": "Takes part shade to full shade and moderate to high water; a soft colour beside the pink."
+  },
+  {
+    "rule": "reason-colour-only",
+    "severity": "medium",
+    "subject": "impatiens-lavender",
+    "companion": "solomons-seal",
+    "detail": "the only benefit named is colour: \"Takes part shade to full shade and moderate to high water; a soft colour beside the pink.\"",
+    "score": 44.2,
+    "reason": "Takes part shade to full shade and moderate to high water; a soft colour beside the pink."
+  },
+  {
+    "rule": "reason-colour-only",
+    "severity": "medium",
+    "subject": "impatiens-red",
+    "companion": "solomons-seal",
+    "detail": "the only benefit named is colour: \"Takes part shade to full shade and moderate to high water; a soft colour beside the red.\"",
+    "score": 44.2,
+    "reason": "Takes part shade to full shade and moderate to high water; a soft colour beside the red."
+  },
+  {
+    "rule": "reason-colour-only",
+    "severity": "medium",
+    "subject": "impatiens-rose",
+    "companion": "solomons-seal",
+    "detail": "the only benefit named is colour: \"Takes part shade to full shade and moderate to high water; a soft colour beside the pink.\"",
+    "score": 44.2,
+    "reason": "Takes part shade to full shade and moderate to high water; a soft colour beside the pink."
+  },
+  {
+    "rule": "reason-colour-only",
+    "severity": "medium",
+    "subject": "impatiens-violet",
+    "companion": "solomons-seal",
+    "detail": "the only benefit named is colour: \"Takes part shade to full shade and moderate to high water; a soft colour beside the purple.\"",
+    "score": 44.2,
+    "reason": "Takes part shade to full shade and moderate to high water; a soft colour beside the purple."
+  }
+]

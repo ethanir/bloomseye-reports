@@ -1,0 +1,3024 @@
+{
+  "clashes": 411,
+  "nonAdjacent": 335,
+  "archetypeClashes": 32,
+  "reasonsColourClause": 2644,
+  "reasonsMisColour": 1127,
+  "hard": [
+    {
+      "slug": "lily-asiatic",
+      "name": "Asiatic Lily",
+      "hex": "#e8643c",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "black-eyed-susan",
+      "name": "Black-Eyed Susan",
+      "hex": "#f4b400",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "yarrow",
+      "name": "Yarrow",
+      "hex": "#f4c542",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "penstemon",
+      "name": "Penstemon",
+      "hex": "#c05a9e",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "sunflower",
+      "name": "Sunflower",
+      "hex": "#f4b400",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "gardenia",
+      "name": "Gardenia",
+      "hex": "#fbfbf5",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "climbing-hydrangea",
+      "name": "Climbing Hydrangea",
+      "hex": "#f3f0ea",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "jasmine",
+      "name": "Jasmine",
+      "hex": "#fbfbf5",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "blue-fescue",
+      "name": "Blue Fescue",
+      "hex": "#cdbf8a",
+      "classified": "yellow",
+      "tag": "blue",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "pampas-grass",
+      "name": "Pampas Grass",
+      "hex": "#f0e8d0",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "thyme",
+      "name": "Thyme",
+      "hex": "#c08fc6",
+      "classified": "pink",
+      "tag": "purple",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "redbud",
+      "name": "Eastern Redbud",
+      "hex": "#c45a92",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "joe-pye-weed",
+      "name": "Joe Pye Weed",
+      "hex": "#b06f9e",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "solomons-seal",
+      "name": "Solomon's Seal",
+      "hex": "#fbfbf2",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "ranunculus",
+      "name": "Ranunculus",
+      "hex": "#e0533c",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "calla-lily",
+      "name": "Calla Lily",
+      "hex": "#f5f0e8",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "ninebark",
+      "name": "Ninebark",
+      "hex": "#f2e8ee",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "smokebush",
+      "name": "Smokebush",
+      "hex": "#d6a8c0",
+      "classified": "pink",
+      "tag": "purple",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "beautyberry",
+      "name": "Beautyberry",
+      "hex": "#d6a0d0",
+      "classified": "pink",
+      "tag": "purple",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "witch-hazel",
+      "name": "Witch Hazel",
+      "hex": "#f0b22c",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "mock-orange",
+      "name": "Mock Orange",
+      "hex": "#fbfbf5",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "summersweet",
+      "name": "Summersweet",
+      "hex": "#f5eef2",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "little-bluestem",
+      "name": "Little Bluestem",
+      "hex": "#d8a87a",
+      "classified": "orange",
+      "tag": "blue",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "blue-oat-grass",
+      "name": "Blue Oat Grass",
+      "hex": "#d8c89a",
+      "classified": "orange",
+      "tag": "blue",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "false-sunflower",
+      "name": "False Sunflower",
+      "hex": "#f5b400",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "perennial-sunflower",
+      "name": "Perennial Sunflower",
+      "hex": "#f5b400",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "foam-flower",
+      "name": "Foam Flower",
+      "hex": "#f5eef5",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "goatsbeard",
+      "name": "Goatsbeard",
+      "hex": "#f5f0e8",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "globeflower",
+      "name": "Globeflower",
+      "hex": "#f5b400",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "ligularia",
+      "name": "Ligularia",
+      "hex": "#f5b400",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "nicotiana",
+      "name": "Flowering Tobacco",
+      "hex": "#f5eef5",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "moonflower",
+      "name": "Moonflower",
+      "hex": "#fbfbf5",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": true,
+      "adjacent": false
+    },
+    {
+      "slug": "tulip-golden-apeldoorn",
+      "name": "Golden Apeldoorn",
+      "hex": "#f2bc1e",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "tulip-white-triumphator",
+      "name": "White Triumphator",
+      "hex": "#f7f5ee",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "tulip-purissima",
+      "name": "Purissima",
+      "hex": "#f8f6f0",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "tulip-flaming-parrot",
+      "name": "Flaming Parrot",
+      "hex": "#f2c33a",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "narcissus-mount-hood",
+      "name": "Mount Hood",
+      "hex": "#f6f3ea",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "narcissus-ice-follies",
+      "name": "Ice Follies",
+      "hex": "#f2f0e2",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "narcissus-thalia",
+      "name": "Thalia",
+      "hex": "#f7f5ee",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "narcissus-jetfire",
+      "name": "Jetfire",
+      "hex": "#f2a82a",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "narcissus-pink-charm",
+      "name": "Pink Charm",
+      "hex": "#f0cdd0",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "narcissus-salome",
+      "name": "Salome",
+      "hex": "#f0c2a8",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "narcissus-cheerfulness",
+      "name": "Cheerfulness",
+      "hex": "#f4eecb",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "narcissus-geranium",
+      "name": "Geranium",
+      "hex": "#f4f1e8",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "narcissus-actaea",
+      "name": "Actaea",
+      "hex": "#f7f5ee",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "narcissus-jack-snipe",
+      "name": "Jack Snipe",
+      "hex": "#f3edda",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "narcissus-sir-winston-churchill",
+      "name": "Sir Winston Churchill",
+      "hex": "#f5f0e4",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "crocus-jeanne-darc",
+      "name": "Jeanne d'Arc",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "crocus-snow-bunting",
+      "name": "Snow Bunting",
+      "hex": "#f0eee2",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "hyacinth-carnegie",
+      "name": "Carnegie",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "grape-hyacinth-white",
+      "name": "White Muscari",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "allium-mount-everest",
+      "name": "Mount Everest",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "allium-drumstick",
+      "name": "Drumstick Allium",
+      "hex": "#8a2e4a",
+      "classified": "red",
+      "tag": "purple",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "gladiolus-white",
+      "name": "White Prosperity",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "gladiolus-priscilla",
+      "name": "Priscilla",
+      "hex": "#f0d8e0",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "gladiolus-magenta",
+      "name": "Magenta Gladiolus",
+      "hex": "#cc2e8e",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "dahlia-cafe-au-lait",
+      "name": "Café au Lait",
+      "hex": "#ecd8c4",
+      "classified": "orange",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "dahlia-fleurel",
+      "name": "Fleurel",
+      "hex": "#f6f3ec",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "canna-cleopatra",
+      "name": "Cleopatra",
+      "hex": "#e0a828",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "crocosmia-george-davison",
+      "name": "George Davison",
+      "hex": "#f2b41e",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "crocosmia-solfatare",
+      "name": "Solfatare",
+      "hex": "#f0c860",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "daylily-stella-de-oro",
+      "name": "Stella de Oro",
+      "hex": "#f2b21e",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "daylily-joan-senior",
+      "name": "Joan Senior",
+      "hex": "#f4eedd",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "coneflower-white-swan",
+      "name": "White Swan",
+      "hex": "#f2efe4",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "coneflower-hot-papaya",
+      "name": "Hot Papaya",
+      "hex": "#e8552a",
+      "classified": "red",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "coneflower-sombrero-hot-coral",
+      "name": "Sombrero Hot Coral",
+      "hex": "#f0734e",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "black-eyed-susan-goldsturm",
+      "name": "Goldsturm",
+      "hex": "#f0a81e",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "black-eyed-susan-american-gold-rush",
+      "name": "American Gold Rush",
+      "hex": "#f2b01e",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "black-eyed-susan-indian-summer",
+      "name": "Indian Summer",
+      "hex": "#f4b81e",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "black-eyed-susan-denver-daisy",
+      "name": "Denver Daisy",
+      "hex": "#f0a020",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "black-eyed-susan-goldilocks",
+      "name": "Goldilocks",
+      "hex": "#f2b01e",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "black-eyed-susan-toto-gold",
+      "name": "Toto Gold",
+      "hex": "#f4b81e",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "shasta-daisy-becky",
+      "name": "Becky",
+      "hex": "#fcfcfa",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "shasta-daisy-alaska",
+      "name": "Alaska",
+      "hex": "#fbfbf8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "shasta-daisy-snowcap",
+      "name": "Snowcap",
+      "hex": "#fcfcfa",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "shasta-daisy-crazy-daisy",
+      "name": "Crazy Daisy",
+      "hex": "#fafaf6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "shasta-daisy-snow-lady",
+      "name": "Snow Lady",
+      "hex": "#fbfbf8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "coreopsis-zagreb",
+      "name": "Zagreb",
+      "hex": "#f4b81e",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "coreopsis-early-sunrise",
+      "name": "Early Sunrise",
+      "hex": "#f0a81e",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "coreopsis-route-66",
+      "name": "Route 66",
+      "hex": "#e8b020",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "coreopsis-jethro-tull",
+      "name": "Jethro Tull",
+      "hex": "#f0a81e",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "salvia-snow-hill",
+      "name": "Snow Hill",
+      "hex": "#f2f0e8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "catmint-snowflake",
+      "name": "Snowflake",
+      "hex": "#f2f0e8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "yarrow-coronation-gold",
+      "name": "Coronation Gold",
+      "hex": "#e8a81e",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "yarrow-apricot-delight",
+      "name": "Apricot Delight",
+      "hex": "#f0a07a",
+      "classified": "orange",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "yarrow-white",
+      "name": "White Yarrow",
+      "hex": "#f2efe6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "peony-festiva-maxima",
+      "name": "Festiva Maxima",
+      "hex": "#f6f2ea",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "peony-duchesse-de-nemours",
+      "name": "Duchesse de Nemours",
+      "hex": "#f7f3e8",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "peony-gardenia",
+      "name": "Gardenia",
+      "hex": "#f5eee4",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "bee-balm-snow-white",
+      "name": "Snow White",
+      "hex": "#f2f0e8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "bee-balm-rockin-raspberry",
+      "name": "Rockin' Raspberry",
+      "hex": "#b0386e",
+      "classified": "red",
+      "tag": "purple",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "phlox-david",
+      "name": "David",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "phlox-orange-perfection",
+      "name": "Orange Perfection",
+      "hex": "#f0805a",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "phlox-white-flame",
+      "name": "White Flame",
+      "hex": "#f2f0e8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "aster-patricia-ballard",
+      "name": "Patricia Ballard",
+      "hex": "#c44a8e",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "aster-snow-flurry",
+      "name": "Snow Flurry",
+      "hex": "#f2f0e8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "astilbe-bridal-veil",
+      "name": "Bridal Veil",
+      "hex": "#f2efe6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "astilbe-deutschland",
+      "name": "Deutschland",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "hellebore-christmas-rose",
+      "name": "Christmas Rose",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "hellebore-ivory-prince",
+      "name": "Ivory Prince",
+      "hex": "#f0e8d8",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "hellebore-cinnamon-snow",
+      "name": "Cinnamon Snow",
+      "hex": "#f0dcc8",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "hellebore-wedding-party",
+      "name": "Wedding Party",
+      "hex": "#f2f0e6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "bleeding-heart-alba",
+      "name": "Alba",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "columbine-white",
+      "name": "White Columbine",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "baptisia-dutch-chocolate",
+      "name": "Dutch Chocolate",
+      "hex": "#5a3a4a",
+      "classified": "red",
+      "tag": "purple",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "foxglove-camelot-white",
+      "name": "Camelot White",
+      "hex": "#f2f0e8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "foxglove-dalmatian-peach",
+      "name": "Dalmatian Peach",
+      "hex": "#f0b090",
+      "classified": "orange",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "foxglove-suttons-apricot",
+      "name": "Sutton's Apricot",
+      "hex": "#f0a888",
+      "classified": "orange",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "foxglove-pams-choice",
+      "name": "Pam's Choice",
+      "hex": "#f2ece2",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "delphinium-galahad",
+      "name": "Galahad",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "delphinium-guinevere",
+      "name": "Guinevere",
+      "hex": "#b08ac8",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "lupine-noble-maiden",
+      "name": "Noble Maiden",
+      "hex": "#f2f0e6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "gaillardia-arizona-apricot",
+      "name": "Arizona Apricot",
+      "hex": "#f0a860",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "veronica-icicle",
+      "name": "Icicle",
+      "hex": "#f2f0e8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "veronica-snow-candles",
+      "name": "Snow Candles",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "hardy-geranium-biokovo",
+      "name": "Biokovo",
+      "hex": "#f0e4ea",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "hardy-geranium-kashmir-white",
+      "name": "Kashmir White",
+      "hex": "#f2f0e8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "creeping-phlox-white-delight",
+      "name": "White Delight",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "creeping-phlox-amazing-grace",
+      "name": "Amazing Grace",
+      "hex": "#f2e0ea",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "creeping-phlox-snowflake",
+      "name": "Snowflake",
+      "hex": "#f2f0e8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "chrysanthemum-gold",
+      "name": "Gold Mum",
+      "hex": "#e0a020",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "chrysanthemum-white",
+      "name": "White Mum",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "chrysanthemum-coral",
+      "name": "Coral Mum",
+      "hex": "#f0845e",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "chrysanthemum-sheffield-pink",
+      "name": "Sheffield Pink",
+      "hex": "#f0b89c",
+      "classified": "orange",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "chrysanthemum-mary-stoker",
+      "name": "Mary Stoker",
+      "hex": "#e8c068",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "dianthus-coconut-surprise",
+      "name": "Coconut Surprise",
+      "hex": "#f2eee8",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "dianthus-georgia-peach-pie",
+      "name": "Georgia Peach Pie",
+      "hex": "#f0a888",
+      "classified": "orange",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "dianthus-white-pinks",
+      "name": "White Pinks",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "marigold-gold",
+      "name": "Gold Marigold",
+      "hex": "#e8a000",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "marigold-bicolor",
+      "name": "Bicolor Marigold",
+      "hex": "#c85020",
+      "classified": "orange",
+      "tag": "red",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "marigold-cream",
+      "name": "Cream Marigold",
+      "hex": "#f2ead0",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "marigold-french",
+      "name": "French Marigold",
+      "hex": "#f0a81e",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "petunia-white",
+      "name": "White Petunia",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "petunia-coral",
+      "name": "Coral Petunia",
+      "hex": "#f0744e",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "zinnia-white",
+      "name": "White Zinnia",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "zinnia-coral",
+      "name": "Coral Zinnia",
+      "hex": "#f4805a",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "zinnia-profusion-white",
+      "name": "Profusion White",
+      "hex": "#f2efe6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "sunflower-mammoth",
+      "name": "Mammoth",
+      "hex": "#f4b400",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "sunflower-teddy-bear",
+      "name": "Teddy Bear",
+      "hex": "#f0b020",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "sunflower-italian-white",
+      "name": "Italian White",
+      "hex": "#f0ead8",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "sunflower-ring-of-fire",
+      "name": "Ring of Fire",
+      "hex": "#e06a28",
+      "classified": "orange",
+      "tag": "red",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "impatiens-white",
+      "name": "White Impatiens",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "impatiens-lavender",
+      "name": "Lavender Impatiens",
+      "hex": "#c89ad0",
+      "classified": "pink",
+      "tag": "purple",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "impatiens-sunpatiens-coral",
+      "name": "SunPatiens Coral",
+      "hex": "#f47a5e",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "begonia-wax-white",
+      "name": "Wax Begonia White",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "begonia-bonfire",
+      "name": "Bonfire",
+      "hex": "#e8542a",
+      "classified": "red",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "geranium-annual-white",
+      "name": "White Geranium",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "geranium-annual-coral",
+      "name": "Coral Geranium",
+      "hex": "#f06a52",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "snapdragon-white",
+      "name": "White Snapdragon",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "cosmos-purity",
+      "name": "Purity",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "cosmos-apricot-lemonade",
+      "name": "Apricot Lemonade",
+      "hex": "#f0c090",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "pansy-white",
+      "name": "White Pansy",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "sweet-alyssum-snow-princess",
+      "name": "Snow Princess",
+      "hex": "#f8f6ee",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "nasturtium-salmon",
+      "name": "Salmon Nasturtium",
+      "hex": "#f0805a",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "celosia-cockscomb-magenta",
+      "name": "Cockscomb Magenta",
+      "hex": "#cc2e7e",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "vinca-white",
+      "name": "White Vinca",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "vinca-coral",
+      "name": "Coral Vinca",
+      "hex": "#f0746a",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "lobelia-white",
+      "name": "White Lobelia",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "hydrangea-panicle",
+      "name": "Panicle Hydrangea",
+      "hex": "#f3f0ea",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "hydrangea-oakleaf",
+      "name": "Oakleaf Hydrangea",
+      "hex": "#f3f0ea",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "lilac-beauty-of-moscow",
+      "name": "Beauty of Moscow",
+      "hex": "#f0e4ea",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "lilac-madame-lemoine",
+      "name": "Madame Lemoine",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "azalea-delaware-valley-white",
+      "name": "Delaware Valley White",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "azalea-fireball",
+      "name": "Fireball",
+      "hex": "#e84e22",
+      "classified": "red",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "azalea-white-lights",
+      "name": "White Lights",
+      "hex": "#f4e8ee",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "azalea-golden-lights",
+      "name": "Golden Lights",
+      "hex": "#f0b83a",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "rhododendron-pjm",
+      "name": "PJM",
+      "hex": "#b56ab0",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "rhododendron-cunninghams-white",
+      "name": "Cunningham's White",
+      "hex": "#f2f0e6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "rhododendron-boule-de-neige",
+      "name": "Boule de Neige",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "butterfly-bush-white-profusion",
+      "name": "White Profusion",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "butterfly-bush-royal-red",
+      "name": "Royal Red",
+      "hex": "#a8306e",
+      "classified": "purple",
+      "tag": "red",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "spirea-bridal-wreath",
+      "name": "Bridal Wreath",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "spirea-snowmound",
+      "name": "Snowmound",
+      "hex": "#f2f0e8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "rose-of-sharon-diana",
+      "name": "Diana",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "rose-of-sharon-helene",
+      "name": "Helene",
+      "hex": "#f0ece2",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "rose-of-sharon-white-chiffon",
+      "name": "White Chiffon",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "rose-of-sharon-red-heart",
+      "name": "Red Heart",
+      "hex": "#f2ece2",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "camellia-alba-plena",
+      "name": "Alba Plena",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "camellia-setsugekka",
+      "name": "Setsugekka",
+      "hex": "#f2f0e8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "camellia-nuccios-pearl",
+      "name": "Nuccio's Pearl",
+      "hex": "#f4e8ec",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "gardenia-august-beauty",
+      "name": "August Beauty",
+      "hex": "#fcfcf6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "gardenia-frostproof",
+      "name": "Frostproof",
+      "hex": "#fbfbf5",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "gardenia-kleims-hardy",
+      "name": "Kleim's Hardy",
+      "hex": "#fcfcf8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "gardenia-radicans",
+      "name": "Radicans",
+      "hex": "#fbfbf5",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "gardenia-veitchii",
+      "name": "Veitchii",
+      "hex": "#fcfcf6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "gardenia-crown-jewel",
+      "name": "Crown Jewel",
+      "hex": "#fbfbf5",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "weigela-white",
+      "name": "White Weigela",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "weigela-white-knight",
+      "name": "White Knight",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "viburnum-burkwood",
+      "name": "Burkwood",
+      "hex": "#f6f0f2",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "crape-myrtle-natchez",
+      "name": "Natchez",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "crape-myrtle-acoma",
+      "name": "Acoma",
+      "hex": "#f2efe6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "potentilla-abbotswood",
+      "name": "Abbotswood",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "potentilla-mckays-white",
+      "name": "McKay's White",
+      "hex": "#f2f0e6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "clematis-henryi",
+      "name": "Henryi",
+      "hex": "#f4f1e8",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "clematis-marie-boisselot",
+      "name": "Marie Boisselot",
+      "hex": "#f6f4ec",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "clematis-sweet-autumn",
+      "name": "Sweet Autumn Clematis",
+      "hex": "#f2f0e6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "wisteria-white",
+      "name": "White Wisteria (Alba)",
+      "hex": "#f2efe6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "honeysuckle-white",
+      "name": "Dutch Woodbine",
+      "hex": "#f2ecd6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "morning-glory-white",
+      "name": "Pearly Gates",
+      "hex": "#f4f1ea",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "jasmine-star",
+      "name": "Star Jasmine",
+      "hex": "#f5f2ec",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "maiden-grass-white",
+      "name": "Morning Light",
+      "hex": "#e8dcc4",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "switchgrass-blue",
+      "name": "Heavy Metal",
+      "hex": "#dcae9e",
+      "classified": "pink",
+      "tag": "blue",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "feather-reed-grass-white",
+      "name": "Overdam",
+      "hex": "#e0cfa0",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "lavender-nana-alba",
+      "name": "Nana Alba",
+      "hex": "#ece9df",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "forest-pansy",
+      "name": "Forest Pansy",
+      "hex": "#c45a92",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "hearts-of-gold",
+      "name": "Hearts of Gold",
+      "hex": "#c45a92",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "rising-sun",
+      "name": "The Rising Sun",
+      "hex": "#c45a92",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "royal-white",
+      "name": "Royal White Redbud",
+      "hex": "#f6f2ea",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "ruby-falls",
+      "name": "Ruby Falls",
+      "hex": "#c04a8e",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "lavender-twist",
+      "name": "Lavender Twist",
+      "hex": "#c46a9e",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "flame-thrower",
+      "name": "Flame Thrower",
+      "hex": "#c45a92",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "cherokee-princess",
+      "name": "Cherokee Princess",
+      "hex": "#f8f6ee",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "cloud-nine",
+      "name": "Cloud Nine",
+      "hex": "#f8f6ee",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "kousa-dogwood",
+      "name": "Kousa Dogwood",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "milky-way",
+      "name": "Milky Way Kousa",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "wolf-eyes",
+      "name": "Wolf Eyes",
+      "hex": "#f2f0e8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "star-magnolia",
+      "name": "Star Magnolia",
+      "hex": "#f6f2ea",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "royal-star",
+      "name": "Royal Star Magnolia",
+      "hex": "#f8f4ec",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "little-gem",
+      "name": "Little Gem Magnolia",
+      "hex": "#f8f6ec",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "sweetbay-magnolia",
+      "name": "Sweetbay Magnolia",
+      "hex": "#f4f0e4",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "snowdrift",
+      "name": "Snowdrift",
+      "hex": "#f8f6ee",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "red-jewel",
+      "name": "Red Jewel",
+      "hex": "#f8f6ee",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "sugar-tyme",
+      "name": "Sugar Tyme",
+      "hex": "#f4e0e8",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "adirondack",
+      "name": "Adirondack",
+      "hex": "#f4eae8",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "golden-raindrops",
+      "name": "Golden Raindrops",
+      "hex": "#f8f6ee",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "mount-fuji",
+      "name": "Mount Fuji Cherry",
+      "hex": "#f8f4ec",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "snow-fountains",
+      "name": "Snow Fountains",
+      "hex": "#f8f4ec",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "autumn-brilliance",
+      "name": "Autumn Brilliance",
+      "hex": "#f8f6ee",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "princess-diana",
+      "name": "Princess Diana Serviceberry",
+      "hex": "#f8f6ee",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "coles-select",
+      "name": "Cole's Select",
+      "hex": "#f8f6ee",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "regent-serviceberry",
+      "name": "Regent Serviceberry",
+      "hex": "#f8f6ee",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "rainbow-pillar",
+      "name": "Rainbow Pillar",
+      "hex": "#f8f6ee",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "serviceberry-ballerina",
+      "name": "Ballerina Serviceberry",
+      "hex": "#f8f6ee",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "southern-magnolia",
+      "name": "Southern Magnolia",
+      "hex": "#fbfbf2",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "hardy-hibiscus-luna-white",
+      "name": "Luna White",
+      "hex": "#f2ece2",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "lantana-radiation",
+      "name": "Radiation",
+      "hex": "#e85a2a",
+      "classified": "red",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "lantana-lucky-white",
+      "name": "Lucky White",
+      "hex": "#f0ece0",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "verbena-annual-white",
+      "name": "White Verbena",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "verbena-annual-magenta",
+      "name": "Magenta Verbena",
+      "hex": "#cc2e8e",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "ageratum-white",
+      "name": "White Ageratum",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "cleome-white",
+      "name": "White Queen",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "portulaca-white",
+      "name": "White Portulaca",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "ranunculus-white",
+      "name": "White Ranunculus",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "ranunculus-magenta",
+      "name": "Magenta Ranunculus",
+      "hex": "#cc2e7e",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "ranunculus-cream",
+      "name": "Cream Ranunculus",
+      "hex": "#f0e8d0",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "anemone-the-bride",
+      "name": "The Bride",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "anemone-sylphide",
+      "name": "Sylphide",
+      "hex": "#cc4a9e",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "anemone-mt-everest",
+      "name": "Mt. Everest",
+      "hex": "#f2f0e8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "anemone-blanda-white",
+      "name": "White Splendour",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "windflower-white-splendour",
+      "name": "White Splendour",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "windflower-radar",
+      "name": "Radar",
+      "hex": "#c84a8e",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "glory-of-the-snow-alba",
+      "name": "Alba",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "ninebark-diabolo",
+      "name": "Diabolo",
+      "hex": "#f2e8ee",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "ninebark-coppertina",
+      "name": "Coppertina",
+      "hex": "#f0d8e0",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "ninebark-amber-jubilee",
+      "name": "Amber Jubilee",
+      "hex": "#f2e8ee",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "ninebark-summer-wine",
+      "name": "Summer Wine",
+      "hex": "#f0dce4",
+      "classified": "pink",
+      "tag": "purple",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "ninebark-tiny-wine",
+      "name": "Tiny Wine",
+      "hex": "#f0dce4",
+      "classified": "pink",
+      "tag": "purple",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "ninebark-little-devil",
+      "name": "Little Devil",
+      "hex": "#f2e8ee",
+      "classified": "pink",
+      "tag": "purple",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "smokebush-royal-purple",
+      "name": "Royal Purple",
+      "hex": "#d0a0b8",
+      "classified": "pink",
+      "tag": "purple",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "smokebush-grace",
+      "name": "Grace",
+      "hex": "#d8a8b8",
+      "classified": "pink",
+      "tag": "purple",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "smokebush-velvet-cloak",
+      "name": "Velvet Cloak",
+      "hex": "#d0a0b0",
+      "classified": "pink",
+      "tag": "purple",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "smokebush-winecraft-black",
+      "name": "Winecraft Black",
+      "hex": "#d0a0b0",
+      "classified": "pink",
+      "tag": "purple",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "witch-hazel-vernalis",
+      "name": "Ozark Witch Hazel",
+      "hex": "#f0a82a",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "mock-orange-snowbelle",
+      "name": "Snowbelle",
+      "hex": "#fcfcf6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "mock-orange-natchez",
+      "name": "Natchez",
+      "hex": "#fbfbf5",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "mock-orange-miniature-snowflake",
+      "name": "Miniature Snowflake",
+      "hex": "#fcfcf8",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "mock-orange-belle-etoile",
+      "name": "Belle Étoile",
+      "hex": "#f6f0f2",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "mock-orange-aureus",
+      "name": "Golden Mock Orange",
+      "hex": "#fbfbf5",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "mock-orange-snow-white-sensation",
+      "name": "Snow White Sensation",
+      "hex": "#fcfcf6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "summersweet-hummingbird",
+      "name": "Hummingbird",
+      "hex": "#f6f0f4",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "summersweet-sixteen-candles",
+      "name": "Sixteen Candles",
+      "hex": "#f6f0f4",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "summersweet-vanilla-spice",
+      "name": "Vanilla Spice",
+      "hex": "#f8f2f5",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "summersweet-sugartina",
+      "name": "Sugartina Crystalina",
+      "hex": "#f6f0f4",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "trumpet-vine-yellow",
+      "name": "Flava (Yellow Trumpet)",
+      "hex": "#e8b21f",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "passionflower-white",
+      "name": "Constance Elliott",
+      "hex": "#f0eee4",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "mandevilla-white",
+      "name": "Sun Parasol White",
+      "hex": "#f5f2ec",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "little-bluestem-red",
+      "name": "Blaze",
+      "hex": "#d8a87a",
+      "classified": "orange",
+      "tag": "red",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "little-bluestem-purple",
+      "name": "Twilight Zone",
+      "hex": "#d8a87a",
+      "classified": "orange",
+      "tag": "purple",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "northern-sea-oats-white",
+      "name": "River Mist",
+      "hex": "#d8c89a",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "hollyhock-white",
+      "name": "Chater's Double White",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "hollyhock-nigra",
+      "name": "Nigra",
+      "hex": "#3a1a28",
+      "classified": "red",
+      "tag": "purple",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "balloon-flower-fuji-white",
+      "name": "Fuji White",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "larkspur-white",
+      "name": "White Larkspur",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "stock-white",
+      "name": "White Stock",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "canterbury-bells-white",
+      "name": "White Canterbury Bells",
+      "hex": "#f5f2ec",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "calibrachoa-white",
+      "name": "Superbells White",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "calibrachoa-coral",
+      "name": "Superbells Coralina",
+      "hex": "#f0746a",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "gazania-white",
+      "name": "White Gazania",
+      "hex": "#f0ece0",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "gomphrena-white",
+      "name": "White Globe Amaranth",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "strawflower-white",
+      "name": "White Strawflower",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "statice-white",
+      "name": "White Statice",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "cornflower-white",
+      "name": "White Bachelor's Button",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "california-poppy-cream",
+      "name": "Ivory Castle",
+      "hex": "#f0e8d0",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "sweet-pea-white",
+      "name": "Royal White Sweet Pea",
+      "hex": "#f4f1ea",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "torenia-white",
+      "name": "White Wishbone Flower",
+      "hex": "#f5f2ec",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "browallia-white",
+      "name": "White Browallia",
+      "hex": "#f5f2ec",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "annual-phlox-white",
+      "name": "White Annual Phlox",
+      "hex": "#f5f2ec",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "lisianthus-white",
+      "name": "White Lisianthus",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "four-oclock-white",
+      "name": "White Four O'Clock",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "four-oclock-marbles",
+      "name": "Marbles",
+      "hex": "#f0902a",
+      "classified": "orange",
+      "tag": "yellow",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "tuberous-begonia-white",
+      "name": "White Tuberous Begonia",
+      "hex": "#f6f3ec",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "fritillaria-rubra",
+      "name": "Crown Imperial Rubra",
+      "hex": "#d65a1f",
+      "classified": "orange",
+      "tag": "red",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "scilla-alba",
+      "name": "White Squill",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "agapanthus-white",
+      "name": "White Agapanthus",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "agapanthus-snowball",
+      "name": "Snowball",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "freesia-white",
+      "name": "White Freesia",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "colchicum-waterlily",
+      "name": "Waterlily",
+      "hex": "#c89ad8",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "colchicum-album",
+      "name": "Album",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "snowflake-summer",
+      "name": "Summer Snowflake",
+      "hex": "#f8f8f2",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "snowflake-gravetye-giant",
+      "name": "Gravetye Giant",
+      "hex": "#fafaf4",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "star-of-bethlehem-chincherinchee",
+      "name": "Chincherinchee",
+      "hex": "#fbfbf6",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "gerbera-white",
+      "name": "White Gerbera",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "gerbera-coral",
+      "name": "Coral Gerbera",
+      "hex": "#f0746a",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "bidens-white",
+      "name": "Campfire Marshmallow Bidens",
+      "hex": "#f6f3ec",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "amaryllis-apple-blossom",
+      "name": "Apple Blossom",
+      "hex": "#f0c8d4",
+      "classified": "pink",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "amaryllis-picotee",
+      "name": "Picotee",
+      "hex": "#f4f0ea",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "amaryllis-white",
+      "name": "Christmas Gift",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "trumpet-lily",
+      "name": "Trumpet Lily",
+      "hex": "#f5f0e8",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "easter-lily",
+      "name": "Easter Lily",
+      "hex": "#fbfbf5",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "tropical-hibiscus-white",
+      "name": "White Tropical Hibiscus",
+      "hex": "#f4f2ea",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "tropical-hibiscus-coral",
+      "name": "Coral Tropical Hibiscus",
+      "hex": "#f0746a",
+      "classified": "pink",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "tropical-hibiscus-magenta",
+      "name": "Magenta Tropical Hibiscus",
+      "hex": "#cc2e8e",
+      "classified": "purple",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "fuchsia-gartenmeister",
+      "name": "Gartenmeister",
+      "hex": "#d6502a",
+      "classified": "red",
+      "tag": "orange",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "pentas-white",
+      "name": "White Pentas",
+      "hex": "#f5f2ec",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "cuphea-white",
+      "name": "White Mexican Heather",
+      "hex": "#f5f2ec",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "scaevola-white",
+      "name": "White Fan Flower",
+      "hex": "#f5f2ec",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "black-eyed-susan-vine-white",
+      "name": "Bright Eyes",
+      "hex": "#f3ecdc",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "claire-austin",
+      "name": "Claire Austin",
+      "hex": "#f4eedd",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "abraham-darby",
+      "name": "Abraham Darby",
+      "hex": "#f0a07e",
+      "classified": "orange",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "desdemona",
+      "name": "Desdemona",
+      "hex": "#f4ece2",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "tranquillity",
+      "name": "Tranquillity",
+      "hex": "#f6f2e8",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "susan-williams-ellis",
+      "name": "Susan Williams-Ellis",
+      "hex": "#f8f5ec",
+      "classified": "yellow",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "carding-mill",
+      "name": "Carding Mill",
+      "hex": "#f1a47c",
+      "classified": "orange",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "emily-bronte",
+      "name": "Emily Brontë",
+      "hex": "#f2cbb8",
+      "classified": "orange",
+      "tag": "pink",
+      "archetype": false,
+      "adjacent": false
+    },
+    {
+      "slug": "iceberg-rose",
+      "name": "Iceberg",
+      "hex": "#f7f3ea",
+      "classified": "orange",
+      "tag": "white",
+      "archetype": false,
+      "adjacent": false
+    }
+  ]
+}
