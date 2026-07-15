@@ -1,0 +1,3038 @@
+[
+  {
+    "slug": "dusty-miller",
+    "name": "Dusty Miller",
+    "botanical": "Jacobaea maritima",
+    "genus": "Jacobaea",
+    "cat": "Annual",
+    "h": 0.35,
+    "w": 0.3,
+    "years": 1,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "8-11",
+    "foliage": "#b8c0c4",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "silver",
+      "foliage",
+      "edging"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "salvia-annual",
+    "name": "Salvia (Annual)",
+    "botanical": "Salvia splendens",
+    "genus": "Salvia",
+    "cat": "Annual",
+    "h": 0.5,
+    "w": 0.4,
+    "years": 1,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#d6202e",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 10,
+        "color": "#d6202e"
+      }
+    ],
+    "tags": [
+      "red",
+      "pollinator"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "climbing-hydrangea",
+    "name": "Climbing Hydrangea",
+    "botanical": "Hydrangea petiolaris",
+    "genus": "Hydrangea",
+    "cat": "Climber",
+    "h": 8,
+    "w": 2,
+    "years": 5,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "4-8",
+    "foliage": "#2f6b34",
+    "bloomCount": 1,
+    "bloomColors": "#f3f0ea",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 7,
+        "color": "#f3f0ea"
+      }
+    ],
+    "tags": [
+      "white",
+      "vine"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "climbing-rose",
+    "name": "Climbing Rose",
+    "botanical": "Rosa",
+    "genus": "Rosa",
+    "cat": "Climber",
+    "h": 3,
+    "w": 1.5,
+    "years": 3,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "5-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#e0507e",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 9,
+        "color": "#e0507e"
+      }
+    ],
+    "tags": [
+      "pink",
+      "rose",
+      "fragrant",
+      "vine"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "moonflower",
+    "name": "Moonflower",
+    "botanical": "Ipomoea alba",
+    "genus": "Ipomoea",
+    "cat": "Climber",
+    "h": 4,
+    "w": 1.5,
+    "years": 1,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "9-11",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#fbfbf5",
+    "blooms": [
+      {
+        "start": 7,
+        "end": 9,
+        "color": "#fbfbf5"
+      }
+    ],
+    "tags": [
+      "white",
+      "fragrant",
+      "vine",
+      "night"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "douglas-fir",
+    "name": "Douglas Fir",
+    "botanical": "Pseudotsuga menziesii",
+    "genus": "Pseudotsuga",
+    "cat": "Conifer",
+    "h": 18,
+    "w": 7,
+    "years": 20,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "4-6",
+    "foliage": "#3f6b4f",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "evergreen",
+      "specimen"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "autumn-fern",
+    "name": "Autumn Fern",
+    "botanical": "Dryopteris erythrosora",
+    "genus": "Dryopteris",
+    "cat": "Fern",
+    "h": 0.5,
+    "w": 0.6,
+    "years": 3,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "5-9",
+    "foliage": "#6a8a4a",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "foliage",
+      "shade",
+      "evergreen"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "boston-fern",
+    "name": "Boston Fern",
+    "botanical": "Nephrolepis exaltata",
+    "genus": "Nephrolepis",
+    "cat": "Fern",
+    "h": 0.6,
+    "w": 0.8,
+    "years": 3,
+    "sun": "part-shade",
+    "water": "high",
+    "zones": "9-11",
+    "foliage": "#4f8a4f",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "foliage",
+      "shade",
+      "container"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "christmas-fern",
+    "name": "Christmas Fern",
+    "botanical": "Polystichum acrostichoides",
+    "genus": "Polystichum",
+    "cat": "Fern",
+    "h": 0.5,
+    "w": 0.6,
+    "years": 3,
+    "sun": "full-shade",
+    "water": "moderate",
+    "zones": "3-9",
+    "foliage": "#3f7a3f",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "foliage",
+      "shade",
+      "evergreen",
+      "native"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "cinnamon-fern",
+    "name": "Cinnamon Fern",
+    "botanical": "Osmundastrum cinnamomeum",
+    "genus": "Osmundastrum",
+    "cat": "Fern",
+    "h": 1,
+    "w": 0.8,
+    "years": 3,
+    "sun": "part-shade",
+    "water": "high",
+    "zones": "3-9",
+    "foliage": "#4a8a4a",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "foliage",
+      "shade",
+      "native",
+      "tall"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "holly-fern",
+    "name": "Holly Fern",
+    "botanical": "Cyrtomium falcatum",
+    "genus": "Cyrtomium",
+    "cat": "Fern",
+    "h": 0.5,
+    "w": 0.6,
+    "years": 3,
+    "sun": "full-shade",
+    "water": "moderate",
+    "zones": "6-10",
+    "foliage": "#3f7a3f",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "foliage",
+      "shade",
+      "glossy"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "japanese-painted-fern",
+    "name": "Japanese Painted Fern",
+    "botanical": "Athyrium niponicum",
+    "genus": "Athyrium",
+    "cat": "Fern",
+    "h": 0.4,
+    "w": 0.5,
+    "years": 3,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "4-8",
+    "foliage": "#8a9aa0",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "foliage",
+      "shade",
+      "silver"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "lady-fern",
+    "name": "Lady Fern",
+    "botanical": "Athyrium filix-femina",
+    "genus": "Athyrium",
+    "cat": "Fern",
+    "h": 0.7,
+    "w": 0.6,
+    "years": 3,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "4-8",
+    "foliage": "#4a8a4a",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "foliage",
+      "shade",
+      "native"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "maidenhair-fern",
+    "name": "Maidenhair Fern",
+    "botanical": "Adiantum",
+    "genus": "Adiantum",
+    "cat": "Fern",
+    "h": 0.4,
+    "w": 0.4,
+    "years": 3,
+    "sun": "full-shade",
+    "water": "high",
+    "zones": "3-8",
+    "foliage": "#5f9a5f",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "foliage",
+      "shade",
+      "delicate",
+      "native"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "ostrich-fern",
+    "name": "Ostrich Fern",
+    "botanical": "Matteuccia struthiopteris",
+    "genus": "Matteuccia",
+    "cat": "Fern",
+    "h": 1.2,
+    "w": 0.9,
+    "years": 3,
+    "sun": "part-shade",
+    "water": "high",
+    "zones": "3-7",
+    "foliage": "#4a8a4a",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "foliage",
+      "shade",
+      "native",
+      "tall"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "royal-fern",
+    "name": "Royal Fern",
+    "botanical": "Osmunda regalis",
+    "genus": "Osmunda",
+    "cat": "Fern",
+    "h": 1.2,
+    "w": 1,
+    "years": 3,
+    "sun": "part-shade",
+    "water": "high",
+    "zones": "3-9",
+    "foliage": "#4f8a4f",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "foliage",
+      "shade",
+      "native",
+      "tall"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "blue-oat-grass",
+    "name": "Blue Oat Grass",
+    "botanical": "Helictotrichon sempervirens",
+    "genus": "Helictotrichon",
+    "cat": "Grass",
+    "h": 0.7,
+    "w": 0.6,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "4-9",
+    "foliage": "#7f9aaf",
+    "bloomCount": 1,
+    "bloomColors": "#d8c89a",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 7,
+        "color": "#d8c89a"
+      }
+    ],
+    "tags": [
+      "blue",
+      "evergreen"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "basil",
+    "name": "Basil",
+    "botanical": "Ocimum basilicum",
+    "genus": "Ocimum",
+    "cat": "Herb",
+    "h": 0.5,
+    "w": 0.3,
+    "years": 1,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "10-11",
+    "foliage": "#4a8f4a",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "edible",
+      "fragrant",
+      "culinary"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "chives",
+    "name": "Chives",
+    "botanical": "Allium schoenoprasum",
+    "genus": "Allium",
+    "cat": "Herb",
+    "h": 0.3,
+    "w": 0.3,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "3-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#b87fc6",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 6,
+        "color": "#b87fc6"
+      }
+    ],
+    "tags": [
+      "purple",
+      "edible"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "dill",
+    "name": "Dill",
+    "botanical": "Anethum graveolens",
+    "genus": "Anethum",
+    "cat": "Herb",
+    "h": 0.9,
+    "w": 0.3,
+    "years": 1,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "3-11",
+    "foliage": "#7a9a6a",
+    "bloomCount": 1,
+    "bloomColors": "#e0d84a",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 8,
+        "color": "#e0d84a"
+      }
+    ],
+    "tags": [
+      "yellow",
+      "edible"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "lemon-balm",
+    "name": "Lemon Balm",
+    "botanical": "Melissa officinalis",
+    "genus": "Melissa",
+    "cat": "Herb",
+    "h": 0.6,
+    "w": 0.5,
+    "years": 2,
+    "sun": "part-sun",
+    "water": "moderate",
+    "zones": "3-7",
+    "foliage": "#5a8f5a",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "edible",
+      "fragrant",
+      "pollinator"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "mint",
+    "name": "Mint",
+    "botanical": "Mentha",
+    "genus": "Mentha",
+    "cat": "Herb",
+    "h": 0.5,
+    "w": 0.6,
+    "years": 2,
+    "sun": "part-sun",
+    "water": "high",
+    "zones": "3-9",
+    "foliage": "#4a8f4a",
+    "bloomCount": 1,
+    "bloomColors": "#b8a0d6",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 8,
+        "color": "#b8a0d6"
+      }
+    ],
+    "tags": [
+      "purple",
+      "edible",
+      "fragrant"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "oregano",
+    "name": "Oregano",
+    "botanical": "Origanum",
+    "genus": "Origanum",
+    "cat": "Herb",
+    "h": 0.4,
+    "w": 0.4,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "4-9",
+    "foliage": "#6f8f6a",
+    "bloomCount": 1,
+    "bloomColors": "#c69fd6",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 8,
+        "color": "#c69fd6"
+      }
+    ],
+    "tags": [
+      "purple",
+      "edible",
+      "fragrant"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "parsley",
+    "name": "Parsley",
+    "botanical": "Petroselinum crispum",
+    "genus": "Petroselinum",
+    "cat": "Herb",
+    "h": 0.3,
+    "w": 0.3,
+    "years": 1,
+    "sun": "part-sun",
+    "water": "moderate",
+    "zones": "5-9",
+    "foliage": "#3f8a3f",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "edible",
+      "culinary"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "rosemary",
+    "name": "Rosemary",
+    "botanical": "Salvia rosmarinus",
+    "genus": "Salvia",
+    "cat": "Herb",
+    "h": 1,
+    "w": 0.8,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "7-10",
+    "foliage": "#5a7d5a",
+    "bloomCount": 1,
+    "bloomColors": "#8f9fd6",
+    "blooms": [
+      {
+        "start": 3,
+        "end": 5,
+        "color": "#8f9fd6"
+      }
+    ],
+    "tags": [
+      "blue",
+      "fragrant",
+      "edible",
+      "evergreen"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "sage",
+    "name": "Sage",
+    "botanical": "Salvia officinalis",
+    "genus": "Salvia",
+    "cat": "Herb",
+    "h": 0.5,
+    "w": 0.6,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "4-8",
+    "foliage": "#8a977f",
+    "bloomCount": 1,
+    "bloomColors": "#9b8fd6",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 6,
+        "color": "#9b8fd6"
+      }
+    ],
+    "tags": [
+      "purple",
+      "edible",
+      "fragrant"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "thyme",
+    "name": "Thyme",
+    "botanical": "Thymus",
+    "genus": "Thymus",
+    "cat": "Herb",
+    "h": 0.15,
+    "w": 0.3,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "4-9",
+    "foliage": "#6f8f6a",
+    "bloomCount": 1,
+    "bloomColors": "#c08fc6",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 7,
+        "color": "#c08fc6"
+      }
+    ],
+    "tags": [
+      "purple",
+      "groundcover",
+      "edible",
+      "fragrant"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "agastache",
+    "name": "Anise Hyssop",
+    "botanical": "Agastache",
+    "genus": "Agastache",
+    "cat": "Perennial",
+    "h": 0.9,
+    "w": 0.5,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "5-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#8f6fc6",
+    "blooms": [
+      {
+        "start": 7,
+        "end": 9,
+        "color": "#8f6fc6"
+      }
+    ],
+    "tags": [
+      "purple",
+      "pollinator",
+      "fragrant"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "agave",
+    "name": "Agave",
+    "botanical": "Agave",
+    "genus": "Agave",
+    "cat": "Perennial",
+    "h": 0.8,
+    "w": 1,
+    "years": 4,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "8-11",
+    "foliage": "#8a9a8f",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "succulent",
+      "architectural",
+      "foliage"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "ajuga",
+    "name": "Bugleweed",
+    "botanical": "Ajuga reptans",
+    "genus": "Ajuga",
+    "cat": "Perennial",
+    "h": 0.15,
+    "w": 0.4,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "3-9",
+    "foliage": "#6a5f6a",
+    "bloomCount": 1,
+    "bloomColors": "#6f5fc0",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 6,
+        "color": "#6f5fc0"
+      }
+    ],
+    "tags": [
+      "purple",
+      "groundcover",
+      "shade"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "aloe",
+    "name": "Aloe",
+    "botanical": "Aloe",
+    "genus": "Aloe",
+    "cat": "Perennial",
+    "h": 0.4,
+    "w": 0.4,
+    "years": 3,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "9-11",
+    "foliage": "#7f9a7a",
+    "bloomCount": 1,
+    "bloomColors": "#f0641f",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 7,
+        "color": "#f0641f"
+      }
+    ],
+    "tags": [
+      "orange",
+      "succulent"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "basket-of-gold",
+    "name": "Basket of Gold",
+    "botanical": "Aurinia saxatilis",
+    "genus": "Aurinia",
+    "cat": "Perennial",
+    "h": 0.2,
+    "w": 0.4,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "3-7",
+    "foliage": "#7f8f6a",
+    "bloomCount": 1,
+    "bloomColors": "#f0d020",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 5,
+        "color": "#f0d020"
+      }
+    ],
+    "tags": [
+      "yellow",
+      "edging"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "bergenia",
+    "name": "Bergenia",
+    "botanical": "Bergenia",
+    "genus": "Bergenia",
+    "cat": "Perennial",
+    "h": 0.4,
+    "w": 0.5,
+    "years": 2,
+    "sun": "part-sun",
+    "water": "moderate",
+    "zones": "3-8",
+    "foliage": "#4f7a4f",
+    "bloomCount": 1,
+    "bloomColors": "#d6507a",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 5,
+        "color": "#d6507a"
+      }
+    ],
+    "tags": [
+      "pink",
+      "foliage",
+      "evergreen"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "bluestar",
+    "name": "Bluestar",
+    "botanical": "Amsonia",
+    "genus": "Amsonia",
+    "cat": "Perennial",
+    "h": 0.9,
+    "w": 0.8,
+    "years": 3,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "3-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#9fb6e0",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 5,
+        "color": "#9fb6e0"
+      }
+    ],
+    "tags": [
+      "blue",
+      "native",
+      "fall color"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "brunnera",
+    "name": "Brunnera",
+    "botanical": "Brunnera macrophylla",
+    "genus": "Brunnera",
+    "cat": "Perennial",
+    "h": 0.4,
+    "w": 0.5,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "3-8",
+    "foliage": "#6f8f7a",
+    "bloomCount": 1,
+    "bloomColors": "#6f8fd6",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 5,
+        "color": "#6f8fd6"
+      }
+    ],
+    "tags": [
+      "blue",
+      "shade",
+      "foliage"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "butterfly-weed",
+    "name": "Butterfly Weed",
+    "botanical": "Asclepias tuberosa",
+    "genus": "Asclepias",
+    "cat": "Perennial",
+    "h": 0.6,
+    "w": 0.4,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "3-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#f08a2c",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 8,
+        "color": "#f08a2c"
+      }
+    ],
+    "tags": [
+      "orange",
+      "native",
+      "pollinator"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "candytuft",
+    "name": "Candytuft",
+    "botanical": "Iberis sempervirens",
+    "genus": "Iberis",
+    "cat": "Perennial",
+    "h": 0.25,
+    "w": 0.5,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "3-9",
+    "foliage": "#5f8a5a",
+    "bloomCount": 1,
+    "bloomColors": "#fbfbfb",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 5,
+        "color": "#fbfbfb"
+      }
+    ],
+    "tags": [
+      "white",
+      "evergreen",
+      "edging"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "cardinal-flower",
+    "name": "Cardinal Flower",
+    "botanical": "Lobelia cardinalis",
+    "genus": "Lobelia",
+    "cat": "Perennial",
+    "h": 1,
+    "w": 0.4,
+    "years": 2,
+    "sun": "part-sun",
+    "water": "high",
+    "zones": "3-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#d6281f",
+    "blooms": [
+      {
+        "start": 7,
+        "end": 9,
+        "color": "#d6281f"
+      }
+    ],
+    "tags": [
+      "red",
+      "native",
+      "pollinator"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "carnation",
+    "name": "Carnation",
+    "botanical": "Dianthus caryophyllus",
+    "genus": "Dianthus",
+    "cat": "Perennial",
+    "h": 0.5,
+    "w": 0.3,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "5-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#e0507a",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 8,
+        "color": "#e0507a"
+      }
+    ],
+    "tags": [
+      "pink",
+      "fragrant",
+      "cut flower"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "creeping-sedum",
+    "name": "Creeping Sedum",
+    "botanical": "Sedum",
+    "genus": "Sedum",
+    "cat": "Perennial",
+    "h": 0.1,
+    "w": 0.4,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "3-9",
+    "foliage": "#7f9a6a",
+    "bloomCount": 1,
+    "bloomColors": "#f0d44a",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 8,
+        "color": "#f0d44a"
+      }
+    ],
+    "tags": [
+      "yellow",
+      "succulent"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "cyclamen",
+    "name": "Cyclamen",
+    "botanical": "Cyclamen",
+    "genus": "Cyclamen",
+    "cat": "Perennial",
+    "h": 0.2,
+    "w": 0.2,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "5-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#e0507a",
+    "blooms": [
+      {
+        "start": 9,
+        "end": 11,
+        "color": "#e0507a"
+      }
+    ],
+    "tags": [
+      "pink",
+      "fall",
+      "shade"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "echeveria",
+    "name": "Echeveria",
+    "botanical": "Echeveria",
+    "genus": "Echeveria",
+    "cat": "Perennial",
+    "h": 0.1,
+    "w": 0.2,
+    "years": 3,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "9-11",
+    "foliage": "#8a9a8a",
+    "bloomCount": 1,
+    "bloomColors": "#f0a0b0",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 7,
+        "color": "#f0a0b0"
+      }
+    ],
+    "tags": [
+      "succulent",
+      "foliage",
+      "container"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "echinops",
+    "name": "Globe Thistle",
+    "botanical": "Echinops",
+    "genus": "Echinops",
+    "cat": "Perennial",
+    "h": 1,
+    "w": 0.6,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "3-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#5e6fb0",
+    "blooms": [
+      {
+        "start": 7,
+        "end": 8,
+        "color": "#5e6fb0"
+      }
+    ],
+    "tags": [
+      "blue",
+      "architectural",
+      "pollinator"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "english-daisy",
+    "name": "English Daisy",
+    "botanical": "Bellis perennis",
+    "genus": "Bellis",
+    "cat": "Perennial",
+    "h": 0.15,
+    "w": 0.15,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "4-8",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#e890b0",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 6,
+        "color": "#e890b0"
+      }
+    ],
+    "tags": [
+      "pink",
+      "edging"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "epimedium",
+    "name": "Barrenwort",
+    "botanical": "Epimedium",
+    "genus": "Epimedium",
+    "cat": "Perennial",
+    "h": 0.3,
+    "w": 0.4,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "4-8",
+    "foliage": "#6a8a5a",
+    "bloomCount": 1,
+    "bloomColors": "#f0d44a",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 5,
+        "color": "#f0d44a"
+      }
+    ],
+    "tags": [
+      "yellow",
+      "groundcover",
+      "shade"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "false-sunflower",
+    "name": "False Sunflower",
+    "botanical": "Heliopsis",
+    "genus": "Heliopsis",
+    "cat": "Perennial",
+    "h": 1.2,
+    "w": 0.6,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "3-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#f5b400",
+    "blooms": [
+      {
+        "start": 7,
+        "end": 9,
+        "color": "#f5b400"
+      }
+    ],
+    "tags": [
+      "yellow",
+      "pollinator",
+      "native"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "foam-flower",
+    "name": "Foam Flower",
+    "botanical": "Tiarella",
+    "genus": "Tiarella",
+    "cat": "Perennial",
+    "h": 0.3,
+    "w": 0.4,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "3-8",
+    "foliage": "#5f8a5f",
+    "bloomCount": 1,
+    "bloomColors": "#f5eef5",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 6,
+        "color": "#f5eef5"
+      }
+    ],
+    "tags": [
+      "white",
+      "shade",
+      "native"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "foamy-bells",
+    "name": "Foamy Bells",
+    "botanical": "Heucherella",
+    "genus": "Heucherella",
+    "cat": "Perennial",
+    "h": 0.3,
+    "w": 0.4,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "4-9",
+    "foliage": "#9c6a4a",
+    "bloomCount": 1,
+    "bloomColors": "#f5eef5",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 6,
+        "color": "#f5eef5"
+      }
+    ],
+    "tags": [
+      "foliage",
+      "shade"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "gaura",
+    "name": "Gaura",
+    "botanical": "Oenothera lindheimeri",
+    "genus": "Oenothera",
+    "cat": "Perennial",
+    "h": 0.8,
+    "w": 0.6,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "5-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#f0c0d0",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 9,
+        "color": "#f0c0d0"
+      }
+    ],
+    "tags": [
+      "pink",
+      "airy"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "globeflower",
+    "name": "Globeflower",
+    "botanical": "Trollius",
+    "genus": "Trollius",
+    "cat": "Perennial",
+    "h": 0.6,
+    "w": 0.4,
+    "years": 2,
+    "sun": "part-sun",
+    "water": "high",
+    "zones": "3-7",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#f5b400",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 6,
+        "color": "#f5b400"
+      }
+    ],
+    "tags": [
+      "yellow"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "goatsbeard",
+    "name": "Goatsbeard",
+    "botanical": "Aruncus dioicus",
+    "genus": "Aruncus",
+    "cat": "Perennial",
+    "h": 1.2,
+    "w": 1,
+    "years": 3,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "3-7",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#f5f0e8",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 7,
+        "color": "#f5f0e8"
+      }
+    ],
+    "tags": [
+      "white",
+      "native",
+      "shade"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "goldenrod",
+    "name": "Goldenrod",
+    "botanical": "Solidago",
+    "genus": "Solidago",
+    "cat": "Perennial",
+    "h": 0.9,
+    "w": 0.5,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "3-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#f4c000",
+    "blooms": [
+      {
+        "start": 8,
+        "end": 10,
+        "color": "#f4c000"
+      }
+    ],
+    "tags": [
+      "yellow",
+      "fall",
+      "pollinator",
+      "native"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "helenium",
+    "name": "Sneezeweed",
+    "botanical": "Helenium",
+    "genus": "Helenium",
+    "cat": "Perennial",
+    "h": 1,
+    "w": 0.5,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "3-8",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#e0641f",
+    "blooms": [
+      {
+        "start": 7,
+        "end": 9,
+        "color": "#e0641f"
+      }
+    ],
+    "tags": [
+      "orange",
+      "pollinator",
+      "fall"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "hens-and-chicks",
+    "name": "Hens and Chicks",
+    "botanical": "Sempervivum",
+    "genus": "Sempervivum",
+    "cat": "Perennial",
+    "h": 0.1,
+    "w": 0.2,
+    "years": 3,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "3-8",
+    "foliage": "#7f9a6a",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "succulent",
+      "foliage",
+      "evergreen"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "ice-plant",
+    "name": "Ice Plant",
+    "botanical": "Delosperma",
+    "genus": "Delosperma",
+    "cat": "Perennial",
+    "h": 0.1,
+    "w": 0.4,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "5-9",
+    "foliage": "#6f8f6a",
+    "bloomCount": 1,
+    "bloomColors": "#e0407a",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 9,
+        "color": "#e0407a"
+      }
+    ],
+    "tags": [
+      "pink",
+      "succulent"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "ironweed",
+    "name": "Ironweed",
+    "botanical": "Vernonia",
+    "genus": "Vernonia",
+    "cat": "Perennial",
+    "h": 1.5,
+    "w": 0.6,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "4-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#7a4b9e",
+    "blooms": [
+      {
+        "start": 8,
+        "end": 9,
+        "color": "#7a4b9e"
+      }
+    ],
+    "tags": [
+      "purple",
+      "native",
+      "pollinator"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "jacobs-ladder",
+    "name": "Jacob's Ladder",
+    "botanical": "Polemonium",
+    "genus": "Polemonium",
+    "cat": "Perennial",
+    "h": 0.5,
+    "w": 0.4,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "3-7",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#6f7fc6",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 6,
+        "color": "#6f7fc6"
+      }
+    ],
+    "tags": [
+      "blue",
+      "shade"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "japanese-anemone",
+    "name": "Japanese Anemone",
+    "botanical": "Anemone hupehensis",
+    "genus": "Anemone",
+    "cat": "Perennial",
+    "h": 0.9,
+    "w": 0.5,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "4-8",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#eaa6c6",
+    "blooms": [
+      {
+        "start": 8,
+        "end": 10,
+        "color": "#eaa6c6"
+      }
+    ],
+    "tags": [
+      "pink",
+      "fall"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "joe-pye-weed",
+    "name": "Joe Pye Weed",
+    "botanical": "Eutrochium",
+    "genus": "Eutrochium",
+    "cat": "Perennial",
+    "h": 1.8,
+    "w": 0.9,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "high",
+    "zones": "4-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#b06f9e",
+    "blooms": [
+      {
+        "start": 7,
+        "end": 9,
+        "color": "#b06f9e"
+      }
+    ],
+    "tags": [
+      "pink",
+      "native",
+      "pollinator",
+      "tall"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "ladys-mantle",
+    "name": "Lady's Mantle",
+    "botanical": "Alchemilla mollis",
+    "genus": "Alchemilla",
+    "cat": "Perennial",
+    "h": 0.4,
+    "w": 0.6,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "3-8",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#c0d04a",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 7,
+        "color": "#c0d04a"
+      }
+    ],
+    "tags": [
+      "chartreuse",
+      "edging"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "lambs-ear",
+    "name": "Lamb's Ear",
+    "botanical": "Stachys byzantina",
+    "genus": "Stachys",
+    "cat": "Perennial",
+    "h": 0.4,
+    "w": 0.6,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "4-8",
+    "foliage": "#a9b3a0",
+    "bloomCount": 1,
+    "bloomColors": "#b9a7d6",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 7,
+        "color": "#b9a7d6"
+      }
+    ],
+    "tags": [
+      "foliage",
+      "silver"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "lamium",
+    "name": "Dead Nettle",
+    "botanical": "Lamium maculatum",
+    "genus": "Lamium",
+    "cat": "Perennial",
+    "h": 0.2,
+    "w": 0.5,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "3-8",
+    "foliage": "#9aa89a",
+    "bloomCount": 1,
+    "bloomColors": "#d68fc6",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 7,
+        "color": "#d68fc6"
+      }
+    ],
+    "tags": [
+      "pink",
+      "groundcover",
+      "shade",
+      "silver"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "liatris",
+    "name": "Blazing Star",
+    "botanical": "Liatris",
+    "genus": "Liatris",
+    "cat": "Perennial",
+    "h": 0.9,
+    "w": 0.3,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "3-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#9b5fc6",
+    "blooms": [
+      {
+        "start": 7,
+        "end": 8,
+        "color": "#9b5fc6"
+      }
+    ],
+    "tags": [
+      "purple",
+      "pollinator",
+      "native"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "ligularia",
+    "name": "Ligularia",
+    "botanical": "Ligularia",
+    "genus": "Ligularia",
+    "cat": "Perennial",
+    "h": 1.2,
+    "w": 0.8,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "high",
+    "zones": "4-8",
+    "foliage": "#4f7a4f",
+    "bloomCount": 1,
+    "bloomColors": "#f5b400",
+    "blooms": [
+      {
+        "start": 7,
+        "end": 8,
+        "color": "#f5b400"
+      }
+    ],
+    "tags": [
+      "yellow",
+      "shade",
+      "foliage"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "lily-of-valley",
+    "name": "Lily of the Valley",
+    "botanical": "Convallaria majalis",
+    "genus": "Convallaria",
+    "cat": "Perennial",
+    "h": 0.2,
+    "w": 0.3,
+    "years": 2,
+    "sun": "full-shade",
+    "water": "moderate",
+    "zones": "2-7",
+    "foliage": "#4a7d3a",
+    "bloomCount": 1,
+    "bloomColors": "#fbfbfb",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 5,
+        "color": "#fbfbfb"
+      }
+    ],
+    "tags": [
+      "white",
+      "fragrant",
+      "shade"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "lungwort",
+    "name": "Lungwort",
+    "botanical": "Pulmonaria",
+    "genus": "Pulmonaria",
+    "cat": "Perennial",
+    "h": 0.3,
+    "w": 0.5,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "3-8",
+    "foliage": "#6f8f7a",
+    "bloomCount": 1,
+    "bloomColors": "#8f6fc6",
+    "blooms": [
+      {
+        "start": 3,
+        "end": 5,
+        "color": "#8f6fc6"
+      }
+    ],
+    "tags": [
+      "purple",
+      "shade",
+      "early"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "meadow-rue",
+    "name": "Meadow Rue",
+    "botanical": "Thalictrum",
+    "genus": "Thalictrum",
+    "cat": "Perennial",
+    "h": 1.2,
+    "w": 0.5,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "4-8",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#c89fd6",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 7,
+        "color": "#c89fd6"
+      }
+    ],
+    "tags": [
+      "purple",
+      "airy",
+      "tall"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "monkshood",
+    "name": "Monkshood",
+    "botanical": "Aconitum",
+    "genus": "Aconitum",
+    "cat": "Perennial",
+    "h": 1.2,
+    "w": 0.4,
+    "years": 3,
+    "sun": "part-sun",
+    "water": "moderate",
+    "zones": "3-7",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#5a4b9e",
+    "blooms": [
+      {
+        "start": 8,
+        "end": 9,
+        "color": "#5a4b9e"
+      }
+    ],
+    "tags": [
+      "purple",
+      "fall"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "mullein",
+    "name": "Mullein",
+    "botanical": "Verbascum",
+    "genus": "Verbascum",
+    "cat": "Perennial",
+    "h": 1.2,
+    "w": 0.4,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "5-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#f0d44a",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 8,
+        "color": "#f0d44a"
+      }
+    ],
+    "tags": [
+      "yellow",
+      "vertical"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "obedient-plant",
+    "name": "Obedient Plant",
+    "botanical": "Physostegia",
+    "genus": "Physostegia",
+    "cat": "Perennial",
+    "h": 1,
+    "w": 0.5,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "3-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#e07fb0",
+    "blooms": [
+      {
+        "start": 8,
+        "end": 9,
+        "color": "#e07fb0"
+      }
+    ],
+    "tags": [
+      "pink",
+      "native"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "pachysandra",
+    "name": "Pachysandra",
+    "botanical": "Pachysandra terminalis",
+    "genus": "Pachysandra",
+    "cat": "Perennial",
+    "h": 0.2,
+    "w": 0.4,
+    "years": 2,
+    "sun": "full-shade",
+    "water": "moderate",
+    "zones": "4-8",
+    "foliage": "#4a7a4a",
+    "bloomCount": 1,
+    "bloomColors": "#f2f5ee",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 5,
+        "color": "#f2f5ee"
+      }
+    ],
+    "tags": [
+      "foliage",
+      "groundcover",
+      "shade",
+      "evergreen"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "penstemon",
+    "name": "Penstemon",
+    "botanical": "Penstemon",
+    "genus": "Penstemon",
+    "cat": "Perennial",
+    "h": 0.7,
+    "w": 0.4,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "3-8",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#c05a9e",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 8,
+        "color": "#c05a9e"
+      }
+    ],
+    "tags": [
+      "pink",
+      "pollinator",
+      "native"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "perennial-sunflower",
+    "name": "Perennial Sunflower",
+    "botanical": "Helianthus",
+    "genus": "Helianthus",
+    "cat": "Perennial",
+    "h": 1.5,
+    "w": 0.8,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "4-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#f5b400",
+    "blooms": [
+      {
+        "start": 8,
+        "end": 10,
+        "color": "#f5b400"
+      }
+    ],
+    "tags": [
+      "yellow",
+      "pollinator",
+      "native",
+      "tall"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "periwinkle",
+    "name": "Periwinkle",
+    "botanical": "Vinca minor",
+    "genus": "Vinca",
+    "cat": "Perennial",
+    "h": 0.15,
+    "w": 0.5,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "low",
+    "zones": "4-9",
+    "foliage": "#3f7a4a",
+    "bloomCount": 1,
+    "bloomColors": "#6f7fc6",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 6,
+        "color": "#6f7fc6"
+      }
+    ],
+    "tags": [
+      "blue",
+      "groundcover",
+      "shade",
+      "evergreen"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "pincushion-flower",
+    "name": "Pincushion Flower",
+    "botanical": "Scabiosa",
+    "genus": "Scabiosa",
+    "cat": "Perennial",
+    "h": 0.5,
+    "w": 0.4,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "3-7",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#8f8fd6",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 9,
+        "color": "#8f8fd6"
+      }
+    ],
+    "tags": [
+      "blue",
+      "pollinator"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "primrose",
+    "name": "Primrose",
+    "botanical": "Primula",
+    "genus": "Primula",
+    "cat": "Perennial",
+    "h": 0.2,
+    "w": 0.2,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "3-8",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#f0d44a",
+    "blooms": [
+      {
+        "start": 3,
+        "end": 5,
+        "color": "#f0d44a"
+      }
+    ],
+    "tags": [
+      "yellow",
+      "early",
+      "shade"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "queen-of-the-prairie",
+    "name": "Queen of the Prairie",
+    "botanical": "Filipendula rubra",
+    "genus": "Filipendula",
+    "cat": "Perennial",
+    "h": 1.5,
+    "w": 0.8,
+    "years": 3,
+    "sun": "full-sun",
+    "water": "high",
+    "zones": "3-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#e890b0",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 7,
+        "color": "#e890b0"
+      }
+    ],
+    "tags": [
+      "pink",
+      "native",
+      "tall"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "red-hot-poker",
+    "name": "Red Hot Poker",
+    "botanical": "Kniphofia",
+    "genus": "Kniphofia",
+    "cat": "Perennial",
+    "h": 1,
+    "w": 0.5,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "5-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#f0641f",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 8,
+        "color": "#f0641f"
+      }
+    ],
+    "tags": [
+      "orange",
+      "architectural"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "rock-cress",
+    "name": "Rock Cress",
+    "botanical": "Aubrieta",
+    "genus": "Aubrieta",
+    "cat": "Perennial",
+    "h": 0.1,
+    "w": 0.4,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "4-8",
+    "foliage": "#6f8f6a",
+    "bloomCount": 1,
+    "bloomColors": "#8f5fc0",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 5,
+        "color": "#8f5fc0"
+      }
+    ],
+    "tags": [
+      "purple",
+      "edging"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "russian-sage",
+    "name": "Russian Sage",
+    "botanical": "Salvia yangii",
+    "genus": "Salvia",
+    "cat": "Perennial",
+    "h": 1.2,
+    "w": 0.9,
+    "years": 3,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "4-9",
+    "foliage": "#8a977f",
+    "bloomCount": 1,
+    "bloomColors": "#9aa7d6",
+    "blooms": [
+      {
+        "start": 7,
+        "end": 9,
+        "color": "#9aa7d6"
+      }
+    ],
+    "tags": [
+      "blue",
+      "fragrant"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "sea-holly",
+    "name": "Sea Holly",
+    "botanical": "Eryngium",
+    "genus": "Eryngium",
+    "cat": "Perennial",
+    "h": 0.7,
+    "w": 0.4,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "4-9",
+    "foliage": "#8a977f",
+    "bloomCount": 1,
+    "bloomColors": "#6f8fc6",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 8,
+        "color": "#6f8fc6"
+      }
+    ],
+    "tags": [
+      "blue",
+      "architectural",
+      "drought"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "sea-thrift",
+    "name": "Sea Thrift",
+    "botanical": "Armeria maritima",
+    "genus": "Armeria",
+    "cat": "Perennial",
+    "h": 0.2,
+    "w": 0.3,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "4-8",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#e07fa8",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 6,
+        "color": "#e07fa8"
+      }
+    ],
+    "tags": [
+      "pink",
+      "edging"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "snow-in-summer",
+    "name": "Snow-in-Summer",
+    "botanical": "Cerastium tomentosum",
+    "genus": "Cerastium",
+    "cat": "Perennial",
+    "h": 0.15,
+    "w": 0.5,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "low",
+    "zones": "3-7",
+    "foliage": "#9aa89a",
+    "bloomCount": 1,
+    "bloomColors": "#fbfbfb",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 6,
+        "color": "#fbfbfb"
+      }
+    ],
+    "tags": [
+      "white",
+      "silver",
+      "edging"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "solomons-seal",
+    "name": "Solomon's Seal",
+    "botanical": "Polygonatum",
+    "genus": "Polygonatum",
+    "cat": "Perennial",
+    "h": 0.7,
+    "w": 0.5,
+    "years": 3,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "3-8",
+    "foliage": "#5f8a5f",
+    "bloomCount": 1,
+    "bloomColors": "#fbfbf2",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 5,
+        "color": "#fbfbf2"
+      }
+    ],
+    "tags": [
+      "white",
+      "shade",
+      "native"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "spiderwort",
+    "name": "Spiderwort",
+    "botanical": "Tradescantia",
+    "genus": "Tradescantia",
+    "cat": "Perennial",
+    "h": 0.5,
+    "w": 0.5,
+    "years": 2,
+    "sun": "part-sun",
+    "water": "moderate",
+    "zones": "3-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#6f5fb0",
+    "blooms": [
+      {
+        "start": 6,
+        "end": 8,
+        "color": "#6f5fb0"
+      }
+    ],
+    "tags": [
+      "purple",
+      "native"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "sweet-william",
+    "name": "Sweet William",
+    "botanical": "Dianthus barbatus",
+    "genus": "Dianthus",
+    "cat": "Perennial",
+    "h": 0.4,
+    "w": 0.3,
+    "years": 2,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "3-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#d6406a",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 7,
+        "color": "#d6406a"
+      }
+    ],
+    "tags": [
+      "pink",
+      "cottage",
+      "fragrant"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "sweet-woodruff",
+    "name": "Sweet Woodruff",
+    "botanical": "Galium odoratum",
+    "genus": "Galium",
+    "cat": "Perennial",
+    "h": 0.2,
+    "w": 0.4,
+    "years": 2,
+    "sun": "full-shade",
+    "water": "moderate",
+    "zones": "4-8",
+    "foliage": "#5f9a5f",
+    "bloomCount": 1,
+    "bloomColors": "#fbfbfb",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 6,
+        "color": "#fbfbfb"
+      }
+    ],
+    "tags": [
+      "white",
+      "groundcover",
+      "shade",
+      "fragrant"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "toad-lily",
+    "name": "Toad Lily",
+    "botanical": "Tricyrtis",
+    "genus": "Tricyrtis",
+    "cat": "Perennial",
+    "h": 0.7,
+    "w": 0.5,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "4-8",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#b88fd6",
+    "blooms": [
+      {
+        "start": 9,
+        "end": 10,
+        "color": "#b88fd6"
+      }
+    ],
+    "tags": [
+      "purple",
+      "shade",
+      "fall"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "trillium",
+    "name": "Trillium",
+    "botanical": "Trillium",
+    "genus": "Trillium",
+    "cat": "Perennial",
+    "h": 0.3,
+    "w": 0.3,
+    "years": 3,
+    "sun": "full-shade",
+    "water": "moderate",
+    "zones": "4-8",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#fbfbfb",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 5,
+        "color": "#fbfbfb"
+      }
+    ],
+    "tags": [
+      "white",
+      "native",
+      "woodland"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "turtlehead",
+    "name": "Turtlehead",
+    "botanical": "Chelone",
+    "genus": "Chelone",
+    "cat": "Perennial",
+    "h": 0.9,
+    "w": 0.5,
+    "years": 2,
+    "sun": "part-sun",
+    "water": "high",
+    "zones": "3-8",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#e890b0",
+    "blooms": [
+      {
+        "start": 8,
+        "end": 9,
+        "color": "#e890b0"
+      }
+    ],
+    "tags": [
+      "pink",
+      "native",
+      "fall"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "virginia-bluebells",
+    "name": "Virginia Bluebells",
+    "botanical": "Mertensia virginica",
+    "genus": "Mertensia",
+    "cat": "Perennial",
+    "h": 0.5,
+    "w": 0.4,
+    "years": 2,
+    "sun": "part-shade",
+    "water": "moderate",
+    "zones": "3-8",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#6f8fd6",
+    "blooms": [
+      {
+        "start": 4,
+        "end": 5,
+        "color": "#6f8fd6"
+      }
+    ],
+    "tags": [
+      "blue",
+      "native",
+      "spring"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "wild-ginger",
+    "name": "Wild Ginger",
+    "botanical": "Asarum",
+    "genus": "Asarum",
+    "cat": "Perennial",
+    "h": 0.15,
+    "w": 0.3,
+    "years": 3,
+    "sun": "full-shade",
+    "water": "moderate",
+    "zones": "4-8",
+    "foliage": "#4f7a4f",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "foliage",
+      "groundcover",
+      "shade",
+      "native"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "ginkgo",
+    "name": "Ginkgo",
+    "botanical": "Ginkgo biloba",
+    "genus": "Ginkgo",
+    "cat": "Tree",
+    "h": 15,
+    "w": 10,
+    "years": 25,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "3-8",
+    "foliage": "#6f9a55",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "shade",
+      "yellow",
+      "fall color"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "honeylocust",
+    "name": "Honeylocust",
+    "botanical": "Gleditsia triacanthos",
+    "genus": "Gleditsia",
+    "cat": "Tree",
+    "h": 15,
+    "w": 12,
+    "years": 20,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "3-9",
+    "foliage": "#6f9a55",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "shade",
+      "yellow"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "linden",
+    "name": "Littleleaf Linden",
+    "botanical": "Tilia cordata",
+    "genus": "Tilia",
+    "cat": "Tree",
+    "h": 15,
+    "w": 10,
+    "years": 20,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "3-8",
+    "foliage": "#6f9a55",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "shade",
+      "fragrant"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "red-maple",
+    "name": "Red Maple",
+    "botanical": "Acer rubrum",
+    "genus": "Acer",
+    "cat": "Tree",
+    "h": 15,
+    "w": 12,
+    "years": 20,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "3-9",
+    "foliage": "#5f8a4a",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "shade",
+      "fall color",
+      "native"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "river-birch",
+    "name": "River Birch",
+    "botanical": "Betula nigra",
+    "genus": "Betula",
+    "cat": "Tree",
+    "h": 15,
+    "w": 12,
+    "years": 20,
+    "sun": "full-sun",
+    "water": "high",
+    "zones": "4-9",
+    "foliage": "#6f9a55",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "shade",
+      "native",
+      "bark"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "sugar-maple",
+    "name": "Sugar Maple",
+    "botanical": "Acer saccharum",
+    "genus": "Acer",
+    "cat": "Tree",
+    "h": 18,
+    "w": 12,
+    "years": 25,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "3-8",
+    "foliage": "#5f8a4a",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "shade",
+      "fall color",
+      "native"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "tulip-tree",
+    "name": "Tulip Tree",
+    "botanical": "Liriodendron tulipifera",
+    "genus": "Liriodendron",
+    "cat": "Tree",
+    "h": 20,
+    "w": 12,
+    "years": 25,
+    "sun": "full-sun",
+    "water": "moderate",
+    "zones": "4-9",
+    "foliage": "",
+    "bloomCount": 1,
+    "bloomColors": "#ccd866",
+    "blooms": [
+      {
+        "start": 5,
+        "end": 6,
+        "color": "#ccd866"
+      }
+    ],
+    "tags": [
+      "shade",
+      "native",
+      "yellow"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  },
+  {
+    "slug": "weeping-willow",
+    "name": "Weeping Willow",
+    "botanical": "Salix babylonica",
+    "genus": "Salix",
+    "cat": "Tree",
+    "h": 12,
+    "w": 12,
+    "years": 15,
+    "sun": "full-sun",
+    "water": "high",
+    "zones": "4-9",
+    "foliage": "#7f9a52",
+    "bloomCount": 0,
+    "bloomColors": "",
+    "blooms": [],
+    "tags": [
+      "shade",
+      "water",
+      "specimen"
+    ],
+    "group": "",
+    "groupName": "",
+    "groupDefault": false,
+    "grouped": false
+  }
+]

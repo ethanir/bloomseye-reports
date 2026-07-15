@@ -1,0 +1,2745 @@
+[
+  {
+    "key": "hybrid-tea-rose",
+    "name": "Hybrid Tea & Grandiflora Roses",
+    "default": "hybrid-tea-rose",
+    "members": [
+      "hybrid-tea-rose",
+      "peace-rose",
+      "mister-lincoln",
+      "double-delight",
+      "queen-elizabeth-rose"
+    ]
+  },
+  {
+    "key": "floribunda-rose",
+    "name": "Floribunda Roses",
+    "default": "floribunda-rose",
+    "members": [
+      "floribunda-rose",
+      "iceberg-rose",
+      "julia-child-rose"
+    ]
+  },
+  {
+    "key": "english-rose",
+    "name": "English (David Austin) Roses",
+    "default": "gertrude-jekyll",
+    "members": [
+      "gertrude-jekyll",
+      "graham-thomas",
+      "munstead-wood",
+      "lady-of-shalott",
+      "olivia-rose-austin",
+      "claire-austin",
+      "boscobel",
+      "golden-celebration",
+      "darcey-bussell",
+      "roald-dahl",
+      "queen-of-sweden",
+      "lady-emma-hamilton",
+      "the-pilgrim",
+      "harlow-carr",
+      "jubilee-celebration",
+      "princess-alexandra-of-kent",
+      "gentle-hermione",
+      "tess-of-the-durbervilles",
+      "abraham-darby",
+      "heritage-rose",
+      "the-lady-gardener",
+      "desdemona",
+      "vanessa-bell",
+      "tranquillity",
+      "susan-williams-ellis",
+      "charlotte-rose",
+      "carding-mill",
+      "emily-bronte",
+      "james-galway",
+      "molineux",
+      "the-poets-wife",
+      "juliet-rose"
+    ]
+  },
+  {
+    "key": "climbing-roses",
+    "name": "Climbing Roses",
+    "default": "new-dawn-rose",
+    "members": [
+      "new-dawn-rose",
+      "the-generous-gardener",
+      "crown-princess-margareta",
+      "teasing-georgia",
+      "wollerton-old-hall",
+      "strawberry-hill",
+      "zephirine-drouhin",
+      "lady-banks-rose",
+      "eden-rose",
+      "don-juan-rose"
+    ]
+  },
+  {
+    "key": "shrub-landscape-roses",
+    "name": "Shrub & Landscape Roses",
+    "default": "rose-shrub",
+    "members": [
+      "rose-shrub",
+      "knockout-rose",
+      "bonica-rose",
+      "flower-carpet-rose",
+      "drift-rose",
+      "the-fairy-rose",
+      "cecile-brunner",
+      "rugosa-rose"
+    ]
+  },
+  {
+    "key": "tulips",
+    "name": "Tulips",
+    "default": "tulip",
+    "members": [
+      "tulip",
+      "tulip-apeldoorn",
+      "tulip-golden-apeldoorn",
+      "tulip-pink-impression",
+      "tulip-apricot-beauty",
+      "tulip-princess-irene",
+      "tulip-negrita",
+      "tulip-couleur-cardinal",
+      "tulip-angelique",
+      "tulip-monte-carlo",
+      "tulip-spring-green",
+      "tulip-ballerina",
+      "tulip-white-triumphator",
+      "tulip-purissima",
+      "tulip-orange-emperor",
+      "tulip-flaming-parrot",
+      "tulip-black-parrot",
+      "tulip-queen-of-night"
+    ]
+  },
+  {
+    "key": "lilies",
+    "name": "Lilies",
+    "default": "lily-asiatic",
+    "members": [
+      "lily-asiatic",
+      "oriental-lily",
+      "tiger-lily",
+      "trumpet-lily",
+      "easter-lily"
+    ]
+  },
+  {
+    "key": "hydrangeas",
+    "name": "Hydrangeas",
+    "default": "hydrangea",
+    "members": [
+      "hydrangea",
+      "hydrangea-panicle",
+      "hydrangea-oakleaf",
+      "smooth-hydrangea"
+    ]
+  },
+  {
+    "key": "irises",
+    "name": "Irises",
+    "default": "iris-bearded",
+    "members": [
+      "iris-bearded",
+      "siberian-iris",
+      "dutch-iris"
+    ]
+  },
+  {
+    "key": "daffodils",
+    "name": "Daffodils",
+    "default": "daffodil",
+    "members": [
+      "daffodil",
+      "narcissus-dutch-master",
+      "narcissus-mount-hood",
+      "narcissus-ice-follies",
+      "narcissus-tete-a-tete",
+      "narcissus-thalia",
+      "narcissus-february-gold",
+      "narcissus-jetfire",
+      "narcissus-pink-charm",
+      "narcissus-salome",
+      "narcissus-cheerfulness",
+      "narcissus-tahiti",
+      "narcissus-geranium",
+      "narcissus-actaea",
+      "narcissus-jack-snipe",
+      "narcissus-sir-winston-churchill"
+    ]
+  },
+  {
+    "key": "daylilies",
+    "name": "Daylilies",
+    "default": "daylily",
+    "members": [
+      "daylily",
+      "daylily-stella-de-oro",
+      "daylily-happy-returns",
+      "daylily-pardon-me",
+      "daylily-hyperion",
+      "daylily-chicago-apache",
+      "daylily-catherine-woodbery",
+      "daylily-joan-senior",
+      "daylily-strawberry-candy",
+      "daylily-bela-lugosi",
+      "daylily-frans-hals",
+      "daylily-apricot-sparkles",
+      "daylily-going-bananas",
+      "daylily-purple-de-oro",
+      "daylily-ruby-stella",
+      "daylily-el-desperado"
+    ]
+  },
+  {
+    "key": "hostas",
+    "name": "Hostas",
+    "default": "hosta",
+    "members": [
+      "hosta",
+      "hosta-sum-and-substance",
+      "hosta-blue-angel",
+      "hosta-frances-williams",
+      "hosta-patriot",
+      "hosta-halcyon",
+      "hosta-guacamole",
+      "hosta-june",
+      "hosta-francee",
+      "hosta-gold-standard",
+      "hosta-empress-wu",
+      "hosta-krossa-regal",
+      "hosta-wide-brim",
+      "hosta-fire-and-ice",
+      "hosta-august-moon",
+      "hosta-minuteman"
+    ]
+  },
+  {
+    "key": "peonies",
+    "name": "Peonies",
+    "default": "peony",
+    "members": [
+      "peony",
+      "peony-sarah-bernhardt",
+      "peony-karl-rosenfield",
+      "peony-festiva-maxima",
+      "peony-bowl-of-beauty",
+      "peony-coral-charm",
+      "peony-duchesse-de-nemours",
+      "peony-bartzella",
+      "peony-shirley-temple",
+      "peony-red-charm",
+      "peony-monsieur-jules-elie",
+      "peony-coral-sunset",
+      "peony-kansas",
+      "peony-gardenia",
+      "peony-pink-hawaiian-coral",
+      "peony-do-tell"
+    ]
+  },
+  {
+    "key": "dahlias",
+    "name": "Dahlias",
+    "default": "dahlia",
+    "members": [
+      "dahlia",
+      "dahlia-cafe-au-lait",
+      "dahlia-bishop-of-llandaff",
+      "dahlia-thomas-edison",
+      "dahlia-arabian-night",
+      "dahlia-kelvin-floodlight",
+      "dahlia-ottos-thrill",
+      "dahlia-gallery-art-deco",
+      "dahlia-jowey-winnie",
+      "dahlia-cornel",
+      "dahlia-david-howard",
+      "dahlia-fleurel",
+      "dahlia-sylvia",
+      "dahlia-karma-choc",
+      "dahlia-labyrinth",
+      "dahlia-bishops-children"
+    ]
+  },
+  {
+    "key": "coneflowers",
+    "name": "Coneflowers",
+    "default": "coneflower",
+    "members": [
+      "coneflower",
+      "coneflower-magnus",
+      "coneflower-white-swan",
+      "coneflower-powwow-wild-berry",
+      "coneflower-cheyenne-spirit",
+      "coneflower-hot-papaya",
+      "coneflower-sombrero-salsa-red",
+      "coneflower-sombrero-adobe-orange",
+      "coneflower-sombrero-lemon-yellow",
+      "coneflower-green-jewel",
+      "coneflower-pink-double-delight",
+      "coneflower-marmalade",
+      "coneflower-kismet-raspberry",
+      "coneflower-tomato-soup",
+      "coneflower-sombrero-hot-coral",
+      "coneflower-coconut-lime"
+    ]
+  },
+  {
+    "key": "chrysanthemums",
+    "name": "Chrysanthemums",
+    "default": "chrysanthemum",
+    "members": [
+      "chrysanthemum",
+      "chrysanthemum-yellow",
+      "chrysanthemum-gold",
+      "chrysanthemum-bronze",
+      "chrysanthemum-rust",
+      "chrysanthemum-red",
+      "chrysanthemum-burgundy",
+      "chrysanthemum-purple",
+      "chrysanthemum-lavender",
+      "chrysanthemum-pink",
+      "chrysanthemum-white",
+      "chrysanthemum-coral",
+      "chrysanthemum-sheffield-pink",
+      "chrysanthemum-clara-curtis",
+      "chrysanthemum-mary-stoker"
+    ]
+  },
+  {
+    "key": "coral-bells",
+    "name": "Coral Bells",
+    "default": "coral-bells",
+    "members": [
+      "coral-bells",
+      "coral-bells-palace-purple",
+      "coral-bells-caramel",
+      "coral-bells-obsidian",
+      "coral-bells-lime-rickey",
+      "coral-bells-georgia-peach",
+      "coral-bells-plum-pudding",
+      "coral-bells-marmalade",
+      "coral-bells-forever-red",
+      "coral-bells-citronelle",
+      "coral-bells-silver-scrolls",
+      "coral-bells-melting-fire",
+      "coral-bells-berry-smoothie",
+      "coral-bells-forever-purple",
+      "coral-bells-midnight-rose"
+    ]
+  },
+  {
+    "key": "clematis",
+    "name": "Clematis",
+    "default": "clematis",
+    "members": [
+      "clematis",
+      "clematis-jackmanii",
+      "clematis-nelly-moser",
+      "clematis-the-president",
+      "clematis-niobe",
+      "clematis-henryi",
+      "clematis-ville-de-lyon",
+      "clematis-comtesse-de-bouchaud",
+      "clematis-rouge-cardinal",
+      "clematis-multi-blue",
+      "clematis-doctor-ruppel",
+      "clematis-ernest-markham",
+      "clematis-marie-boisselot",
+      "clematis-gipsy-queen",
+      "clematis-hagley-hybrid",
+      "clematis-sweet-autumn"
+    ]
+  },
+  {
+    "key": "azaleas",
+    "name": "Azaleas",
+    "default": "azalea",
+    "members": [
+      "azalea",
+      "azalea-stewartstonian",
+      "azalea-gibraltar",
+      "azalea-delaware-valley-white",
+      "azalea-george-tabor",
+      "azalea-formosa",
+      "azalea-hino-crimson",
+      "azalea-girards-crimson",
+      "azalea-rosebud",
+      "azalea-gumpo-pink",
+      "azalea-karen",
+      "azalea-fireball",
+      "azalea-white-lights",
+      "azalea-golden-lights",
+      "azalea-encore-autumn-amethyst"
+    ]
+  },
+  {
+    "key": "rhododendrons",
+    "name": "Rhododendrons",
+    "default": "rhododendron",
+    "members": [
+      "rhododendron",
+      "rhododendron-nova-zembla",
+      "rhododendron-roseum-elegans",
+      "rhododendron-pjm",
+      "rhododendron-english-roseum",
+      "rhododendron-purple-splendor",
+      "rhododendron-cunninghams-white",
+      "rhododendron-boule-de-neige",
+      "rhododendron-scintillation",
+      "rhododendron-yaku-princess",
+      "rhododendron-anah-kruschke",
+      "rhododendron-capistrano",
+      "rhododendron-blue-peter"
+    ]
+  },
+  {
+    "key": "dianthus",
+    "name": "Dianthus",
+    "default": "dianthus",
+    "members": [
+      "dianthus",
+      "dianthus-firewitch",
+      "dianthus-baths-pink",
+      "dianthus-maiden-pink",
+      "dianthus-frosty-fire",
+      "dianthus-coconut-surprise",
+      "dianthus-neon-star",
+      "dianthus-tiny-rubies",
+      "dianthus-brilliant",
+      "dianthus-georgia-peach-pie",
+      "dianthus-pink-fire",
+      "dianthus-mountain-frost-ruby",
+      "dianthus-white-pinks"
+    ]
+  },
+  {
+    "key": "petunias",
+    "name": "Petunias",
+    "default": "petunia",
+    "members": [
+      "petunia",
+      "petunia-purple",
+      "petunia-red",
+      "petunia-white",
+      "petunia-pink",
+      "petunia-burgundy",
+      "petunia-blue",
+      "petunia-yellow",
+      "petunia-coral",
+      "petunia-salmon",
+      "petunia-supertunia-vista-bubblegum",
+      "petunia-night-sky",
+      "petunia-purple-wave",
+      "petunia-star"
+    ]
+  },
+  {
+    "key": "zinnias",
+    "name": "Zinnias",
+    "default": "zinnia",
+    "members": [
+      "zinnia",
+      "zinnia-orange",
+      "zinnia-yellow",
+      "zinnia-pink",
+      "zinnia-magenta",
+      "zinnia-white",
+      "zinnia-coral",
+      "zinnia-purple",
+      "zinnia-envy-green",
+      "zinnia-benarys-giant-wine",
+      "zinnia-queen-lime-orange",
+      "zinnia-profusion-cherry",
+      "zinnia-profusion-white",
+      "zinnia-uproar-rose"
+    ]
+  },
+  {
+    "key": "marigolds",
+    "name": "Marigolds",
+    "default": "marigold",
+    "members": [
+      "marigold",
+      "marigold-yellow",
+      "marigold-orange",
+      "marigold-gold",
+      "marigold-red",
+      "marigold-bicolor",
+      "marigold-cream",
+      "marigold-french",
+      "marigold-african",
+      "marigold-lemon-gem",
+      "marigold-tangerine-gem"
+    ]
+  },
+  {
+    "key": "snapdragons",
+    "name": "Snapdragons",
+    "default": "snapdragon",
+    "members": [
+      "snapdragon",
+      "snapdragon-red",
+      "snapdragon-yellow",
+      "snapdragon-orange",
+      "snapdragon-white",
+      "snapdragon-purple",
+      "snapdragon-rose",
+      "snapdragon-bronze",
+      "snapdragon-burgundy",
+      "snapdragon-coral",
+      "snapdragon-rocket"
+    ]
+  },
+  {
+    "key": "pansies",
+    "name": "Pansies & Violas",
+    "default": "pansy",
+    "members": [
+      "pansy",
+      "pansy-yellow",
+      "pansy-blue",
+      "pansy-white",
+      "pansy-orange",
+      "pansy-red",
+      "pansy-purple-face",
+      "pansy-yellow-blotch",
+      "pansy-rose",
+      "pansy-black",
+      "pansy-viola-sorbet",
+      "pansy-viola-yellow"
+    ]
+  },
+  {
+    "key": "geraniums",
+    "name": "Geraniums",
+    "default": "geranium-annual",
+    "members": [
+      "geranium-annual",
+      "geranium-annual-pink",
+      "geranium-annual-white",
+      "geranium-annual-salmon",
+      "geranium-annual-coral",
+      "geranium-annual-purple",
+      "geranium-annual-magenta",
+      "geranium-annual-burgundy",
+      "geranium-annual-lavender",
+      "geranium-annual-bicolor",
+      "geranium-annual-ivy-red"
+    ]
+  },
+  {
+    "key": "salvia",
+    "name": "Salvia",
+    "default": "salvia",
+    "members": [
+      "salvia",
+      "salvia-may-night",
+      "salvia-caradonna",
+      "salvia-blue-hill",
+      "salvia-snow-hill",
+      "salvia-sensation-rose",
+      "salvia-east-friesland",
+      "salvia-pink-profusion",
+      "salvia-violet-riot",
+      "salvia-rose-marvel",
+      "salvia-blue-marvel",
+      "salvia-april-night"
+    ]
+  },
+  {
+    "key": "lavender",
+    "name": "Lavender",
+    "default": "lavender",
+    "members": [
+      "lavender",
+      "lavender-hidcote",
+      "lavender-munstead",
+      "lavender-phenomenal",
+      "lavender-grosso",
+      "lavender-provence",
+      "lavender-hidcote-pink",
+      "lavender-edelweiss",
+      "lavender-royal-velvet",
+      "lavender-spanish",
+      "lavender-french",
+      "lavender-nana-alba"
+    ]
+  },
+  {
+    "key": "phlox",
+    "name": "Garden Phlox",
+    "default": "phlox",
+    "members": [
+      "phlox",
+      "phlox-david",
+      "phlox-jeana",
+      "phlox-bright-eyes",
+      "phlox-laura",
+      "phlox-nicky",
+      "phlox-blue-paradise",
+      "phlox-starfire",
+      "phlox-orange-perfection",
+      "phlox-coral-flame",
+      "phlox-robert-poore",
+      "phlox-white-flame",
+      "phlox-purple"
+    ]
+  },
+  {
+    "key": "creeping-phlox",
+    "name": "Creeping Phlox",
+    "default": "creeping-phlox",
+    "members": [
+      "creeping-phlox",
+      "creeping-phlox-emerald-blue",
+      "creeping-phlox-candy-stripe",
+      "creeping-phlox-scarlet-flame",
+      "creeping-phlox-purple-beauty",
+      "creeping-phlox-white-delight",
+      "creeping-phlox-emerald-pink",
+      "creeping-phlox-amazing-grace",
+      "creeping-phlox-red-wings",
+      "creeping-phlox-drummonds-pink",
+      "creeping-phlox-snowflake"
+    ]
+  },
+  {
+    "key": "sedum",
+    "name": "Sedum",
+    "default": "sedum-autumn",
+    "members": [
+      "sedum-autumn",
+      "sedum-brilliant",
+      "sedum-matrona",
+      "sedum-purple-emperor",
+      "sedum-neon",
+      "sedum-autumn-fire",
+      "sedum-frosty-morn",
+      "sedum-thunderhead",
+      "sedum-mr-goodbud"
+    ]
+  },
+  {
+    "key": "coreopsis",
+    "name": "Coreopsis",
+    "default": "coreopsis",
+    "members": [
+      "coreopsis",
+      "coreopsis-moonbeam",
+      "coreopsis-zagreb",
+      "coreopsis-early-sunrise",
+      "coreopsis-creme-brulee",
+      "coreopsis-mercury-rising",
+      "coreopsis-route-66",
+      "coreopsis-sienna-sunset",
+      "coreopsis-pink-sapphire",
+      "coreopsis-pumpkin-pie",
+      "coreopsis-red-satin",
+      "coreopsis-jethro-tull"
+    ]
+  },
+  {
+    "key": "yarrow",
+    "name": "Yarrow",
+    "default": "yarrow",
+    "members": [
+      "yarrow",
+      "yarrow-moonshine",
+      "yarrow-coronation-gold",
+      "yarrow-cerise-queen",
+      "yarrow-paprika",
+      "yarrow-terracotta",
+      "yarrow-apricot-delight",
+      "yarrow-red-velvet",
+      "yarrow-white",
+      "yarrow-saucy-seduction",
+      "yarrow-pomegranate",
+      "yarrow-sunny-seduction"
+    ]
+  },
+  {
+    "key": "lilac",
+    "name": "Lilac",
+    "default": "lilac",
+    "members": [
+      "lilac",
+      "lilac-sensation",
+      "lilac-charles-joly",
+      "lilac-beauty-of-moscow",
+      "lilac-miss-kim",
+      "lilac-president-grevy",
+      "lilac-madame-lemoine",
+      "lilac-primrose",
+      "lilac-wedgwood-blue",
+      "lilac-katherine-havemeyer",
+      "lilac-bloomerang-purple",
+      "lilac-yankee-doodle",
+      "lilac-president-lincoln",
+      "lilac-ludwig-spaeth"
+    ]
+  },
+  {
+    "key": "crape-myrtle",
+    "name": "Crape Myrtle",
+    "default": "crape-myrtle",
+    "members": [
+      "crape-myrtle",
+      "crape-myrtle-natchez",
+      "crape-myrtle-muskogee",
+      "crape-myrtle-tuscarora",
+      "crape-myrtle-dynamite",
+      "crape-myrtle-sioux",
+      "crape-myrtle-catawba",
+      "crape-myrtle-red-rocket",
+      "crape-myrtle-acoma",
+      "crape-myrtle-pink-velour",
+      "crape-myrtle-twilight",
+      "crape-myrtle-cherry-dazzle",
+      "crape-myrtle-hopi",
+      "crape-myrtle-black-diamond-red"
+    ]
+  },
+  {
+    "key": "rose-of-sharon",
+    "name": "Rose of Sharon",
+    "default": "rose-of-sharon",
+    "members": [
+      "rose-of-sharon",
+      "rose-of-sharon-blue-bird",
+      "rose-of-sharon-diana",
+      "rose-of-sharon-aphrodite",
+      "rose-of-sharon-helene",
+      "rose-of-sharon-blushing-bride",
+      "rose-of-sharon-minerva",
+      "rose-of-sharon-blue-chiffon",
+      "rose-of-sharon-lavender-chiffon",
+      "rose-of-sharon-white-chiffon",
+      "rose-of-sharon-lucy",
+      "rose-of-sharon-red-heart",
+      "rose-of-sharon-purple-pillar"
+    ]
+  },
+  {
+    "key": "butterfly-bush",
+    "name": "Butterfly Bush",
+    "default": "butterfly-bush",
+    "members": [
+      "butterfly-bush",
+      "butterfly-bush-black-knight",
+      "butterfly-bush-pink-delight",
+      "butterfly-bush-white-profusion",
+      "butterfly-bush-nanho-blue",
+      "butterfly-bush-royal-red",
+      "butterfly-bush-miss-molly",
+      "butterfly-bush-blue-chip",
+      "butterfly-bush-honeycomb",
+      "butterfly-bush-pugster-blue",
+      "butterfly-bush-miss-ruby",
+      "butterfly-bush-empire-blue"
+    ]
+  },
+  {
+    "key": "camellia",
+    "name": "Camellia",
+    "default": "camellia",
+    "members": [
+      "camellia",
+      "camellia-pink-perfection",
+      "camellia-debutante",
+      "camellia-alba-plena",
+      "camellia-kramers-supreme",
+      "camellia-yuletide",
+      "camellia-setsugekka",
+      "camellia-professor-sargent",
+      "camellia-nuccios-pearl",
+      "camellia-pink-icicle",
+      "camellia-april-rose"
+    ]
+  },
+  {
+    "key": "weigela",
+    "name": "Weigela",
+    "default": "weigela",
+    "members": [
+      "weigela",
+      "weigela-wine-and-roses",
+      "weigela-red-prince",
+      "weigela-java-red",
+      "weigela-my-monet",
+      "weigela-white",
+      "weigela-sonic-bloom-pink",
+      "weigela-sonic-bloom-red",
+      "weigela-minuet",
+      "weigela-czechmark-trilogy",
+      "weigela-variegata",
+      "weigela-pink-delight",
+      "weigela-white-knight",
+      "weigela-spilled-wine"
+    ]
+  },
+  {
+    "key": "spirea",
+    "name": "Spirea",
+    "default": "spirea",
+    "members": [
+      "spirea",
+      "spirea-goldflame",
+      "spirea-magic-carpet",
+      "spirea-anthony-waterer",
+      "spirea-little-princess",
+      "spirea-goldmound",
+      "spirea-bridal-wreath",
+      "spirea-snowmound",
+      "spirea-double-play-big-bang",
+      "spirea-double-play-candy-corn",
+      "spirea-neon-flash"
+    ]
+  },
+  {
+    "key": "potentilla",
+    "name": "Potentilla",
+    "default": "potentilla",
+    "members": [
+      "potentilla",
+      "potentilla-goldfinger",
+      "potentilla-abbotswood",
+      "potentilla-pink-beauty",
+      "potentilla-mango-tango",
+      "potentilla-red-ace",
+      "potentilla-tangerine",
+      "potentilla-mckays-white",
+      "potentilla-happy-face-yellow",
+      "potentilla-pink-whisper",
+      "potentilla-orange-whisper"
+    ]
+  },
+  {
+    "key": "bee-balm",
+    "name": "Bee Balm",
+    "default": "bee-balm",
+    "members": [
+      "bee-balm",
+      "bee-balm-jacob-cline",
+      "bee-balm-raspberry-wine",
+      "bee-balm-marshalls-delight",
+      "bee-balm-gardenview-scarlet",
+      "bee-balm-snow-white",
+      "bee-balm-purple-rooster",
+      "bee-balm-claire-grace",
+      "bee-balm-pardon-my-cerise",
+      "bee-balm-pardon-my-purple",
+      "bee-balm-rockin-raspberry",
+      "bee-balm-grand-marshall"
+    ]
+  },
+  {
+    "key": "aster",
+    "name": "Aster",
+    "default": "aster",
+    "members": [
+      "aster",
+      "aster-purple-dome",
+      "aster-alma-potschke",
+      "aster-woods-blue",
+      "aster-woods-pink",
+      "aster-woods-purple",
+      "aster-october-skies",
+      "aster-patricia-ballard",
+      "aster-snow-flurry",
+      "aster-kickin-carmine",
+      "aster-raydons-favorite",
+      "aster-professor-kippenberg"
+    ]
+  },
+  {
+    "key": "astilbe",
+    "name": "Astilbe",
+    "default": "astilbe",
+    "members": [
+      "astilbe",
+      "astilbe-fanal",
+      "astilbe-bridal-veil",
+      "astilbe-visions",
+      "astilbe-deutschland",
+      "astilbe-peach-blossom",
+      "astilbe-montgomery",
+      "astilbe-rheinland",
+      "astilbe-purple-candles",
+      "astilbe-amethyst",
+      "astilbe-sprite",
+      "astilbe-red-sentinel"
+    ]
+  },
+  {
+    "key": "hellebore",
+    "name": "Hellebore",
+    "default": "hellebore",
+    "members": [
+      "hellebore",
+      "hellebore-christmas-rose",
+      "hellebore-penny-pink",
+      "hellebore-anna-red",
+      "hellebore-ivory-prince",
+      "hellebore-onyx-odyssey",
+      "hellebore-golden-lotus",
+      "hellebore-cinnamon-snow",
+      "hellebore-pink-frost",
+      "hellebore-green",
+      "hellebore-wedding-party"
+    ]
+  },
+  {
+    "key": "hardy-geranium",
+    "name": "Hardy Geranium",
+    "default": "hardy-geranium",
+    "members": [
+      "hardy-geranium",
+      "hardy-geranium-rozanne",
+      "hardy-geranium-johnsons-blue",
+      "hardy-geranium-wargrave-pink",
+      "hardy-geranium-ann-folkard",
+      "hardy-geranium-biokovo",
+      "hardy-geranium-brookside",
+      "hardy-geranium-max-frei",
+      "hardy-geranium-kashmir-white",
+      "hardy-geranium-patricia",
+      "hardy-geranium-new-hampshire-purple"
+    ]
+  },
+  {
+    "key": "delphinium",
+    "name": "Delphinium",
+    "default": "delphinium",
+    "members": [
+      "delphinium",
+      "delphinium-black-knight",
+      "delphinium-galahad",
+      "delphinium-king-arthur",
+      "delphinium-blue-bird",
+      "delphinium-blue-jay",
+      "delphinium-astolat",
+      "delphinium-guinevere",
+      "delphinium-summer-skies",
+      "delphinium-magic-fountains-dark-blue",
+      "delphinium-magic-fountains-cherry",
+      "delphinium-blue-mirror"
+    ]
+  },
+  {
+    "key": "foxglove",
+    "name": "Foxglove",
+    "default": "foxglove",
+    "members": [
+      "foxglove",
+      "foxglove-camelot-rose",
+      "foxglove-camelot-white",
+      "foxglove-camelot-lavender",
+      "foxglove-camelot-cream",
+      "foxglove-dalmatian-purple",
+      "foxglove-dalmatian-peach",
+      "foxglove-suttons-apricot",
+      "foxglove-pams-choice",
+      "foxglove-grandiflora-yellow",
+      "foxglove-purpurea"
+    ]
+  },
+  {
+    "key": "lupine",
+    "name": "Lupine",
+    "default": "lupine",
+    "members": [
+      "lupine",
+      "lupine-the-governor",
+      "lupine-noble-maiden",
+      "lupine-the-pages",
+      "lupine-chandelier",
+      "lupine-my-castle",
+      "lupine-the-chatelaine",
+      "lupine-gallery-blue",
+      "lupine-gallery-red",
+      "lupine-gallery-white",
+      "lupine-masterpiece",
+      "lupine-manhattan-lights"
+    ]
+  },
+  {
+    "key": "veronica",
+    "name": "Veronica",
+    "default": "veronica",
+    "members": [
+      "veronica",
+      "veronica-royal-candles",
+      "veronica-sunny-border-blue",
+      "veronica-red-fox",
+      "veronica-icicle",
+      "veronica-giles-van-hees",
+      "veronica-crater-lake-blue",
+      "veronica-pink-damask",
+      "veronica-first-love",
+      "veronica-snow-candles",
+      "veronica-purpleicious"
+    ]
+  },
+  {
+    "key": "catmint",
+    "name": "Catmint",
+    "default": "catmint",
+    "members": [
+      "catmint",
+      "catmint-walkers-low",
+      "catmint-six-hills-giant",
+      "catmint-cats-meow",
+      "catmint-purrsian-blue",
+      "catmint-junior-walker",
+      "catmint-blue-wonder",
+      "catmint-pink-cat",
+      "catmint-snowflake",
+      "catmint-little-titch",
+      "catmint-early-bird"
+    ]
+  },
+  {
+    "key": "impatiens",
+    "name": "Impatiens",
+    "default": "impatiens",
+    "members": [
+      "impatiens",
+      "impatiens-red",
+      "impatiens-white",
+      "impatiens-violet",
+      "impatiens-salmon",
+      "impatiens-lavender",
+      "impatiens-rose",
+      "impatiens-scarlet",
+      "impatiens-new-guinea-red",
+      "impatiens-new-guinea-orange",
+      "impatiens-sunpatiens-coral",
+      "impatiens-double-rose"
+    ]
+  },
+  {
+    "key": "begonia",
+    "name": "Begonia",
+    "default": "begonia",
+    "members": [
+      "begonia",
+      "begonia-wax-red",
+      "begonia-wax-white",
+      "begonia-wax-pink-bronze",
+      "begonia-dragon-wing-red",
+      "begonia-dragon-wing-pink",
+      "begonia-tuberous-yellow",
+      "begonia-tuberous-orange",
+      "begonia-tuberous-red",
+      "begonia-nonstop-rose",
+      "begonia-bonfire",
+      "begonia-tuberous-apricot",
+      "begonia-big-rose"
+    ]
+  },
+  {
+    "key": "coleus",
+    "name": "Coleus",
+    "default": "coleus",
+    "members": [
+      "coleus",
+      "coleus-redhead",
+      "coleus-wasabi",
+      "coleus-black-dragon",
+      "coleus-sedona-sunset",
+      "coleus-henna",
+      "coleus-pineapple",
+      "coleus-campfire",
+      "coleus-pink-chaos",
+      "coleus-kong-rose",
+      "coleus-wizard-velvet",
+      "coleus-lime-time",
+      "coleus-watermelon"
+    ]
+  },
+  {
+    "key": "cosmos",
+    "name": "Cosmos",
+    "default": "cosmos",
+    "members": [
+      "cosmos",
+      "cosmos-purity",
+      "cosmos-sensation-pink",
+      "cosmos-rubenza",
+      "cosmos-dazzler",
+      "cosmos-xanthos",
+      "cosmos-apricot-lemonade",
+      "cosmos-sea-shells",
+      "cosmos-double-click-rose",
+      "cosmos-bright-lights",
+      "cosmos-cosmic-red",
+      "cosmos-cosmic-yellow"
+    ]
+  },
+  {
+    "key": "sunflower",
+    "name": "Sunflower",
+    "default": "sunflower",
+    "members": [
+      "sunflower",
+      "sunflower-mammoth",
+      "sunflower-autumn-beauty",
+      "sunflower-teddy-bear",
+      "sunflower-velvet-queen",
+      "sunflower-italian-white",
+      "sunflower-lemon-queen",
+      "sunflower-moulin-rouge",
+      "sunflower-ring-of-fire",
+      "sunflower-strawberry-blonde",
+      "sunflower-soraya",
+      "sunflower-vanilla-ice"
+    ]
+  },
+  {
+    "key": "celosia",
+    "name": "Celosia",
+    "default": "celosia",
+    "members": [
+      "celosia",
+      "celosia-fresh-look-red",
+      "celosia-fresh-look-yellow",
+      "celosia-fresh-look-orange",
+      "celosia-dragons-breath",
+      "celosia-century-pink",
+      "celosia-intenz-purple",
+      "celosia-flamingo-feather",
+      "celosia-cockscomb-red",
+      "celosia-cockscomb-yellow",
+      "celosia-bombay-orange",
+      "celosia-cockscomb-magenta"
+    ]
+  },
+  {
+    "key": "verbena",
+    "name": "Verbena",
+    "default": "verbena-annual",
+    "members": [
+      "verbena-annual",
+      "verbena-annual-red",
+      "verbena-annual-pink",
+      "verbena-annual-white",
+      "verbena-annual-blue",
+      "verbena-annual-magenta",
+      "verbena-annual-coral",
+      "verbena-annual-lavender",
+      "verbena-annual-dark-purple",
+      "verbena-annual-pink-bicolor",
+      "verbena-annual-burgundy",
+      "verbena-annual-scarlet"
+    ]
+  },
+  {
+    "key": "lantana",
+    "name": "Lantana",
+    "default": "lantana",
+    "members": [
+      "lantana",
+      "lantana-miss-huff",
+      "lantana-new-gold",
+      "lantana-dallas-red",
+      "lantana-radiation",
+      "lantana-bandana-cherry",
+      "lantana-bandana-rose",
+      "lantana-luscious-citrus",
+      "lantana-confetti",
+      "lantana-lucky-white",
+      "lantana-purple-trailing",
+      "lantana-bandana-pink"
+    ]
+  },
+  {
+    "key": "crocus",
+    "name": "Crocus",
+    "default": "crocus",
+    "members": [
+      "crocus",
+      "crocus-jeanne-darc",
+      "crocus-pickwick",
+      "crocus-flower-record",
+      "crocus-yellow-mammoth",
+      "crocus-ruby-giant",
+      "crocus-cream-beauty",
+      "crocus-blue-pearl",
+      "crocus-remembrance",
+      "crocus-tricolor",
+      "crocus-snow-bunting",
+      "crocus-grand-maitre"
+    ]
+  },
+  {
+    "key": "hyacinth",
+    "name": "Hyacinth",
+    "default": "hyacinth",
+    "members": [
+      "hyacinth",
+      "hyacinth-delft-blue",
+      "hyacinth-blue-jacket",
+      "hyacinth-carnegie",
+      "hyacinth-pink-pearl",
+      "hyacinth-jan-bos",
+      "hyacinth-city-of-haarlem",
+      "hyacinth-woodstock",
+      "hyacinth-gipsy-queen",
+      "hyacinth-anna-marie",
+      "hyacinth-miss-saigon",
+      "hyacinth-splendid-cornelia"
+    ]
+  },
+  {
+    "key": "gladiolus",
+    "name": "Gladiolus",
+    "default": "gladiolus",
+    "members": [
+      "gladiolus",
+      "gladiolus-red",
+      "gladiolus-white",
+      "gladiolus-purple",
+      "gladiolus-yellow",
+      "gladiolus-orange",
+      "gladiolus-salmon",
+      "gladiolus-lavender",
+      "gladiolus-green-star",
+      "gladiolus-black-star",
+      "gladiolus-priscilla",
+      "gladiolus-magenta"
+    ]
+  },
+  {
+    "key": "canna",
+    "name": "Canna Lily",
+    "default": "canna",
+    "members": [
+      "canna",
+      "canna-president",
+      "canna-bengal-tiger",
+      "canna-tropicanna",
+      "canna-australia",
+      "canna-wyoming",
+      "canna-cleopatra",
+      "canna-yellow-king-humbert",
+      "canna-lucifer",
+      "canna-pink-president",
+      "canna-tropicanna-gold",
+      "canna-durban"
+    ]
+  },
+  {
+    "key": "ranunculus",
+    "name": "Ranunculus",
+    "default": "ranunculus",
+    "members": [
+      "ranunculus",
+      "ranunculus-red",
+      "ranunculus-pink",
+      "ranunculus-white",
+      "ranunculus-yellow",
+      "ranunculus-purple",
+      "ranunculus-salmon",
+      "ranunculus-magenta",
+      "ranunculus-cream",
+      "ranunculus-picotee-pink",
+      "ranunculus-apricot"
+    ]
+  },
+  {
+    "key": "anemone",
+    "name": "Anemone",
+    "default": "anemone",
+    "members": [
+      "anemone",
+      "anemone-mr-fokker",
+      "anemone-the-bride",
+      "anemone-hollandia",
+      "anemone-sylphide",
+      "anemone-lord-lieutenant",
+      "anemone-mt-everest",
+      "anemone-the-governor",
+      "anemone-blanda-blue",
+      "anemone-blanda-white",
+      "anemone-blanda-pink",
+      "anemone-admiral"
+    ]
+  },
+  {
+    "key": "hardy-hibiscus",
+    "name": "Hardy Hibiscus",
+    "default": "hardy-hibiscus",
+    "members": [
+      "hardy-hibiscus",
+      "hardy-hibiscus-lord-baltimore",
+      "hardy-hibiscus-lady-baltimore",
+      "hardy-hibiscus-midnight-marvel",
+      "hardy-hibiscus-berry-awesome",
+      "hardy-hibiscus-cranberry-crush",
+      "hardy-hibiscus-luna-white",
+      "hardy-hibiscus-luna-pink-swirl",
+      "hardy-hibiscus-kopper-king",
+      "hardy-hibiscus-cherry-choco-latte",
+      "hardy-hibiscus-holy-grail",
+      "hardy-hibiscus-summer-storm"
+    ]
+  },
+  {
+    "key": "tropical-hibiscus",
+    "name": "Tropical Hibiscus",
+    "default": "tropical-hibiscus",
+    "members": [
+      "tropical-hibiscus",
+      "tropical-hibiscus-red",
+      "tropical-hibiscus-yellow",
+      "tropical-hibiscus-orange",
+      "tropical-hibiscus-white",
+      "tropical-hibiscus-coral",
+      "tropical-hibiscus-peach",
+      "tropical-hibiscus-lavender",
+      "tropical-hibiscus-fiesta",
+      "tropical-hibiscus-hula-girl",
+      "tropical-hibiscus-president",
+      "tropical-hibiscus-magenta"
+    ]
+  },
+  {
+    "key": "japanese-maple",
+    "name": "Japanese Maple",
+    "default": "japanese-maple",
+    "members": [
+      "japanese-maple",
+      "bloodgood",
+      "emperor",
+      "sango-kaku",
+      "crimson-queen",
+      "viridis",
+      "tamukeyama",
+      "butterfly",
+      "orange-dream",
+      "fireglow",
+      "osakazuki",
+      "waterfall"
+    ]
+  },
+  {
+    "key": "flowering-cherry",
+    "name": "Flowering Cherry",
+    "default": "flowering-cherry",
+    "members": [
+      "flowering-cherry",
+      "yoshino",
+      "kwanzan",
+      "weeping-cherry",
+      "okame",
+      "mount-fuji",
+      "snow-fountains",
+      "akebono",
+      "autumn-cherry",
+      "cherry-pink-cloud"
+    ]
+  },
+  {
+    "key": "dogwood",
+    "name": "Dogwood",
+    "default": "dogwood-tree",
+    "members": [
+      "dogwood-tree",
+      "cherokee-chief",
+      "cherokee-princess",
+      "cherokee-brave",
+      "cloud-nine",
+      "dogwood-rubra",
+      "kousa-dogwood",
+      "milky-way",
+      "wolf-eyes",
+      "satomi",
+      "cornelian-cherry",
+      "stellar-pink"
+    ]
+  },
+  {
+    "key": "magnolia",
+    "name": "Magnolia",
+    "default": "saucer-magnolia",
+    "members": [
+      "saucer-magnolia",
+      "southern-magnolia",
+      "star-magnolia",
+      "jane-magnolia",
+      "ann-magnolia",
+      "royal-star",
+      "leonard-messel",
+      "alexandrina",
+      "little-gem",
+      "sweetbay-magnolia",
+      "butterflies-magnolia",
+      "genie-magnolia",
+      "betty-magnolia"
+    ]
+  },
+  {
+    "key": "crabapple",
+    "name": "Crabapple",
+    "default": "crabapple",
+    "members": [
+      "crabapple",
+      "prairifire",
+      "royal-raindrops",
+      "snowdrift",
+      "profusion",
+      "red-jewel",
+      "indian-magic",
+      "sugar-tyme",
+      "adirondack",
+      "purple-prince",
+      "golden-raindrops"
+    ]
+  },
+  {
+    "key": "redbud",
+    "name": "Redbud",
+    "default": "redbud",
+    "members": [
+      "redbud",
+      "forest-pansy",
+      "hearts-of-gold",
+      "rising-sun",
+      "royal-white",
+      "ruby-falls",
+      "lavender-twist",
+      "oklahoma-redbud",
+      "appalachian-red",
+      "flame-thrower"
+    ]
+  },
+  {
+    "key": "serviceberry",
+    "name": "Serviceberry",
+    "default": "serviceberry",
+    "members": [
+      "serviceberry",
+      "autumn-brilliance",
+      "princess-diana",
+      "coles-select",
+      "regent-serviceberry",
+      "rainbow-pillar",
+      "serviceberry-ballerina"
+    ]
+  },
+  {
+    "key": "arborvitae",
+    "name": "Arborvitae",
+    "default": "arborvitae",
+    "members": [
+      "arborvitae",
+      "arborvitae-emerald-green",
+      "arborvitae-green-giant",
+      "arborvitae-degroots-spire",
+      "arborvitae-holmstrup",
+      "arborvitae-techny",
+      "arborvitae-golden-globe",
+      "arborvitae-rheingold",
+      "arborvitae-fire-chief",
+      "arborvitae-danica"
+    ]
+  },
+  {
+    "key": "juniper",
+    "name": "Juniper",
+    "default": "juniper",
+    "members": [
+      "juniper",
+      "juniper-blue-star",
+      "juniper-blue-rug",
+      "juniper-skyrocket",
+      "juniper-sea-green",
+      "juniper-gold",
+      "juniper-blue-point",
+      "juniper-spartan",
+      "juniper-grey-owl",
+      "juniper-blue-pacific"
+    ]
+  },
+  {
+    "key": "spruce",
+    "name": "Spruce",
+    "default": "blue-spruce",
+    "members": [
+      "blue-spruce",
+      "blue-spruce-fat-albert",
+      "blue-spruce-baby-blue",
+      "blue-spruce-hoopsii",
+      "blue-spruce-globe",
+      "blue-spruce-montgomery",
+      "norway-spruce",
+      "norway-spruce-birds-nest",
+      "norway-spruce-weeping",
+      "dwarf-alberta-spruce"
+    ]
+  },
+  {
+    "key": "pine",
+    "name": "Pine",
+    "default": "eastern-white-pine",
+    "members": [
+      "eastern-white-pine",
+      "eastern-white-pine-pendula",
+      "eastern-white-pine-nana",
+      "eastern-white-pine-fastigiata",
+      "mugo-pine"
+    ]
+  },
+  {
+    "key": "hemlock",
+    "name": "Hemlock",
+    "default": "hemlock",
+    "members": [
+      "hemlock",
+      "hemlock-sargent",
+      "hemlock-gentsch-white",
+      "hemlock-jeddeloh"
+    ]
+  },
+  {
+    "key": "bald-cypress",
+    "name": "Bald Cypress",
+    "default": "bald-cypress",
+    "members": [
+      "bald-cypress",
+      "bald-cypress-shawnee-brave",
+      "bald-cypress-peve-minaret",
+      "bald-cypress-falling-waters"
+    ]
+  },
+  {
+    "key": "italian-cypress",
+    "name": "Italian Cypress",
+    "default": "italian-cypress",
+    "members": [
+      "italian-cypress",
+      "italian-cypress-glauca",
+      "italian-cypress-tiny-tower",
+      "italian-cypress-swanes-gold"
+    ]
+  },
+  {
+    "key": "calibrachoa",
+    "name": "Calibrachoa",
+    "default": "calibrachoa",
+    "members": [
+      "calibrachoa",
+      "calibrachoa-red",
+      "calibrachoa-yellow",
+      "calibrachoa-white",
+      "calibrachoa-blue",
+      "calibrachoa-pink",
+      "calibrachoa-coral",
+      "calibrachoa-magenta",
+      "calibrachoa-lemon-slice",
+      "calibrachoa-cherry-star",
+      "calibrachoa-grape",
+      "calibrachoa-tangerine"
+    ]
+  },
+  {
+    "key": "fuchsia",
+    "name": "Fuchsia",
+    "default": "fuchsia",
+    "members": [
+      "fuchsia",
+      "fuchsia-swingtime",
+      "fuchsia-dark-eyes",
+      "fuchsia-gartenmeister",
+      "fuchsia-marinka",
+      "fuchsia-pink-marshmallow",
+      "fuchsia-purple"
+    ]
+  },
+  {
+    "key": "gerbera",
+    "name": "Gerbera Daisy",
+    "default": "gerbera",
+    "members": [
+      "gerbera",
+      "gerbera-red",
+      "gerbera-pink",
+      "gerbera-yellow",
+      "gerbera-white",
+      "gerbera-coral",
+      "gerbera-deep-rose"
+    ]
+  },
+  {
+    "key": "vinca",
+    "name": "Vinca",
+    "default": "vinca",
+    "members": [
+      "vinca",
+      "vinca-white",
+      "vinca-red",
+      "vinca-purple",
+      "vinca-apricot",
+      "vinca-rose",
+      "vinca-coral"
+    ]
+  },
+  {
+    "key": "lobelia",
+    "name": "Lobelia",
+    "default": "lobelia",
+    "members": [
+      "lobelia",
+      "lobelia-crystal-palace",
+      "lobelia-white",
+      "lobelia-rose",
+      "lobelia-lilac",
+      "lobelia-sky-blue"
+    ]
+  },
+  {
+    "key": "sweet-alyssum",
+    "name": "Sweet Alyssum",
+    "default": "sweet-alyssum",
+    "members": [
+      "sweet-alyssum",
+      "sweet-alyssum-royal-carpet",
+      "sweet-alyssum-rosie-oday",
+      "sweet-alyssum-snow-princess",
+      "sweet-alyssum-lavender",
+      "sweet-alyssum-apricot"
+    ]
+  },
+  {
+    "key": "nasturtium",
+    "name": "Nasturtium",
+    "default": "nasturtium",
+    "members": [
+      "nasturtium",
+      "nasturtium-empress-of-india",
+      "nasturtium-yellow",
+      "nasturtium-cream",
+      "nasturtium-mahogany",
+      "nasturtium-peach",
+      "nasturtium-salmon"
+    ]
+  },
+  {
+    "key": "osteospermum",
+    "name": "African Daisy",
+    "default": "osteospermum",
+    "members": [
+      "osteospermum",
+      "osteospermum-white",
+      "osteospermum-pink",
+      "osteospermum-lavender",
+      "osteospermum-yellow",
+      "osteospermum-orange"
+    ]
+  },
+  {
+    "key": "gazania",
+    "name": "Gazania",
+    "default": "gazania",
+    "members": [
+      "gazania",
+      "gazania-yellow",
+      "gazania-red",
+      "gazania-pink",
+      "gazania-white",
+      "gazania-bronze",
+      "gazania-tiger"
+    ]
+  },
+  {
+    "key": "angelonia",
+    "name": "Angelonia",
+    "default": "angelonia",
+    "members": [
+      "angelonia",
+      "angelonia-white",
+      "angelonia-pink",
+      "angelonia-blue",
+      "angelonia-purple",
+      "angelonia-raspberry",
+      "angelonia-wedgwood-blue"
+    ]
+  },
+  {
+    "key": "black-eyed-susan",
+    "name": "Black-Eyed Susan",
+    "default": "black-eyed-susan",
+    "members": [
+      "black-eyed-susan",
+      "black-eyed-susan-goldsturm",
+      "black-eyed-susan-american-gold-rush",
+      "black-eyed-susan-indian-summer",
+      "black-eyed-susan-cherry-brandy",
+      "black-eyed-susan-prairie-sun",
+      "black-eyed-susan-denver-daisy",
+      "black-eyed-susan-autumn-colors",
+      "black-eyed-susan-goldilocks",
+      "black-eyed-susan-toto-gold"
+    ]
+  },
+  {
+    "key": "shasta-daisy",
+    "name": "Shasta Daisy",
+    "default": "shasta-daisy",
+    "members": [
+      "shasta-daisy",
+      "shasta-daisy-becky",
+      "shasta-daisy-alaska",
+      "shasta-daisy-snowcap",
+      "shasta-daisy-banana-cream",
+      "shasta-daisy-crazy-daisy",
+      "shasta-daisy-snow-lady"
+    ]
+  },
+  {
+    "key": "columbine",
+    "name": "Columbine",
+    "default": "columbine",
+    "members": [
+      "columbine",
+      "columbine-red",
+      "columbine-blue",
+      "columbine-nora-barlow",
+      "columbine-black-barlow",
+      "columbine-yellow",
+      "columbine-white"
+    ]
+  },
+  {
+    "key": "bleeding-heart",
+    "name": "Bleeding Heart",
+    "default": "bleeding-heart",
+    "members": [
+      "bleeding-heart",
+      "bleeding-heart-alba",
+      "bleeding-heart-valentine",
+      "bleeding-heart-gold-heart",
+      "bleeding-heart-king-of-hearts",
+      "bleeding-heart-burning-hearts"
+    ]
+  },
+  {
+    "key": "balloon-flower",
+    "name": "Balloon Flower",
+    "default": "balloon-flower",
+    "members": [
+      "balloon-flower",
+      "balloon-flower-fuji-white",
+      "balloon-flower-fuji-pink",
+      "balloon-flower-sentimental-blue",
+      "balloon-flower-astra-double-blue",
+      "balloon-flower-komachi"
+    ]
+  },
+  {
+    "key": "gaillardia",
+    "name": "Blanket Flower",
+    "default": "gaillardia",
+    "members": [
+      "gaillardia",
+      "gaillardia-arizona-sun",
+      "gaillardia-goblin",
+      "gaillardia-mesa-yellow",
+      "gaillardia-arizona-apricot",
+      "gaillardia-burgundy",
+      "gaillardia-oranges-and-lemons"
+    ]
+  },
+  {
+    "key": "hollyhock",
+    "name": "Hollyhock",
+    "default": "hollyhock",
+    "members": [
+      "hollyhock",
+      "hollyhock-red",
+      "hollyhock-white",
+      "hollyhock-yellow",
+      "hollyhock-purple",
+      "hollyhock-nigra",
+      "hollyhock-creme-de-cassis"
+    ]
+  },
+  {
+    "key": "baptisia",
+    "name": "False Indigo",
+    "default": "baptisia",
+    "members": [
+      "baptisia",
+      "baptisia-alba",
+      "baptisia-screaming-yellow",
+      "baptisia-carolina-moonlight",
+      "baptisia-purple-smoke",
+      "baptisia-cherries-jubilee",
+      "baptisia-dutch-chocolate",
+      "baptisia-pink-lemonade"
+    ]
+  },
+  {
+    "key": "forsythia",
+    "name": "Forsythia",
+    "default": "forsythia",
+    "members": [
+      "forsythia",
+      "forsythia-lynwood-gold",
+      "forsythia-show-off",
+      "forsythia-gold-tide",
+      "forsythia-fiesta",
+      "forsythia-northern-gold",
+      "forsythia-magical-gold"
+    ]
+  },
+  {
+    "key": "viburnum",
+    "name": "Viburnum",
+    "default": "viburnum",
+    "members": [
+      "viburnum",
+      "viburnum-koreanspice",
+      "viburnum-doublefile",
+      "viburnum-snowball",
+      "viburnum-burkwood",
+      "viburnum-arrowwood",
+      "viburnum-blackhaw"
+    ]
+  },
+  {
+    "key": "boxwood",
+    "name": "Boxwood",
+    "default": "boxwood",
+    "members": [
+      "boxwood",
+      "boxwood-green-velvet",
+      "boxwood-green-mountain",
+      "boxwood-winter-gem",
+      "boxwood-english",
+      "boxwood-american",
+      "boxwood-graham-blandy",
+      "boxwood-baby-gem"
+    ]
+  },
+  {
+    "key": "smokebush",
+    "name": "Smokebush",
+    "default": "smokebush",
+    "members": [
+      "smokebush",
+      "smokebush-royal-purple",
+      "smokebush-grace",
+      "smokebush-golden-spirit",
+      "smokebush-velvet-cloak",
+      "smokebush-young-lady",
+      "smokebush-winecraft-black"
+    ]
+  },
+  {
+    "key": "ninebark",
+    "name": "Ninebark",
+    "default": "ninebark",
+    "members": [
+      "ninebark",
+      "ninebark-diabolo",
+      "ninebark-coppertina",
+      "ninebark-amber-jubilee",
+      "ninebark-summer-wine",
+      "ninebark-tiny-wine",
+      "ninebark-little-devil",
+      "ninebark-nugget"
+    ]
+  },
+  {
+    "key": "gardenia",
+    "name": "Gardenia",
+    "default": "gardenia",
+    "members": [
+      "gardenia",
+      "gardenia-august-beauty",
+      "gardenia-frostproof",
+      "gardenia-kleims-hardy",
+      "gardenia-radicans",
+      "gardenia-veitchii",
+      "gardenia-crown-jewel"
+    ]
+  },
+  {
+    "key": "mock-orange",
+    "name": "Mock Orange",
+    "default": "mock-orange",
+    "members": [
+      "mock-orange",
+      "mock-orange-snowbelle",
+      "mock-orange-natchez",
+      "mock-orange-miniature-snowflake",
+      "mock-orange-belle-etoile",
+      "mock-orange-aureus",
+      "mock-orange-snow-white-sensation"
+    ]
+  },
+  {
+    "key": "beautyberry",
+    "name": "Beautyberry",
+    "default": "beautyberry",
+    "members": [
+      "beautyberry",
+      "beautyberry-profusion",
+      "beautyberry-early-amethyst",
+      "beautyberry-american",
+      "beautyberry-pearl-glam",
+      "beautyberry-white"
+    ]
+  },
+  {
+    "key": "summersweet",
+    "name": "Summersweet",
+    "default": "summersweet",
+    "members": [
+      "summersweet",
+      "summersweet-hummingbird",
+      "summersweet-ruby-spice",
+      "summersweet-sixteen-candles",
+      "summersweet-pink-spire",
+      "summersweet-vanilla-spice",
+      "summersweet-sugartina"
+    ]
+  },
+  {
+    "key": "winterberry",
+    "name": "Winterberry",
+    "default": "winterberry",
+    "members": [
+      "winterberry",
+      "winterberry-winter-red",
+      "winterberry-red-sprite",
+      "winterberry-berry-heavy",
+      "winterberry-berry-poppins",
+      "winterberry-winter-gold"
+    ]
+  },
+  {
+    "key": "witch-hazel",
+    "name": "Witch Hazel",
+    "default": "witch-hazel",
+    "members": [
+      "witch-hazel",
+      "witch-hazel-arnold-promise",
+      "witch-hazel-jelena",
+      "witch-hazel-diane",
+      "witch-hazel-pallida",
+      "witch-hazel-vernalis"
+    ]
+  },
+  {
+    "key": "allium",
+    "name": "Allium",
+    "default": "allium",
+    "members": [
+      "allium",
+      "allium-globemaster",
+      "allium-purple-sensation",
+      "allium-gladiator",
+      "allium-mount-everest",
+      "allium-drumstick",
+      "allium-christophii",
+      "allium-millenium",
+      "allium-moly"
+    ]
+  },
+  {
+    "key": "grape-hyacinth",
+    "name": "Grape Hyacinth",
+    "default": "grape-hyacinth",
+    "members": [
+      "grape-hyacinth",
+      "grape-hyacinth-white",
+      "grape-hyacinth-valerie-finnis",
+      "grape-hyacinth-latifolium",
+      "grape-hyacinth-pink",
+      "grape-hyacinth-golden-fragrance"
+    ]
+  },
+  {
+    "key": "crocosmia",
+    "name": "Crocosmia",
+    "default": "crocosmia",
+    "members": [
+      "crocosmia",
+      "crocosmia-lucifer",
+      "crocosmia-emily-mckenzie",
+      "crocosmia-george-davison",
+      "crocosmia-solfatare",
+      "crocosmia-star-of-the-east"
+    ]
+  },
+  {
+    "key": "calla-lily",
+    "name": "Calla Lily",
+    "default": "calla-lily",
+    "members": [
+      "calla-lily",
+      "calla-lily-yellow",
+      "calla-lily-pink",
+      "calla-lily-orange",
+      "calla-lily-red",
+      "calla-lily-purple",
+      "calla-lily-black",
+      "calla-lily-picasso"
+    ]
+  },
+  {
+    "key": "fritillaria",
+    "name": "Fritillaria",
+    "default": "fritillaria",
+    "members": [
+      "fritillaria",
+      "fritillaria-rubra",
+      "fritillaria-lutea",
+      "fritillaria-meleagris",
+      "fritillaria-meleagris-alba",
+      "fritillaria-persica"
+    ]
+  },
+  {
+    "key": "agapanthus",
+    "name": "Agapanthus",
+    "default": "agapanthus",
+    "members": [
+      "agapanthus",
+      "agapanthus-white",
+      "agapanthus-peter-pan",
+      "agapanthus-storm-cloud",
+      "agapanthus-midnight-blue",
+      "agapanthus-twister",
+      "agapanthus-snowball"
+    ]
+  },
+  {
+    "key": "freesia",
+    "name": "Freesia",
+    "default": "freesia",
+    "members": [
+      "freesia",
+      "freesia-white",
+      "freesia-red",
+      "freesia-pink",
+      "freesia-purple",
+      "freesia-orange",
+      "freesia-blue"
+    ]
+  },
+  {
+    "key": "amaryllis",
+    "name": "Amaryllis",
+    "default": "amaryllis",
+    "members": [
+      "amaryllis",
+      "amaryllis-red-lion",
+      "amaryllis-apple-blossom",
+      "amaryllis-minerva",
+      "amaryllis-picotee",
+      "amaryllis-white",
+      "amaryllis-orange",
+      "amaryllis-salmon"
+    ]
+  },
+  {
+    "key": "snowdrop",
+    "name": "Snowdrop",
+    "default": "snowdrop",
+    "members": [
+      "snowdrop",
+      "snowdrop-flore-pleno",
+      "snowdrop-elwesii",
+      "snowdrop-magnet",
+      "snowdrop-viridapice",
+      "snowdrop-sam-arnott"
+    ]
+  },
+  {
+    "key": "windflower",
+    "name": "Windflower",
+    "default": "windflower",
+    "members": [
+      "windflower",
+      "windflower-white-splendour",
+      "windflower-blue-shades",
+      "windflower-pink-star",
+      "windflower-charmer",
+      "windflower-radar"
+    ]
+  },
+  {
+    "key": "glory-of-the-snow",
+    "name": "Glory of the Snow",
+    "default": "glory-of-the-snow",
+    "members": [
+      "glory-of-the-snow",
+      "glory-of-the-snow-forbesii",
+      "glory-of-the-snow-pink",
+      "glory-of-the-snow-alba",
+      "glory-of-the-snow-violet-beauty"
+    ]
+  },
+  {
+    "key": "scilla",
+    "name": "Scilla",
+    "default": "scilla",
+    "members": [
+      "scilla",
+      "scilla-alba",
+      "scilla-spring-beauty",
+      "scilla-mischtschenkoana",
+      "scilla-bifolia",
+      "scilla-peruviana"
+    ]
+  },
+  {
+    "key": "colchicum",
+    "name": "Autumn Crocus",
+    "default": "colchicum",
+    "members": [
+      "colchicum",
+      "colchicum-waterlily",
+      "colchicum-the-giant",
+      "colchicum-album",
+      "colchicum-speciosum",
+      "colchicum-lilac-wonder"
+    ]
+  },
+  {
+    "key": "snowflake",
+    "name": "Snowflake",
+    "default": "snowflake",
+    "members": [
+      "snowflake",
+      "snowflake-spring",
+      "snowflake-summer",
+      "snowflake-gravetye-giant"
+    ]
+  },
+  {
+    "key": "star-of-bethlehem",
+    "name": "Star of Bethlehem",
+    "default": "star-of-bethlehem",
+    "members": [
+      "star-of-bethlehem",
+      "star-of-bethlehem-arabicum",
+      "star-of-bethlehem-nutans",
+      "star-of-bethlehem-chincherinchee",
+      "star-of-bethlehem-orange"
+    ]
+  },
+  {
+    "key": "elephant-ear",
+    "name": "Elephant Ear",
+    "default": "elephant-ear",
+    "members": [
+      "elephant-ear",
+      "elephant-ear-black-magic",
+      "elephant-ear-illustris",
+      "elephant-ear-mojito",
+      "elephant-ear-lime-zinger",
+      "elephant-ear-pink-china",
+      "elephant-ear-polly"
+    ]
+  },
+  {
+    "key": "lisianthus",
+    "name": "Lisianthus",
+    "default": "lisianthus",
+    "members": [
+      "lisianthus",
+      "lisianthus-white",
+      "lisianthus-pink",
+      "lisianthus-blue",
+      "lisianthus-rose",
+      "lisianthus-cream",
+      "lisianthus-apricot",
+      "lisianthus-bicolor"
+    ]
+  },
+  {
+    "key": "stock",
+    "name": "Stock",
+    "default": "stock",
+    "members": [
+      "stock",
+      "stock-white",
+      "stock-purple",
+      "stock-red",
+      "stock-lavender",
+      "stock-cream",
+      "stock-rose"
+    ]
+  },
+  {
+    "key": "strawflower",
+    "name": "Strawflower",
+    "default": "strawflower",
+    "members": [
+      "strawflower",
+      "strawflower-yellow",
+      "strawflower-red",
+      "strawflower-pink",
+      "strawflower-white",
+      "strawflower-purple",
+      "strawflower-apricot"
+    ]
+  },
+  {
+    "key": "statice",
+    "name": "Statice",
+    "default": "statice",
+    "members": [
+      "statice",
+      "statice-blue",
+      "statice-white",
+      "statice-pink",
+      "statice-yellow",
+      "statice-apricot"
+    ]
+  },
+  {
+    "key": "portulaca",
+    "name": "Portulaca",
+    "default": "portulaca",
+    "members": [
+      "portulaca",
+      "portulaca-red",
+      "portulaca-yellow",
+      "portulaca-pink",
+      "portulaca-white",
+      "portulaca-magenta"
+    ]
+  },
+  {
+    "key": "gomphrena",
+    "name": "Globe Amaranth",
+    "default": "gomphrena",
+    "members": [
+      "gomphrena",
+      "gomphrena-purple",
+      "gomphrena-white",
+      "gomphrena-red",
+      "gomphrena-orange",
+      "gomphrena-lavender"
+    ]
+  },
+  {
+    "key": "cleome",
+    "name": "Cleome",
+    "default": "cleome",
+    "members": [
+      "cleome",
+      "cleome-white",
+      "cleome-purple",
+      "cleome-rose",
+      "cleome-cherry"
+    ]
+  },
+  {
+    "key": "cornflower",
+    "name": "Bachelor's Button",
+    "default": "cornflower",
+    "members": [
+      "cornflower",
+      "cornflower-pink",
+      "cornflower-white",
+      "cornflower-purple",
+      "cornflower-maroon",
+      "cornflower-red"
+    ]
+  },
+  {
+    "key": "larkspur",
+    "name": "Larkspur",
+    "default": "larkspur",
+    "members": [
+      "larkspur",
+      "larkspur-blue",
+      "larkspur-white",
+      "larkspur-pink",
+      "larkspur-rose",
+      "larkspur-lavender"
+    ]
+  },
+  {
+    "key": "nicotiana",
+    "name": "Flowering Tobacco",
+    "default": "nicotiana",
+    "members": [
+      "nicotiana",
+      "nicotiana-red",
+      "nicotiana-pink",
+      "nicotiana-lime",
+      "nicotiana-purple",
+      "nicotiana-crimson"
+    ]
+  },
+  {
+    "key": "calendula",
+    "name": "Calendula",
+    "default": "calendula",
+    "members": [
+      "calendula",
+      "calendula-yellow",
+      "calendula-apricot",
+      "calendula-cream",
+      "calendula-gold"
+    ]
+  },
+  {
+    "key": "ageratum",
+    "name": "Ageratum",
+    "default": "ageratum",
+    "members": [
+      "ageratum",
+      "ageratum-blue-dark",
+      "ageratum-white",
+      "ageratum-pink",
+      "ageratum-purple"
+    ]
+  },
+  {
+    "key": "four-oclock",
+    "name": "Four O'Clock",
+    "default": "four-oclock",
+    "members": [
+      "four-oclock",
+      "four-oclock-yellow",
+      "four-oclock-white",
+      "four-oclock-red",
+      "four-oclock-magenta",
+      "four-oclock-marbles"
+    ]
+  },
+  {
+    "key": "california-poppy",
+    "name": "California Poppy",
+    "default": "california-poppy",
+    "members": [
+      "california-poppy",
+      "california-poppy-yellow",
+      "california-poppy-red",
+      "california-poppy-pink",
+      "california-poppy-cream",
+      "california-poppy-purple"
+    ]
+  },
+  {
+    "key": "cuphea",
+    "name": "Cuphea",
+    "default": "cuphea",
+    "members": [
+      "cuphea",
+      "cuphea-orange",
+      "cuphea-purple",
+      "cuphea-white",
+      "cuphea-pink",
+      "cuphea-magenta"
+    ]
+  },
+  {
+    "key": "pentas",
+    "name": "Pentas",
+    "default": "pentas",
+    "members": [
+      "pentas",
+      "pentas-red",
+      "pentas-white",
+      "pentas-lavender",
+      "pentas-purple",
+      "pentas-magenta"
+    ]
+  },
+  {
+    "key": "bidens",
+    "name": "Bidens",
+    "default": "bidens",
+    "members": [
+      "bidens",
+      "bidens-white",
+      "bidens-orange",
+      "bidens-red",
+      "bidens-pink"
+    ]
+  },
+  {
+    "key": "scaevola",
+    "name": "Fan Flower",
+    "default": "scaevola",
+    "members": [
+      "scaevola",
+      "scaevola-blue",
+      "scaevola-white",
+      "scaevola-pink"
+    ]
+  },
+  {
+    "key": "bacopa",
+    "name": "Bacopa",
+    "default": "bacopa",
+    "members": [
+      "bacopa",
+      "bacopa-blue",
+      "bacopa-pink",
+      "bacopa-lavender"
+    ]
+  },
+  {
+    "key": "browallia",
+    "name": "Browallia",
+    "default": "browallia",
+    "members": [
+      "browallia",
+      "browallia-white",
+      "browallia-purple"
+    ]
+  },
+  {
+    "key": "torenia",
+    "name": "Wishbone Flower",
+    "default": "torenia",
+    "members": [
+      "torenia",
+      "torenia-blue",
+      "torenia-pink",
+      "torenia-white",
+      "torenia-yellow",
+      "torenia-magenta"
+    ]
+  },
+  {
+    "key": "annual-phlox",
+    "name": "Annual Phlox",
+    "default": "annual-phlox",
+    "members": [
+      "annual-phlox",
+      "annual-phlox-red",
+      "annual-phlox-white",
+      "annual-phlox-lavender",
+      "annual-phlox-purple",
+      "annual-phlox-peach"
+    ]
+  },
+  {
+    "key": "canterbury-bells",
+    "name": "Canterbury Bells",
+    "default": "canterbury-bells",
+    "members": [
+      "canterbury-bells",
+      "canterbury-bells-blue",
+      "canterbury-bells-pink",
+      "canterbury-bells-white",
+      "canterbury-bells-lavender"
+    ]
+  },
+  {
+    "key": "marguerite-daisy",
+    "name": "Marguerite Daisy",
+    "default": "marguerite-daisy",
+    "members": [
+      "marguerite-daisy",
+      "marguerite-daisy-pink",
+      "marguerite-daisy-yellow",
+      "marguerite-daisy-red",
+      "marguerite-daisy-apricot"
+    ]
+  },
+  {
+    "key": "ornamental-kale",
+    "name": "Ornamental Kale",
+    "default": "ornamental-kale",
+    "members": [
+      "ornamental-kale",
+      "ornamental-kale-white",
+      "ornamental-kale-pink",
+      "ornamental-kale-magenta",
+      "ornamental-kale-red"
+    ]
+  },
+  {
+    "key": "caladium",
+    "name": "Caladium",
+    "default": "caladium",
+    "members": [
+      "caladium",
+      "caladium-white",
+      "caladium-pink",
+      "caladium-red",
+      "caladium-green"
+    ]
+  },
+  {
+    "key": "rex-begonia",
+    "name": "Rex Begonia",
+    "default": "rex-begonia",
+    "members": [
+      "rex-begonia",
+      "rex-begonia-silver",
+      "rex-begonia-purple",
+      "rex-begonia-burgundy",
+      "rex-begonia-green",
+      "rex-begonia-pink"
+    ]
+  },
+  {
+    "key": "tuberous-begonia",
+    "name": "Tuberous Begonia",
+    "default": "tuberous-begonia",
+    "members": [
+      "tuberous-begonia",
+      "tuberous-begonia-red",
+      "tuberous-begonia-orange",
+      "tuberous-begonia-yellow",
+      "tuberous-begonia-white",
+      "tuberous-begonia-apricot"
+    ]
+  },
+  {
+    "key": "amaranth",
+    "name": "Amaranth",
+    "default": "amaranth",
+    "members": [
+      "amaranth",
+      "amaranth-green",
+      "amaranth-gold",
+      "amaranth-burgundy",
+      "amaranth-coral"
+    ]
+  },
+  {
+    "key": "mandevilla",
+    "name": "Mandevilla",
+    "default": "mandevilla",
+    "members": [
+      "mandevilla",
+      "mandevilla-red",
+      "mandevilla-white",
+      "mandevilla-apricot",
+      "mandevilla-yellow"
+    ]
+  },
+  {
+    "key": "morning-glory",
+    "name": "Morning Glory",
+    "default": "morning-glory",
+    "members": [
+      "morning-glory",
+      "morning-glory-purple",
+      "morning-glory-red",
+      "morning-glory-white",
+      "morning-glory-magenta",
+      "morning-glory-pink"
+    ]
+  },
+  {
+    "key": "sweet-pea",
+    "name": "Sweet Pea",
+    "default": "sweet-pea",
+    "members": [
+      "sweet-pea",
+      "sweet-pea-purple",
+      "sweet-pea-red",
+      "sweet-pea-white",
+      "sweet-pea-blue",
+      "sweet-pea-lavender"
+    ]
+  },
+  {
+    "key": "honeysuckle",
+    "name": "Honeysuckle",
+    "default": "honeysuckle",
+    "members": [
+      "honeysuckle",
+      "honeysuckle-red",
+      "honeysuckle-pink",
+      "honeysuckle-yellow",
+      "honeysuckle-white"
+    ]
+  },
+  {
+    "key": "wisteria",
+    "name": "Wisteria",
+    "default": "wisteria",
+    "members": [
+      "wisteria",
+      "wisteria-white",
+      "wisteria-pink",
+      "wisteria-blue",
+      "wisteria-lavender"
+    ]
+  },
+  {
+    "key": "jasmine",
+    "name": "Jasmine",
+    "default": "jasmine",
+    "members": [
+      "jasmine",
+      "jasmine-yellow",
+      "jasmine-pink",
+      "jasmine-star"
+    ]
+  },
+  {
+    "key": "passionflower",
+    "name": "Passionflower",
+    "default": "passionflower",
+    "members": [
+      "passionflower",
+      "passionflower-blue",
+      "passionflower-white",
+      "passionflower-red",
+      "passionflower-pink"
+    ]
+  },
+  {
+    "key": "trumpet-vine",
+    "name": "Trumpet Vine",
+    "default": "trumpet-vine",
+    "members": [
+      "trumpet-vine",
+      "trumpet-vine-yellow",
+      "trumpet-vine-red",
+      "trumpet-vine-apricot"
+    ]
+  },
+  {
+    "key": "boston-ivy",
+    "name": "Boston Ivy",
+    "default": "boston-ivy",
+    "members": [
+      "boston-ivy",
+      "boston-ivy-gold",
+      "boston-ivy-purple"
+    ]
+  },
+  {
+    "key": "black-eyed-susan-vine",
+    "name": "Black-Eyed Susan Vine",
+    "default": "black-eyed-susan-vine",
+    "members": [
+      "black-eyed-susan-vine",
+      "black-eyed-susan-vine-yellow",
+      "black-eyed-susan-vine-white",
+      "black-eyed-susan-vine-apricot",
+      "black-eyed-susan-vine-red",
+      "black-eyed-susan-vine-pink"
+    ]
+  },
+  {
+    "key": "sweet-potato-vine",
+    "name": "Sweet Potato Vine",
+    "default": "sweet-potato-vine",
+    "members": [
+      "sweet-potato-vine",
+      "sweet-potato-vine-green",
+      "sweet-potato-vine-purple",
+      "sweet-potato-vine-bronze",
+      "sweet-potato-vine-white"
+    ]
+  },
+  {
+    "key": "maiden-grass",
+    "name": "Maiden Grass",
+    "default": "maiden-grass",
+    "members": [
+      "maiden-grass",
+      "maiden-grass-green",
+      "maiden-grass-white",
+      "maiden-grass-gold",
+      "maiden-grass-red"
+    ]
+  },
+  {
+    "key": "switchgrass",
+    "name": "Switchgrass",
+    "default": "switchgrass",
+    "members": [
+      "switchgrass",
+      "switchgrass-blue",
+      "switchgrass-red",
+      "switchgrass-green"
+    ]
+  },
+  {
+    "key": "little-bluestem",
+    "name": "Little Bluestem",
+    "default": "little-bluestem",
+    "members": [
+      "little-bluestem",
+      "little-bluestem-red",
+      "little-bluestem-purple"
+    ]
+  },
+  {
+    "key": "japanese-forest-grass",
+    "name": "Japanese Forest Grass",
+    "default": "japanese-forest-grass",
+    "members": [
+      "japanese-forest-grass",
+      "japanese-forest-grass-gold",
+      "japanese-forest-grass-white",
+      "japanese-forest-grass-red"
+    ]
+  },
+  {
+    "key": "pampas-grass",
+    "name": "Pampas Grass",
+    "default": "pampas-grass",
+    "members": [
+      "pampas-grass",
+      "pampas-grass-pink",
+      "pampas-grass-gold",
+      "pampas-grass-dwarf"
+    ]
+  },
+  {
+    "key": "feather-reed-grass",
+    "name": "Feather Reed Grass",
+    "default": "feather-reed-grass",
+    "members": [
+      "feather-reed-grass",
+      "feather-reed-grass-white",
+      "feather-reed-grass-gold"
+    ]
+  },
+  {
+    "key": "fountain-grass",
+    "name": "Fountain Grass",
+    "default": "fountain-grass",
+    "members": [
+      "fountain-grass",
+      "fountain-grass-burgundy",
+      "fountain-grass-purple",
+      "fountain-grass-dwarf"
+    ]
+  },
+  {
+    "key": "blue-fescue",
+    "name": "Blue Fescue",
+    "default": "blue-fescue",
+    "members": [
+      "blue-fescue",
+      "blue-fescue-gold",
+      "blue-fescue-silver"
+    ]
+  },
+  {
+    "key": "northern-sea-oats",
+    "name": "Northern Sea Oats",
+    "default": "northern-sea-oats",
+    "members": [
+      "northern-sea-oats",
+      "northern-sea-oats-white"
+    ]
+  }
+]

@@ -1,0 +1,369 @@
+{
+  "rawSourceSlugLiterals": 1611,
+  "duplicateSourceSlugs": [],
+  "missingBloom": {
+    "total": 172,
+    "byCategory": {
+      "Perennial": 34,
+      "Shrub": 8,
+      "Tree": 20,
+      "Annual": 35,
+      "Climber": 3,
+      "Grass": 4,
+      "Herb": 3,
+      "Bulb": 7,
+      "Fern": 10,
+      "Conifer": 48
+    },
+    "inBloomExpectedCategories": 90,
+    "examplesExpected": [
+      "coral-bells (Perennial) Coral Bells",
+      "coral-bells-palace-purple (Perennial) Palace Purple",
+      "coral-bells-caramel (Perennial) Caramel",
+      "coral-bells-obsidian (Perennial) Obsidian",
+      "coral-bells-lime-rickey (Perennial) Lime Rickey",
+      "coral-bells-georgia-peach (Perennial) Georgia Peach",
+      "coral-bells-plum-pudding (Perennial) Plum Pudding",
+      "coral-bells-marmalade (Perennial) Marmalade",
+      "coral-bells-forever-red (Perennial) Forever Red",
+      "coral-bells-citronelle (Perennial) Citronelle",
+      "coral-bells-silver-scrolls (Perennial) Silver Scrolls",
+      "coral-bells-melting-fire (Perennial) Melting Fire"
+    ]
+  },
+  "missingZones": {
+    "total": 172,
+    "byCategory": {
+      "Annual": 166,
+      "Climber": 6
+    },
+    "bySource": {
+      "builtin": 172
+    },
+    "examples": [
+      "marigold [builtin/Annual] Marigold",
+      "marigold-yellow [builtin/Annual] Yellow Marigold",
+      "marigold-orange [builtin/Annual] Orange Marigold",
+      "marigold-gold [builtin/Annual] Gold Marigold",
+      "marigold-red [builtin/Annual] Red Marigold",
+      "marigold-bicolor [builtin/Annual] Bicolor Marigold",
+      "marigold-cream [builtin/Annual] Cream Marigold",
+      "marigold-french [builtin/Annual] French Marigold",
+      "marigold-african [builtin/Annual] African Marigold",
+      "marigold-lemon-gem [builtin/Annual] Lemon Gem",
+      "marigold-tangerine-gem [builtin/Annual] Tangerine Gem",
+      "petunia [builtin/Annual] Petunia"
+    ]
+  },
+  "missingDescription": {
+    "total": 1611,
+    "builtin": 1611,
+    "community": 0,
+    "communityExamples": []
+  },
+  "missingBotanical": {
+    "total": 0,
+    "examples": []
+  },
+  "missingSun": {
+    "total": 0
+  },
+  "missingWater": {
+    "total": 0
+  },
+  "bloomForestGreenColor": {
+    "total": 2,
+    "note": "bloom colour is green/near-foliage - a flower rendered as green foliage",
+    "examples": [
+      "hellebore-green bloom=#a8c088 Green Hellebore",
+      "amaranth-green bloom=#7f9a44 Emerald Tassels"
+    ]
+  },
+  "bloomNearYearRound": {
+    "total": 0,
+    "note": ">=10-month bloom window (placeholder smell)",
+    "examples": []
+  },
+  "bloomOutOfRange": {
+    "total": 0,
+    "examples": []
+  },
+  "bloomDuplicateWindows": {
+    "total": 0,
+    "examples": []
+  },
+  "zonesOutOfRange": {
+    "total": 0,
+    "examples": []
+  },
+  "zonesSingle": {
+    "total": 0,
+    "note": "single-zone hardiness (usually a range in reality)",
+    "byCategory": {},
+    "examples": []
+  },
+  "zonesVeryWide": {
+    "total": 0,
+    "note": ">=11 zones (1-13-ish, placeholder smell)",
+    "examples": []
+  },
+  "zonesNonContiguous": {
+    "total": 0,
+    "examples": []
+  },
+  "sizeHardRuleViolations": {
+    "total": 0,
+    "examples": []
+  },
+  "sizeStatisticalOutliers": {
+    "total": 71,
+    "note": "beyond Q3+3*IQR or Q1-3*IQR within its category",
+    "examples": [
+      "elephant-ear [builtin/Bulb] matureSpread=1m (cat Q1-Q3 0.1-0.3) Elephant Ear",
+      "elephant-ear-black-magic [builtin/Bulb] matureSpread=1m (cat Q1-Q3 0.1-0.3) Black Magic",
+      "elephant-ear-illustris [builtin/Bulb] matureSpread=0.9m (cat Q1-Q3 0.1-0.3) Illustris",
+      "elephant-ear-mojito [builtin/Bulb] matureSpread=0.9m (cat Q1-Q3 0.1-0.3) Mojito",
+      "elephant-ear-lime-zinger [builtin/Bulb] matureSpread=1.2m (cat Q1-Q3 0.1-0.3) Lime Zinger",
+      "elephant-ear-pink-china [builtin/Bulb] matureSpread=1m (cat Q1-Q3 0.1-0.3) Pink China",
+      "hosta-sum-and-substance [builtin/Perennial] matureSpread=1.5m (cat Q1-Q3 0.4-0.6) Sum and Substance",
+      "hosta-blue-angel [builtin/Perennial] matureSpread=1.2m (cat Q1-Q3 0.4-0.6) Blue Angel",
+      "hosta-empress-wu [builtin/Perennial] matureSpread=1.5m (cat Q1-Q3 0.4-0.6) Empress Wu",
+      "sunflower [builtin/Annual] matureHeight=2m (cat Q1-Q3 0.3-0.6) Sunflower",
+      "sunflower-mammoth [builtin/Annual] matureHeight=3m (cat Q1-Q3 0.3-0.6) Mammoth",
+      "sunflower-autumn-beauty [builtin/Annual] matureHeight=1.8m (cat Q1-Q3 0.3-0.6) Autumn Beauty",
+      "sunflower-velvet-queen [builtin/Annual] matureHeight=1.8m (cat Q1-Q3 0.3-0.6) Velvet Queen",
+      "sunflower-lemon-queen [builtin/Annual] matureHeight=1.8m (cat Q1-Q3 0.3-0.6) Lemon Queen",
+      "sweet-pea [builtin/Annual] matureHeight=1.8m (cat Q1-Q3 0.3-0.6) Sweet Pea",
+      "sweet-pea-purple [builtin/Annual] matureHeight=1.8m (cat Q1-Q3 0.3-0.6) Cupani",
+      "sweet-pea-red [builtin/Annual] matureHeight=1.8m (cat Q1-Q3 0.3-0.6) Royal Crimson Sweet Pea",
+      "sweet-pea-white [builtin/Annual] matureHeight=1.8m (cat Q1-Q3 0.3-0.6) Royal White Sweet Pea",
+      "sweet-pea-blue [builtin/Annual] matureHeight=1.8m (cat Q1-Q3 0.3-0.6) Royal Blue Sweet Pea",
+      "sweet-pea-lavender [builtin/Annual] matureHeight=1.8m (cat Q1-Q3 0.3-0.6) Lavender Sweet Pea",
+      "giant-sunflower [community/Annual] matureHeight=2.5m (cat Q1-Q3 0.3-0.6) Giant Sunflower",
+      "roselle-rosa-de-jamaica [community/Annual] matureHeight=2m (cat Q1-Q3 0.3-0.6) Roselle (Rosa de Jamaica)",
+      "petunia-purple-wave [builtin/Annual] matureSpread=0.8m (cat Q1-Q3 0.3-0.4) Purple Wave",
+      "lantana-new-gold [builtin/Annual] matureSpread=0.8m (cat Q1-Q3 0.3-0.4) New Gold",
+      "lantana-radiation [builtin/Annual] matureSpread=0.8m (cat Q1-Q3 0.3-0.4) Radiation",
+      "lantana-purple-trailing [builtin/Annual] matureSpread=0.8m (cat Q1-Q3 0.3-0.4) Purple Trailing",
+      "sweet-potato-vine [builtin/Annual] matureSpread=0.8m (cat Q1-Q3 0.3-0.4) Sweet Potato Vine",
+      "sweet-potato-vine-green [builtin/Annual] matureSpread=1m (cat Q1-Q3 0.3-0.4) Margarita",
+      "sweet-potato-vine-purple [builtin/Annual] matureSpread=1m (cat Q1-Q3 0.3-0.4) Blackie",
+      "sweet-potato-vine-bronze [builtin/Annual] matureSpread=0.8m (cat Q1-Q3 0.3-0.4) Sweet Caroline Bronze",
+      "sweet-potato-vine-white [builtin/Annual] matureSpread=0.8m (cat Q1-Q3 0.3-0.4) Tricolor",
+      "roselle-rosa-de-jamaica [community/Annual] matureSpread=1m (cat Q1-Q3 0.3-0.4) Roselle (Rosa de Jamaica)",
+      "crape-myrtle-natchez [builtin/Shrub] matureHeight=7m (cat Q1-Q3 1.2-2.5) Natchez",
+      "crape-myrtle-muskogee [builtin/Shrub] matureHeight=7m (cat Q1-Q3 1.2-2.5) Muskogee",
+      "crape-myrtle-natchez [builtin/Shrub] matureSpread=6m (cat Q1-Q3 1.2-2) Natchez",
+      "crape-myrtle-muskogee [builtin/Shrub] matureSpread=5m (cat Q1-Q3 1.2-2) Muskogee",
+      "the-generous-gardener [builtin/Rose] matureHeight=3.5m (cat Q1-Q3 1.1-1.5) The Generous Gardener",
+      "crown-princess-margareta [builtin/Rose] matureHeight=3m (cat Q1-Q3 1.1-1.5) Crown Princess Margareta",
+      "teasing-georgia [builtin/Rose] matureHeight=3m (cat Q1-Q3 1.1-1.5) Teasing Georgia",
+      "wollerton-old-hall [builtin/Rose] matureHeight=3.5m (cat Q1-Q3 1.1-1.5) Wollerton Old Hall"
+    ]
+  },
+  "duplicateBotanical": {
+    "total": 44,
+    "aiDuplicatesOfBuiltin": 0,
+    "aiDupExamples": [],
+    "allExamples": [
+      "lilium: builtin:lily-asiatic | builtin:oriental-lily | builtin:trumpet-lily",
+      "gladiolus: builtin:gladiolus | builtin:gladiolus-red | builtin:gladiolus-yellow | builtin:gladiolus-lavender | builtin:gladiolus-magenta",
+      "aquilegia: builtin:columbine | builtin:columbine-white",
+      "impatiens walleriana: builtin:impatiens | builtin:impatiens-red | builtin:impatiens-white | builtin:impatiens-violet | builtin:impatiens-salmon | builtin:impatiens-lavender | builtin:impatiens-rose | builtin:impatiens-scarlet",
+      "impatiens hawkeri: builtin:impatiens-new-guinea-red | builtin:impatiens-new-guinea-orange",
+      "begonia semperflorens: builtin:begonia-wax-red | builtin:begonia-wax-white | builtin:begonia-wax-pink-bronze",
+      "begonia × tuberhybrida: builtin:begonia-tuberous-yellow | builtin:begonia-tuberous-orange | builtin:begonia-tuberous-red | builtin:begonia-tuberous-apricot | builtin:tuberous-begonia | builtin:tuberous-begonia-orange | builtin:tuberous-begonia-yellow | builtin:tuberous-begonia-white | builtin:tuberous-begonia-apricot",
+      "tropaeolum majus: builtin:nasturtium-yellow | builtin:nasturtium-salmon",
+      "catharanthus roseus: builtin:vinca | builtin:vinca-white | builtin:vinca-red | builtin:vinca-purple | builtin:vinca-apricot | builtin:vinca-rose | builtin:vinca-coral",
+      "calendula officinalis: builtin:calendula-yellow | builtin:calendula-apricot | builtin:calendula-cream | builtin:calendula-gold",
+      "lobelia erinus: builtin:lobelia | builtin:lobelia-white | builtin:lobelia-rose | builtin:lobelia-lilac | builtin:lobelia-sky-blue",
+      "rosa: builtin:rose-shrub | builtin:climbing-rose | builtin:hybrid-tea-rose | builtin:floribunda-rose",
+      "rhododendron: builtin:azalea | builtin:rhododendron",
+      "verbena × hybrida: builtin:verbena-annual-red | builtin:verbena-annual-pink | builtin:verbena-annual-white | builtin:verbena-annual-magenta | builtin:verbena-annual-coral | builtin:verbena-annual-lavender",
+      "ageratum houstonianum: builtin:ageratum | builtin:ageratum-white | builtin:ageratum-pink | builtin:ageratum-purple",
+      "portulaca grandiflora: builtin:portulaca | builtin:portulaca-red | builtin:portulaca-yellow | builtin:portulaca-pink | builtin:portulaca-white | builtin:portulaca-magenta",
+      "ranunculus asiaticus: builtin:ranunculus | builtin:ranunculus-red | builtin:ranunculus-pink | builtin:ranunculus-white | builtin:ranunculus-yellow | builtin:ranunculus-purple | builtin:ranunculus-salmon | builtin:ranunculus-magenta | builtin:ranunculus-cream | builtin:ranunculus-apricot",
+      "anemone blanda 'blue shades': builtin:anemone-blanda-blue | builtin:windflower-blue-shades",
+      "anemone blanda 'white splendour': builtin:anemone-blanda-white | builtin:windflower-white-splendour",
+      "anemone blanda 'pink star': builtin:anemone-blanda-pink | builtin:windflower-pink-star",
+      "consolida ajacis: builtin:larkspur-blue | builtin:larkspur-white | builtin:larkspur-pink | builtin:larkspur-rose | builtin:larkspur-lavender",
+      "matthiola incana: builtin:stock-white | builtin:stock-purple | builtin:stock-red | builtin:stock-lavender | builtin:stock-cream | builtin:stock-rose",
+      "campanula medium: builtin:canterbury-bells | builtin:canterbury-bells-blue | builtin:canterbury-bells-pink | builtin:canterbury-bells-white | builtin:canterbury-bells-lavender",
+      "gazania rigens: builtin:gazania-yellow | builtin:gazania-red | builtin:gazania-pink | builtin:gazania-white | builtin:gazania-bronze",
+      "gomphrena globosa: builtin:gomphrena-purple | builtin:gomphrena-white | builtin:gomphrena-lavender",
+      "xerochrysum bracteatum: builtin:strawflower-yellow | builtin:strawflower-red | builtin:strawflower-pink | builtin:strawflower-white | builtin:strawflower-purple | builtin:strawflower-apricot",
+      "limonium sinuatum: builtin:statice-blue | builtin:statice-white | builtin:statice-pink | builtin:statice-yellow | builtin:statice-apricot",
+      "nicotiana alata: builtin:nicotiana-red | builtin:nicotiana-pink | builtin:nicotiana-purple",
+      "centaurea cyanus: builtin:cornflower | builtin:cornflower-pink | builtin:cornflower-white | builtin:cornflower-purple",
+      "lathyrus odoratus: builtin:sweet-pea | builtin:sweet-pea-red | builtin:sweet-pea-white | builtin:sweet-pea-blue | builtin:sweet-pea-lavender",
+      "torenia fournieri: builtin:torenia | builtin:torenia-pink | builtin:torenia-white | builtin:torenia-yellow",
+      "browallia speciosa: builtin:browallia | builtin:browallia-white | builtin:browallia-purple",
+      "phlox drummondii: builtin:annual-phlox | builtin:annual-phlox-red | builtin:annual-phlox-white | builtin:annual-phlox-lavender | builtin:annual-phlox-purple | builtin:annual-phlox-peach",
+      "eustoma grandiflorum: builtin:lisianthus-white | builtin:lisianthus-pink | builtin:lisianthus-blue | builtin:lisianthus-rose | builtin:lisianthus-cream | builtin:lisianthus-apricot | builtin:lisianthus-bicolor",
+      "brassica oleracea: builtin:ornamental-kale | builtin:ornamental-kale-white | builtin:ornamental-kale-pink",
+      "caladium: builtin:caladium | builtin:caladium-green",
+      "mirabilis jalapa: builtin:four-oclock | builtin:four-oclock-yellow | builtin:four-oclock-white | builtin:four-oclock-red | builtin:four-oclock-magenta",
+      "gerbera jamesonii: builtin:gerbera | builtin:gerbera-red | builtin:gerbera-pink | builtin:gerbera-yellow | builtin:gerbera-white | builtin:gerbera-coral | builtin:gerbera-deep-rose",
+      "argyranthemum: builtin:marguerite-daisy | builtin:marguerite-daisy-pink | builtin:marguerite-daisy-red | builtin:marguerite-daisy-apricot",
+      "hibiscus rosa-sinensis: builtin:tropical-hibiscus | builtin:tropical-hibiscus-red | builtin:tropical-hibiscus-yellow | builtin:tropical-hibiscus-orange | builtin:tropical-hibiscus-white | builtin:tropical-hibiscus-coral | builtin:tropical-hibiscus-peach | builtin:tropical-hibiscus-lavender | builtin:tropical-hibiscus-magenta"
+    ]
+  },
+  "duplicateCommonName": {
+    "total": 24,
+    "examples": [
+      "\"tricolor\": builtin:crocus-tricolor [Crocus sieberi 'Tricolor'] | builtin:sweet-potato-vine-white [Ipomoea batatas 'Tricolor']",
+      "\"gipsy queen\": builtin:hyacinth-gipsy-queen [Hyacinthus 'Gipsy Queen'] | builtin:clematis-gipsy-queen [Clematis 'Gipsy Queen']",
+      "\"president\": builtin:canna-president [Canna 'President'] | builtin:tropical-hibiscus-president [Hibiscus rosa-sinensis 'President']",
+      "\"lucifer\": builtin:canna-lucifer [Canna 'Lucifer'] | builtin:crocosmia-lucifer [Crocosmia 'Lucifer']",
+      "\"marmalade\": builtin:coneflower-marmalade [Echinacea 'Marmalade'] | builtin:coral-bells-marmalade [Heuchera 'Marmalade']",
+      "\"snowflake\": builtin:catmint-snowflake [Nepeta racemosa 'Snowflake'] | builtin:creeping-phlox-snowflake [Phlox subulata 'Snowflake'] | builtin:snowflake [Leucojum]",
+      "\"gardenia\": builtin:peony-gardenia [Paeonia 'Gardenia'] | builtin:gardenia [Gardenia jasminoides]",
+      "\"bright eyes\": builtin:phlox-bright-eyes [Phlox paniculata 'Bright Eyes'] | builtin:black-eyed-susan-vine-white [Thunbergia alata 'Bright Eyes']",
+      "\"montgomery\": builtin:astilbe-montgomery [Astilbe japonica 'Montgomery'] | builtin:blue-spruce-montgomery [Picea pungens 'Montgomery']",
+      "\"alba\": builtin:bleeding-heart-alba [Lamprocapnos spectabilis 'Alba'] | builtin:glory-of-the-snow-alba [Scilla luciliae 'Alba']",
+      "\"black knight\": builtin:delphinium-black-knight [Delphinium 'Black Knight'] | builtin:butterfly-bush-black-knight [Buddleia davidii 'Black Knight']",
+      "\"blue bird\": builtin:delphinium-blue-bird [Delphinium 'Blue Bird'] | builtin:rose-of-sharon-blue-bird [Hibiscus syriacus 'Oiseau Bleu']",
+      "\"the governor\": builtin:lupine-the-governor [Lupinus 'The Governor'] | builtin:anemone-the-governor [Anemone coronaria 'The Governor']",
+      "\"primrose\": builtin:lilac-primrose [Syringa vulgaris 'Primrose'] | builtin:primrose [Primula]",
+      "\"wedgwood blue\": builtin:lilac-wedgwood-blue [Syringa vulgaris 'Wedgwood Blue'] | builtin:angelonia-wedgwood-blue [Angelonia 'Wedgwood Blue']",
+      "\"pink delight\": builtin:butterfly-bush-pink-delight [Buddleia davidii 'Pink Delight'] | builtin:weigela-pink-delight [Weigela florida 'Pink Delight']",
+      "\"fiesta\": builtin:forsythia-fiesta [Forsythia × intermedia 'Fiesta'] | builtin:tropical-hibiscus-fiesta [Hibiscus rosa-sinensis 'Fiesta']",
+      "\"minerva\": builtin:rose-of-sharon-minerva [Hibiscus syriacus 'Minerva'] | builtin:amaryllis-minerva [Hippeastrum 'Minerva']",
+      "\"veitchii\": builtin:gardenia-veitchii [Gardenia jasminoides 'Veitchii'] | builtin:boston-ivy-purple [Parthenocissus tricuspidata 'Veitchii']",
+      "\"natchez\": builtin:crape-myrtle-natchez [Lagerstroemia 'Natchez'] | builtin:mock-orange-natchez [Philadelphus × virginalis 'Natchez']",
+      "\"profusion\": builtin:profusion [Malus 'Profusion'] | builtin:beautyberry-profusion [Callicarpa bodinieri 'Profusion']",
+      "\"blue shades\": builtin:anemone-blanda-blue [Anemone blanda 'Blue Shades'] | builtin:windflower-blue-shades [Anemone blanda 'Blue Shades']",
+      "\"white splendour\": builtin:anemone-blanda-white [Anemone blanda 'White Splendour'] | builtin:windflower-white-splendour [Anemone blanda 'White Splendour']",
+      "\"pink star\": builtin:anemone-blanda-pink [Anemone blanda 'Pink Star'] | builtin:windflower-pink-star [Anemone blanda 'Pink Star']"
+    ]
+  },
+  "tagPunctuationCollisions": {
+    "total": 5,
+    "note": "same tag spelled spaced vs hyphenated",
+    "examples": [
+      "[repeat blooming] \"repeat blooming\"(11) vs \"repeat-blooming\"(2)",
+      "[disease resistant] \"disease resistant\"(4) vs \"disease-resistant\"(3)",
+      "[repeat flowering] \"repeat-flowering\"(2) vs \"repeat flowering\"(7)",
+      "[low growing] \"low growing\"(1) vs \"low-growing\"(1)",
+      "[once flowering] \"once flowering\"(1) vs \"once-flowering\"(1)"
+    ]
+  },
+  "tagFragments": {
+    "total": 6,
+    "note": "truncated/garbage tags (community snapshot)",
+    "detail": [
+      "\"rosa da\"(5)",
+      "\"california ke\"(3)",
+      "\"california k\"(4)",
+      "\"rosa d\"(3)",
+      "\"rosa de\"(4)",
+      "\"rosa f\"(4)"
+    ],
+    "affectedPlants": [
+      "autumn-damask-rose -> rosa da",
+      "california-flannel-bush-ken-taylor -> california ke",
+      "california-flannel-bush-pacific-sunset -> california ke",
+      "california-fuchsia -> california k",
+      "california-keiki-fremontodendron -> california ke",
+      "california-lilac -> california k",
+      "california-poppy-cream-white -> california k",
+      "california-poppy-rose-pink-mix -> california k",
+      "dorothy-perkins-rose -> rosa d",
+      "dublin-bay-rose -> rosa d",
+      "duchess-of-cornwall-rose -> rosa d",
+      "rosa-damascena-damask-rose -> rosa da",
+      "rosa-de-echt-moss-rose -> rosa de",
+      "rosa-de-meaux-centifolia-rose -> rosa de",
+      "rosa-de-rescht-damask-rose -> rosa de",
+      "rosa-fantin-latour -> rosa f",
+      "rosa-felicia -> rosa f",
+      "rosa-fragrant-cloud -> rosa f",
+      "rosa-frau-karl-druschki -> rosa f",
+      "rosa-ispahan -> rosa da",
+      "rosa-madame-hardy -> rosa da",
+      "rosa-trigintipetala -> rosa da",
+      "roselle-rosa-de-jamaica -> rosa de"
+    ]
+  },
+  "tagSingularPlural": {
+    "total": 1,
+    "examples": [
+      "\"cut flower\"(161) vs \"cut flowers\"(1)"
+    ]
+  },
+  "tagVocabularySize": 291,
+  "groupDefaultIssues": {
+    "total": 0,
+    "examples": []
+  },
+  "groupTableIssues": {
+    "total": 0,
+    "duplicateKeys": [],
+    "slugInMultipleGroups": [],
+    "examples": []
+  },
+  "sunTagContradictions": {
+    "total": 8,
+    "examples": [
+      "red-maple sun=full-sun but tag \"shade\"",
+      "sugar-maple sun=full-sun but tag \"shade\"",
+      "river-birch sun=full-sun but tag \"shade\"",
+      "ginkgo sun=full-sun but tag \"shade\"",
+      "tulip-tree sun=full-sun but tag \"shade\"",
+      "weeping-willow sun=full-sun but tag \"shade\"",
+      "honeylocust sun=full-sun but tag \"shade\"",
+      "linden sun=full-sun but tag \"shade\""
+    ]
+  },
+  "waterTagContradictions": {
+    "total": 0,
+    "examples": []
+  },
+  "foliageColorContradictions": {
+    "total": 1,
+    "note": "3D/preview renders default green while a tag names a coloured leaf",
+    "examples": [
+      "ladys-mantle foliage=default-green but tags [\"chartreuse\"] - Lady's Mantle"
+    ]
+  },
+  "yearsToMaturityWeird": {
+    "total": 0,
+    "examples": []
+  },
+  "communityDroppedBloom": {
+    "total": 0,
+    "examples": []
+  },
+  "communityDroppedZones": {
+    "total": 0,
+    "examples": []
+  },
+  "communitySlicedTags": {
+    "total": 0,
+    "examples": []
+  },
+  "communityNoDescription": {
+    "total": 0,
+    "examples": []
+  },
+  "photoCoverage": {
+    "total": 1677,
+    "withRealPhoto": 702,
+    "withoutRealPhoto": 975,
+    "coveragePct": 41.9,
+    "noPhotoByCategory": {
+      "Bulb": 142,
+      "Perennial": 228,
+      "Annual": 241,
+      "Rose": 87,
+      "Shrub": 123,
+      "Climber": 40,
+      "Grass": 21,
+      "Herb": 13,
+      "Tree": 48,
+      "Fern": 4,
+      "Conifer": 28
+    },
+    "representativesWithout": 975
+  }
+}

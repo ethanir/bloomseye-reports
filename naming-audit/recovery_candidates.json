@@ -1,0 +1,1551 @@
+[
+ {
+  "query": "knock out",
+  "targets": [
+   "Knock Out Rose"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "carried as exact cultivar"
+ },
+ {
+  "query": "double knock out",
+  "targets": [
+   "Knock Out Rose"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "specific variant not carried; maps to Knock Out"
+ },
+ {
+  "query": "drift rose",
+  "targets": [
+   "Drift Rose"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "carried; Star Roses groundcover series"
+ },
+ {
+  "query": "oso easy",
+  "targets": [
+   "Shrub Rose"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "Proven Winners landscape rose; series not carried, maps to genus"
+ },
+ {
+  "query": "flower carpet",
+  "targets": [
+   "Flower Carpet Rose"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "carried; groundcover rose brand"
+ },
+ {
+  "query": "at last",
+  "targets": [
+   "Shrub Rose"
+  ],
+  "bucket": "brand-series",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "Proven Winners fragrant rose; series not carried, maps to genus"
+ },
+ {
+  "query": "david austin",
+  "targets": [
+   "Abraham Darby",
+   "Bathsheba Rose",
+   "Boscobel",
+   "Carding Mill",
+   "Charlotte",
+   "Claire Austin",
+   "Crown Princess Margareta",
+   "Darcey Bussell",
+   "Desdemona",
+   "Emily Bront\u00eb",
+   "Gentle Hermione",
+   "Gertrude Jekyll",
+   "Golden Celebration",
+   "Graham Thomas",
+   "Harlow Carr",
+   "Heritage",
+   "James Galway",
+   "Jubilee Celebration",
+   "Juliet",
+   "Lady Emma Hamilton",
+   "Lady of Shalott",
+   "Molineux",
+   "Munstead Wood",
+   "Olivia Rose Austin",
+   "Patience Rose",
+   "Princess Alexandra of Kent",
+   "Queen of Sweden",
+   "Roald Dahl",
+   "Shropshire Lad Rose",
+   "Strawberry Hill",
+   "Susan Williams-Ellis",
+   "Teasing Georgia",
+   "Tess of the d'Urbervilles",
+   "The Generous Gardener",
+   "The Lady Gardener",
+   "The Pilgrim",
+   "The Poet's Wife",
+   "Tranquillity",
+   "Vanessa Bell",
+   "Wollerton Old Hall"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "English rose breeder; all 'Aus' cultivars carried"
+ },
+ {
+  "query": "endless summer",
+  "targets": [
+   "Bigleaf Hydrangea"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "reblooming mophead brand; series not carried, maps to bigleaf"
+ },
+ {
+  "query": "limelight",
+  "targets": [
+   "White Limelight Hydrangea",
+   "Panicle Hydrangea"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "carried as White Limelight Hydrangea (H. paniculata 'Limelight')"
+ },
+ {
+  "query": "little lime",
+  "targets": [
+   "Panicle Hydrangea",
+   "White Limelight Hydrangea"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "dwarf Limelight; series not carried, maps to panicle"
+ },
+ {
+  "query": "annabelle",
+  "targets": [
+   "Annabelle",
+   "Smooth Hydrangea"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "carried; classic smooth hydrangea"
+ },
+ {
+  "query": "incrediball",
+  "targets": [
+   "Smooth Hydrangea"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "improved Annabelle; series not carried, maps to smooth hydrangea"
+ },
+ {
+  "query": "invincibelle",
+  "targets": [
+   "Smooth Hydrangea"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "pink smooth hydrangea; series not carried, maps to genus"
+ },
+ {
+  "query": "bobo",
+  "targets": [
+   "Panicle Hydrangea"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "dwarf panicle; series not carried, maps to genus"
+ },
+ {
+  "query": "vanilla strawberry",
+  "targets": [
+   "Panicle Hydrangea"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "panicle hydrangea; series not carried, maps to genus"
+ },
+ {
+  "query": "quick fire",
+  "targets": [
+   "Panicle Hydrangea"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "early panicle; series not carried, maps to genus"
+ },
+ {
+  "query": "pinky winky",
+  "targets": [
+   "Panicle Hydrangea"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "panicle hydrangea; series not carried, maps to genus"
+ },
+ {
+  "query": "let's dance",
+  "targets": [
+   "Bigleaf Hydrangea"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "reblooming bigleaf; series not carried, maps to genus"
+ },
+ {
+  "query": "wave petunia",
+  "targets": [
+   "Purple Wave"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "spreading petunia series; Purple Wave carried"
+ },
+ {
+  "query": "supertunia",
+  "targets": [
+   "Supertunia Vista Bubblegum"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "Proven Winners petunia; carried"
+ },
+ {
+  "query": "surfinia",
+  "targets": [
+   "Petunia"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "Suntory trailing petunia; series not carried, maps to genus"
+ },
+ {
+  "query": "superbells",
+  "targets": [
+   "Superbells Blackcurrant Punch",
+   "Superbells Blue",
+   "Superbells Cherry Star",
+   "Superbells Coralina",
+   "Superbells Grape Punch",
+   "Superbells Lemon Slice",
+   "Superbells Pink",
+   "Superbells Red",
+   "Superbells Tangerine Punch",
+   "Superbells White",
+   "Superbells Yellow"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "Proven Winners calibrachoa; all carried"
+ },
+ {
+  "query": "million bells",
+  "targets": [
+   "Calibrachoa"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "Suntory calibrachoa brand; maps to genus"
+ },
+ {
+  "query": "superbena",
+  "targets": [
+   "Imperial Blue",
+   "Plum Wine"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "Proven Winners verbena; two cultivars carried"
+ },
+ {
+  "query": "bloomerang",
+  "targets": [
+   "Bloomerang Purple"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "reblooming lilac; carried"
+ },
+ {
+  "query": "encore",
+  "targets": [
+   "Encore Autumn Amethyst"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "reblooming azalea series; one cultivar carried"
+ },
+ {
+  "query": "bloom-a-thon",
+  "targets": [
+   "Azalea"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "Proven Winners reblooming azalea; series not carried, maps to genus"
+ },
+ {
+  "query": "wine & roses",
+  "targets": [
+   "Wine & Roses"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "purple-leaf weigela; carried"
+ },
+ {
+  "query": "wine and roses",
+  "targets": [
+   "Wine & Roses"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "'and' spelling won't substring-match the '&' cultivar; alias needed"
+ },
+ {
+  "query": "sonic bloom",
+  "targets": [
+   "Sonic Bloom Pink",
+   "Sonic Bloom Red"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "reblooming weigela; both carried"
+ },
+ {
+  "query": "double play",
+  "targets": [
+   "Double Play Big Bang",
+   "Double Play Candy Corn"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "Proven Winners spirea; two carried"
+ },
+ {
+  "query": "diabolo",
+  "targets": [
+   "Diabolo"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "purple ninebark; carried"
+ },
+ {
+  "query": "diablo",
+  "targets": [
+   "Diabolo"
+  ],
+  "bucket": "brand-series",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "common misspelling of ninebark Diabolo; alias"
+ },
+ {
+  "query": "tiny wine",
+  "targets": [
+   "Tiny Wine"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "dwarf ninebark; carried"
+ },
+ {
+  "query": "lo & behold",
+  "targets": [
+   "Blue Chip"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "dwarf buddleia series; Blue Chip carried"
+ },
+ {
+  "query": "pugster",
+  "targets": [
+   "Pugster Blue"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "compact buddleia; carried"
+ },
+ {
+  "query": "cheyenne spirit",
+  "targets": [
+   "Cheyenne Spirit"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "seed-grown coneflower mix; carried"
+ },
+ {
+  "query": "powwow",
+  "targets": [
+   "PowWow Wild Berry"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "compact coneflower; carried"
+ },
+ {
+  "query": "pow wow",
+  "targets": [
+   "PowWow Wild Berry"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "two-word spelling won't substring-match 'PowWow'; alias"
+ },
+ {
+  "query": "sombrero",
+  "targets": [
+   "Sombrero Adobe Orange",
+   "Sombrero Hot Coral",
+   "Sombrero Lemon Yellow",
+   "Sombrero Salsa Red"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "Darwin coneflower series; four carried"
+ },
+ {
+  "query": "double scoop",
+  "targets": [
+   "Purple Coneflower"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "double coneflower series; not carried, maps to genus"
+ },
+ {
+  "query": "big bang",
+  "targets": [
+   "Mercury Rising",
+   "Red Satin",
+   "Route 66",
+   "Sienna Sunset"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": true,
+  "note": "Coreopsis Big Bang series; also matches Spiraea 'Double Play Big Bang'"
+ },
+ {
+  "query": "dolce",
+  "targets": [
+   "Coral Bells"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "Proven Winners heuchera line; cultivar names not carried, maps to genus"
+ },
+ {
+  "query": "colorsplash",
+  "targets": [
+   "Coral Bells"
+  ],
+  "bucket": "brand-series",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "heuchera series; not carried, maps to genus"
+ },
+ {
+  "query": "stella de oro",
+  "targets": [
+   "Stella de Oro"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "ubiquitous reblooming daylily; carried"
+ },
+ {
+  "query": "stella d'oro",
+  "targets": [
+   "Stella de Oro"
+  ],
+  "bucket": "brand-series",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "common alt spelling; alias for carried cultivar"
+ },
+ {
+  "query": "rainbow rhythm",
+  "targets": [
+   "Daylily"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "Proven Winners daylily series; not carried, maps to genus"
+ },
+ {
+  "query": "color spires",
+  "targets": [
+   "Violet Riot"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "Proven Winners salvia series; Violet Riot carried"
+ },
+ {
+  "query": "rockin'",
+  "targets": [
+   "Rockin' Raspberry"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": true,
+  "note": "PW Salvia Rockin' series not carried; matches Monarda 'Rockin' Raspberry'"
+ },
+ {
+  "query": "summerific",
+  "targets": [
+   "Berry Awesome",
+   "Cranberry Crush",
+   "Midnight Marvel",
+   "Cherry Choco Latte",
+   "Holy Grail"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "Proven Winners hardy hibiscus series; five carried"
+ },
+ {
+  "query": "black diamond",
+  "targets": [
+   "Black Diamond Red Hot",
+   "Crape Myrtle"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "dark-leaf crape myrtle brand; one carried"
+ },
+ {
+  "query": "razzle dazzle",
+  "targets": [
+   "Cherry Dazzle"
+  ],
+  "bucket": "brand-series",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "dwarf crape myrtle series; Cherry Dazzle carried, no literal substring match"
+ },
+ {
+  "query": "sun parasol",
+  "targets": [
+   "Sun Parasol Apricot",
+   "Sun Parasol Crimson",
+   "Sun Parasol Sunbeam",
+   "Sun Parasol White"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "Suntory mandevilla series; four carried"
+ },
+ {
+  "query": "cat's pajamas",
+  "targets": [
+   "Catmint"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "Proven Winners nepeta; not carried, maps to genus (Cat's Meow is carried)"
+ },
+ {
+  "query": "bandana",
+  "targets": [
+   "Bandana Cherry",
+   "Bandana Pink",
+   "Bandana Rose"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "Syngenta lantana series; three carried"
+ },
+ {
+  "query": "crepe myrtle",
+  "targets": [
+   "Crape Myrtle"
+  ],
+  "bucket": "misspelling",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "dominant US spelling; catalog only has 'Crape', so this matches nothing"
+ },
+ {
+  "query": "crape myrtles",
+  "targets": [
+   "Crape Myrtle"
+  ],
+  "bucket": "plural-format",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "plural not a substring of singular category"
+ },
+ {
+  "query": "grape myrtle",
+  "targets": [
+   "Crape Myrtle"
+  ],
+  "bucket": "misspelling",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "common mishearing of crape myrtle"
+ },
+ {
+  "query": "crapemyrtle",
+  "targets": [
+   "Crape Myrtle"
+  ],
+  "bucket": "plural-format",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "one-word form breaks space in category"
+ },
+ {
+  "query": "natchez crape myrtle",
+  "targets": [
+   "Natchez"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "med",
+  "ambiguous": true,
+  "note": "category not searched in browse and not contiguous in picker; two 'Natchez' (crape myrtle + mock orange)"
+ },
+ {
+  "query": "natchez crepe myrtle",
+  "targets": [
+   "Natchez"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "med",
+  "ambiguous": true,
+  "note": "crepe spelling + type combo; shared 'Natchez' name"
+ },
+ {
+  "query": "muskogee crape myrtle",
+  "targets": [
+   "Muskogee"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "cultivar+type not contiguous"
+ },
+ {
+  "query": "tuscarora crape myrtle",
+  "targets": [
+   "Tuscarora"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "cultivar+type not contiguous"
+ },
+ {
+  "query": "sioux crape myrtle",
+  "targets": [
+   "Sioux"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "cultivar+type not contiguous"
+ },
+ {
+  "query": "red rocket crape myrtle",
+  "targets": [
+   "Red Rocket"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "cultivar+type not contiguous"
+ },
+ {
+  "query": "camelia",
+  "targets": [
+   "Camellia"
+  ],
+  "bucket": "misspelling",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "single-L is the most common camellia misspelling"
+ },
+ {
+  "query": "camellias",
+  "targets": [
+   "Camellia"
+  ],
+  "bucket": "plural-format",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "plural not substring of singular"
+ },
+ {
+  "query": "japanese camellia",
+  "targets": [
+   "Camellia"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "vernacular for C. japonica; 'japanese' not in botanical 'japonica'"
+ },
+ {
+  "query": "yuletide camellia",
+  "targets": [
+   "Yuletide"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "cultivar+type not contiguous"
+ },
+ {
+  "query": "althea",
+  "targets": [
+   "Rose of Sharon"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "standard Southern-US retail name for Hibiscus syriacus"
+ },
+ {
+  "query": "shrub althea",
+  "targets": [
+   "Rose of Sharon"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "althea/rose of sharon vernacular"
+ },
+ {
+  "query": "rose of sharron",
+  "targets": [
+   "Rose of Sharon"
+  ],
+  "bucket": "misspelling",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "doubled-R misspelling"
+ },
+ {
+  "query": "rose-of-sharon",
+  "targets": [
+   "Rose of Sharon"
+  ],
+  "bucket": "plural-format",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "hyphenated form fails against spaced commonName"
+ },
+ {
+  "query": "wine and roses",
+  "targets": [
+   "Wine & Roses"
+  ],
+  "bucket": "plural-format",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "de-ampersand; 'and' never matches '&' in the very popular weigela"
+ },
+ {
+  "query": "wine and roses weigela",
+  "targets": [
+   "Wine & Roses"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "de-ampersand + type suffix"
+ },
+ {
+  "query": "weigelia",
+  "targets": [
+   "Weigela"
+  ],
+  "bucket": "misspelling",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "very common phonetic misspelling of weigela"
+ },
+ {
+  "query": "wiegela",
+  "targets": [
+   "Weigela"
+  ],
+  "bucket": "misspelling",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "transposed-vowel misspelling"
+ },
+ {
+  "query": "spilled wine weigela",
+  "targets": [
+   "Spilled Wine"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "cultivar+type not contiguous"
+ },
+ {
+  "query": "sonic bloom weigela",
+  "targets": [
+   "Sonic Bloom Pink",
+   "Sonic Bloom Red"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "Proven Winners reblooming series; both colors"
+ },
+ {
+  "query": "my monet weigela",
+  "targets": [
+   "My Monet"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "dwarf variegated weigela + type suffix"
+ },
+ {
+  "query": "red prince weigela",
+  "targets": [
+   "Red Prince"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "cultivar+type not contiguous"
+ },
+ {
+  "query": "smoke bush",
+  "targets": [
+   "Smokebush"
+  ],
+  "bucket": "plural-format",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "spaced form fails picker against one-word category 'Smokebush'"
+ },
+ {
+  "query": "smoke tree",
+  "targets": [
+   "Smokebush"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "high",
+  "ambiguous": false,
+  "note": "Cotinus's other common name; 'tree' appears nowhere in fields"
+ },
+ {
+  "query": "purple smoke bush",
+  "targets": [
+   "Royal Purple",
+   "Velvet Cloak"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "shoppers wanting the dark-leaf cultivars"
+ },
+ {
+  "query": "royal purple smoke bush",
+  "targets": [
+   "Royal Purple"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "iconic purple smokebush; spaced+type breaks match"
+ },
+ {
+  "query": "mock orange bush",
+  "targets": [
+   "Mock Orange"
+  ],
+  "bucket": "plural-format",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "'bush' suffix breaks contiguity"
+ },
+ {
+  "query": "english dogwood",
+  "targets": [
+   "Mock Orange"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "regional vernacular for Philadelphus"
+ },
+ {
+  "query": "sweet mock orange",
+  "targets": [
+   "Mock Orange"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "common name of Philadelphus coronarius"
+ },
+ {
+  "query": "summer lilac",
+  "targets": [
+   "Butterfly Bush"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "standard vernacular for Buddleia davidii"
+ },
+ {
+  "query": "buddleja",
+  "targets": [
+   "Butterfly Bush"
+  ],
+  "bucket": "misspelling",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "botanically-correct 'j' spelling; catalog uses Buddleia"
+ },
+ {
+  "query": "budleia",
+  "targets": [
+   "Butterfly Bush"
+  ],
+  "bucket": "misspelling",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "dropped-letter misspelling"
+ },
+ {
+  "query": "miss molly butterfly bush",
+  "targets": [
+   "Miss Molly"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "cultivar+type not contiguous"
+ },
+ {
+  "query": "pugster blue butterfly bush",
+  "targets": [
+   "Pugster Blue"
+  ],
+  "bucket": "brand-series",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "Pugster dwarf series + type suffix"
+ },
+ {
+  "query": "cinquefoil",
+  "targets": [
+   "Potentilla"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "vernacular for Potentilla"
+ },
+ {
+  "query": "shrubby cinquefoil",
+  "targets": [
+   "Potentilla"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "common name of Potentilla fruticosa"
+ },
+ {
+  "query": "potentilla bush",
+  "targets": [
+   "Potentilla"
+  ],
+  "bucket": "plural-format",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "'bush' suffix breaks match"
+ },
+ {
+  "query": "beauty berry",
+  "targets": [
+   "Beautyberry",
+   "American Beautyberry"
+  ],
+  "bucket": "plural-format",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "spaced form fails picker vs one-word commonName"
+ },
+ {
+  "query": "american beauty berry",
+  "targets": [
+   "American Beautyberry"
+  ],
+  "bucket": "plural-format",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "spaced form of Callicarpa americana"
+ },
+ {
+  "query": "sweet pepperbush",
+  "targets": [
+   "Summersweet"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "primary vernacular for Clethra alnifolia"
+ },
+ {
+  "query": "summer sweet",
+  "targets": [
+   "Summersweet"
+  ],
+  "bucket": "plural-format",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "spaced form fails picker vs one-word name"
+ },
+ {
+  "query": "ruby spice clethra",
+  "targets": [
+   "Ruby Spice"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "cultivar+genus not contiguous"
+ },
+ {
+  "query": "golden bells",
+  "targets": [
+   "Forsythia"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "classic vernacular for Forsythia"
+ },
+ {
+  "query": "forsythia bush",
+  "targets": [
+   "Forsythia"
+  ],
+  "bucket": "plural-format",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "'bush' suffix breaks match"
+ },
+ {
+  "query": "forsynthia",
+  "targets": [
+   "Forsythia"
+  ],
+  "bucket": "misspelling",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "inserted-N misspelling"
+ },
+ {
+  "query": "witchhazel",
+  "targets": [
+   "Witch Hazel"
+  ],
+  "bucket": "plural-format",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "one-word form fails against spaced commonName"
+ },
+ {
+  "query": "witch hazel shrub",
+  "targets": [
+   "Witch Hazel"
+  ],
+  "bucket": "plural-format",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "suffix breaks contiguity"
+ },
+ {
+  "query": "cape jasmine",
+  "targets": [
+   "Gardenia"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "vernacular for Gardenia jasminoides"
+ },
+ {
+  "query": "cape jessamine",
+  "targets": [
+   "Gardenia"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "Southern spelling of cape jasmine"
+ },
+ {
+  "query": "dwarf gardenia",
+  "targets": [
+   "Radicans"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "Gardenia 'Radicans' is the creeping/dwarf gardenia"
+ },
+ {
+  "query": "juneberry",
+  "targets": [
+   "Serviceberry"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "widely-used vernacular for Amelanchier"
+ },
+ {
+  "query": "saskatoon",
+  "targets": [
+   "Regent Serviceberry",
+   "Serviceberry"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "A. alnifolia = saskatoon; Regent is alnifolia"
+ },
+ {
+  "query": "shadbush",
+  "targets": [
+   "Serviceberry"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "Northeast vernacular for Amelanchier"
+ },
+ {
+  "query": "winterberry holly",
+  "targets": [
+   "Winterberry"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "full common name; not a substring of 'Winterberry'"
+ },
+ {
+  "query": "winter berry",
+  "targets": [
+   "Winterberry"
+  ],
+  "bucket": "plural-format",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "spaced form fails picker"
+ },
+ {
+  "query": "boxwoods",
+  "targets": [
+   "Boxwood"
+  ],
+  "bucket": "plural-format",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "plural not a substring of singular category"
+ },
+ {
+  "query": "winter gem boxwood",
+  "targets": [
+   "Winter Gem"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "cultivar+type not contiguous"
+ },
+ {
+  "query": "chinese privet",
+  "targets": [
+   "White Variegated Privet"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "Ligustrum sinense common name; only privet carried"
+ },
+ {
+  "query": "variegated privet",
+  "targets": [
+   "White Variegated Privet"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "already a substring but reinforces the shopper term"
+ },
+ {
+  "query": "hortensia",
+  "targets": [
+   "Bigleaf Hydrangea"
+  ],
+  "bucket": "regional",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "European/Latino name for mophead Hydrangea macrophylla"
+ },
+ {
+  "query": "hydrangia",
+  "targets": [
+   "Bigleaf Hydrangea",
+   "Panicle Hydrangea",
+   "Oakleaf Hydrangea"
+  ],
+  "bucket": "misspelling",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "genus-wide misspelling; no bare 'Hydrangea' commonName to catch it"
+ },
+ {
+  "query": "hydranga",
+  "targets": [
+   "Bigleaf Hydrangea",
+   "Panicle Hydrangea"
+  ],
+  "bucket": "misspelling",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "dropped-letter genus misspelling"
+ },
+ {
+  "query": "oak leaf hydrangea",
+  "targets": [
+   "Oakleaf Hydrangea"
+  ],
+  "bucket": "plural-format",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "spaced 'oak leaf' breaks picker contiguity"
+ },
+ {
+  "query": "pee gee hydrangea",
+  "targets": [
+   "Panicle Hydrangea"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "classic vernacular for paniculata types"
+ },
+ {
+  "query": "peegee hydrangea",
+  "targets": [
+   "Panicle Hydrangea"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "one-word PG spelling"
+ },
+ {
+  "query": "endless summer hydrangea",
+  "targets": [
+   "Bigleaf Hydrangea"
+  ],
+  "bucket": "brand-series",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "famous reblooming bigleaf series; nearest carried is Bigleaf"
+ },
+ {
+  "query": "snowball hydrangea",
+  "targets": [
+   "Annabelle",
+   "Smooth Hydrangea"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": true,
+  "note": "Annabelle smooth hydrangea; 'snowball' also means Viburnum"
+ },
+ {
+  "query": "chinese hibiscus",
+  "targets": [
+   "Tropical Hibiscus"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "common name of Hibiscus rosa-sinensis"
+ },
+ {
+  "query": "hawaiian hibiscus",
+  "targets": [
+   "Tropical Hibiscus"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "retail vernacular for tropical rosa-sinensis"
+ },
+ {
+  "query": "miss kim lilac",
+  "targets": [
+   "Miss Kim"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "cultivar+type not contiguous (category not searched in browse)"
+ },
+ {
+  "query": "korean lilac",
+  "targets": [
+   "Miss Kim"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "Miss Kim is a Korean lilac (Syringa pubescens)"
+ },
+ {
+  "query": "rhododendrun",
+  "targets": [
+   "Rhododendron"
+  ],
+  "bucket": "misspelling",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "high-frequency ending misspelling"
+ },
+ {
+  "query": "rododendron",
+  "targets": [
+   "Rhododendron"
+  ],
+  "bucket": "misspelling",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "dropped-H misspelling"
+ },
+ {
+  "query": "rhododendrom",
+  "targets": [
+   "Rhododendron"
+  ],
+  "bucket": "misspelling",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "M-for-N typo"
+ },
+ {
+  "query": "azelea",
+  "targets": [
+   "Azalea"
+  ],
+  "bucket": "misspelling",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "very common azalea misspelling; fails 'Azalea'/'Azaleas'"
+ },
+ {
+  "query": "azalia",
+  "targets": [
+   "Azalea"
+  ],
+  "bucket": "misspelling",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "phonetic azalea misspelling"
+ },
+ {
+  "query": "pjm rhododendron",
+  "targets": [
+   "PJM"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "cultivar+type not contiguous"
+ },
+ {
+  "query": "summer wine ninebark",
+  "targets": [
+   "Summer Wine"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "cultivar+type not contiguous"
+ },
+ {
+  "query": "tiny wine ninebark",
+  "targets": [
+   "Tiny Wine"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "cultivar+type not contiguous"
+ },
+ {
+  "query": "nine bark",
+  "targets": [
+   "Ninebark"
+  ],
+  "bucket": "plural-format",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "spaced form fails picker vs one-word category"
+ },
+ {
+  "query": "snowmound spirea",
+  "targets": [
+   "Snowmound"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "'spirea' not a substring of botanical 'Spiraea'; combo fails"
+ },
+ {
+  "query": "neon flash spirea",
+  "targets": [
+   "Neon Flash"
+  ],
+  "bucket": "cultivar-trade",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "cultivar+type combo fails both browse and picker"
+ },
+ {
+  "query": "japanese spirea",
+  "targets": [
+   "Spirea"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "'japanese' not in botanical 'japonica'"
+ },
+ {
+  "query": "viburnums",
+  "targets": [
+   "Viburnum"
+  ],
+  "bucket": "plural-format",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "plural not a substring of singular"
+ },
+ {
+  "query": "snowball bush",
+  "targets": [
+   "European Snowball"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": true,
+  "note": "classic Viburnum opulus name; also used for Annabelle hydrangea"
+ },
+ {
+  "query": "korean spice viburnum",
+  "targets": [
+   "Koreanspice"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "med",
+  "ambiguous": false,
+  "note": "spaced 'korean spice' + type fails contiguous picker"
+ },
+ {
+  "query": "arrowwood viburnum",
+  "targets": [
+   "Arrowwood"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "cultivar+type not contiguous"
+ },
+ {
+  "query": "doublefile viburnum",
+  "targets": [
+   "Doublefile"
+  ],
+  "bucket": "alt-common-name",
+  "freq": "low",
+  "ambiguous": false,
+  "note": "cultivar+type not contiguous"
+ }
+]

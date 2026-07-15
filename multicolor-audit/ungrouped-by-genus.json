@@ -1,0 +1,954 @@
+[
+  {
+    "genus": "Salvia",
+    "count": 4,
+    "slugs": [
+      "russian-sage",
+      "salvia-annual",
+      "rosemary",
+      "sage"
+    ],
+    "names": [
+      "Russian Sage",
+      "Salvia (Annual)",
+      "Rosemary",
+      "Sage"
+    ]
+  },
+  {
+    "genus": "Acer",
+    "count": 2,
+    "slugs": [
+      "red-maple",
+      "sugar-maple"
+    ],
+    "names": [
+      "Red Maple",
+      "Sugar Maple"
+    ]
+  },
+  {
+    "genus": "Athyrium",
+    "count": 2,
+    "slugs": [
+      "japanese-painted-fern",
+      "lady-fern"
+    ],
+    "names": [
+      "Japanese Painted Fern",
+      "Lady Fern"
+    ]
+  },
+  {
+    "genus": "Dianthus",
+    "count": 2,
+    "slugs": [
+      "carnation",
+      "sweet-william"
+    ],
+    "names": [
+      "Carnation",
+      "Sweet William"
+    ]
+  },
+  {
+    "genus": "Aconitum",
+    "count": 1,
+    "slugs": [
+      "monkshood"
+    ],
+    "names": [
+      "Monkshood"
+    ]
+  },
+  {
+    "genus": "Adiantum",
+    "count": 1,
+    "slugs": [
+      "maidenhair-fern"
+    ],
+    "names": [
+      "Maidenhair Fern"
+    ]
+  },
+  {
+    "genus": "Agastache",
+    "count": 1,
+    "slugs": [
+      "agastache"
+    ],
+    "names": [
+      "Anise Hyssop"
+    ]
+  },
+  {
+    "genus": "Agave",
+    "count": 1,
+    "slugs": [
+      "agave"
+    ],
+    "names": [
+      "Agave"
+    ]
+  },
+  {
+    "genus": "Ajuga",
+    "count": 1,
+    "slugs": [
+      "ajuga"
+    ],
+    "names": [
+      "Bugleweed"
+    ]
+  },
+  {
+    "genus": "Alchemilla",
+    "count": 1,
+    "slugs": [
+      "ladys-mantle"
+    ],
+    "names": [
+      "Lady's Mantle"
+    ]
+  },
+  {
+    "genus": "Allium",
+    "count": 1,
+    "slugs": [
+      "chives"
+    ],
+    "names": [
+      "Chives"
+    ]
+  },
+  {
+    "genus": "Aloe",
+    "count": 1,
+    "slugs": [
+      "aloe"
+    ],
+    "names": [
+      "Aloe"
+    ]
+  },
+  {
+    "genus": "Amsonia",
+    "count": 1,
+    "slugs": [
+      "bluestar"
+    ],
+    "names": [
+      "Bluestar"
+    ]
+  },
+  {
+    "genus": "Anemone",
+    "count": 1,
+    "slugs": [
+      "japanese-anemone"
+    ],
+    "names": [
+      "Japanese Anemone"
+    ]
+  },
+  {
+    "genus": "Anethum",
+    "count": 1,
+    "slugs": [
+      "dill"
+    ],
+    "names": [
+      "Dill"
+    ]
+  },
+  {
+    "genus": "Armeria",
+    "count": 1,
+    "slugs": [
+      "sea-thrift"
+    ],
+    "names": [
+      "Sea Thrift"
+    ]
+  },
+  {
+    "genus": "Aruncus",
+    "count": 1,
+    "slugs": [
+      "goatsbeard"
+    ],
+    "names": [
+      "Goatsbeard"
+    ]
+  },
+  {
+    "genus": "Asarum",
+    "count": 1,
+    "slugs": [
+      "wild-ginger"
+    ],
+    "names": [
+      "Wild Ginger"
+    ]
+  },
+  {
+    "genus": "Asclepias",
+    "count": 1,
+    "slugs": [
+      "butterfly-weed"
+    ],
+    "names": [
+      "Butterfly Weed"
+    ]
+  },
+  {
+    "genus": "Aubrieta",
+    "count": 1,
+    "slugs": [
+      "rock-cress"
+    ],
+    "names": [
+      "Rock Cress"
+    ]
+  },
+  {
+    "genus": "Aurinia",
+    "count": 1,
+    "slugs": [
+      "basket-of-gold"
+    ],
+    "names": [
+      "Basket of Gold"
+    ]
+  },
+  {
+    "genus": "Bellis",
+    "count": 1,
+    "slugs": [
+      "english-daisy"
+    ],
+    "names": [
+      "English Daisy"
+    ]
+  },
+  {
+    "genus": "Bergenia",
+    "count": 1,
+    "slugs": [
+      "bergenia"
+    ],
+    "names": [
+      "Bergenia"
+    ]
+  },
+  {
+    "genus": "Betula",
+    "count": 1,
+    "slugs": [
+      "river-birch"
+    ],
+    "names": [
+      "River Birch"
+    ]
+  },
+  {
+    "genus": "Brunnera",
+    "count": 1,
+    "slugs": [
+      "brunnera"
+    ],
+    "names": [
+      "Brunnera"
+    ]
+  },
+  {
+    "genus": "Cerastium",
+    "count": 1,
+    "slugs": [
+      "snow-in-summer"
+    ],
+    "names": [
+      "Snow-in-Summer"
+    ]
+  },
+  {
+    "genus": "Chelone",
+    "count": 1,
+    "slugs": [
+      "turtlehead"
+    ],
+    "names": [
+      "Turtlehead"
+    ]
+  },
+  {
+    "genus": "Convallaria",
+    "count": 1,
+    "slugs": [
+      "lily-of-valley"
+    ],
+    "names": [
+      "Lily of the Valley"
+    ]
+  },
+  {
+    "genus": "Cyclamen",
+    "count": 1,
+    "slugs": [
+      "cyclamen"
+    ],
+    "names": [
+      "Cyclamen"
+    ]
+  },
+  {
+    "genus": "Cyrtomium",
+    "count": 1,
+    "slugs": [
+      "holly-fern"
+    ],
+    "names": [
+      "Holly Fern"
+    ]
+  },
+  {
+    "genus": "Delosperma",
+    "count": 1,
+    "slugs": [
+      "ice-plant"
+    ],
+    "names": [
+      "Ice Plant"
+    ]
+  },
+  {
+    "genus": "Dryopteris",
+    "count": 1,
+    "slugs": [
+      "autumn-fern"
+    ],
+    "names": [
+      "Autumn Fern"
+    ]
+  },
+  {
+    "genus": "Echeveria",
+    "count": 1,
+    "slugs": [
+      "echeveria"
+    ],
+    "names": [
+      "Echeveria"
+    ]
+  },
+  {
+    "genus": "Echinops",
+    "count": 1,
+    "slugs": [
+      "echinops"
+    ],
+    "names": [
+      "Globe Thistle"
+    ]
+  },
+  {
+    "genus": "Epimedium",
+    "count": 1,
+    "slugs": [
+      "epimedium"
+    ],
+    "names": [
+      "Barrenwort"
+    ]
+  },
+  {
+    "genus": "Eryngium",
+    "count": 1,
+    "slugs": [
+      "sea-holly"
+    ],
+    "names": [
+      "Sea Holly"
+    ]
+  },
+  {
+    "genus": "Eutrochium",
+    "count": 1,
+    "slugs": [
+      "joe-pye-weed"
+    ],
+    "names": [
+      "Joe Pye Weed"
+    ]
+  },
+  {
+    "genus": "Filipendula",
+    "count": 1,
+    "slugs": [
+      "queen-of-the-prairie"
+    ],
+    "names": [
+      "Queen of the Prairie"
+    ]
+  },
+  {
+    "genus": "Galium",
+    "count": 1,
+    "slugs": [
+      "sweet-woodruff"
+    ],
+    "names": [
+      "Sweet Woodruff"
+    ]
+  },
+  {
+    "genus": "Ginkgo",
+    "count": 1,
+    "slugs": [
+      "ginkgo"
+    ],
+    "names": [
+      "Ginkgo"
+    ]
+  },
+  {
+    "genus": "Gleditsia",
+    "count": 1,
+    "slugs": [
+      "honeylocust"
+    ],
+    "names": [
+      "Honeylocust"
+    ]
+  },
+  {
+    "genus": "Helenium",
+    "count": 1,
+    "slugs": [
+      "helenium"
+    ],
+    "names": [
+      "Sneezeweed"
+    ]
+  },
+  {
+    "genus": "Helianthus",
+    "count": 1,
+    "slugs": [
+      "perennial-sunflower"
+    ],
+    "names": [
+      "Perennial Sunflower"
+    ]
+  },
+  {
+    "genus": "Helictotrichon",
+    "count": 1,
+    "slugs": [
+      "blue-oat-grass"
+    ],
+    "names": [
+      "Blue Oat Grass"
+    ]
+  },
+  {
+    "genus": "Heliopsis",
+    "count": 1,
+    "slugs": [
+      "false-sunflower"
+    ],
+    "names": [
+      "False Sunflower"
+    ]
+  },
+  {
+    "genus": "Heucherella",
+    "count": 1,
+    "slugs": [
+      "foamy-bells"
+    ],
+    "names": [
+      "Foamy Bells"
+    ]
+  },
+  {
+    "genus": "Hydrangea",
+    "count": 1,
+    "slugs": [
+      "climbing-hydrangea"
+    ],
+    "names": [
+      "Climbing Hydrangea"
+    ]
+  },
+  {
+    "genus": "Iberis",
+    "count": 1,
+    "slugs": [
+      "candytuft"
+    ],
+    "names": [
+      "Candytuft"
+    ]
+  },
+  {
+    "genus": "Ipomoea",
+    "count": 1,
+    "slugs": [
+      "moonflower"
+    ],
+    "names": [
+      "Moonflower"
+    ]
+  },
+  {
+    "genus": "Jacobaea",
+    "count": 1,
+    "slugs": [
+      "dusty-miller"
+    ],
+    "names": [
+      "Dusty Miller"
+    ]
+  },
+  {
+    "genus": "Kniphofia",
+    "count": 1,
+    "slugs": [
+      "red-hot-poker"
+    ],
+    "names": [
+      "Red Hot Poker"
+    ]
+  },
+  {
+    "genus": "Lamium",
+    "count": 1,
+    "slugs": [
+      "lamium"
+    ],
+    "names": [
+      "Dead Nettle"
+    ]
+  },
+  {
+    "genus": "Liatris",
+    "count": 1,
+    "slugs": [
+      "liatris"
+    ],
+    "names": [
+      "Blazing Star"
+    ]
+  },
+  {
+    "genus": "Ligularia",
+    "count": 1,
+    "slugs": [
+      "ligularia"
+    ],
+    "names": [
+      "Ligularia"
+    ]
+  },
+  {
+    "genus": "Liriodendron",
+    "count": 1,
+    "slugs": [
+      "tulip-tree"
+    ],
+    "names": [
+      "Tulip Tree"
+    ]
+  },
+  {
+    "genus": "Lobelia",
+    "count": 1,
+    "slugs": [
+      "cardinal-flower"
+    ],
+    "names": [
+      "Cardinal Flower"
+    ]
+  },
+  {
+    "genus": "Matteuccia",
+    "count": 1,
+    "slugs": [
+      "ostrich-fern"
+    ],
+    "names": [
+      "Ostrich Fern"
+    ]
+  },
+  {
+    "genus": "Melissa",
+    "count": 1,
+    "slugs": [
+      "lemon-balm"
+    ],
+    "names": [
+      "Lemon Balm"
+    ]
+  },
+  {
+    "genus": "Mentha",
+    "count": 1,
+    "slugs": [
+      "mint"
+    ],
+    "names": [
+      "Mint"
+    ]
+  },
+  {
+    "genus": "Mertensia",
+    "count": 1,
+    "slugs": [
+      "virginia-bluebells"
+    ],
+    "names": [
+      "Virginia Bluebells"
+    ]
+  },
+  {
+    "genus": "Nephrolepis",
+    "count": 1,
+    "slugs": [
+      "boston-fern"
+    ],
+    "names": [
+      "Boston Fern"
+    ]
+  },
+  {
+    "genus": "Ocimum",
+    "count": 1,
+    "slugs": [
+      "basil"
+    ],
+    "names": [
+      "Basil"
+    ]
+  },
+  {
+    "genus": "Oenothera",
+    "count": 1,
+    "slugs": [
+      "gaura"
+    ],
+    "names": [
+      "Gaura"
+    ]
+  },
+  {
+    "genus": "Origanum",
+    "count": 1,
+    "slugs": [
+      "oregano"
+    ],
+    "names": [
+      "Oregano"
+    ]
+  },
+  {
+    "genus": "Osmunda",
+    "count": 1,
+    "slugs": [
+      "royal-fern"
+    ],
+    "names": [
+      "Royal Fern"
+    ]
+  },
+  {
+    "genus": "Osmundastrum",
+    "count": 1,
+    "slugs": [
+      "cinnamon-fern"
+    ],
+    "names": [
+      "Cinnamon Fern"
+    ]
+  },
+  {
+    "genus": "Pachysandra",
+    "count": 1,
+    "slugs": [
+      "pachysandra"
+    ],
+    "names": [
+      "Pachysandra"
+    ]
+  },
+  {
+    "genus": "Penstemon",
+    "count": 1,
+    "slugs": [
+      "penstemon"
+    ],
+    "names": [
+      "Penstemon"
+    ]
+  },
+  {
+    "genus": "Petroselinum",
+    "count": 1,
+    "slugs": [
+      "parsley"
+    ],
+    "names": [
+      "Parsley"
+    ]
+  },
+  {
+    "genus": "Physostegia",
+    "count": 1,
+    "slugs": [
+      "obedient-plant"
+    ],
+    "names": [
+      "Obedient Plant"
+    ]
+  },
+  {
+    "genus": "Polemonium",
+    "count": 1,
+    "slugs": [
+      "jacobs-ladder"
+    ],
+    "names": [
+      "Jacob's Ladder"
+    ]
+  },
+  {
+    "genus": "Polygonatum",
+    "count": 1,
+    "slugs": [
+      "solomons-seal"
+    ],
+    "names": [
+      "Solomon's Seal"
+    ]
+  },
+  {
+    "genus": "Polystichum",
+    "count": 1,
+    "slugs": [
+      "christmas-fern"
+    ],
+    "names": [
+      "Christmas Fern"
+    ]
+  },
+  {
+    "genus": "Primula",
+    "count": 1,
+    "slugs": [
+      "primrose"
+    ],
+    "names": [
+      "Primrose"
+    ]
+  },
+  {
+    "genus": "Pseudotsuga",
+    "count": 1,
+    "slugs": [
+      "douglas-fir"
+    ],
+    "names": [
+      "Douglas Fir"
+    ]
+  },
+  {
+    "genus": "Pulmonaria",
+    "count": 1,
+    "slugs": [
+      "lungwort"
+    ],
+    "names": [
+      "Lungwort"
+    ]
+  },
+  {
+    "genus": "Rosa",
+    "count": 1,
+    "slugs": [
+      "climbing-rose"
+    ],
+    "names": [
+      "Climbing Rose"
+    ]
+  },
+  {
+    "genus": "Salix",
+    "count": 1,
+    "slugs": [
+      "weeping-willow"
+    ],
+    "names": [
+      "Weeping Willow"
+    ]
+  },
+  {
+    "genus": "Scabiosa",
+    "count": 1,
+    "slugs": [
+      "pincushion-flower"
+    ],
+    "names": [
+      "Pincushion Flower"
+    ]
+  },
+  {
+    "genus": "Sedum",
+    "count": 1,
+    "slugs": [
+      "creeping-sedum"
+    ],
+    "names": [
+      "Creeping Sedum"
+    ]
+  },
+  {
+    "genus": "Sempervivum",
+    "count": 1,
+    "slugs": [
+      "hens-and-chicks"
+    ],
+    "names": [
+      "Hens and Chicks"
+    ]
+  },
+  {
+    "genus": "Solidago",
+    "count": 1,
+    "slugs": [
+      "goldenrod"
+    ],
+    "names": [
+      "Goldenrod"
+    ]
+  },
+  {
+    "genus": "Stachys",
+    "count": 1,
+    "slugs": [
+      "lambs-ear"
+    ],
+    "names": [
+      "Lamb's Ear"
+    ]
+  },
+  {
+    "genus": "Thalictrum",
+    "count": 1,
+    "slugs": [
+      "meadow-rue"
+    ],
+    "names": [
+      "Meadow Rue"
+    ]
+  },
+  {
+    "genus": "Thymus",
+    "count": 1,
+    "slugs": [
+      "thyme"
+    ],
+    "names": [
+      "Thyme"
+    ]
+  },
+  {
+    "genus": "Tiarella",
+    "count": 1,
+    "slugs": [
+      "foam-flower"
+    ],
+    "names": [
+      "Foam Flower"
+    ]
+  },
+  {
+    "genus": "Tilia",
+    "count": 1,
+    "slugs": [
+      "linden"
+    ],
+    "names": [
+      "Littleleaf Linden"
+    ]
+  },
+  {
+    "genus": "Tradescantia",
+    "count": 1,
+    "slugs": [
+      "spiderwort"
+    ],
+    "names": [
+      "Spiderwort"
+    ]
+  },
+  {
+    "genus": "Tricyrtis",
+    "count": 1,
+    "slugs": [
+      "toad-lily"
+    ],
+    "names": [
+      "Toad Lily"
+    ]
+  },
+  {
+    "genus": "Trillium",
+    "count": 1,
+    "slugs": [
+      "trillium"
+    ],
+    "names": [
+      "Trillium"
+    ]
+  },
+  {
+    "genus": "Trollius",
+    "count": 1,
+    "slugs": [
+      "globeflower"
+    ],
+    "names": [
+      "Globeflower"
+    ]
+  },
+  {
+    "genus": "Verbascum",
+    "count": 1,
+    "slugs": [
+      "mullein"
+    ],
+    "names": [
+      "Mullein"
+    ]
+  },
+  {
+    "genus": "Vernonia",
+    "count": 1,
+    "slugs": [
+      "ironweed"
+    ],
+    "names": [
+      "Ironweed"
+    ]
+  },
+  {
+    "genus": "Vinca",
+    "count": 1,
+    "slugs": [
+      "periwinkle"
+    ],
+    "names": [
+      "Periwinkle"
+    ]
+  }
+]

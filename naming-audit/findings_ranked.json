@@ -1,0 +1,4688 @@
+{
+ "counts": {
+  "raw": 2082,
+  "verified_unique": 1557,
+  "actionable": 1461,
+  "by_status": {
+   "GAP": 1302,
+   "DIVERGENT": 123,
+   "BURIED/NOISE": 21,
+   "OK": 107,
+   "BAD-TARGET": 4
+  }
+ },
+ "top_actionable": [
+  {
+   "query": "helichrysum",
+   "targets": [
+    "Apricot Strawflower",
+    "Pink Strawflower",
+    "Purple Strawflower",
+    "Red Strawflower",
+    "Strawflower",
+    "White Strawflower",
+    "Yellow Strawflower"
+   ],
+   "buckets": [
+    "botanical-genus"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Former genus for Xerochrysum strawflower; still the retail search term.",
+    "Old genus Helichrysum bracteatum for strawflower; also used for licorice plant (not carried here)",
+    "strawflower's former genus still widely sold as; Helichrysum also means the silver licorice plant we do not carry"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Apricot Strawflower",
+    "Pink Strawflower",
+    "Purple Strawflower",
+    "Red Strawflower",
+    "Strawflower",
+    "White Strawflower",
+    "Yellow Strawflower"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "johnny jump up",
+   "targets": [
+    "Pansy",
+    "Sorbet Viola",
+    "Yellow Viola"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Johnny jump up is Viola tricolor/cornuta; we carry violas but no tricolor commonName, closest are the viola entries",
+    "Viola tricolor common name; catalog has Pansy/Viola cultivars.",
+    "the ubiquitous common name for small Viola cornuta/tricolor"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Pansy",
+    "Sorbet Viola",
+    "Yellow Viola"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "pot marigold",
+   "targets": [
+    "Apricot Calendula",
+    "Calendula",
+    "Yellow Calendula"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Calendula common name (distinct from Tagetes marigold).",
+    "Pot marigold = Calendula, not Tagetes; text not present",
+    "the standard common name for Calendula; some shoppers mean Tagetes"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Apricot Calendula",
+    "Calendula",
+    "Yellow Calendula"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "bellflower",
+   "targets": [
+    "Blue Canterbury Bells",
+    "Canterbury Bells",
+    "Lavender Canterbury Bells",
+    "Pink Canterbury Bells",
+    "White Canterbury Bells"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Bellflower is the genus common name for Campanula; we only carry Canterbury Bells",
+    "Campanula common name; only Canterbury Bells carried in text.",
+    "the genus common name for Campanula; we carry Campanula only as Canterbury Bells here"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Blue Canterbury Bells",
+    "Canterbury Bells",
+    "Lavender Canterbury Bells",
+    "Pink Canterbury Bells",
+    "White Canterbury Bells"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "black eyed susans",
+   "targets": [
+    "Black-Eyed Susan",
+    "Black-Eyed Susan Vine",
+    "Goldsturm"
+   ],
+   "buckets": [
+    "plural-format"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Plural + no-hyphen; both Rudbeckia and the Thunbergia vine",
+    "hyphen dropped + plural",
+    "plural + hyphen; also the vine"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Black-Eyed Susan",
+    "Black-Eyed Susan Vine",
+    "Goldsturm"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "elephant ears",
+   "targets": [
+    "Bergenia",
+    "Elephant Ear"
+   ],
+   "buckets": [
+    "alt-common-name",
+    "plural-format"
+   ],
+   "freqs": [
+    "med",
+    "high",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Bergenia is called elephant's ears, but 'Elephant Ear' in catalog is Colocasia - unrelated plants",
+    "Plural adds trailing s not in catalog's Elephant Ear.",
+    "plural; not a substring of 'elephant ear'"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Bergenia",
+    "Elephant Ear"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "rose mallow",
+   "targets": [
+    "Hardy Hibiscus",
+    "Lady Baltimore",
+    "Lord Baltimore",
+    "Luna White",
+    "Midnight Marvel",
+    "Rose of Sharon"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med",
+    "med",
+    "high"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "'rose mallow' is used for both the shrub Hibiscus syriacus and the perennial Hibiscus moscheutos",
+    "Common name for Hibiscus moscheutos",
+    "common name for Hibiscus moscheutos; category 'Hardy Hibiscus', phrase absent"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Hardy Hibiscus",
+    "Lady Baltimore",
+    "Lord Baltimore",
+    "Luna White",
+    "Midnight Marvel",
+    "Rose of Sharon"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "natchez crape myrtle",
+   "targets": [
+    "Natchez"
+   ],
+   "buckets": [
+    "cultivar-trade"
+   ],
+   "freqs": [
+    "high",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "'Natchez' is both a Lagerstroemia and a Philadelphus mock orange; the qualifier means the crape myrtle. 'crape myrtle' absent from Latin botanical",
+    "category not searched in browse and not contiguous in picker; two 'Natchez' (crape myrtle + mock orange)"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Natchez"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "natchez crepe myrtle",
+   "targets": [
+    "Natchez"
+   ],
+   "buckets": [
+    "cultivar-trade",
+    "misspelling"
+   ],
+   "freqs": [
+    "high",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "crepe misspelling; Natchez also a mock orange cultivar",
+    "crepe spelling + type combo; shared 'Natchez' name"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Natchez"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "snowball bush",
+   "targets": [
+    "European Snowball",
+    "Smooth Hydrangea"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Viburnum opulus 'Roseum' (European Snowball) and Hydrangea arborescens Annabelle both called snowball bush.",
+    "classic Viburnum opulus name; also used for Annabelle hydrangea",
+    "classic vernacular for Viburnum opulus 'Roseum'; 'bush' not adjacent to 'Snowball' (an Agapanthus 'Snowball' also exists but not called snowball bush)"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "European Snowball",
+    "Smooth Hydrangea"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "stonecrop",
+   "targets": [
+    "Autumn Fire",
+    "Autumn Joy Sedum",
+    "Brilliant Sedum",
+    "Creeping Sedum",
+    "Matrona",
+    "Neon Sedum"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "high",
+    "med",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Primary common name for Sedum/Hylotelephium; word absent",
+    "Stonecrop common name for Sedum/Hylotelephium; absent from Hylotelephium name/botanical",
+    "Universal vernacular for Sedum/Hylotelephium; word absent from all catalog text so returns nothing today.",
+    "stonecrop = Sedum; we carry many sedums, none say stonecrop"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Autumn Fire",
+    "Autumn Joy Sedum",
+    "Brilliant Sedum",
+    "Creeping Sedum",
+    "Matrona",
+    "Neon Sedum"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "cranesbill",
+   "targets": [
+    "Biokovo",
+    "Brookside",
+    "Hardy Geranium",
+    "Johnson's Blue",
+    "Rozanne"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "high",
+    "high",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Cranesbill is the common name for hardy Geranium; category is 'Hardy Geranium', word absent",
+    "Standard name for true hardy Geranium; not in any name/botanical text.",
+    "THE common name for hardy geranium; word absent from all entries",
+    "cranesbill = true hardy Geranium"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Biokovo",
+    "Brookside",
+    "Hardy Geranium",
+    "Johnson's Blue",
+    "Rozanne"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "tickseed",
+   "targets": [
+    "Coreopsis",
+    "Mercury Rising",
+    "Moonbeam",
+    "Route 66",
+    "Zagreb"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "high",
+    "high",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Primary common name for Coreopsis; word absent",
+    "Tickseed is the standard common name for Coreopsis; word absent from name/botanical/category",
+    "Ubiquitous common name for Coreopsis; absent from text.",
+    "tickseed = Coreopsis"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Coreopsis",
+    "Mercury Rising",
+    "Moonbeam",
+    "Route 66",
+    "Zagreb"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "lambs ear",
+   "targets": [
+    "Lamb's Ear"
+   ],
+   "buckets": [
+    "plural-format"
+   ],
+   "freqs": [
+    "med",
+    "high",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "No-apostrophe form misses catalog's Lamb's Ear.",
+    "apostrophe dropped from Stachys 'Lamb's Ear'",
+    "apostrophe: lamb's ear vs lambs ear"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Lamb's Ear"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "bergamot",
+   "targets": [
+    "Bee Balm",
+    "Jacob Cline",
+    "Marshall's Delight",
+    "Raspberry Wine"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med",
+    "med",
+    "med",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Bergamot common name for Monarda; category 'Bee Balm', word absent",
+    "Classic vernacular for Monarda (wild bergamot); Monarda text only says Bee Balm.",
+    "Common name for Monarda",
+    "Monarda alt name"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Bee Balm",
+    "Jacob Cline",
+    "Marshall's Delight",
+    "Raspberry Wine"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "black eyed susan",
+   "targets": [
+    "Black-Eyed Susan",
+    "Black-Eyed Susan Vine",
+    "Goldsturm",
+    "Prairie Sun",
+    "Toto Gold"
+   ],
+   "buckets": [
+    "alt-common-name",
+    "plural-format"
+   ],
+   "freqs": [
+    "high",
+    "high",
+    "high",
+    "high",
+    "high",
+    "high"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "No-hyphen version fails against hyphenated 'Black-Eyed Susan'; also matches the unrelated Thunbergia vine",
+    "Spaced form misses hyphenated Black-Eyed Susan; also names Thunbergia (Black-Eyed Susan Vine).",
+    "hyphen dropped; stored 'Black-Eyed' so the space breaks the substring. Name is both Rudbeckia (perennial) and Thunbergia (the vine); we carry both",
+    "hyphen in 'Black-Eyed Susan' breaks the spaced query; also matches the unrelated Thunbergia 'Black-Eyed Susan Vine'",
+    "hyphen: picker fails 'black eyed susan'; also Thunbergia vine",
+    "same name for two unrelated plants: Rudbeckia (perennial) and Thunbergia alata (vine); the missing hyphen also breaks the picker for both"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 2,
+   "target_hit_picker": false,
+   "target_hit_browse": true,
+   "real_targets": [
+    "Black-Eyed Susan",
+    "Black-Eyed Susan Vine",
+    "Goldsturm",
+    "Prairie Sun",
+    "Toto Gold"
+   ],
+   "status": "DIVERGENT",
+   "picker_sample": [],
+   "browse_sample": [
+    "Black-Eyed Susan",
+    "Black-Eyed Susan Vine"
+   ]
+  },
+  {
+   "query": "endless summer",
+   "targets": [
+    "Bigleaf Hydrangea"
+   ],
+   "buckets": [
+    "brand-series"
+   ],
+   "freqs": [
+    "high",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Endless Summer hydrangea series - not in data",
+    "reblooming mophead brand; series not carried, maps to bigleaf"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Bigleaf Hydrangea"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "million bells",
+   "targets": [
+    "Calibrachoa",
+    "Superbells Blue",
+    "Superbells Pink",
+    "Superbells Red",
+    "Superbells White",
+    "Superbells Yellow"
+   ],
+   "buckets": [
+    "alt-common-name",
+    "brand-series"
+   ],
+   "freqs": [
+    "med",
+    "high",
+    "high",
+    "high",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Calibrachoa common trade name",
+    "Dominant retail name for Calibrachoa; text uses Calibrachoa/Superbells only.",
+    "Million Bells is the dominant retail name for Calibrachoa",
+    "Million Bells is the near-universal trade name for Calibrachoa; not in our text (we use Superbells)",
+    "Suntory calibrachoa brand; maps to genus"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Calibrachoa",
+    "Superbells Blue",
+    "Superbells Pink",
+    "Superbells Red",
+    "Superbells White",
+    "Superbells Yellow"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "encore azalea",
+   "targets": [
+    "Azalea",
+    "Encore Autumn Amethyst"
+   ],
+   "buckets": [
+    "brand-series"
+   ],
+   "freqs": [
+    "med",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Encore is the reblooming azalea series; 'azalea' absent from botanical Rhododendron",
+    "reblooming azalea series"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Azalea",
+    "Encore Autumn Amethyst"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "hydrangia",
+   "targets": [
+    "Bigleaf Hydrangea",
+    "Oakleaf Hydrangea",
+    "Panicle Hydrangea",
+    "Smooth Hydrangea"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "high",
+    "high",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "genus-wide misspelling; no bare 'Hydrangea' commonName to catch it",
+    "hydrangea misspelling",
+    "very common ea->ia phonetic misspelling; botanical 'Hydrangea' won't substring-match"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Bigleaf Hydrangea",
+    "Oakleaf Hydrangea",
+    "Panicle Hydrangea",
+    "Smooth Hydrangea"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "echinacia",
+   "targets": [
+    "Cheyenne Spirit",
+    "Magnus",
+    "Purple Coneflower",
+    "White Swan"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "med",
+    "med",
+    "high",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Common misspelling of Echinacea",
+    "ea->ia; botanical Echinacea won't match",
+    "echinacea misspelling",
+    "very common misspelling of echinacea"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Cheyenne Spirit",
+    "Magnus",
+    "Purple Coneflower",
+    "White Swan"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "fuschia",
+   "targets": [
+    "Dark Eyes",
+    "Fuchsia",
+    "Gartenmeister",
+    "Marinka",
+    "Pink Marshmallow",
+    "Swingtime",
+    "Voodoo Fuchsia"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "high",
+    "high",
+    "high",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "The single most common misspelling of fuchsia; letter order differs so it never matches",
+    "fuchsia's most common misspelling",
+    "the classic fuchsia misspelling (sch transposition)",
+    "the single most common misspelling of fuchsia (letters transposed)"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Dark Eyes",
+    "Fuchsia",
+    "Gartenmeister",
+    "Marinka",
+    "Pink Marshmallow",
+    "Swingtime",
+    "Voodoo Fuchsia"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "lavendar",
+   "targets": [
+    "English Lavender",
+    "French Lavender",
+    "Grosso",
+    "Hidcote",
+    "Lavender",
+    "Munstead",
+    "Phenomenal",
+    "Provence",
+    "Spanish Lavender"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "high",
+    "high",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "The single most common lavender misspelling; 'lavendar' is not a substring of 'lavender/lavandula' so ALL lavender returns nothing.",
+    "er->ar, one of the most common plant misspellings",
+    "lavender misspelling"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "French Lavender",
+    "Grosso",
+    "Hidcote",
+    "Lavender",
+    "Munstead",
+    "Phenomenal",
+    "Provence",
+    "Spanish Lavender"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "crysanthemum",
+   "targets": [
+    "Garden Mum"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "med",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "chrysanthemum misspelling",
+    "dropped h; botanical Chrysanthemum won't match"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Garden Mum"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "dalia",
+   "targets": [
+    "Dahlia"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "med",
+    "med",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "common dropped-H misspelling of dahlia",
+    "dahlia misspelling",
+    "dropped h, extremely common"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Dahlia"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "rhododendrun",
+   "targets": [
+    "Rhododendron"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "low",
+    "med",
+    "high",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "high-frequency ending misspelling",
+    "o->u ending, very common",
+    "rhododendron misspelling",
+    "very common vowel misspelling"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Rhododendron"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "treasure flower",
+   "targets": [
+    "Bronze Gazania",
+    "Gazania",
+    "Pink Gazania",
+    "Red Gazania",
+    "Tiger Stripe Gazania",
+    "White Gazania",
+    "Yellow Gazania"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "low"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Gazania common name.",
+    "Treasure flower is the standard common name for Gazania",
+    "the standard common name for Gazania rigens; not in any of our names"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Bronze Gazania",
+    "Gazania",
+    "Pink Gazania",
+    "Red Gazania",
+    "Tiger Stripe Gazania",
+    "White Gazania",
+    "Yellow Gazania"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "gazanias",
+   "targets": [
+    "Gazania"
+   ],
+   "buckets": [
+    "plural-format"
+   ],
+   "freqs": [
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "plural adds trailing s not present in 'gazania'"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Gazania"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "zonal geranium",
+   "targets": [
+    "Coral Geranium",
+    "Geranium (Annual)",
+    "Pink Geranium",
+    "Salmon Geranium",
+    "White Geranium"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Pelargonium x hortorum trade name; matches 'geranium' but zonal qualifier is distinct.",
+    "Zonal geranium is the trade name for upright Pelargonium x hortorum",
+    "the horticultural type name for upright Pelargonium hortorum bedding geraniums"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Coral Geranium",
+    "Geranium (Annual)",
+    "Pink Geranium",
+    "Salmon Geranium",
+    "White Geranium"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "gerbera daisies",
+   "targets": [
+    "Gerbera Daisy"
+   ],
+   "buckets": [
+    "plural-format"
+   ],
+   "freqs": [
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "plural form breaks substring match"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Gerbera Daisy"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "lisianthis",
+   "targets": [
+    "Lisianthus"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "lisianthus is hard to spell; -is ending common"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Lisianthus"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "marguarite daisy",
+   "targets": [
+    "Marguerite Daisy"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "marguerite is very commonly misspelled"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Marguerite Daisy"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "fushia",
+   "targets": [
+    "Fuchsia",
+    "Marinka",
+    "Swingtime"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "high",
+    "high",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Extremely common fuchsia misspelling",
+    "dropped c",
+    "very common phonetic misspelling"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Fuchsia",
+    "Marinka",
+    "Swingtime"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "flowering kale",
+   "targets": [
+    "Chidori Kale",
+    "Nagoya Red Kale",
+    "Ornamental Kale",
+    "Pink Ornamental Kale",
+    "White Ornamental Kale"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Flowering kale is the common retail synonym for ornamental kale",
+    "the most common retail name for Brassica oleracea ornamental kale"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Chidori Kale",
+    "Nagoya Red Kale",
+    "Ornamental Kale",
+    "Pink Ornamental Kale",
+    "White Ornamental Kale"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "flowering cabbage",
+   "targets": [
+    "Ornamental Kale",
+    "Pink Ornamental Kale",
+    "White Ornamental Kale"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Brassica; text says Ornamental Kale.",
+    "Rounded-leaf form of the same ornamental Brassica",
+    "same species sold as flowering/ornamental cabbage; we have no separate cabbage entry"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Ornamental Kale",
+    "Pink Ornamental Kale",
+    "White Ornamental Kale"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "ornamental cabbage",
+   "targets": [
+    "Ornamental Kale",
+    "Pink Ornamental Kale",
+    "White Ornamental Kale"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Brassica; text says Kale not cabbage.",
+    "Same Brassica oleracea sold as ornamental cabbage",
+    "retail synonym for the frilly Brassica"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Ornamental Kale",
+    "Pink Ornamental Kale",
+    "White Ornamental Kale"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "surfinia",
+   "targets": [
+    "Petunia",
+    "Pink Petunia",
+    "Purple Wave"
+   ],
+   "buckets": [
+    "brand-series"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Suntory trailing petunia; series not carried, maps to genus",
+    "Surfinia is the original trailing petunia brand; not in our catalog text",
+    "Surfinia is the original trailing petunia series, huge in UK/EU"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Petunia",
+    "Pink Petunia",
+    "Purple Wave"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "wave petunias",
+   "targets": [
+    "Purple Wave"
+   ],
+   "buckets": [
+    "brand-series"
+   ],
+   "freqs": [
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Wave series; plural 'petunias' breaks the match even though 'Purple Wave' exists"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Purple Wave"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "sea lavender",
+   "targets": [
+    "Apricot Statice",
+    "Blue Statice",
+    "Pink Statice",
+    "Statice",
+    "White Statice",
+    "Yellow Statice"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "low"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Limonium common name.",
+    "Sea lavender is the common name for Limonium/Statice",
+    "the standard common name for Limonium sinuatum"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Apricot Statice",
+    "Blue Statice",
+    "Pink Statice",
+    "Statice",
+    "White Statice",
+    "Yellow Statice"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "zahara zinnia",
+   "targets": [
+    "Profusion Cherry",
+    "Profusion White",
+    "Zinnia"
+   ],
+   "buckets": [
+    "brand-series"
+   ],
+   "freqs": [
+    "high",
+    "low"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Zahara is a leading disease-resistant zinnia series not in our text",
+    "Zahara is a major disease-resistant zinnia series"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Profusion Cherry",
+    "Profusion White",
+    "Zinnia"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "zinia",
+   "targets": [
+    "Coral Zinnia",
+    "Orange Zinnia",
+    "Pink Zinnia",
+    "White Zinnia",
+    "Yellow Zinnia",
+    "Zinnia"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Single-n misspelling of zinnia",
+    "single n, very common; botanical Zinnia has nn",
+    "single-n misspelling is very common"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Coral Zinnia",
+    "Orange Zinnia",
+    "Pink Zinnia",
+    "White Zinnia",
+    "Yellow Zinnia",
+    "Zinnia"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "floss flower",
+   "targets": [
+    "Ageratum",
+    "Blue Horizon",
+    "Pink Ageratum",
+    "Purple Ageratum",
+    "White Ageratum"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Floss flower is the standard common name for Ageratum",
+    "the standard common name for Ageratum houstonianum"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Ageratum",
+    "Blue Horizon",
+    "Pink Ageratum",
+    "Purple Ageratum",
+    "White Ageratum"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "flox",
+   "targets": [
+    "Annual Phlox",
+    "Creeping Phlox",
+    "David",
+    "Garden Phlox"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "phonetic misspelling of phlox (silent p); not a substring",
+    "phonetic; stored 'Phlox' won't match 'flox'",
+    "very common phonetic misspelling of phlox; matches none of our phlox text"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Annual Phlox",
+    "Creeping Phlox",
+    "David",
+    "Garden Phlox"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "cornflower",
+   "targets": [
+    "Bachelor's Button",
+    "Black Ball",
+    "Pink Bachelor's Button",
+    "Purple Bachelor's Button",
+    "Red Boy",
+    "White Bachelor's Button"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "high",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Centaurea cyanus; catalog only says Bachelor's Button.",
+    "Cornflower is the #1 alternate name for Centaurea cyanus; absent from name/botanical",
+    "the dominant common name for Centaurea cyanus; appears nowhere in our catalog"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Bachelor's Button",
+    "Black Ball",
+    "Pink Bachelor's Button",
+    "Purple Bachelor's Button",
+    "Red Boy",
+    "White Bachelor's Button"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "bachelors button",
+   "targets": [
+    "Bachelor's Button",
+    "Pink Bachelor's Button",
+    "Purple Bachelor's Button",
+    "White Bachelor's Button"
+   ],
+   "buckets": [
+    "plural-format"
+   ],
+   "freqs": [
+    "high",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "No-apostrophe form fails the literal substring match on Bachelor's Button",
+    "no-apostrophe form fails substring test"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Bachelor's Button",
+    "Pink Bachelor's Button",
+    "Purple Bachelor's Button",
+    "White Bachelor's Button"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "busy lizzie",
+   "targets": [
+    "Impatiens",
+    "Lavender Impatiens",
+    "Red Impatiens",
+    "Rose Impatiens",
+    "Salmon Impatiens",
+    "Scarlet Impatiens",
+    "Violet Impatiens",
+    "White Impatiens"
+   ],
+   "buckets": [
+    "alt-common-name",
+    "regional"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "British common name for Impatiens walleriana.",
+    "Busy Lizzie is the dominant UK common name for Impatiens walleriana",
+    "the dominant UK/vernacular common name for Impatiens walleriana"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Impatiens",
+    "Lavender Impatiens",
+    "Red Impatiens",
+    "Rose Impatiens",
+    "Salmon Impatiens",
+    "Scarlet Impatiens",
+    "Violet Impatiens",
+    "White Impatiens"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "impatience",
+   "targets": [
+    "Impatiens"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "high",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Very common misspelling of impatiens",
+    "spelling it like the English word 'impatience' is extremely common; not a substring of 'impatiens'"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Impatiens"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "begonias",
+   "targets": [
+    "Begonia"
+   ],
+   "buckets": [
+    "plural-format"
+   ],
+   "freqs": [
+    "high",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "plural s absent from 'Begonia'",
+    "plural; commonName Begonia has no s"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Begonia"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "four oclock",
+   "targets": [
+    "Four O'Clock",
+    "Magenta Four O'Clock",
+    "Marbles",
+    "Red Four O'Clock",
+    "White Four O'Clock",
+    "Yellow Four O'Clock"
+   ],
+   "buckets": [
+    "plural-format"
+   ],
+   "freqs": [
+    "high",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "No-apostrophe form fails literal match on Four O'Clock",
+    "apostrophe in 'Four O'Clock' breaks the no-apostrophe query"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Four O'Clock",
+    "Magenta Four O'Clock",
+    "Marbles",
+    "Red Four O'Clock",
+    "White Four O'Clock",
+    "Yellow Four O'Clock"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "sunflowers",
+   "targets": [
+    "Sunflower"
+   ],
+   "buckets": [
+    "plural-format"
+   ],
+   "freqs": [
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "plural s absent from 'Sunflower'"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Sunflower"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "american marigold",
+   "targets": [
+    "African Marigold",
+    "Marigold"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Tagetes erecta is sold as both African and American marigold",
+    "US retail name for Tagetes erecta (African Marigold)"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "African Marigold",
+    "Marigold"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "allysum",
+   "targets": [
+    "Sweet Alyssum"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "very common double-l misspelling of alyssum"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Sweet Alyssum"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "sweet peas",
+   "targets": [
+    "Sweet Pea"
+   ],
+   "buckets": [
+    "plural-format"
+   ],
+   "freqs": [
+    "high",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "plural s absent from 'Sweet Pea'",
+    "plural; commonName/tag 'Sweet Pea' has no s so 'peas' fails"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Sweet Pea"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "sweetpea",
+   "targets": [
+    "Cupani",
+    "Lavender Sweet Pea",
+    "Royal Blue Sweet Pea",
+    "Royal Crimson Sweet Pea",
+    "Royal White Sweet Pea",
+    "Sweet Pea"
+   ],
+   "buckets": [
+    "plural-format"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "One-word form won't match the spaced Sweet Pea commonName",
+    "no space; stored with space",
+    "one-word form breaks the spaced match"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Cupani",
+    "Lavender Sweet Pea",
+    "Royal Blue Sweet Pea",
+    "Royal Crimson Sweet Pea",
+    "Royal White Sweet Pea",
+    "Sweet Pea"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "summer snapdragon",
+   "targets": [
+    "Angelface Raspberry",
+    "Angelonia",
+    "Serena Blue",
+    "Serena Purple",
+    "Serena Rose",
+    "Serena White"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Angelonia common name; text only Angelonia.",
+    "Summer snapdragon is the widely-used common name for Angelonia",
+    "the dominant retail common name for Angelonia"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Angelface Raspberry",
+    "Angelonia",
+    "Serena Blue",
+    "Serena Purple",
+    "Serena Rose",
+    "Serena White"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "calibracoa",
+   "targets": [
+    "Calibrachoa"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "high",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Dropped-h misspelling of a hard word",
+    "dropped-h; calibrachoa is very hard to spell"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Calibrachoa"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "morning glories",
+   "targets": [
+    "Morning Glory"
+   ],
+   "buckets": [
+    "plural-format"
+   ],
+   "freqs": [
+    "med",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "plural 'glories' is not a substring of 'glory'",
+    "plural form breaks 'Morning Glory' match"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Morning Glory"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "heavenly blue morning glory",
+   "targets": [
+    "Morning Glory",
+    "Pearly Gates"
+   ],
+   "buckets": [
+    "cultivar-trade"
+   ],
+   "freqs": [
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Heavenly Blue is the most famous Ipomoea tricolor cultivar; not in our text"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Morning Glory",
+    "Pearly Gates"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "ipomea",
+   "targets": [
+    "Morning Glory",
+    "Sweet Potato Vine"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "dropping an o from ipomoea is a very common misspelling"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Morning Glory",
+    "Sweet Potato Vine"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "cape daisy",
+   "targets": [
+    "African Daisy",
+    "Lavender African Daisy",
+    "Lemon African Daisy",
+    "Orange African Daisy",
+    "Pink African Daisy",
+    "White African Daisy"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "low"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Osteospermum alt name; text says African Daisy.",
+    "Standard alternate name for Osteospermum; text not in name/botanical",
+    "common name for Osteospermum"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "African Daisy",
+    "Lavender African Daisy",
+    "Lemon African Daisy",
+    "Orange African Daisy",
+    "Pink African Daisy",
+    "White African Daisy"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "scarlet sage",
+   "targets": [
+    "Salvia (Annual)"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "the standard common name for Salvia splendens"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Salvia (Annual)"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "egyptian star flower",
+   "targets": [
+    "Lavender Pentas",
+    "Pentas",
+    "Raspberry Pentas",
+    "Red Pentas",
+    "Violet Pentas",
+    "White Pentas"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "low"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Egyptian star flower/cluster is the common name for Pentas lanceolata",
+    "the common name for Pentas lanceolata"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Lavender Pentas",
+    "Pentas",
+    "Raspberry Pentas",
+    "Red Pentas",
+    "Violet Pentas",
+    "White Pentas"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "nasturtiums",
+   "targets": [
+    "Nasturtium"
+   ],
+   "buckets": [
+    "plural-format"
+   ],
+   "freqs": [
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "plural s absent from 'Nasturtium'"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Nasturtium"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "nasturtion",
+   "targets": [
+    "Empress of India",
+    "Mahogany Nasturtium",
+    "Nasturtium",
+    "Peach Melba",
+    "Salmon Nasturtium",
+    "Yellow Nasturtium"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "high",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Common phonetic misspelling of nasturtium",
+    "nasturtium is very commonly misspelled"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Empress of India",
+    "Mahogany Nasturtium",
+    "Nasturtium",
+    "Peach Melba",
+    "Salmon Nasturtium",
+    "Yellow Nasturtium"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "english marigold",
+   "targets": [
+    "Apricot Calendula",
+    "Calendula",
+    "Yellow Calendula"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "low"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Calendula officinalis alt name.",
+    "Common name for Calendula officinalis",
+    "common name for Calendula officinalis"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Apricot Calendula",
+    "Calendula",
+    "Yellow Calendula"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "impatients",
+   "targets": [
+    "Impatiens",
+    "Red Impatiens",
+    "Rose Impatiens",
+    "White Impatiens"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "high",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Extremely common misspelling; extra t means it never matches impatiens",
+    "adds t (like the word 'patients'), extremely common"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Impatiens",
+    "Red Impatiens",
+    "Rose Impatiens",
+    "White Impatiens"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "nasturium",
+   "targets": [
+    "Empress of India",
+    "Nasturtium",
+    "Yellow Nasturtium"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "high",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Very common dropped-t misspelling of nasturtium",
+    "dropped t, very common"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Empress of India",
+    "Nasturtium",
+    "Yellow Nasturtium"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "michaelmas daisy",
+   "targets": [
+    "Aster",
+    "New England Aster",
+    "October Skies",
+    "Patricia Ballard",
+    "Professor Kippenberg",
+    "Purple Dome"
+   ],
+   "buckets": [
+    "alt-common-name",
+    "regional"
+   ],
+   "freqs": [
+    "med",
+    "high",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "British name for autumn Symphyotrichum asters.",
+    "Michaelmas daisy = Symphyotrichum/Aster; phrase absent from name/botanical/category",
+    "Primary UK common name for fall asters; not in any text"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Aster",
+    "New England Aster",
+    "October Skies",
+    "Patricia Ballard",
+    "Professor Kippenberg",
+    "Purple Dome"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "aloe vera",
+   "targets": [
+    "Aloe"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Nearly everyone types 'aloe vera'; catalog commonName is just 'Aloe' so 'aloe vera' is not a substring"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Aloe"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "moss phlox",
+   "targets": [
+    "Creeping Phlox",
+    "Emerald Blue",
+    "Purple Beauty",
+    "Red Wings",
+    "Scarlet Flame"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Standard common name for Phlox subulata",
+    "common name for Phlox subulata; category 'Creeping Phlox', phrase absent"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Creeping Phlox",
+    "Emerald Blue",
+    "Purple Beauty",
+    "Red Wings",
+    "Scarlet Flame"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "lenten rose",
+   "targets": [
+    "Anna's Red",
+    "Christmas Rose",
+    "Golden Lotus",
+    "Hellebore",
+    "Onyx Odyssey",
+    "Penny's Pink",
+    "Wedding Party"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "high",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Helleborus orientalis/hybridus; text has Hellebore and Christmas Rose but not Lenten Rose.",
+    "Lenten rose = Helleborus x hybridus; category 'Hellebore', phrase absent",
+    "Primary common name for Helleborus x hybridus; text absent"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Anna's Red",
+    "Christmas Rose",
+    "Golden Lotus",
+    "Hellebore",
+    "Onyx Odyssey",
+    "Penny's Pink",
+    "Wedding Party"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "day lilies",
+   "targets": [
+    "Daylily"
+   ],
+   "buckets": [
+    "plural-format"
+   ],
+   "freqs": [
+    "high",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Two-word plural misses entirely",
+    "space split plural"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Daylily"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "stella d'oro",
+   "targets": [
+    "Stella de Oro"
+   ],
+   "buckets": [
+    "brand-series",
+    "cultivar-trade",
+    "misspelling"
+   ],
+   "freqs": [
+    "high",
+    "high",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Best-selling daylily; shoppers type 'd'oro' not the catalog 'de Oro'",
+    "common alt spelling; alias for carried cultivar",
+    "retail tags write 'Stella d'Oro' with apostrophe; our commonName is 'Stella de Oro' (de, no apostrophe) so this misses"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Stella de Oro"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "stella doro",
+   "targets": [
+    "Stella de Oro"
+   ],
+   "buckets": [
+    "cultivar-trade",
+    "misspelling"
+   ],
+   "freqs": [
+    "med",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "No-apostrophe/no-'de' variant of Stella de Oro",
+    "phonetic spelling; misses 'de oro'"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Stella de Oro"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "meadow sage",
+   "targets": [
+    "Blue Marvel",
+    "Caradonna",
+    "East Friesland",
+    "May Night",
+    "Perennial Salvia"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Meadow sage = Salvia nemorosa; category 'Salvia', 'sage' never appears",
+    "Standard common name for Salvia nemorosa"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Blue Marvel",
+    "Caradonna",
+    "East Friesland",
+    "May Night",
+    "Perennial Salvia"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "perovskia",
+   "targets": [
+    "Russian Sage"
+   ],
+   "buckets": [
+    "botanical-genus"
+   ],
+   "freqs": [
+    "med",
+    "high",
+    "med"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Former genus for Russian Sage (now Salvia); shoppers still search it.",
+    "Former genus of Russian Sage (now Salvia yangii); shoppers still type Perovskia",
+    "former/retail genus name for Russian Sage; now Salvia yangii so it returns nothing"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Russian Sage"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "gallardia",
+   "targets": [
+    "Arizona Sun",
+    "Blanket Flower",
+    "Mesa Yellow"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "med",
+    "med",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Dropped-i misspelling of Gaillardia",
+    "common misspelling of Gaillardia",
+    "single i; botanical Gaillardia (ai) won't match"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Arizona Sun",
+    "Blanket Flower",
+    "Mesa Yellow"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "delphenium",
+   "targets": [
+    "Delphinium"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "med",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Common vowel misspelling",
+    "i->e second syllable, very common"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Delphinium"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "huechera",
+   "targets": [
+    "Coral Bells",
+    "Marmalade",
+    "Obsidian",
+    "Palace Purple",
+    "Plum Pudding"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "med",
+    "med",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Very common transposed-vowel misspelling of Heuchera",
+    "common transposition misspelling of Heuchera",
+    "eu->ue transposition; botanical Heuchera won't match"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Coral Bells",
+    "Marmalade",
+    "Obsidian",
+    "Palace Purple",
+    "Plum Pudding"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "milkweed",
+   "targets": [
+    "Butterfly Weed"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "high"
+   ],
+   "ambiguous": false,
+   "notes": [
+    "Asclepias = milkweed; 'milkweed' absent from 'Butterfly Weed / Asclepias tuberosa'",
+    "Asclepias is the milkweed; we carry Butterfly Weed (A. tuberosa) but text never says milkweed.",
+    "Asclepias tuberosa is widely called milkweed; catalog only stores 'Butterfly Weed'"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Butterfly Weed"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  }
+ ],
+ "ambiguous": [
+  {
+   "query": "helichrysum",
+   "targets": [
+    "Apricot Strawflower",
+    "Pink Strawflower",
+    "Purple Strawflower",
+    "Red Strawflower",
+    "Strawflower",
+    "White Strawflower",
+    "Yellow Strawflower"
+   ],
+   "buckets": [
+    "botanical-genus"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Former genus for Xerochrysum strawflower; still the retail search term.",
+    "Old genus Helichrysum bracteatum for strawflower; also used for licorice plant (not carried here)",
+    "strawflower's former genus still widely sold as; Helichrysum also means the silver licorice plant we do not carry"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Apricot Strawflower",
+    "Pink Strawflower",
+    "Purple Strawflower",
+    "Red Strawflower",
+    "Strawflower",
+    "White Strawflower",
+    "Yellow Strawflower"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "johnny jump up",
+   "targets": [
+    "Pansy",
+    "Sorbet Viola",
+    "Yellow Viola"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Johnny jump up is Viola tricolor/cornuta; we carry violas but no tricolor commonName, closest are the viola entries",
+    "Viola tricolor common name; catalog has Pansy/Viola cultivars.",
+    "the ubiquitous common name for small Viola cornuta/tricolor"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Pansy",
+    "Sorbet Viola",
+    "Yellow Viola"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "pot marigold",
+   "targets": [
+    "Apricot Calendula",
+    "Calendula",
+    "Yellow Calendula"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Calendula common name (distinct from Tagetes marigold).",
+    "Pot marigold = Calendula, not Tagetes; text not present",
+    "the standard common name for Calendula; some shoppers mean Tagetes"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Apricot Calendula",
+    "Calendula",
+    "Yellow Calendula"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "bellflower",
+   "targets": [
+    "Blue Canterbury Bells",
+    "Canterbury Bells",
+    "Lavender Canterbury Bells",
+    "Pink Canterbury Bells",
+    "White Canterbury Bells"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Bellflower is the genus common name for Campanula; we only carry Canterbury Bells",
+    "Campanula common name; only Canterbury Bells carried in text.",
+    "the genus common name for Campanula; we carry Campanula only as Canterbury Bells here"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Blue Canterbury Bells",
+    "Canterbury Bells",
+    "Lavender Canterbury Bells",
+    "Pink Canterbury Bells",
+    "White Canterbury Bells"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "black eyed susans",
+   "targets": [
+    "Black-Eyed Susan",
+    "Black-Eyed Susan Vine",
+    "Goldsturm"
+   ],
+   "buckets": [
+    "plural-format"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Plural + no-hyphen; both Rudbeckia and the Thunbergia vine",
+    "hyphen dropped + plural",
+    "plural + hyphen; also the vine"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Black-Eyed Susan",
+    "Black-Eyed Susan Vine",
+    "Goldsturm"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "elephant ears",
+   "targets": [
+    "Bergenia",
+    "Elephant Ear"
+   ],
+   "buckets": [
+    "alt-common-name",
+    "plural-format"
+   ],
+   "freqs": [
+    "med",
+    "high",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Bergenia is called elephant's ears, but 'Elephant Ear' in catalog is Colocasia - unrelated plants",
+    "Plural adds trailing s not in catalog's Elephant Ear.",
+    "plural; not a substring of 'elephant ear'"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Bergenia",
+    "Elephant Ear"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "rose mallow",
+   "targets": [
+    "Hardy Hibiscus",
+    "Lady Baltimore",
+    "Lord Baltimore",
+    "Luna White",
+    "Midnight Marvel",
+    "Rose of Sharon"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med",
+    "med",
+    "high"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "'rose mallow' is used for both the shrub Hibiscus syriacus and the perennial Hibiscus moscheutos",
+    "Common name for Hibiscus moscheutos",
+    "common name for Hibiscus moscheutos; category 'Hardy Hibiscus', phrase absent"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Hardy Hibiscus",
+    "Lady Baltimore",
+    "Lord Baltimore",
+    "Luna White",
+    "Midnight Marvel",
+    "Rose of Sharon"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "natchez crape myrtle",
+   "targets": [
+    "Natchez"
+   ],
+   "buckets": [
+    "cultivar-trade"
+   ],
+   "freqs": [
+    "high",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "'Natchez' is both a Lagerstroemia and a Philadelphus mock orange; the qualifier means the crape myrtle. 'crape myrtle' absent from Latin botanical",
+    "category not searched in browse and not contiguous in picker; two 'Natchez' (crape myrtle + mock orange)"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Natchez"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "natchez crepe myrtle",
+   "targets": [
+    "Natchez"
+   ],
+   "buckets": [
+    "cultivar-trade",
+    "misspelling"
+   ],
+   "freqs": [
+    "high",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "crepe misspelling; Natchez also a mock orange cultivar",
+    "crepe spelling + type combo; shared 'Natchez' name"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Natchez"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "snowball bush",
+   "targets": [
+    "European Snowball",
+    "Smooth Hydrangea"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Viburnum opulus 'Roseum' (European Snowball) and Hydrangea arborescens Annabelle both called snowball bush.",
+    "classic Viburnum opulus name; also used for Annabelle hydrangea",
+    "classic vernacular for Viburnum opulus 'Roseum'; 'bush' not adjacent to 'Snowball' (an Agapanthus 'Snowball' also exists but not called snowball bush)"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "European Snowball",
+    "Smooth Hydrangea"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "black eyed susan",
+   "targets": [
+    "Black-Eyed Susan",
+    "Black-Eyed Susan Vine",
+    "Goldsturm",
+    "Prairie Sun",
+    "Toto Gold"
+   ],
+   "buckets": [
+    "alt-common-name",
+    "plural-format"
+   ],
+   "freqs": [
+    "high",
+    "high",
+    "high",
+    "high",
+    "high",
+    "high"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "No-hyphen version fails against hyphenated 'Black-Eyed Susan'; also matches the unrelated Thunbergia vine",
+    "Spaced form misses hyphenated Black-Eyed Susan; also names Thunbergia (Black-Eyed Susan Vine).",
+    "hyphen dropped; stored 'Black-Eyed' so the space breaks the substring. Name is both Rudbeckia (perennial) and Thunbergia (the vine); we carry both",
+    "hyphen in 'Black-Eyed Susan' breaks the spaced query; also matches the unrelated Thunbergia 'Black-Eyed Susan Vine'",
+    "hyphen: picker fails 'black eyed susan'; also Thunbergia vine",
+    "same name for two unrelated plants: Rudbeckia (perennial) and Thunbergia alata (vine); the missing hyphen also breaks the picker for both"
+   ],
+   "freq": "high",
+   "picker_n": 0,
+   "browse_n": 2,
+   "target_hit_picker": false,
+   "target_hit_browse": true,
+   "real_targets": [
+    "Black-Eyed Susan",
+    "Black-Eyed Susan Vine",
+    "Goldsturm",
+    "Prairie Sun",
+    "Toto Gold"
+   ],
+   "status": "DIVERGENT",
+   "picker_sample": [],
+   "browse_sample": [
+    "Black-Eyed Susan",
+    "Black-Eyed Susan Vine"
+   ]
+  },
+  {
+   "query": "cherry blossom",
+   "targets": [
+    "Yoshino Cherry",
+    "Kwanzan Cherry",
+    "Flowering Cherry",
+    "Akebono Cherry"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "picker today wrongly hits Delphinium 'Magic Fountains Cherry Blossom'; shopper means the flowering cherry trees"
+   ],
+   "freq": "high",
+   "picker_n": 1,
+   "browse_n": 1,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Yoshino Cherry",
+    "Kwanzan Cherry",
+    "Flowering Cherry",
+    "Akebono Cherry"
+   ],
+   "status": "BURIED/NOISE",
+   "picker_sample": [
+    "Magic Fountains Cherry Blossom"
+   ],
+   "browse_sample": [
+    "Magic Fountains Cherry Blossom"
+   ]
+  },
+  {
+   "query": "black-eyed susan",
+   "targets": [
+    "Black-Eyed Susan",
+    "Black-Eyed Susan Vine"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Rudbeckia AND Thunbergia alata vine"
+   ],
+   "freq": "high",
+   "picker_n": 17,
+   "browse_n": 2,
+   "target_hit_picker": true,
+   "target_hit_browse": true,
+   "real_targets": [
+    "Black-Eyed Susan",
+    "Black-Eyed Susan Vine"
+   ],
+   "status": "OK",
+   "picker_sample": [
+    "Black-Eyed Susan",
+    "Goldsturm",
+    "American Gold Rush",
+    "Indian Summer",
+    "Cherry Brandy"
+   ],
+   "browse_sample": [
+    "Black-Eyed Susan",
+    "Black-Eyed Susan Vine"
+   ]
+  },
+  {
+   "query": "mum",
+   "targets": [
+    "Garden Mum"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "picker 'mum' also matches Leucanthemum (Shasta Daisy) - noise"
+   ],
+   "freq": "high",
+   "picker_n": 35,
+   "browse_n": 35,
+   "target_hit_picker": true,
+   "target_hit_browse": true,
+   "real_targets": [
+    "Garden Mum"
+   ],
+   "status": "OK",
+   "picker_sample": [
+    "Shasta Daisy",
+    "Becky",
+    "Alaska",
+    "Snowcap",
+    "Banana Cream"
+   ],
+   "browse_sample": [
+    "Shasta Daisy",
+    "Becky",
+    "Alaska",
+    "Snowcap",
+    "Banana Cream"
+   ]
+  },
+  {
+   "query": "moss rose",
+   "targets": [
+    "Duchesse de Verneuil (Moss Rose)",
+    "Magenta Portulaca",
+    "Pink Portulaca",
+    "Portulaca",
+    "Red Portulaca",
+    "White Portulaca",
+    "Yellow Portulaca"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "high",
+    "high",
+    "high"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "'Moss rose' most often means Portulaca grandiflora (the annual succulent) for a home gardener, but is also the botanical class of Duchesse de Verneuil (which has '(Moss Rose)' in its name). Portulaca entries have no 'moss rose' text so they MISS today; the query currently resolves only to the Duchesse rose - the wrong plant for most shoppers.",
+    "Moss rose is the #1 retail common name for Portulaca grandiflora",
+    "Portulaca grandiflora common name.",
+    "the #1 common name for Portulaca grandiflora, but 'moss rose' also names our old-rose 'Duchesse de Verneuil (Moss Rose)', which the search hits instead"
+   ],
+   "freq": "high",
+   "picker_n": 1,
+   "browse_n": 1,
+   "target_hit_picker": true,
+   "target_hit_browse": true,
+   "real_targets": [
+    "Duchesse de Verneuil (Moss Rose)",
+    "Magenta Portulaca",
+    "Pink Portulaca",
+    "Portulaca",
+    "Red Portulaca",
+    "White Portulaca",
+    "Yellow Portulaca"
+   ],
+   "status": "OK",
+   "picker_sample": [
+    "Duchesse de Verneuil (Moss Rose)"
+   ],
+   "browse_sample": [
+    "Duchesse de Verneuil (Moss Rose)"
+   ]
+  },
+  {
+   "query": "periwinkle",
+   "targets": [
+    "Periwinkle",
+    "Vinca"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "high"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Both perennial Vinca minor (our commonName Periwinkle) and annual Catharanthus (our Vinca); query only reaches Periwinkle today",
+    "annual bedding Vinca (Catharanthus) is called periwinkle, but the search hits our perennial 'Periwinkle' (Vinca minor) groundcover instead"
+   ],
+   "freq": "high",
+   "picker_n": 1,
+   "browse_n": 1,
+   "target_hit_picker": true,
+   "target_hit_browse": true,
+   "real_targets": [
+    "Periwinkle",
+    "Vinca"
+   ],
+   "status": "OK",
+   "picker_sample": [
+    "Periwinkle"
+   ],
+   "browse_sample": [
+    "Periwinkle"
+   ]
+  },
+  {
+   "query": "larkspur",
+   "targets": [
+    "Black Knight",
+    "Blue Larkspur",
+    "Delphinium",
+    "King Arthur",
+    "Larkspur"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "high",
+    "high"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Common name shared by perennial Delphinium and annual Consolida (which we carry as 'Larkspur'); Delphinium won't resolve",
+    "Larkspur resolves to the annual Consolida 'Larkspur' but NOT to the perennial Delphiniums shoppers often mean by the name"
+   ],
+   "freq": "high",
+   "picker_n": 6,
+   "browse_n": 6,
+   "target_hit_picker": true,
+   "target_hit_browse": true,
+   "real_targets": [
+    "Black Knight",
+    "Blue Larkspur",
+    "Delphinium",
+    "King Arthur",
+    "Larkspur"
+   ],
+   "status": "OK",
+   "picker_sample": [
+    "Larkspur",
+    "Blue Larkspur",
+    "White Larkspur",
+    "Pink Larkspur",
+    "Rose Larkspur"
+   ],
+   "browse_sample": [
+    "Larkspur",
+    "Blue Larkspur",
+    "White Larkspur",
+    "Pink Larkspur",
+    "Rose Larkspur"
+   ]
+  },
+  {
+   "query": "cherry truffle",
+   "targets": [
+    "Cherry Truffle"
+   ],
+   "buckets": [
+    "cultivar-trade"
+   ],
+   "freqs": [
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "a Sedum cultivar AND a Heuchera cultivar - ambiguous"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "annual delphinium",
+   "targets": [
+    "Blue Larkspur",
+    "Larkspur",
+    "Lavender Larkspur",
+    "Pink Larkspur",
+    "Rose Larkspur",
+    "White Larkspur"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med",
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Consolida (annual larkspur) is called annual delphinium.",
+    "Consolida is sold as annual delphinium; but we also carry true perennial Delphinium so intent splits",
+    "Consolida is the annual delphinium; perennial Delphinium is a separate entry"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Blue Larkspur",
+    "Larkspur",
+    "Lavender Larkspur",
+    "Pink Larkspur",
+    "Rose Larkspur",
+    "White Larkspur"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "firecracker plant",
+   "targets": [
+    "Cuphea (Cigar Plant)"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Firecracker plant commonly means Cuphea ignea; also used for Russelia (not carried)",
+    "used for Cuphea ignea but also Russelia; we carry only the Cuphea"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Cuphea (Cigar Plant)"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "trailing petunia",
+   "targets": [
+    "Calibrachoa",
+    "Petunia",
+    "Purple Wave"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Used for both spreading petunias and calibrachoa",
+    "category description a shopper types for spreading petunias"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Calibrachoa",
+    "Petunia",
+    "Purple Wave"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "purslane",
+   "targets": [
+    "Pink Portulaca",
+    "Portulaca",
+    "Red Portulaca",
+    "Yellow Portulaca"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med",
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Portulaca common name.",
+    "Purslane is Portulaca; also the edible weed P. oleracea",
+    "ornamental purslane (Portulaca umbraticola/oleracea); also the edible weed"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Pink Portulaca",
+    "Portulaca",
+    "Red Portulaca",
+    "Yellow Portulaca"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "perriwinkle",
+   "targets": [
+    "Vinca",
+    "Periwinkle"
+   ],
+   "buckets": [
+    "misspelling"
+   ],
+   "freqs": [
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "double-r misspelling; same Catharanthus/Vinca-minor split"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Vinca",
+    "Periwinkle"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "elephant ear caladium",
+   "targets": [
+    "Caladium",
+    "Elephant Ear"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "caladium is loosely called elephant ear, but the plain 'Elephant Ear' entry is our Colocasia"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Caladium",
+    "Elephant Ear"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "spider plant",
+   "targets": [
+    "Cleome"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med",
+    "low"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Cleome is sometimes called spider plant, but that name usually means Chlorophytum houseplant (not carried)",
+    "Some call Cleome spider plant, but that usually means Chlorophytum houseplant"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Cleome"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "african daisy gazania",
+   "targets": [
+    "Gazania",
+    "African Daisy"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Gazania is also called African daisy, but our 'African Daisy' entry is Osteospermum"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Gazania",
+    "African Daisy"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "cup and saucer",
+   "targets": [
+    "Canterbury Bells"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med",
+    "low"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Cup-and-saucer form of Campanula medium; also a name for Cobaea vine",
+    "cup-and-saucer form of Campanula medium; also names the Cobaea vine"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Canterbury Bells"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "angel wings",
+   "targets": [
+    "Caladium",
+    "Carolyn Whorton Caladium",
+    "Red Flash Caladium",
+    "White Christmas Caladium"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "low",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Angel wings is a common name for Caladium; also used for Senecio/Begonia",
+    "Caladium common name; text only Caladium."
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Caladium",
+    "Carolyn Whorton Caladium",
+    "Red Flash Caladium",
+    "White Christmas Caladium"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "senecio",
+   "targets": [
+    "Dusty Miller"
+   ],
+   "buckets": [
+    "botanical-genus"
+   ],
+   "freqs": [
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Former genus Senecio cineraria for Dusty Miller; Senecio also covers many succulents (not carried here)"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Dusty Miller"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "catnip",
+   "targets": [
+    "Catmint",
+    "Junior Walker",
+    "Six Hills Giant",
+    "Walker's Low"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med",
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Nepeta; catnip properly N. cataria (culinary), shoppers use it for ornamental catmint too.",
+    "Shoppers use catnip and catmint interchangeably for Nepeta",
+    "shoppers conflate ornamental catmint with catnip; 'catnip' absent (true catnip is N. cataria)"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Catmint",
+    "Junior Walker",
+    "Six Hills Giant",
+    "Walker's Low"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "blue bird rose of sharon",
+   "targets": [
+    "Blue Bird"
+   ],
+   "buckets": [
+    "cultivar-trade"
+   ],
+   "freqs": [
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "'Blue Bird' is also a Delphinium; qualifier means the Hibiscus. type phrase absent from botanical"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Blue Bird"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "pink delight butterfly bush",
+   "targets": [
+    "Pink Delight"
+   ],
+   "buckets": [
+    "cultivar-trade"
+   ],
+   "freqs": [
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "'Pink Delight' is also a Weigela; qualifier means the Buddleia. 'butterfly bush' absent from botanical"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Pink Delight"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "black knight butterfly bush",
+   "targets": [
+    "Black Knight"
+   ],
+   "buckets": [
+    "cultivar-trade"
+   ],
+   "freqs": [
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "'Black Knight' is also a Delphinium; qualifier means the Buddleia"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Black Knight"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "trumpet honeysuckle",
+   "targets": [
+    "Major Wheeler",
+    "Honeysuckle"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "L. sempervirens vernacular; note the confusable trumpet vine (Campsis)"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Major Wheeler",
+    "Honeysuckle"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "buttercup",
+   "targets": [
+    "Ranunculus"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "vernacular for Ranunculus; also a generic name for wild Ranunculus species and unrelated plants"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Ranunculus"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "naked ladies",
+   "targets": [
+    "Autumn Crocus"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med",
+    "low"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Colchicum; also used for Lycoris and Amaryllis belladonna (not carried).",
+    "vernacular for leafless-blooming Colchicum; also used for Amaryllis belladonna and Lycoris (not in catalog)"
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Autumn Crocus"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "aconite",
+   "targets": [
+    "Monkshood"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med",
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Aconite common name; not a substring of 'Aconitum' (which ends -itum)",
+    "Aconitum; note winter aconite is Eranthis (not carried)."
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Monkshood"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "moss roses",
+   "targets": [
+    "Portulaca",
+    "Magenta Portulaca",
+    "Pink Portulaca",
+    "Red Portulaca",
+    "White Portulaca",
+    "Yellow Portulaca"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Plural of the Portulaca vernacular; not in Portulaca name/botanical. Same ambiguity with the moss-class rose."
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Portulaca",
+    "Magenta Portulaca",
+    "Pink Portulaca",
+    "Red Portulaca",
+    "White Portulaca",
+    "Yellow Portulaca"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "white cedar",
+   "targets": [
+    "Arborvitae"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med",
+    "low"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Thuja occidentalis = eastern/northern white cedar; 'cedar' absent from 'Arborvitae'",
+    "Thuja occidentalis; 'cedar' also names Cedrus/Juniperus/Chamaecyparis."
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Arborvitae"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  },
+  {
+   "query": "foxtail grass",
+   "targets": [
+    "Fountain Grass"
+   ],
+   "buckets": [
+    "alt-common-name"
+   ],
+   "freqs": [
+    "med"
+   ],
+   "ambiguous": true,
+   "notes": [
+    "Swamp foxtail = Pennisetum alopecuroides; but 'foxtail' also = Setaria weeds / foxtail lily (Eremurus)."
+   ],
+   "freq": "med",
+   "picker_n": 0,
+   "browse_n": 0,
+   "target_hit_picker": false,
+   "target_hit_browse": false,
+   "real_targets": [
+    "Fountain Grass"
+   ],
+   "status": "GAP",
+   "picker_sample": [],
+   "browse_sample": []
+  }
+ ],
+ "by_bucket": {
+  "botanical-genus": {
+   "GAP": 18,
+   "OK": 1,
+   "DIVERGENT": 2
+  },
+  "alt-common-name": {
+   "GAP": 525,
+   "DIVERGENT": 25,
+   "BURIED/NOISE": 13,
+   "OK": 7
+  },
+  "plural-format": {
+   "GAP": 265,
+   "DIVERGENT": 74,
+   "BURIED/NOISE": 2,
+   "OK": 1
+  },
+  "cultivar-trade": {
+   "GAP": 150,
+   "BAD-TARGET": 1,
+   "DIVERGENT": 9,
+   "OK": 3
+  },
+  "misspelling": {
+   "GAP": 270,
+   "DIVERGENT": 7,
+   "BURIED/NOISE": 2
+  },
+  "brand-series": {
+   "GAP": 73,
+   "DIVERGENT": 7,
+   "BURIED/NOISE": 4,
+   "OK": 1
+  },
+  "regional": {
+   "GAP": 28,
+   "OK": 1,
+   "DIVERGENT": 2
+  },
+  "other": {
+   "GAP": 1
+  }
+ },
+ "alias_rows": [
+  {
+   "existing_plant": "Bigleaf Hydrangea",
+   "botanical": "Hydrangea macrophylla",
+   "proposed_aliases": "big leaf hydrangea; endless summer; endless summer hydrangea; french hydrangea; hidrangea; hortensia; hydranga; hydrangeas; hydrangia; hyrangea; lacecap; let's dance; mop head hydrangea; mophead; mophead hydrangea",
+   "buckets": "alt-common-name; brand-series; misspelling; plural-format; regional",
+   "top_freq": "high",
+   "n_aliases": 15
+  },
+  {
+   "existing_plant": "Panicle Hydrangea",
+   "botanical": "Hydrangea paniculata",
+   "proposed_aliases": "bobo; hidrangea; hydranga; hydrangeas; hydrangia; little lime; pee gee hydrangea; peegee; peegee hydrangea; pinky winky; quick fire; vanilla strawberry",
+   "buckets": "alt-common-name; brand-series; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 12
+  },
+  {
+   "existing_plant": "Hardy Hibiscus",
+   "botanical": "Hibiscus moscheutos",
+   "proposed_aliases": "dinner plate hibiscus; dinnerplate hibiscus; hibicus; hibiscous; hibsicus; hybiscus; perennial hibiscus; rose mallow; swamp hibiscus; swamp mallow; swamp rose mallow",
+   "buckets": "alt-common-name; misspelling",
+   "top_freq": "high",
+   "n_aliases": 11
+  },
+  {
+   "existing_plant": "Garden Mum",
+   "botanical": "Chrysanthemum",
+   "proposed_aliases": "chrisanthemum; chrysanthamum; chrysanthenum; crysanthemum; fall mum; garden mums; hardy chrysanthemum; hardy mum; mum; mums",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 10
+  },
+  {
+   "existing_plant": "Rhododendron",
+   "botanical": "Rhododendron",
+   "proposed_aliases": "rhodadendron; rhodedendron; rhodendron; rhododendran; rhododendrom; rhododendron bush; rhododendrons; rhododendrun; rhody; rododendron",
+   "buckets": "misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 10
+  },
+  {
+   "existing_plant": "Impatiens",
+   "botanical": "Impatiens walleriana",
+   "proposed_aliases": "beacon impatiens; busy lizzie; busy lizzy; garden balsam; impatians; impatience; impatiens flowers; impatients; patience plant; sultana",
+   "buckets": "alt-common-name; brand-series; misspelling; plural-format; regional",
+   "top_freq": "high",
+   "n_aliases": 10
+  },
+  {
+   "existing_plant": "Arborvitae",
+   "botanical": "Thuja occidentalis",
+   "proposed_aliases": "american arborvitae; arbor vitae; arborvitae hedge; arborvite; arborvitea; arbovitae; cedar hedge; eastern white cedar; northern white cedar; white cedar",
+   "buckets": "alt-common-name; misspelling; plural-format; regional",
+   "top_freq": "high",
+   "n_aliases": 10
+  },
+  {
+   "existing_plant": "Pansy",
+   "botanical": "Viola \\u00d7 wittrockiana",
+   "proposed_aliases": "cool wave; cool wave pansy; heartsease; johnny jump up; matrix pansy; pansey; pansies; panzy; violet",
+   "buckets": "alt-common-name; brand-series; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 9
+  },
+  {
+   "existing_plant": "Rose of Sharon",
+   "botanical": "Hibiscus syriacus",
+   "proposed_aliases": "althaea; althea; althea bush; rose mallow; rose of sharon bush; rose of sharron; rose-of-sharon; roses of sharon; shrub althea",
+   "buckets": "alt-common-name; misspelling; plural-format; regional",
+   "top_freq": "high",
+   "n_aliases": 9
+  },
+  {
+   "existing_plant": "Geranium (Annual)",
+   "botanical": "Pelargonium",
+   "proposed_aliases": "bedding geranium; calliope geranium; geraniam; geraniums; geranuim; geranum; granium; storksbill; zonal geranium",
+   "buckets": "alt-common-name; brand-series; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 9
+  },
+  {
+   "existing_plant": "Wisteria",
+   "botanical": "Wisteria",
+   "proposed_aliases": "american wisteria; chinese wisteria; japanese wisteria; kentucky wisteria; westeria; wistaria; wisterias; wisterria; wysteria",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 9
+  },
+  {
+   "existing_plant": "Daffodil",
+   "botanical": "Narcissus",
+   "proposed_aliases": "daffadil; daffidil; daffodill; daffodils; daffs; dafodil; jonquil; jonquils; narcissi",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 9
+  },
+  {
+   "existing_plant": "Rugosa Rose",
+   "botanical": "Rosa rugosa",
+   "proposed_aliases": "beach rose; hedge rose; hedgehog rose; japanese rose; ramanas rose; rugosa roses; salt spray rose; saltspray rose; sea tomato",
+   "buckets": "alt-common-name; plural-format",
+   "top_freq": "high",
+   "n_aliases": 9
+  },
+  {
+   "existing_plant": "Crimson Queen",
+   "botanical": "Acer palmatum var. dissectum 'Crimson Queen'",
+   "proposed_aliases": "crimson queen japanese maple; crimson queen maple; cutleaf japanese maple; dwarf japanese maple; lace leaf maple; laceleaf maple; red japanese maple; threadleaf maple; weeping japanese maple",
+   "buckets": "alt-common-name; cultivar-trade; plural-format",
+   "top_freq": "high",
+   "n_aliases": 9
+  },
+  {
+   "existing_plant": "Hardy Geranium",
+   "botanical": "Geranium",
+   "proposed_aliases": "crane's bill; cranesbill; cranesbill geranium; geraniam; geranuim; granium; hardy cranesbill; perennial geranium",
+   "buckets": "alt-common-name; misspelling",
+   "top_freq": "high",
+   "n_aliases": 8
+  },
+  {
+   "existing_plant": "Lavender",
+   "botanical": "Lavandula",
+   "proposed_aliases": "english lavender; lavander; lavendar; lavender plant; lavendor; lavendula; levender; true lavender",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 8
+  },
+  {
+   "existing_plant": "African Daisy",
+   "botanical": "Osteospermum",
+   "proposed_aliases": "african daisy gazania; blue eyed daisy; cape daisy; cape marguerite; cape marigold; osteospernum; osteosperum; sunscape daisy",
+   "buckets": "alt-common-name; brand-series; misspelling",
+   "top_freq": "high",
+   "n_aliases": 8
+  },
+  {
+   "existing_plant": "Nasturtium",
+   "botanical": "Tropaeolum",
+   "proposed_aliases": "alaska nasturtium; indian cress; nastertium; nasturium; nastursium; nasturtion; nasturtiums; whirlybird nasturtium",
+   "buckets": "alt-common-name; brand-series; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 8
+  },
+  {
+   "existing_plant": "Ranunculus",
+   "botanical": "Ranunculus asiaticus",
+   "proposed_aliases": "buttercup; persian buttercup; rananculus; ranunculas; ranunculous; ranunculus bulbs; renunculus; rununculus",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 8
+  },
+  {
+   "existing_plant": "Knock Out Rose",
+   "botanical": "Rosa 'Knock Out'",
+   "proposed_aliases": "double knock out; double knock out rose; double knockout rose; knockout rose; knockout roses; landscape rose; pink knockout rose; red knockout rose",
+   "buckets": "alt-common-name; brand-series; misspelling",
+   "top_freq": "high",
+   "n_aliases": 8
+  },
+  {
+   "existing_plant": "Drift Rose",
+   "botanical": "Rosa 'Meijocos'",
+   "proposed_aliases": "coral drift rose; drift roses; ground cover roses; groundcover rose; landscape rose; peach drift rose; pink drift rose; red drift rose",
+   "buckets": "alt-common-name; brand-series; plural-format",
+   "top_freq": "high",
+   "n_aliases": 8
+  },
+  {
+   "existing_plant": "Tamukeyama",
+   "botanical": "Acer palmatum var. dissectum 'Tamukeyama'",
+   "proposed_aliases": "cutleaf japanese maple; dwarf japanese maple; lace leaf maple; laceleaf maple; red japanese maple; tamukeyama japanese maple; threadleaf maple; weeping japanese maple",
+   "buckets": "alt-common-name; cultivar-trade; plural-format",
+   "top_freq": "high",
+   "n_aliases": 8
+  },
+  {
+   "existing_plant": "Serviceberry",
+   "botanical": "Amelanchier",
+   "proposed_aliases": "downy serviceberry; june berry; juneberry; juneberry tree; saskatoon; serviceberry tree; shadblow; shadbush",
+   "buckets": "alt-common-name; plural-format",
+   "top_freq": "high",
+   "n_aliases": 8
+  },
+  {
+   "existing_plant": "Black-Eyed Susan",
+   "botanical": "Rudbeckia",
+   "proposed_aliases": "black eyed susan; black eyed susans; black-eyed susan; blackeyed susan; brown eyed susan; gloriosa daisy; rudbekia",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Black-Eyed Susan Vine",
+   "botanical": "Thunbergia alata",
+   "proposed_aliases": "black eyed susan; black eyed susan vine; black eyed susans; black-eyed susan; blackeyed susan vine; clock vine; clockvine",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Smooth Hydrangea",
+   "botanical": "Hydrangea arborescens",
+   "proposed_aliases": "hidrangea; hydrangia; hyrangea; incrediball; invincibelle; snowball bush; snowball hydrangea",
+   "buckets": "alt-common-name; brand-series; misspelling",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Azalea",
+   "botanical": "Rhododendron",
+   "proposed_aliases": "azaela; azalea bush; azaleas; azalia; azelea; bloom-a-thon; encore azalea",
+   "buckets": "brand-series; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Fuchsia",
+   "botanical": "Fuchsia",
+   "proposed_aliases": "fuchia; fucshia; fuschia; fuscia; fushia; lady's eardrops; ladys eardrops",
+   "buckets": "alt-common-name; misspelling",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Petunia",
+   "botanical": "Petunia",
+   "proposed_aliases": "cascadia petunia; patunia; petchunia; petunias; petunya; surfinia; trailing petunia",
+   "buckets": "alt-common-name; brand-series; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Daylily",
+   "botanical": "Hemerocallis",
+   "proposed_aliases": "day lilies; day lilly; day lily; daylilies; daylillies; daylilly; rainbow rhythm",
+   "buckets": "brand-series; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Delphinium",
+   "botanical": "Delphinium",
+   "proposed_aliases": "delfinium; delphenium; delphiniums; delphinuim; delphinum; larkspur; perennial larkspur",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Coral Bells",
+   "botanical": "Heuchera",
+   "proposed_aliases": "alum root; alumroot; colorsplash; coralbells; dolce; huchera; huechera",
+   "buckets": "alt-common-name; brand-series; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Crape Myrtle",
+   "botanical": "Lagerstroemia",
+   "proposed_aliases": "crape myrtle tree; crape myrtles; crapemyrtle; crepe myrtle; crepe myrtle tree; crepe myrtles; grape myrtle",
+   "buckets": "misspelling; plural-format; regional",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Gardenia",
+   "botanical": "Gardenia jasminoides",
+   "proposed_aliases": "cape jasmine; cape jessamine; gardenia bush; gardenias; gardennia; gardenya; gardinia",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Clematis",
+   "botanical": "Clematis",
+   "proposed_aliases": "clamatis; clematus; clemetis; climatis; leather flower; old man's beard; virgins bower",
+   "buckets": "alt-common-name; misspelling",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Gladiolus",
+   "botanical": "Gladiolus",
+   "proposed_aliases": "gladiola; gladiolas; gladioli; gladiolous; gladiolus bulbs; glads; sword lily",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Flowering Cherry",
+   "botanical": "Prunus serrulata",
+   "proposed_aliases": "cherry blossom; cherry blossom tree; cherry tree; flowering cherry tree; japanese cherry; japanese flowering cherry; sakura",
+   "buckets": "alt-common-name; plural-format; regional",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Kwanzan Cherry",
+   "botanical": "Prunus serrulata 'Kanzan'",
+   "proposed_aliases": "cherry blossom; cherry blossom tree; cherry tree; japanese cherry; japanese flowering cherry; kanzan cherry; sakura",
+   "buckets": "alt-common-name; plural-format; regional",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Lady Banks' Rose",
+   "botanical": "Rosa banksiae",
+   "proposed_aliases": "banksia rose; banksian rose; climbing white lady banks; lady banks rose; lady banks roses; rambler rose; yellow lady banks rose",
+   "buckets": "alt-common-name; misspelling",
+   "top_freq": "high",
+   "n_aliases": 7
+  },
+  {
+   "existing_plant": "Strawflower",
+   "botanical": "Xerochrysum",
+   "proposed_aliases": "everlasting daisy; everlasting flower; golden everlasting; helichrysum; paper daisy; straw flower",
+   "buckets": "alt-common-name; botanical-genus; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Calibrachoa",
+   "botanical": "Calibrachoa",
+   "proposed_aliases": "calibrachio; calibracoa; callibrachoa; million bells; mini petunia; trailing petunia",
+   "buckets": "alt-common-name; brand-series; misspelling",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Purple Coneflower",
+   "botanical": "Echinacea purpurea",
+   "proposed_aliases": "cone flower; double scoop; echinachea; echinacia; echinecea; purple cone flower",
+   "buckets": "brand-series; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Hidcote",
+   "botanical": "Lavandula angustifolia 'Hidcote'",
+   "proposed_aliases": "english lavender; hidcote lavender; lavander; lavendar; lavendula; true lavender",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Munstead",
+   "botanical": "Lavandula angustifolia 'Munstead'",
+   "proposed_aliases": "english lavender; lavander; lavendar; lavendula; munstead lavender; true lavender",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Zinnia",
+   "botanical": "Zinnia elegans",
+   "proposed_aliases": "state fair zinnia; zahara zinnia; zennia; zinia; zinnea; zinnias",
+   "buckets": "brand-series; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Begonia",
+   "botanical": "Begonia",
+   "proposed_aliases": "bagonia; begoina; begonias; begonya; bergonia; whopper begonia",
+   "buckets": "brand-series; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Marigold",
+   "botanical": "Tagetes",
+   "proposed_aliases": "american marigold; aztec marigold; marigolds; marrigold; marygold; marygolds",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Sweet Alyssum",
+   "botanical": "Lobularia maritima",
+   "proposed_aliases": "allysum; alysum; carpet of snow; easter bonnet; snow crystals; sweet alison",
+   "buckets": "alt-common-name; brand-series; cultivar-trade; misspelling",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Blanket Flower",
+   "botanical": "Gaillardia",
+   "proposed_aliases": "blanket flowers; firewheel; gailardia; galardia; gallardia; indian blanket",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Royal Purple",
+   "botanical": "Cotinus coggygria 'Royal Purple'",
+   "proposed_aliases": "purple smoke bush; purple smoke tree; royal purple smoke bush; royal purple smoke tree; smoke tree; smoke trees",
+   "buckets": "alt-common-name; cultivar-trade; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Camellia",
+   "botanical": "Camellia japonica",
+   "proposed_aliases": "camelia; camelias; camellias; camillia; cammellia; japanese camellia",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Honeysuckle",
+   "botanical": "Lonicera",
+   "proposed_aliases": "coral honeysuckle; honesuckle; honeysuckel; honeysuckles; trumpet honeysuckle; woodbine",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Trumpet Vine",
+   "botanical": "Campsis radicans",
+   "proposed_aliases": "cow itch vine; hummingbird vine; trumpet creeper; trumpet creeper vine; trumpet flower; trumpet vines",
+   "buckets": "alt-common-name; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Mandevilla",
+   "botanical": "Mandevilla",
+   "proposed_aliases": "dipladenia; mandavilla; mandevila; mandevillas; mandevillia; rocktrumpet",
+   "buckets": "alt-common-name; misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Asiatic Lily",
+   "botanical": "Lilium",
+   "proposed_aliases": "asiatic lilies; asiatic lilly; lilies; lillies; lilly; lily bulbs",
+   "buckets": "misspelling; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Gertrude Jekyll",
+   "botanical": "Rosa 'Ausbord'",
+   "proposed_aliases": "austin rose; cottage rose; david austin; david austin roses; english rose; gertrude jekyll rose",
+   "buckets": "alt-common-name; brand-series; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Abraham Darby",
+   "botanical": "Rosa 'Auscot'",
+   "proposed_aliases": "abraham darby rose; austin rose; cottage rose; david austin; david austin roses; english rose",
+   "buckets": "alt-common-name; brand-series; plural-format",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Green Giant",
+   "botanical": "Thuja plicata 'Green Giant'",
+   "proposed_aliases": "arborvitae hedge; cedar hedge; giant arborvitae; green giant arborvitae; green giant cedar; green giant thuja arborvitae",
+   "buckets": "alt-common-name; cultivar-trade; regional",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Emerald Green",
+   "botanical": "Thuja occidentalis 'Smaragd'",
+   "proposed_aliases": "arborvitae hedge; cedar hedge; emerald cedar; emerald green arborvitae; emerald green cedar; smaragd arborvitae",
+   "buckets": "alt-common-name; cultivar-trade; regional",
+   "top_freq": "high",
+   "n_aliases": 6
+  },
+  {
+   "existing_plant": "Italian Cypress",
+   "botanical": "Cupressus sempervirens",
+   "proposed_aliases": "italian cypress tree; italian cypress trees; mediterranean cypress; pencil cypress; pencil pine; tuscan cypress",
+   "buckets": "alt-common-name; plural-format; regional",
+   "top_freq": "high",
+   "n_aliases": 6
+  }
+ ]
+}

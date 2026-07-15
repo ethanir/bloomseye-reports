@@ -1,0 +1,21 @@
+{
+  "totalDefs": 1611,
+  "totalGroups": 176,
+  "groupedDefs": 1511,
+  "ungroupedDefs": 100,
+  "ungroupedWithBloom": 75,
+  "ungroupedNoBloom": 25,
+  "byCat": {
+    "Annual": 418,
+    "Bulb": 229,
+    "Climber": 62,
+    "Conifer": 48,
+    "Fern": 10,
+    "Grass": 33,
+    "Herb": 22,
+    "Perennial": 428,
+    "Rose": 58,
+    "Shrub": 221,
+    "Tree": 82
+  }
+}

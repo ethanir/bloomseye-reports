@@ -1,0 +1,101 @@
+slug,name,botanical,genus,cat,bloomColors,foliage,sun,water,zones,tags
+dusty-miller,Dusty Miller,Jacobaea maritima,Jacobaea,Annual,,#b8c0c4,full-sun,low,8-11,silver foliage edging
+salvia-annual,Salvia (Annual),Salvia splendens,Salvia,Annual,#d6202e,,full-sun,moderate,,red pollinator
+climbing-hydrangea,Climbing Hydrangea,Hydrangea petiolaris,Hydrangea,Climber,#f3f0ea,#2f6b34,part-shade,moderate,4-8,white vine
+climbing-rose,Climbing Rose,Rosa,Rosa,Climber,#e0507e,,full-sun,moderate,5-9,pink rose fragrant vine
+moonflower,Moonflower,Ipomoea alba,Ipomoea,Climber,#fbfbf5,,full-sun,moderate,9-11,white fragrant vine night
+douglas-fir,Douglas Fir,Pseudotsuga menziesii,Pseudotsuga,Conifer,,#3f6b4f,full-sun,moderate,4-6,evergreen specimen
+autumn-fern,Autumn Fern,Dryopteris erythrosora,Dryopteris,Fern,,#6a8a4a,part-shade,moderate,5-9,foliage shade evergreen
+boston-fern,Boston Fern,Nephrolepis exaltata,Nephrolepis,Fern,,#4f8a4f,part-shade,high,9-11,foliage shade container
+christmas-fern,Christmas Fern,Polystichum acrostichoides,Polystichum,Fern,,#3f7a3f,full-shade,moderate,3-9,foliage shade evergreen native
+cinnamon-fern,Cinnamon Fern,Osmundastrum cinnamomeum,Osmundastrum,Fern,,#4a8a4a,part-shade,high,3-9,foliage shade native tall
+holly-fern,Holly Fern,Cyrtomium falcatum,Cyrtomium,Fern,,#3f7a3f,full-shade,moderate,6-10,foliage shade glossy
+japanese-painted-fern,Japanese Painted Fern,Athyrium niponicum,Athyrium,Fern,,#8a9aa0,part-shade,moderate,4-8,foliage shade silver
+lady-fern,Lady Fern,Athyrium filix-femina,Athyrium,Fern,,#4a8a4a,part-shade,moderate,4-8,foliage shade native
+maidenhair-fern,Maidenhair Fern,Adiantum,Adiantum,Fern,,#5f9a5f,full-shade,high,3-8,foliage shade delicate native
+ostrich-fern,Ostrich Fern,Matteuccia struthiopteris,Matteuccia,Fern,,#4a8a4a,part-shade,high,3-7,foliage shade native tall
+royal-fern,Royal Fern,Osmunda regalis,Osmunda,Fern,,#4f8a4f,part-shade,high,3-9,foliage shade native tall
+blue-oat-grass,Blue Oat Grass,Helictotrichon sempervirens,Helictotrichon,Grass,#d8c89a,#7f9aaf,full-sun,low,4-9,blue evergreen
+basil,Basil,Ocimum basilicum,Ocimum,Herb,,#4a8f4a,full-sun,moderate,10-11,edible fragrant culinary
+chives,Chives,Allium schoenoprasum,Allium,Herb,#b87fc6,,full-sun,moderate,3-9,purple edible
+dill,Dill,Anethum graveolens,Anethum,Herb,#e0d84a,#7a9a6a,full-sun,moderate,3-11,yellow edible
+lemon-balm,Lemon Balm,Melissa officinalis,Melissa,Herb,,#5a8f5a,part-sun,moderate,3-7,edible fragrant pollinator
+mint,Mint,Mentha,Mentha,Herb,#b8a0d6,#4a8f4a,part-sun,high,3-9,purple edible fragrant
+oregano,Oregano,Origanum,Origanum,Herb,#c69fd6,#6f8f6a,full-sun,low,4-9,purple edible fragrant
+parsley,Parsley,Petroselinum crispum,Petroselinum,Herb,,#3f8a3f,part-sun,moderate,5-9,edible culinary
+rosemary,Rosemary,Salvia rosmarinus,Salvia,Herb,#8f9fd6,#5a7d5a,full-sun,low,7-10,blue fragrant edible evergreen
+sage,Sage,Salvia officinalis,Salvia,Herb,#9b8fd6,#8a977f,full-sun,low,4-8,purple edible fragrant
+thyme,Thyme,Thymus,Thymus,Herb,#c08fc6,#6f8f6a,full-sun,low,4-9,purple groundcover edible fragrant
+agastache,Anise Hyssop,Agastache,Agastache,Perennial,#8f6fc6,,full-sun,low,5-9,purple pollinator fragrant
+agave,Agave,Agave,Agave,Perennial,,#8a9a8f,full-sun,low,8-11,succulent architectural foliage
+ajuga,Bugleweed,Ajuga reptans,Ajuga,Perennial,#6f5fc0,#6a5f6a,part-shade,moderate,3-9,purple groundcover shade
+aloe,Aloe,Aloe,Aloe,Perennial,#f0641f,#7f9a7a,full-sun,low,9-11,orange succulent
+basket-of-gold,Basket of Gold,Aurinia saxatilis,Aurinia,Perennial,#f0d020,#7f8f6a,full-sun,low,3-7,yellow edging
+bergenia,Bergenia,Bergenia,Bergenia,Perennial,#d6507a,#4f7a4f,part-sun,moderate,3-8,pink foliage evergreen
+bluestar,Bluestar,Amsonia,Amsonia,Perennial,#9fb6e0,,full-sun,moderate,3-9,blue native fall color
+brunnera,Brunnera,Brunnera macrophylla,Brunnera,Perennial,#6f8fd6,#6f8f7a,part-shade,moderate,3-8,blue shade foliage
+butterfly-weed,Butterfly Weed,Asclepias tuberosa,Asclepias,Perennial,#f08a2c,,full-sun,low,3-9,orange native pollinator
+candytuft,Candytuft,Iberis sempervirens,Iberis,Perennial,#fbfbfb,#5f8a5a,full-sun,low,3-9,white evergreen edging
+cardinal-flower,Cardinal Flower,Lobelia cardinalis,Lobelia,Perennial,#d6281f,,part-sun,high,3-9,red native pollinator
+carnation,Carnation,Dianthus caryophyllus,Dianthus,Perennial,#e0507a,,full-sun,moderate,5-9,pink fragrant cut flower
+creeping-sedum,Creeping Sedum,Sedum,Sedum,Perennial,#f0d44a,#7f9a6a,full-sun,low,3-9,yellow succulent
+cyclamen,Cyclamen,Cyclamen,Cyclamen,Perennial,#e0507a,,part-shade,moderate,5-9,pink fall shade
+echeveria,Echeveria,Echeveria,Echeveria,Perennial,#f0a0b0,#8a9a8a,full-sun,low,9-11,succulent foliage container
+echinops,Globe Thistle,Echinops,Echinops,Perennial,#5e6fb0,,full-sun,low,3-9,blue architectural pollinator
+english-daisy,English Daisy,Bellis perennis,Bellis,Perennial,#e890b0,,full-sun,moderate,4-8,pink edging
+epimedium,Barrenwort,Epimedium,Epimedium,Perennial,#f0d44a,#6a8a5a,part-shade,moderate,4-8,yellow groundcover shade
+false-sunflower,False Sunflower,Heliopsis,Heliopsis,Perennial,#f5b400,,full-sun,moderate,3-9,yellow pollinator native
+foam-flower,Foam Flower,Tiarella,Tiarella,Perennial,#f5eef5,#5f8a5f,part-shade,moderate,3-8,white shade native
+foamy-bells,Foamy Bells,Heucherella,Heucherella,Perennial,#f5eef5,#9c6a4a,part-shade,moderate,4-9,foliage shade
+gaura,Gaura,Oenothera lindheimeri,Oenothera,Perennial,#f0c0d0,,full-sun,low,5-9,pink airy
+globeflower,Globeflower,Trollius,Trollius,Perennial,#f5b400,,part-sun,high,3-7,yellow
+goatsbeard,Goatsbeard,Aruncus dioicus,Aruncus,Perennial,#f5f0e8,,part-shade,moderate,3-7,white native shade
+goldenrod,Goldenrod,Solidago,Solidago,Perennial,#f4c000,,full-sun,low,3-9,yellow fall pollinator native
+helenium,Sneezeweed,Helenium,Helenium,Perennial,#e0641f,,full-sun,moderate,3-8,orange pollinator fall
+hens-and-chicks,Hens and Chicks,Sempervivum,Sempervivum,Perennial,,#7f9a6a,full-sun,low,3-8,succulent foliage evergreen
+ice-plant,Ice Plant,Delosperma,Delosperma,Perennial,#e0407a,#6f8f6a,full-sun,low,5-9,pink succulent
+ironweed,Ironweed,Vernonia,Vernonia,Perennial,#7a4b9e,,full-sun,moderate,4-9,purple native pollinator
+jacobs-ladder,Jacob's Ladder,Polemonium,Polemonium,Perennial,#6f7fc6,,part-shade,moderate,3-7,blue shade
+japanese-anemone,Japanese Anemone,Anemone hupehensis,Anemone,Perennial,#eaa6c6,,part-shade,moderate,4-8,pink fall
+joe-pye-weed,Joe Pye Weed,Eutrochium,Eutrochium,Perennial,#b06f9e,,full-sun,high,4-9,pink native pollinator tall
+ladys-mantle,Lady's Mantle,Alchemilla mollis,Alchemilla,Perennial,#c0d04a,,part-shade,moderate,3-8,chartreuse edging
+lambs-ear,Lamb's Ear,Stachys byzantina,Stachys,Perennial,#b9a7d6,#a9b3a0,full-sun,low,4-8,foliage silver
+lamium,Dead Nettle,Lamium maculatum,Lamium,Perennial,#d68fc6,#9aa89a,part-shade,moderate,3-8,pink groundcover shade silver
+liatris,Blazing Star,Liatris,Liatris,Perennial,#9b5fc6,,full-sun,low,3-9,purple pollinator native
+ligularia,Ligularia,Ligularia,Ligularia,Perennial,#f5b400,#4f7a4f,part-shade,high,4-8,yellow shade foliage
+lily-of-valley,Lily of the Valley,Convallaria majalis,Convallaria,Perennial,#fbfbfb,#4a7d3a,full-shade,moderate,2-7,white fragrant shade
+lungwort,Lungwort,Pulmonaria,Pulmonaria,Perennial,#8f6fc6,#6f8f7a,part-shade,moderate,3-8,purple shade early
+meadow-rue,Meadow Rue,Thalictrum,Thalictrum,Perennial,#c89fd6,,part-shade,moderate,4-8,purple airy tall
+monkshood,Monkshood,Aconitum,Aconitum,Perennial,#5a4b9e,,part-sun,moderate,3-7,purple fall
+mullein,Mullein,Verbascum,Verbascum,Perennial,#f0d44a,,full-sun,low,5-9,yellow vertical
+obedient-plant,Obedient Plant,Physostegia,Physostegia,Perennial,#e07fb0,,full-sun,moderate,3-9,pink native
+pachysandra,Pachysandra,Pachysandra terminalis,Pachysandra,Perennial,#f2f5ee,#4a7a4a,full-shade,moderate,4-8,foliage groundcover shade evergreen
+penstemon,Penstemon,Penstemon,Penstemon,Perennial,#c05a9e,,full-sun,low,3-8,pink pollinator native
+perennial-sunflower,Perennial Sunflower,Helianthus,Helianthus,Perennial,#f5b400,,full-sun,moderate,4-9,yellow pollinator native tall
+periwinkle,Periwinkle,Vinca minor,Vinca,Perennial,#6f7fc6,#3f7a4a,part-shade,low,4-9,blue groundcover shade evergreen
+pincushion-flower,Pincushion Flower,Scabiosa,Scabiosa,Perennial,#8f8fd6,,full-sun,moderate,3-7,blue pollinator
+primrose,Primrose,Primula,Primula,Perennial,#f0d44a,,part-shade,moderate,3-8,yellow early shade
+queen-of-the-prairie,Queen of the Prairie,Filipendula rubra,Filipendula,Perennial,#e890b0,,full-sun,high,3-9,pink native tall
+red-hot-poker,Red Hot Poker,Kniphofia,Kniphofia,Perennial,#f0641f,,full-sun,low,5-9,orange architectural
+rock-cress,Rock Cress,Aubrieta,Aubrieta,Perennial,#8f5fc0,#6f8f6a,full-sun,low,4-8,purple edging
+russian-sage,Russian Sage,Salvia yangii,Salvia,Perennial,#9aa7d6,#8a977f,full-sun,low,4-9,blue fragrant
+sea-holly,Sea Holly,Eryngium,Eryngium,Perennial,#6f8fc6,#8a977f,full-sun,low,4-9,blue architectural drought
+sea-thrift,Sea Thrift,Armeria maritima,Armeria,Perennial,#e07fa8,,full-sun,low,4-8,pink edging
+snow-in-summer,Snow-in-Summer,Cerastium tomentosum,Cerastium,Perennial,#fbfbfb,#9aa89a,full-sun,low,3-7,white silver edging
+solomons-seal,Solomon's Seal,Polygonatum,Polygonatum,Perennial,#fbfbf2,#5f8a5f,part-shade,moderate,3-8,white shade native
+spiderwort,Spiderwort,Tradescantia,Tradescantia,Perennial,#6f5fb0,,part-sun,moderate,3-9,purple native
+sweet-william,Sweet William,Dianthus barbatus,Dianthus,Perennial,#d6406a,,full-sun,moderate,3-9,pink cottage fragrant
+sweet-woodruff,Sweet Woodruff,Galium odoratum,Galium,Perennial,#fbfbfb,#5f9a5f,full-shade,moderate,4-8,white groundcover shade fragrant
+toad-lily,Toad Lily,Tricyrtis,Tricyrtis,Perennial,#b88fd6,,part-shade,moderate,4-8,purple shade fall
+trillium,Trillium,Trillium,Trillium,Perennial,#fbfbfb,,full-shade,moderate,4-8,white native woodland
+turtlehead,Turtlehead,Chelone,Chelone,Perennial,#e890b0,,part-sun,high,3-8,pink native fall
+virginia-bluebells,Virginia Bluebells,Mertensia virginica,Mertensia,Perennial,#6f8fd6,,part-shade,moderate,3-8,blue native spring
+wild-ginger,Wild Ginger,Asarum,Asarum,Perennial,,#4f7a4f,full-shade,moderate,4-8,foliage groundcover shade native
+ginkgo,Ginkgo,Ginkgo biloba,Ginkgo,Tree,,#6f9a55,full-sun,moderate,3-8,shade yellow fall color
+honeylocust,Honeylocust,Gleditsia triacanthos,Gleditsia,Tree,,#6f9a55,full-sun,moderate,3-9,shade yellow
+linden,Littleleaf Linden,Tilia cordata,Tilia,Tree,,#6f9a55,full-sun,moderate,3-8,shade fragrant
+red-maple,Red Maple,Acer rubrum,Acer,Tree,,#5f8a4a,full-sun,moderate,3-9,shade fall color native
+river-birch,River Birch,Betula nigra,Betula,Tree,,#6f9a55,full-sun,high,4-9,shade native bark
+sugar-maple,Sugar Maple,Acer saccharum,Acer,Tree,,#5f8a4a,full-sun,moderate,3-8,shade fall color native
+tulip-tree,Tulip Tree,Liriodendron tulipifera,Liriodendron,Tree,#ccd866,,full-sun,moderate,4-9,shade native yellow
+weeping-willow,Weeping Willow,Salix babylonica,Salix,Tree,,#7f9a52,full-sun,high,4-9,shade water specimen

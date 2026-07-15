@@ -1,0 +1,1532 @@
+[
+ {
+  "query": "stonecrop",
+  "targets": [
+   "Autumn Joy Sedum"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "stonecrop = Sedum; we carry many sedums, none say stonecrop"
+  ],
+  "freq": "high",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Autumn Joy Sedum"
+  ],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "cranesbill",
+  "targets": [
+   "Hardy Geranium"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "cranesbill = true hardy Geranium"
+  ],
+  "freq": "high",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Hardy Geranium"
+  ],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "tickseed",
+  "targets": [
+   "Coreopsis"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "tickseed = Coreopsis"
+  ],
+  "freq": "high",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Coreopsis"
+  ],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "lambs ear",
+  "targets": [
+   "Lamb's Ear"
+  ],
+  "buckets": [
+   "plural-format"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "apostrophe: lamb's ear vs lambs ear"
+  ],
+  "freq": "med",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Lamb's Ear"
+  ],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "lamb's ear",
+  "targets": [
+   "Lamb's Ear"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Stachys byzantina"
+  ],
+  "freq": "med",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Lamb's Ear"
+  ],
+  "status": "OK",
+  "picker_sample": [
+   "Lamb's Ear"
+  ],
+  "browse_sample": [
+   "Lamb's Ear"
+  ]
+ },
+ {
+  "query": "coral bells",
+  "targets": [
+   "Coral Bells"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Heuchera; browse also surfaces Calibrachoa Superbells Coralina (noise)"
+  ],
+  "freq": "high",
+  "picker_n": 15,
+  "browse_n": 2,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Coral Bells"
+  ],
+  "status": "OK",
+  "picker_sample": [
+   "Coral Bells",
+   "Palace Purple",
+   "Caramel",
+   "Obsidian",
+   "Lime Rickey"
+  ],
+  "browse_sample": [
+   "Coral Bells",
+   "Superbells Coralina"
+  ]
+ },
+ {
+  "query": "bee balm",
+  "targets": [
+   "Bee Balm"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Monarda"
+  ],
+  "freq": "high",
+  "picker_n": 12,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Bee Balm"
+  ],
+  "status": "OK",
+  "picker_sample": [
+   "Bee Balm",
+   "Jacob Cline",
+   "Raspberry Wine",
+   "Marshall's Delight",
+   "Gardenview Scarlet"
+  ],
+  "browse_sample": [
+   "Bee Balm"
+  ]
+ },
+ {
+  "query": "bergamot",
+  "targets": [
+   "Bee Balm"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Monarda alt name"
+  ],
+  "freq": "med",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Bee Balm"
+  ],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "foamflower",
+  "targets": [
+   "Foamflower"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Tiarella"
+  ],
+  "freq": "med",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "pincushion flower",
+  "targets": [
+   "Pincushion Flower"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Scabiosa"
+  ],
+  "freq": "med",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Pincushion Flower"
+  ],
+  "status": "OK",
+  "picker_sample": [
+   "Pincushion Flower"
+  ],
+  "browse_sample": [
+   "Pincushion Flower"
+  ]
+ },
+ {
+  "query": "blanket flower",
+  "targets": [
+   "Blanket Flower"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Gaillardia; picker ok via group, browse only 1"
+  ],
+  "freq": "high",
+  "picker_n": 7,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Blanket Flower"
+  ],
+  "status": "OK",
+  "picker_sample": [
+   "Blanket Flower",
+   "Arizona Sun",
+   "Goblin",
+   "Mesa Yellow",
+   "Arizona Apricot"
+  ],
+  "browse_sample": [
+   "Blanket Flower"
+  ]
+ },
+ {
+  "query": "false indigo",
+  "targets": [
+   "Baptisia"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Baptisia"
+  ],
+  "freq": "med",
+  "picker_n": 8,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [],
+  "status": "BAD-TARGET",
+  "picker_sample": [
+   "False Indigo",
+   "White Wild Indigo",
+   "Screaming Yellow",
+   "Carolina Moonlight",
+   "Purple Smoke"
+  ],
+  "browse_sample": [
+   "False Indigo"
+  ]
+ },
+ {
+  "query": "blazing star",
+  "targets": [
+   "Liatris"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Liatris/gayfeather"
+  ],
+  "freq": "med",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [],
+  "status": "BAD-TARGET",
+  "picker_sample": [
+   "Blazing Star"
+  ],
+  "browse_sample": [
+   "Blazing Star"
+  ]
+ },
+ {
+  "query": "gayfeather",
+  "targets": [
+   "Liatris"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "low"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Liatris alt"
+  ],
+  "freq": "low",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "joe pye weed",
+  "targets": [
+   "Joe Pye Weed"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Eutrochium/Eupatorium"
+  ],
+  "freq": "med",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Joe Pye Weed"
+  ],
+  "status": "OK",
+  "picker_sample": [
+   "Joe Pye Weed"
+  ],
+  "browse_sample": [
+   "Joe Pye Weed"
+  ]
+ },
+ {
+  "query": "russian sage",
+  "targets": [
+   "Russian Sage"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Perovskia/Salvia yangii"
+  ],
+  "freq": "high",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Russian Sage"
+  ],
+  "status": "OK",
+  "picker_sample": [
+   "Russian Sage"
+  ],
+  "browse_sample": [
+   "Russian Sage"
+  ]
+ },
+ {
+  "query": "catmint",
+  "targets": [
+   "Catmint"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Nepeta"
+  ],
+  "freq": "high",
+  "picker_n": 11,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Catmint"
+  ],
+  "status": "OK",
+  "picker_sample": [
+   "Catmint",
+   "Walker's Low",
+   "Six Hills Giant",
+   "Cat's Meow",
+   "Purrsian Blue"
+  ],
+  "browse_sample": [
+   "Catmint"
+  ]
+ },
+ {
+  "query": "hens and chicks",
+  "targets": [
+   "Hens and Chicks"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Sempervivum"
+  ],
+  "freq": "high",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Hens and Chicks"
+  ],
+  "status": "OK",
+  "picker_sample": [
+   "Hens and Chicks"
+  ],
+  "browse_sample": [
+   "Hens and Chicks"
+  ]
+ },
+ {
+  "query": "sneezeweed",
+  "targets": [
+   "Helenium"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "low"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Helenium"
+  ],
+  "freq": "low",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [],
+  "status": "BAD-TARGET",
+  "picker_sample": [
+   "Sneezeweed"
+  ],
+  "browse_sample": [
+   "Sneezeweed"
+  ]
+ },
+ {
+  "query": "spiderwort",
+  "targets": [
+   "Spiderwort"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Tradescantia"
+  ],
+  "freq": "med",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Spiderwort"
+  ],
+  "status": "OK",
+  "picker_sample": [
+   "Spiderwort"
+  ],
+  "browse_sample": [
+   "Spiderwort"
+  ]
+ },
+ {
+  "query": "black eyed susan",
+  "targets": [
+   "Black-Eyed Susan"
+  ],
+  "buckets": [
+   "plural-format"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": true,
+  "notes": [
+   "hyphen: picker fails 'black eyed susan'; also Thunbergia vine"
+  ],
+  "freq": "high",
+  "picker_n": 0,
+  "browse_n": 2,
+  "target_hit_picker": false,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Black-Eyed Susan"
+  ],
+  "status": "DIVERGENT",
+  "picker_sample": [],
+  "browse_sample": [
+   "Black-Eyed Susan",
+   "Black-Eyed Susan Vine"
+  ]
+ },
+ {
+  "query": "black-eyed susan",
+  "targets": [
+   "Black-Eyed Susan",
+   "Black-Eyed Susan Vine"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": true,
+  "notes": [
+   "Rudbeckia AND Thunbergia alata vine"
+  ],
+  "freq": "high",
+  "picker_n": 17,
+  "browse_n": 2,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Black-Eyed Susan",
+   "Black-Eyed Susan Vine"
+  ],
+  "status": "OK",
+  "picker_sample": [
+   "Black-Eyed Susan",
+   "Goldsturm",
+   "American Gold Rush",
+   "Indian Summer",
+   "Cherry Brandy"
+  ],
+  "browse_sample": [
+   "Black-Eyed Susan",
+   "Black-Eyed Susan Vine"
+  ]
+ },
+ {
+  "query": "mums",
+  "targets": [
+   "Garden Mum"
+  ],
+  "buckets": [
+   "plural-format"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "chrysanthemum plural"
+  ],
+  "freq": "high",
+  "picker_n": 15,
+  "browse_n": 0,
+  "target_hit_picker": true,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Garden Mum"
+  ],
+  "status": "DIVERGENT",
+  "picker_sample": [
+   "Garden Mum",
+   "Yellow Mum",
+   "Gold Mum",
+   "Bronze Mum",
+   "Rust Mum"
+  ],
+  "browse_sample": []
+ },
+ {
+  "query": "mum",
+  "targets": [
+   "Garden Mum"
+  ],
+  "buckets": [
+   "alt-common-name"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": true,
+  "notes": [
+   "picker 'mum' also matches Leucanthemum (Shasta Daisy) - noise"
+  ],
+  "freq": "high",
+  "picker_n": 35,
+  "browse_n": 35,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Garden Mum"
+  ],
+  "status": "OK",
+  "picker_sample": [
+   "Shasta Daisy",
+   "Becky",
+   "Alaska",
+   "Snowcap",
+   "Banana Cream"
+  ],
+  "browse_sample": [
+   "Shasta Daisy",
+   "Becky",
+   "Alaska",
+   "Snowcap",
+   "Banana Cream"
+  ]
+ },
+ {
+  "query": "peonies",
+  "targets": [
+   "Peony"
+  ],
+  "buckets": [
+   "plural-format"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "peony plural"
+  ],
+  "freq": "high",
+  "picker_n": 16,
+  "browse_n": 0,
+  "target_hit_picker": true,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Peony"
+  ],
+  "status": "DIVERGENT",
+  "picker_sample": [
+   "Peony",
+   "Sarah Bernhardt",
+   "Karl Rosenfield",
+   "Festiva Maxima",
+   "Bowl of Beauty"
+  ],
+  "browse_sample": []
+ },
+ {
+  "query": "daylilies",
+  "targets": [
+   "Daylily"
+  ],
+  "buckets": [
+   "plural-format"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "daylily plural"
+  ],
+  "freq": "high",
+  "picker_n": 16,
+  "browse_n": 0,
+  "target_hit_picker": true,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Daylily"
+  ],
+  "status": "DIVERGENT",
+  "picker_sample": [
+   "Daylily",
+   "Stella de Oro",
+   "Happy Returns",
+   "Pardon Me",
+   "Hyperion"
+  ],
+  "browse_sample": []
+ },
+ {
+  "query": "hostas",
+  "targets": [
+   "Hosta"
+  ],
+  "buckets": [
+   "plural-format"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "hosta plural"
+  ],
+  "freq": "high",
+  "picker_n": 16,
+  "browse_n": 0,
+  "target_hit_picker": true,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Hosta"
+  ],
+  "status": "DIVERGENT",
+  "picker_sample": [
+   "Hosta",
+   "Sum and Substance",
+   "Blue Angel",
+   "Frances Williams",
+   "Patriot"
+  ],
+  "browse_sample": []
+ },
+ {
+  "query": "knock out rose",
+  "targets": [
+   "Knock Out Rose"
+  ],
+  "buckets": [
+   "brand-series"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "already present"
+  ],
+  "freq": "high",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Knock Out Rose"
+  ],
+  "status": "OK",
+  "picker_sample": [
+   "Knock Out Rose"
+  ],
+  "browse_sample": [
+   "Knock Out Rose"
+  ]
+ },
+ {
+  "query": "endless summer",
+  "targets": [
+   "Bigleaf Hydrangea"
+  ],
+  "buckets": [
+   "brand-series"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Endless Summer hydrangea series - not in data"
+  ],
+  "freq": "high",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Bigleaf Hydrangea"
+  ],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "limelight",
+  "targets": [
+   "Panicle Hydrangea"
+  ],
+  "buckets": [
+   "brand-series"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Limelight hydrangea - check if carried"
+  ],
+  "freq": "high",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Panicle Hydrangea"
+  ],
+  "status": "BURIED/NOISE",
+  "picker_sample": [
+   "White Limelight Hydrangea"
+  ],
+  "browse_sample": [
+   "White Limelight Hydrangea"
+  ]
+ },
+ {
+  "query": "annabelle",
+  "targets": [
+   "Smooth Hydrangea"
+  ],
+  "buckets": [
+   "brand-series"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Annabelle hydrangea - community added?"
+  ],
+  "freq": "high",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Smooth Hydrangea"
+  ],
+  "status": "BURIED/NOISE",
+  "picker_sample": [
+   "Annabelle"
+  ],
+  "browse_sample": [
+   "Annabelle"
+  ]
+ },
+ {
+  "query": "wave petunia",
+  "targets": [
+   "Purple Wave"
+  ],
+  "buckets": [
+   "brand-series"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Wave petunia series"
+  ],
+  "freq": "high",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Purple Wave"
+  ],
+  "status": "OK",
+  "picker_sample": [
+   "Purple Wave"
+  ],
+  "browse_sample": [
+   "Purple Wave"
+  ]
+ },
+ {
+  "query": "supertunia",
+  "targets": [
+   "Petunia"
+  ],
+  "buckets": [
+   "brand-series"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Proven Winners petunia series"
+  ],
+  "freq": "med",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Petunia"
+  ],
+  "status": "BURIED/NOISE",
+  "picker_sample": [
+   "Supertunia Vista Bubblegum"
+  ],
+  "browse_sample": [
+   "Supertunia Vista Bubblegum"
+  ]
+ },
+ {
+  "query": "superbells",
+  "targets": [
+   "Calibrachoa"
+  ],
+  "buckets": [
+   "brand-series"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Calibrachoa series"
+  ],
+  "freq": "med",
+  "picker_n": 11,
+  "browse_n": 11,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Calibrachoa"
+  ],
+  "status": "BURIED/NOISE",
+  "picker_sample": [
+   "Superbells Red",
+   "Superbells Yellow",
+   "Superbells White",
+   "Superbells Blue",
+   "Superbells Pink"
+  ],
+  "browse_sample": [
+   "Superbells Red",
+   "Superbells Yellow",
+   "Superbells White",
+   "Superbells Blue",
+   "Superbells Pink"
+  ]
+ },
+ {
+  "query": "million bells",
+  "targets": [
+   "Calibrachoa"
+  ],
+  "buckets": [
+   "brand-series"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "Calibrachoa common trade name"
+  ],
+  "freq": "med",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Calibrachoa"
+  ],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "stella de oro",
+  "targets": [
+   "Stella de Oro Daylily"
+  ],
+  "buckets": [
+   "brand-series"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "most common daylily"
+  ],
+  "freq": "high",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [],
+  "status": "BAD-TARGET",
+  "picker_sample": [
+   "Stella de Oro"
+  ],
+  "browse_sample": [
+   "Stella de Oro"
+  ]
+ },
+ {
+  "query": "bloomerang",
+  "targets": [
+   "Lilac"
+  ],
+  "buckets": [
+   "brand-series"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "reblooming lilac series"
+  ],
+  "freq": "med",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Lilac"
+  ],
+  "status": "BURIED/NOISE",
+  "picker_sample": [
+   "Bloomerang Purple"
+  ],
+  "browse_sample": [
+   "Bloomerang Purple"
+  ]
+ },
+ {
+  "query": "encore azalea",
+  "targets": [
+   "Azalea"
+  ],
+  "buckets": [
+   "brand-series"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "reblooming azalea series"
+  ],
+  "freq": "med",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Azalea"
+  ],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "drift rose",
+  "targets": [
+   "Rose"
+  ],
+  "buckets": [
+   "brand-series"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "groundcover rose series"
+  ],
+  "freq": "med",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [],
+  "status": "BAD-TARGET",
+  "picker_sample": [
+   "Drift Rose"
+  ],
+  "browse_sample": [
+   "Drift Rose"
+  ]
+ },
+ {
+  "query": "hydrangia",
+  "targets": [
+   "Bigleaf Hydrangea"
+  ],
+  "buckets": [
+   "misspelling"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "hydrangea misspelling"
+  ],
+  "freq": "high",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Bigleaf Hydrangea"
+  ],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "echinacia",
+  "targets": [
+   "Purple Coneflower"
+  ],
+  "buckets": [
+   "misspelling"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "echinacea misspelling"
+  ],
+  "freq": "med",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Purple Coneflower"
+  ],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "fuschia",
+  "targets": [
+   "Fuchsia"
+  ],
+  "buckets": [
+   "misspelling"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "fuchsia's most common misspelling"
+  ],
+  "freq": "high",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Fuchsia"
+  ],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "lavendar",
+  "targets": [
+   "English Lavender"
+  ],
+  "buckets": [
+   "misspelling"
+  ],
+  "freqs": [
+   "high"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "lavender misspelling"
+  ],
+  "freq": "high",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "clamatis",
+  "targets": [
+   "Clematis"
+  ],
+  "buckets": [
+   "misspelling"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "clematis misspelling"
+  ],
+  "freq": "med",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Clematis"
+  ],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "crysanthemum",
+  "targets": [
+   "Garden Mum"
+  ],
+  "buckets": [
+   "misspelling"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "chrysanthemum misspelling"
+  ],
+  "freq": "med",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Garden Mum"
+  ],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "dalia",
+  "targets": [
+   "Dahlia"
+  ],
+  "buckets": [
+   "misspelling"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "dahlia misspelling"
+  ],
+  "freq": "med",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Dahlia"
+  ],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "rhododendrun",
+  "targets": [
+   "Rhododendron"
+  ],
+  "buckets": [
+   "misspelling"
+  ],
+  "freqs": [
+   "low"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "rhododendron misspelling"
+  ],
+  "freq": "low",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [
+   "Rhododendron"
+  ],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "cherry truffle",
+  "targets": [
+   "Cherry Truffle"
+  ],
+  "buckets": [
+   "cultivar-trade"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": true,
+  "notes": [
+   "a Sedum cultivar AND a Heuchera cultivar - ambiguous"
+  ],
+  "freq": "med",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "martha stewart",
+  "targets": [
+   "Rose"
+  ],
+  "buckets": [
+   "cultivar-trade"
+  ],
+  "freqs": [
+   "low"
+  ],
+  "ambiguous": true,
+  "notes": [
+   "Martha Stewart branded plants (rose, heuchera) - not in data"
+  ],
+  "freq": "low",
+  "picker_n": 0,
+  "browse_n": 0,
+  "target_hit_picker": false,
+  "target_hit_browse": false,
+  "real_targets": [],
+  "status": "GAP",
+  "picker_sample": [],
+  "browse_sample": []
+ },
+ {
+  "query": "jack frost",
+  "targets": [
+   "Brunnera Jack Frost"
+  ],
+  "buckets": [
+   "cultivar-trade"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": true,
+  "notes": [
+   "Brunnera 'Jack Frost' AND Heuchera/Ligularia; check carried"
+  ],
+  "freq": "med",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [],
+  "status": "BAD-TARGET",
+  "picker_sample": [
+   "Brunner 'Jack Frost'"
+  ],
+  "browse_sample": [
+   "Brunner 'Jack Frost'"
+  ]
+ },
+ {
+  "query": "rozanne",
+  "targets": [
+   "Rozanne"
+  ],
+  "buckets": [
+   "cultivar-trade"
+  ],
+  "freqs": [
+   "med"
+  ],
+  "ambiguous": false,
+  "notes": [
+   "most famous hardy geranium"
+  ],
+  "freq": "med",
+  "picker_n": 1,
+  "browse_n": 1,
+  "target_hit_picker": true,
+  "target_hit_browse": true,
+  "real_targets": [
+   "Rozanne"
+  ],
+  "status": "OK",
+  "picker_sample": [
+   "Rozanne"
+  ],
+  "browse_sample": [
+   "Rozanne"
+  ]
+ }
+]

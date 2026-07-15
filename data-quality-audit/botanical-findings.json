@@ -1,0 +1,34 @@
+{
+  "workflow": "bloomseye-botanical-plausibility",
+  "runId": "wf_9068d584-5e9",
+  "plantsReviewed": 1677,
+  "finderChunks": 53,
+  "chunksWithNoFindings": 51,
+  "totalFlagged": 2,
+  "confirmedCount": 2,
+  "rejectedCount": 0,
+  "confirmed": [
+    {
+      "slug": "autumn-cherry",
+      "source": "builtin",
+      "category": "Tree",
+      "field": "bloom",
+      "current": "bloom Mar-Apr ([[3,4,\"#f0dce4\"]], plantLibrary.ts:2731)",
+      "issue": "Prunus subhirtella 'Autumnalis' (Autumn/Winter Flowering Cherry) is named and grown for its autumn-into-winter flowering flush (roughly Nov-Mar) plus a spring display. A bloom window of Mar-Apr only shows the spring flush and omits the defining autumn bloom, contradicting the plant's common name and hiding the trait people plant it for.",
+      "expected": "A bloom window including the autumn/winter period (e.g. Nov-Mar) alongside the spring flush",
+      "confidence": "medium",
+      "verifyReason": "RHS and Missouri Botanical Garden confirm semi-double pale flowers open in flushes during mild spells from ~November through March. 'Mar-Apr' captures only the tail-end spring flush. Not a defensible typical-approximation; it contradicts the cultivar's identity."
+    },
+    {
+      "slug": "rosa-patience",
+      "source": "community",
+      "category": "Rose",
+      "field": "tags/colour",
+      "current": "tags [rosa, red, english rose, fragrant, repeat flowering]; bloom colour #f5f0e1 (cream)",
+      "issue": "David Austin's 'Patience' (Auspastor) is a soft blush/cream-to-apricot rose, correctly reflected by its cream hex #f5f0e1, so the 'red' colour search tag clearly contradicts the actual bloom colour and would misfile it in colour searches.",
+      "expected": "a cream/blush/apricot colour tag, not 'red'",
+      "confidence": "medium",
+      "verifyReason": "David Austin's 'Patience' (2013) is a creamy-white English rose opening from apricot-tinged buds, strongly fragrant and repeat-flowering. It is not a red rose. The 'red' tag conflicts with the record's own cream hex and misfiles it in colour searches."
+    }
+  ]
+}

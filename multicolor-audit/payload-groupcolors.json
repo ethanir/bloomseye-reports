@@ -1,0 +1,3956 @@
+[
+  {
+    "key": "osteospermum",
+    "name": "African Daisy",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "purple",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "African Daisy",
+      "White African Daisy",
+      "Pink African Daisy",
+      "Lavender African Daisy",
+      "Lemon African Daisy",
+      "Orange African Daisy"
+    ]
+  },
+  {
+    "key": "agapanthus",
+    "name": "Agapanthus",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "blue",
+      "white"
+    ],
+    "memberNames": [
+      "Agapanthus",
+      "White Agapanthus",
+      "Peter Pan",
+      "Storm Cloud",
+      "Midnight Blue",
+      "Twister",
+      "Snowball"
+    ]
+  },
+  {
+    "key": "ageratum",
+    "name": "Ageratum",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "white"
+    ],
+    "memberNames": [
+      "Ageratum",
+      "Blue Horizon",
+      "White Ageratum",
+      "Pink Ageratum",
+      "Purple Ageratum"
+    ]
+  },
+  {
+    "key": "allium",
+    "name": "Allium",
+    "n": 9,
+    "resolvedMembers": 9,
+    "distinctColors": [
+      "magenta/pink",
+      "pink",
+      "purple",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Giant Allium",
+      "Globemaster",
+      "Purple Sensation",
+      "Gladiator",
+      "Mount Everest",
+      "Drumstick Allium",
+      "Star of Persia",
+      "Millenium",
+      "Golden Garlic"
+    ]
+  },
+  {
+    "key": "amaranth",
+    "name": "Amaranth",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "green",
+      "orange",
+      "red"
+    ],
+    "memberNames": [
+      "Love-Lies-Bleeding",
+      "Emerald Tassels",
+      "Hot Biscuits",
+      "Dreadlocks",
+      "Coral Fountain"
+    ]
+  },
+  {
+    "key": "amaryllis",
+    "name": "Amaryllis",
+    "n": 8,
+    "resolvedMembers": 8,
+    "distinctColors": [
+      "orange",
+      "pale pink",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Amaryllis",
+      "Red Lion",
+      "Apple Blossom",
+      "Minerva",
+      "Picotee",
+      "Christmas Gift",
+      "Orange Sovereign",
+      "Rilona"
+    ]
+  },
+  {
+    "key": "anemone",
+    "name": "Anemone",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Poppy Anemone",
+      "Mr. Fokker",
+      "The Bride",
+      "Hollandia",
+      "Sylphide",
+      "Lord Lieutenant",
+      "Mt. Everest",
+      "The Governor",
+      "Blue Shades",
+      "White Splendour",
+      "Pink Star",
+      "Admiral"
+    ]
+  },
+  {
+    "key": "angelonia",
+    "name": "Angelonia",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Angelonia",
+      "Serena White",
+      "Serena Rose",
+      "Serena Blue",
+      "Serena Purple",
+      "Angelface Raspberry",
+      "Wedgwood Blue"
+    ]
+  },
+  {
+    "key": "annual-phlox",
+    "name": "Annual Phlox",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Annual Phlox",
+      "Red Annual Phlox",
+      "White Annual Phlox",
+      "Lavender Annual Phlox",
+      "Purple Annual Phlox",
+      "Peach Annual Phlox"
+    ]
+  },
+  {
+    "key": "arborvitae",
+    "name": "Arborvitae",
+    "n": 10,
+    "resolvedMembers": 10,
+    "distinctColors": [],
+    "memberNames": [
+      "Arborvitae",
+      "Emerald Green",
+      "Green Giant",
+      "DeGroot's Spire",
+      "Holmstrup",
+      "Techny",
+      "Golden Globe",
+      "Rheingold",
+      "Fire Chief",
+      "Danica"
+    ]
+  },
+  {
+    "key": "aster",
+    "name": "Aster",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Aster",
+      "Purple Dome",
+      "Alma Pötschke",
+      "Wood's Blue",
+      "Wood's Pink",
+      "Wood's Purple",
+      "October Skies",
+      "Patricia Ballard",
+      "Snow Flurry",
+      "Kickin' Carmine Red",
+      "Raydon's Favorite",
+      "Professor Kippenberg"
+    ]
+  },
+  {
+    "key": "astilbe",
+    "name": "Astilbe",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "magenta/pink",
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Astilbe",
+      "Fanal",
+      "Bridal Veil",
+      "Visions",
+      "Deutschland",
+      "Peach Blossom",
+      "Montgomery",
+      "Rheinland",
+      "Purple Candles",
+      "Amethyst",
+      "Sprite",
+      "Red Sentinel"
+    ]
+  },
+  {
+    "key": "colchicum",
+    "name": "Autumn Crocus",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "magenta/pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Autumn Crocus",
+      "Waterlily",
+      "The Giant",
+      "Album",
+      "Showy Crocus",
+      "Lilac Wonder"
+    ]
+  },
+  {
+    "key": "azaleas",
+    "name": "Azaleas",
+    "n": 15,
+    "resolvedMembers": 15,
+    "distinctColors": [
+      "magenta/pink",
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Azalea",
+      "Stewartstonian",
+      "Gibraltar",
+      "Delaware Valley White",
+      "George Tabor",
+      "Formosa",
+      "Hino-Crimson",
+      "Girard's Crimson",
+      "Rosebud",
+      "Gumpo Pink",
+      "Karen",
+      "Fireball",
+      "White Lights",
+      "Golden Lights",
+      "Encore Autumn Amethyst"
+    ]
+  },
+  {
+    "key": "cornflower",
+    "name": "Bachelor's Button",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Bachelor's Button",
+      "Pink Bachelor's Button",
+      "White Bachelor's Button",
+      "Purple Bachelor's Button",
+      "Black Ball",
+      "Red Boy"
+    ]
+  },
+  {
+    "key": "bacopa",
+    "name": "Bacopa",
+    "n": 4,
+    "resolvedMembers": 4,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Bacopa",
+      "Blue Bacopa",
+      "Pink Bacopa",
+      "Lavender Bacopa"
+    ]
+  },
+  {
+    "key": "bald-cypress",
+    "name": "Bald Cypress",
+    "n": 4,
+    "resolvedMembers": 4,
+    "distinctColors": [],
+    "memberNames": [
+      "Bald Cypress",
+      "Shawnee Brave",
+      "Peve Minaret",
+      "Falling Waters"
+    ]
+  },
+  {
+    "key": "balloon-flower",
+    "name": "Balloon Flower",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "white"
+    ],
+    "memberNames": [
+      "Balloon Flower",
+      "Fuji White",
+      "Fuji Pink",
+      "Sentimental Blue",
+      "Astra Double Blue",
+      "Komachi"
+    ]
+  },
+  {
+    "key": "beautyberry",
+    "name": "Beautyberry",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "magenta/pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Beautyberry",
+      "Profusion",
+      "Early Amethyst",
+      "American Beautyberry",
+      "Pearl Glam",
+      "White Beautyberry"
+    ]
+  },
+  {
+    "key": "bee-balm",
+    "name": "Bee Balm",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "magenta/pink",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Bee Balm",
+      "Jacob Cline",
+      "Raspberry Wine",
+      "Marshall's Delight",
+      "Gardenview Scarlet",
+      "Snow White",
+      "Purple Rooster",
+      "Claire Grace",
+      "Pardon My Cerise",
+      "Pardon My Purple",
+      "Rockin' Raspberry",
+      "Grand Marshall"
+    ]
+  },
+  {
+    "key": "begonia",
+    "name": "Begonia",
+    "n": 13,
+    "resolvedMembers": 13,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Begonia",
+      "Wax Begonia Red",
+      "Wax Begonia White",
+      "Wax Begonia Pink",
+      "Dragon Wing Red",
+      "Dragon Wing Pink",
+      "Tuberous Yellow",
+      "Tuberous Orange",
+      "Tuberous Red",
+      "Nonstop Rose",
+      "Bonfire",
+      "Tuberous Apricot",
+      "Big Rose"
+    ]
+  },
+  {
+    "key": "bidens",
+    "name": "Bidens",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Bidens",
+      "Campfire Marshmallow Bidens",
+      "Painted Orange Bidens",
+      "Painted Red Bidens",
+      "Pink Bidens"
+    ]
+  },
+  {
+    "key": "black-eyed-susan",
+    "name": "Black-Eyed Susan",
+    "n": 10,
+    "resolvedMembers": 10,
+    "distinctColors": [
+      "orange",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "Black-Eyed Susan",
+      "Goldsturm",
+      "American Gold Rush",
+      "Indian Summer",
+      "Cherry Brandy",
+      "Prairie Sun",
+      "Denver Daisy",
+      "Autumn Colors",
+      "Goldilocks",
+      "Toto Gold"
+    ]
+  },
+  {
+    "key": "black-eyed-susan-vine",
+    "name": "Black-Eyed Susan Vine",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "orange",
+      "pale yellow",
+      "pink",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "Black-Eyed Susan Vine",
+      "Lemon Star",
+      "Bright Eyes",
+      "Blushing Susie",
+      "Arizona Glow",
+      "Arizona Rose"
+    ]
+  },
+  {
+    "key": "gaillardia",
+    "name": "Blanket Flower",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "orange",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "Blanket Flower",
+      "Arizona Sun",
+      "Goblin",
+      "Mesa Yellow",
+      "Arizona Apricot",
+      "Burgundy",
+      "Oranges and Lemons"
+    ]
+  },
+  {
+    "key": "bleeding-heart",
+    "name": "Bleeding Heart",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "pink",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Bleeding Heart",
+      "Alba",
+      "Valentine",
+      "Gold Heart",
+      "King of Hearts",
+      "Burning Hearts"
+    ]
+  },
+  {
+    "key": "blue-fescue",
+    "name": "Blue Fescue",
+    "n": 3,
+    "resolvedMembers": 3,
+    "distinctColors": [
+      "yellow"
+    ],
+    "memberNames": [
+      "Blue Fescue",
+      "Golden Toupee",
+      "Cool As Ice"
+    ]
+  },
+  {
+    "key": "boston-ivy",
+    "name": "Boston Ivy",
+    "n": 3,
+    "resolvedMembers": 3,
+    "distinctColors": [],
+    "memberNames": [
+      "Boston Ivy",
+      "Fenway Park",
+      "Veitchii"
+    ]
+  },
+  {
+    "key": "boxwood",
+    "name": "Boxwood",
+    "n": 8,
+    "resolvedMembers": 8,
+    "distinctColors": [],
+    "memberNames": [
+      "Boxwood",
+      "Green Velvet",
+      "Green Mountain",
+      "Winter Gem",
+      "English Boxwood",
+      "American Boxwood",
+      "Graham Blandy",
+      "Baby Gem"
+    ]
+  },
+  {
+    "key": "browallia",
+    "name": "Browallia",
+    "n": 3,
+    "resolvedMembers": 3,
+    "distinctColors": [
+      "blue",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Browallia",
+      "White Browallia",
+      "Purple Browallia"
+    ]
+  },
+  {
+    "key": "butterfly-bush",
+    "name": "Butterfly Bush",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "pink",
+      "purple",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Butterfly Bush",
+      "Black Knight",
+      "Pink Delight",
+      "White Profusion",
+      "Nanho Blue",
+      "Royal Red",
+      "Miss Molly",
+      "Blue Chip",
+      "Honeycomb",
+      "Pugster Blue",
+      "Miss Ruby",
+      "Empire Blue"
+    ]
+  },
+  {
+    "key": "caladium",
+    "name": "Caladium",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [],
+    "memberNames": [
+      "Caladium",
+      "White Christmas Caladium",
+      "Carolyn Whorton Caladium",
+      "Red Flash Caladium",
+      "Green Caladium"
+    ]
+  },
+  {
+    "key": "calendula",
+    "name": "Calendula",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "orange",
+      "pale yellow",
+      "yellow"
+    ],
+    "memberNames": [
+      "Calendula",
+      "Yellow Calendula",
+      "Apricot Calendula",
+      "Ivory Princess",
+      "Indian Prince"
+    ]
+  },
+  {
+    "key": "calibrachoa",
+    "name": "Calibrachoa",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Calibrachoa",
+      "Superbells Red",
+      "Superbells Yellow",
+      "Superbells White",
+      "Superbells Blue",
+      "Superbells Pink",
+      "Superbells Coralina",
+      "Superbells Blackcurrant Punch",
+      "Superbells Lemon Slice",
+      "Superbells Cherry Star",
+      "Superbells Grape Punch",
+      "Superbells Tangerine Punch"
+    ]
+  },
+  {
+    "key": "california-poppy",
+    "name": "California Poppy",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "orange",
+      "pale yellow",
+      "pink",
+      "purple",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "California Poppy",
+      "Yellow California Poppy",
+      "Mikado",
+      "Rose Chiffon",
+      "Ivory Castle",
+      "Purple Gleam"
+    ]
+  },
+  {
+    "key": "calla-lily",
+    "name": "Calla Lily",
+    "n": 8,
+    "resolvedMembers": 8,
+    "distinctColors": [
+      "grey",
+      "magenta/pink",
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Calla Lily",
+      "Yellow Calla",
+      "Pink Calla",
+      "Mango Calla",
+      "Red Calla",
+      "Purple Calla",
+      "Black Star Calla",
+      "Picasso"
+    ]
+  },
+  {
+    "key": "camellia",
+    "name": "Camellia",
+    "n": 11,
+    "resolvedMembers": 11,
+    "distinctColors": [
+      "pink",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Camellia",
+      "Pink Perfection",
+      "Debutante",
+      "Alba Plena",
+      "Kramer's Supreme",
+      "Yuletide",
+      "Setsugekka",
+      "Professor Sargent",
+      "Nuccio's Pearl",
+      "Pink Icicle",
+      "April Rose"
+    ]
+  },
+  {
+    "key": "canna",
+    "name": "Canna Lily",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "Canna Lily",
+      "President",
+      "Bengal Tiger",
+      "Tropicanna",
+      "Australia",
+      "Wyoming",
+      "Cleopatra",
+      "Yellow King Humbert",
+      "Lucifer",
+      "Pink President",
+      "Tropicanna Gold",
+      "Durban"
+    ]
+  },
+  {
+    "key": "canterbury-bells",
+    "name": "Canterbury Bells",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Canterbury Bells",
+      "Blue Canterbury Bells",
+      "Pink Canterbury Bells",
+      "White Canterbury Bells",
+      "Lavender Canterbury Bells"
+    ]
+  },
+  {
+    "key": "catmint",
+    "name": "Catmint",
+    "n": 11,
+    "resolvedMembers": 11,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "white"
+    ],
+    "memberNames": [
+      "Catmint",
+      "Walker's Low",
+      "Six Hills Giant",
+      "Cat's Meow",
+      "Purrsian Blue",
+      "Junior Walker",
+      "Blue Wonder",
+      "Pink Cat",
+      "Snowflake",
+      "Little Titch",
+      "Early Bird"
+    ]
+  },
+  {
+    "key": "celosia",
+    "name": "Celosia",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "magenta/pink",
+      "orange",
+      "pink",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "Celosia",
+      "Fresh Look Red",
+      "Fresh Look Yellow",
+      "Fresh Look Orange",
+      "Dragon's Breath",
+      "Century Pink",
+      "Intenz Purple",
+      "Flamingo Feather",
+      "Cockscomb Red",
+      "Cockscomb Yellow",
+      "Bombay Orange",
+      "Cockscomb Magenta"
+    ]
+  },
+  {
+    "key": "chrysanthemums",
+    "name": "Chrysanthemums",
+    "n": 15,
+    "resolvedMembers": 15,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Garden Mum",
+      "Yellow Mum",
+      "Gold Mum",
+      "Bronze Mum",
+      "Rust Mum",
+      "Red Mum",
+      "Burgundy Mum",
+      "Purple Mum",
+      "Lavender Mum",
+      "Pink Mum",
+      "White Mum",
+      "Coral Mum",
+      "Sheffield Pink",
+      "Clara Curtis",
+      "Mary Stoker"
+    ]
+  },
+  {
+    "key": "clematis",
+    "name": "Clematis",
+    "n": 16,
+    "resolvedMembers": 16,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Clematis",
+      "Jackmanii",
+      "Nelly Moser",
+      "The President",
+      "Niobe",
+      "Henryi",
+      "Ville de Lyon",
+      "Comtesse de Bouchaud",
+      "Rouge Cardinal",
+      "Multi Blue",
+      "Doctor Ruppel",
+      "Ernest Markham",
+      "Marie Boisselot",
+      "Gipsy Queen",
+      "Hagley Hybrid",
+      "Sweet Autumn Clematis"
+    ]
+  },
+  {
+    "key": "cleome",
+    "name": "Cleome",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Cleome",
+      "White Queen",
+      "Violet Queen",
+      "Rose Queen",
+      "Cherry Queen"
+    ]
+  },
+  {
+    "key": "climbing-roses",
+    "name": "Climbing Roses",
+    "n": 10,
+    "resolvedMembers": 10,
+    "distinctColors": [
+      "orange",
+      "pale orange",
+      "pale pink",
+      "pale red",
+      "pink",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "New Dawn",
+      "The Generous Gardener",
+      "Crown Princess Margareta",
+      "Teasing Georgia",
+      "Wollerton Old Hall",
+      "Strawberry Hill",
+      "Zéphirine Drouhin",
+      "Lady Banks' Rose",
+      "Eden",
+      "Don Juan"
+    ]
+  },
+  {
+    "key": "coleus",
+    "name": "Coleus",
+    "n": 13,
+    "resolvedMembers": 13,
+    "distinctColors": [],
+    "memberNames": [
+      "Coleus",
+      "Redhead",
+      "Wasabi",
+      "Black Dragon",
+      "Sedona Sunset",
+      "Henna",
+      "Pineapple",
+      "Campfire",
+      "Pink Chaos",
+      "Kong Rose",
+      "Wizard Velvet Red",
+      "Lime Time",
+      "Watermelon"
+    ]
+  },
+  {
+    "key": "columbine",
+    "name": "Columbine",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Columbine",
+      "Eastern Red Columbine",
+      "Rocky Mountain Blue",
+      "Nora Barlow",
+      "Black Barlow",
+      "Golden Columbine",
+      "White Columbine"
+    ]
+  },
+  {
+    "key": "coneflowers",
+    "name": "Coneflowers",
+    "n": 16,
+    "resolvedMembers": 16,
+    "distinctColors": [
+      "green",
+      "magenta/pink",
+      "orange",
+      "pale green",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Purple Coneflower",
+      "Magnus",
+      "White Swan",
+      "PowWow Wild Berry",
+      "Cheyenne Spirit",
+      "Hot Papaya",
+      "Sombrero Salsa Red",
+      "Sombrero Adobe Orange",
+      "Sombrero Lemon Yellow",
+      "Green Jewel",
+      "Pink Double Delight",
+      "Marmalade",
+      "Kismet Raspberry",
+      "Tomato Soup",
+      "Sombrero Hot Coral",
+      "Coconut Lime"
+    ]
+  },
+  {
+    "key": "coral-bells",
+    "name": "Coral Bells",
+    "n": 15,
+    "resolvedMembers": 15,
+    "distinctColors": [],
+    "memberNames": [
+      "Coral Bells",
+      "Palace Purple",
+      "Caramel",
+      "Obsidian",
+      "Lime Rickey",
+      "Georgia Peach",
+      "Plum Pudding",
+      "Marmalade",
+      "Forever Red",
+      "Citronelle",
+      "Silver Scrolls",
+      "Melting Fire",
+      "Berry Smoothie",
+      "Forever Purple",
+      "Midnight Rose"
+    ]
+  },
+  {
+    "key": "coreopsis",
+    "name": "Coreopsis",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "Coreopsis",
+      "Moonbeam",
+      "Zagreb",
+      "Early Sunrise",
+      "Crème Brûlée",
+      "Mercury Rising",
+      "Route 66",
+      "Sienna Sunset",
+      "Pink Sapphire",
+      "Pumpkin Pie",
+      "Red Satin",
+      "Jethro Tull"
+    ]
+  },
+  {
+    "key": "cosmos",
+    "name": "Cosmos",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Cosmos",
+      "Purity",
+      "Sensation Pink",
+      "Rubenza",
+      "Dazzler",
+      "Xanthos",
+      "Apricot Lemonade",
+      "Sea Shells",
+      "Double Click Rose",
+      "Bright Lights",
+      "Cosmic Red",
+      "Cosmic Yellow"
+    ]
+  },
+  {
+    "key": "crabapple",
+    "name": "Crabapple",
+    "n": 11,
+    "resolvedMembers": 11,
+    "distinctColors": [
+      "pink",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Flowering Crabapple",
+      "Prairifire",
+      "Royal Raindrops",
+      "Snowdrift",
+      "Profusion",
+      "Red Jewel",
+      "Indian Magic",
+      "Sugar Tyme",
+      "Adirondack",
+      "Purple Prince",
+      "Golden Raindrops"
+    ]
+  },
+  {
+    "key": "crape-myrtle",
+    "name": "Crape Myrtle",
+    "n": 14,
+    "resolvedMembers": 14,
+    "distinctColors": [
+      "magenta/pink",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Crape Myrtle",
+      "Natchez",
+      "Muskogee",
+      "Tuscarora",
+      "Dynamite",
+      "Sioux",
+      "Catawba",
+      "Red Rocket",
+      "Acoma",
+      "Pink Velour",
+      "Twilight",
+      "Cherry Dazzle",
+      "Hopi",
+      "Black Diamond Red Hot"
+    ]
+  },
+  {
+    "key": "creeping-phlox",
+    "name": "Creeping Phlox",
+    "n": 11,
+    "resolvedMembers": 11,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Creeping Phlox",
+      "Emerald Blue",
+      "Candy Stripe",
+      "Scarlet Flame",
+      "Purple Beauty",
+      "White Delight",
+      "Emerald Pink",
+      "Amazing Grace",
+      "Red Wings",
+      "Drummond's Pink",
+      "Snowflake"
+    ]
+  },
+  {
+    "key": "crocosmia",
+    "name": "Crocosmia",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "orange",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "Crocosmia",
+      "Lucifer",
+      "Emily McKenzie",
+      "George Davison",
+      "Solfatare",
+      "Star of the East"
+    ]
+  },
+  {
+    "key": "crocus",
+    "name": "Crocus",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "blue",
+      "pale yellow",
+      "purple",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Crocus",
+      "Jeanne d'Arc",
+      "Pickwick",
+      "Flower Record",
+      "Yellow Mammoth",
+      "Ruby Giant",
+      "Cream Beauty",
+      "Blue Pearl",
+      "Remembrance",
+      "Tricolor",
+      "Snow Bunting",
+      "Grand Maître"
+    ]
+  },
+  {
+    "key": "cuphea",
+    "name": "Cuphea",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Cuphea (Cigar Plant)",
+      "Vermillionaire Cuphea",
+      "Mexican Heather",
+      "White Mexican Heather",
+      "Pink Mexican Heather",
+      "FloriGlory Cuphea"
+    ]
+  },
+  {
+    "key": "daffodils",
+    "name": "Daffodils",
+    "n": 16,
+    "resolvedMembers": 16,
+    "distinctColors": [
+      "orange",
+      "pale red",
+      "pale yellow",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Daffodil",
+      "Dutch Master",
+      "Mount Hood",
+      "Ice Follies",
+      "Tête-à-Tête",
+      "Thalia",
+      "February Gold",
+      "Jetfire",
+      "Pink Charm",
+      "Salome",
+      "Cheerfulness",
+      "Tahiti",
+      "Geranium",
+      "Actaea",
+      "Jack Snipe",
+      "Sir Winston Churchill"
+    ]
+  },
+  {
+    "key": "dahlias",
+    "name": "Dahlias",
+    "n": 16,
+    "resolvedMembers": 16,
+    "distinctColors": [
+      "magenta/pink",
+      "orange",
+      "pale orange",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Dahlia",
+      "Café au Lait",
+      "Bishop of Llandaff",
+      "Thomas Edison",
+      "Arabian Night",
+      "Kelvin Floodlight",
+      "Otto's Thrill",
+      "Gallery Art Deco",
+      "Jowey Winnie",
+      "Cornel",
+      "David Howard",
+      "Fleurel",
+      "Sylvia",
+      "Karma Choc",
+      "Labyrinth",
+      "Bishop's Children"
+    ]
+  },
+  {
+    "key": "daylilies",
+    "name": "Daylilies",
+    "n": 16,
+    "resolvedMembers": 16,
+    "distinctColors": [
+      "magenta/pink",
+      "orange",
+      "pale yellow",
+      "purple",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "Daylily",
+      "Stella de Oro",
+      "Happy Returns",
+      "Pardon Me",
+      "Hyperion",
+      "Chicago Apache",
+      "Catherine Woodbery",
+      "Joan Senior",
+      "Strawberry Candy",
+      "Bela Lugosi",
+      "Frans Hals",
+      "Apricot Sparkles",
+      "Going Bananas",
+      "Purple de Oro",
+      "Ruby Stella",
+      "El Desperado"
+    ]
+  },
+  {
+    "key": "delphinium",
+    "name": "Delphinium",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Delphinium",
+      "Black Knight",
+      "Galahad",
+      "King Arthur",
+      "Blue Bird",
+      "Blue Jay",
+      "Astolat",
+      "Guinevere",
+      "Summer Skies",
+      "Magic Fountains Dark Blue",
+      "Magic Fountains Cherry Blossom",
+      "Blue Mirror"
+    ]
+  },
+  {
+    "key": "dianthus",
+    "name": "Dianthus",
+    "n": 13,
+    "resolvedMembers": 13,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Dianthus",
+      "Firewitch",
+      "Bath's Pink",
+      "Maiden Pink",
+      "Frosty Fire",
+      "Coconut Surprise",
+      "Neon Star",
+      "Tiny Rubies",
+      "Brilliant",
+      "Georgia Peach Pie",
+      "Pink Fire",
+      "Mountain Frost Ruby",
+      "White Pinks"
+    ]
+  },
+  {
+    "key": "dogwood",
+    "name": "Dogwood",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "pale pink",
+      "pale red",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Flowering Dogwood",
+      "Cherokee Chief",
+      "Cherokee Princess",
+      "Cherokee Brave",
+      "Cloud Nine",
+      "Pink Dogwood",
+      "Kousa Dogwood",
+      "Milky Way Kousa",
+      "Wolf Eyes",
+      "Satomi Kousa",
+      "Cornelian Cherry",
+      "Stellar Pink"
+    ]
+  },
+  {
+    "key": "elephant-ear",
+    "name": "Elephant Ear",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [],
+    "memberNames": [
+      "Elephant Ear",
+      "Black Magic",
+      "Illustris",
+      "Mojito",
+      "Lime Zinger",
+      "Pink China",
+      "Alocasia Polly"
+    ]
+  },
+  {
+    "key": "english-rose",
+    "name": "English (David Austin) Roses",
+    "n": 32,
+    "resolvedMembers": 32,
+    "distinctColors": [
+      "orange",
+      "pale orange",
+      "pale pink",
+      "pale yellow",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Gertrude Jekyll",
+      "Graham Thomas",
+      "Munstead Wood",
+      "Lady of Shalott",
+      "Olivia Rose Austin",
+      "Claire Austin",
+      "Boscobel",
+      "Golden Celebration",
+      "Darcey Bussell",
+      "Roald Dahl",
+      "Queen of Sweden",
+      "Lady Emma Hamilton",
+      "The Pilgrim",
+      "Harlow Carr",
+      "Jubilee Celebration",
+      "Princess Alexandra of Kent",
+      "Gentle Hermione",
+      "Tess of the d'Urbervilles",
+      "Abraham Darby",
+      "Heritage",
+      "The Lady Gardener",
+      "Desdemona",
+      "Vanessa Bell",
+      "Tranquillity",
+      "Susan Williams-Ellis",
+      "Charlotte",
+      "Carding Mill",
+      "Emily Brontë",
+      "James Galway",
+      "Molineux",
+      "The Poet's Wife",
+      "Juliet"
+    ]
+  },
+  {
+    "key": "baptisia",
+    "name": "False Indigo",
+    "n": 8,
+    "resolvedMembers": 8,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "False Indigo",
+      "White Wild Indigo",
+      "Screaming Yellow",
+      "Carolina Moonlight",
+      "Purple Smoke",
+      "Cherries Jubilee",
+      "Dutch Chocolate",
+      "Pink Lemonade"
+    ]
+  },
+  {
+    "key": "scaevola",
+    "name": "Fan Flower",
+    "n": 4,
+    "resolvedMembers": 4,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "white"
+    ],
+    "memberNames": [
+      "Fan Flower",
+      "Blue Fan Flower",
+      "White Fan Flower",
+      "Pink Fan Flower"
+    ]
+  },
+  {
+    "key": "feather-reed-grass",
+    "name": "Feather Reed Grass",
+    "n": 3,
+    "resolvedMembers": 3,
+    "distinctColors": [
+      "yellow"
+    ],
+    "memberNames": [
+      "Feather Reed Grass",
+      "Overdam",
+      "Eldorado"
+    ]
+  },
+  {
+    "key": "floribunda-rose",
+    "name": "Floribunda Roses",
+    "n": 3,
+    "resolvedMembers": 3,
+    "distinctColors": [
+      "pink",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Floribunda Rose",
+      "Iceberg",
+      "Julia Child"
+    ]
+  },
+  {
+    "key": "flowering-cherry",
+    "name": "Flowering Cherry",
+    "n": 10,
+    "resolvedMembers": 10,
+    "distinctColors": [
+      "pale pink",
+      "pink",
+      "white"
+    ],
+    "memberNames": [
+      "Flowering Cherry",
+      "Yoshino Cherry",
+      "Kwanzan Cherry",
+      "Weeping Cherry",
+      "Okame Cherry",
+      "Mount Fuji Cherry",
+      "Snow Fountains",
+      "Akebono Cherry",
+      "Autumn Flowering Cherry",
+      "Pink Cloud Cherry"
+    ]
+  },
+  {
+    "key": "nicotiana",
+    "name": "Flowering Tobacco",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "green",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Flowering Tobacco",
+      "Red Flowering Tobacco",
+      "Pink Flowering Tobacco",
+      "Lime Green",
+      "Purple Flowering Tobacco",
+      "Crimson Bedder"
+    ]
+  },
+  {
+    "key": "forsythia",
+    "name": "Forsythia",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "yellow"
+    ],
+    "memberNames": [
+      "Forsythia",
+      "Lynwood Gold",
+      "Show Off",
+      "Gold Tide",
+      "Fiesta",
+      "Northern Gold",
+      "Magical Gold"
+    ]
+  },
+  {
+    "key": "fountain-grass",
+    "name": "Fountain Grass",
+    "n": 4,
+    "resolvedMembers": 4,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "purple"
+    ],
+    "memberNames": [
+      "Fountain Grass",
+      "Purple Fountain Grass",
+      "Moudry (Black Fountain Grass)",
+      "Little Bunny"
+    ]
+  },
+  {
+    "key": "four-oclock",
+    "name": "Four O'Clock",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "magenta/pink",
+      "orange",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Four O'Clock",
+      "Yellow Four O'Clock",
+      "White Four O'Clock",
+      "Red Four O'Clock",
+      "Magenta Four O'Clock",
+      "Marbles"
+    ]
+  },
+  {
+    "key": "foxglove",
+    "name": "Foxglove",
+    "n": 11,
+    "resolvedMembers": 11,
+    "distinctColors": [
+      "magenta/pink",
+      "orange",
+      "pale yellow",
+      "pink",
+      "purple",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Foxglove",
+      "Camelot Rose",
+      "Camelot White",
+      "Camelot Lavender",
+      "Camelot Cream",
+      "Dalmatian Purple",
+      "Dalmatian Peach",
+      "Sutton's Apricot",
+      "Pam's Choice",
+      "Yellow Foxglove",
+      "Common Foxglove"
+    ]
+  },
+  {
+    "key": "freesia",
+    "name": "Freesia",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "blue",
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Freesia",
+      "White Freesia",
+      "Red Freesia",
+      "Pink Freesia",
+      "Purple Freesia",
+      "Orange Freesia",
+      "Blue Freesia"
+    ]
+  },
+  {
+    "key": "fritillaria",
+    "name": "Fritillaria",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "magenta/pink",
+      "orange",
+      "purple",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Crown Imperial",
+      "Crown Imperial Rubra",
+      "Crown Imperial Lutea",
+      "Checkered Lily",
+      "Checkered Lily Alba",
+      "Persian Lily"
+    ]
+  },
+  {
+    "key": "fuchsia",
+    "name": "Fuchsia",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "magenta/pink",
+      "pale pink",
+      "pink",
+      "red"
+    ],
+    "memberNames": [
+      "Fuchsia",
+      "Swingtime",
+      "Dark Eyes",
+      "Gartenmeister",
+      "Marinka",
+      "Pink Marshmallow",
+      "Voodoo Fuchsia"
+    ]
+  },
+  {
+    "key": "phlox",
+    "name": "Garden Phlox",
+    "n": 13,
+    "resolvedMembers": 13,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Garden Phlox",
+      "David",
+      "Jeana",
+      "Bright Eyes",
+      "Laura",
+      "Nicky",
+      "Blue Paradise",
+      "Starfire",
+      "Orange Perfection",
+      "Coral Flame",
+      "Robert Poore",
+      "White Flame",
+      "Purple Phlox"
+    ]
+  },
+  {
+    "key": "gardenia",
+    "name": "Gardenia",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "white"
+    ],
+    "memberNames": [
+      "Gardenia",
+      "August Beauty",
+      "Frostproof",
+      "Kleim's Hardy",
+      "Radicans",
+      "Veitchii",
+      "Crown Jewel"
+    ]
+  },
+  {
+    "key": "gazania",
+    "name": "Gazania",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Gazania",
+      "Yellow Gazania",
+      "Red Gazania",
+      "Pink Gazania",
+      "White Gazania",
+      "Bronze Gazania",
+      "Tiger Stripe Gazania"
+    ]
+  },
+  {
+    "key": "geraniums",
+    "name": "Geraniums",
+    "n": 11,
+    "resolvedMembers": 11,
+    "distinctColors": [
+      "magenta/pink",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Geranium (Annual)",
+      "Pink Geranium",
+      "White Geranium",
+      "Salmon Geranium",
+      "Coral Geranium",
+      "Purple Geranium",
+      "Magenta Geranium",
+      "Burgundy Geranium",
+      "Lavender Geranium",
+      "Bicolor Geranium",
+      "Ivy Geranium"
+    ]
+  },
+  {
+    "key": "gerbera",
+    "name": "Gerbera Daisy",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Gerbera Daisy",
+      "Red Gerbera",
+      "Pink Gerbera",
+      "Yellow Gerbera",
+      "White Gerbera",
+      "Coral Gerbera",
+      "Deep Rose Gerbera"
+    ]
+  },
+  {
+    "key": "gladiolus",
+    "name": "Gladiolus",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "green",
+      "magenta/pink",
+      "orange",
+      "pale pink",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Gladiolus",
+      "Red Gladiolus",
+      "White Prosperity",
+      "Purple Magic",
+      "Yellow Gladiolus",
+      "Tangelo",
+      "Peche Melba",
+      "Lavender Gladiolus",
+      "Green Star",
+      "Black Star",
+      "Priscilla",
+      "Magenta Gladiolus"
+    ]
+  },
+  {
+    "key": "gomphrena",
+    "name": "Globe Amaranth",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "magenta/pink",
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Globe Amaranth",
+      "Purple Globe Amaranth",
+      "White Globe Amaranth",
+      "Strawberry Fields",
+      "QIS Orange",
+      "Lavender Globe Amaranth"
+    ]
+  },
+  {
+    "key": "glory-of-the-snow",
+    "name": "Glory of the Snow",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "white"
+    ],
+    "memberNames": [
+      "Glory of the Snow",
+      "Blue Giant",
+      "Pink Giant",
+      "Alba",
+      "Violet Beauty"
+    ]
+  },
+  {
+    "key": "grape-hyacinth",
+    "name": "Grape Hyacinth",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Grape Hyacinth",
+      "White Muscari",
+      "Valerie Finnis",
+      "Latifolium",
+      "Pink Sunrise",
+      "Golden Fragrance"
+    ]
+  },
+  {
+    "key": "hardy-geranium",
+    "name": "Hardy Geranium",
+    "n": 11,
+    "resolvedMembers": 11,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Hardy Geranium",
+      "Rozanne",
+      "Johnson's Blue",
+      "Wargrave Pink",
+      "Ann Folkard",
+      "Biokovo",
+      "Brookside",
+      "Max Frei",
+      "Kashmir White",
+      "Patricia",
+      "New Hampshire Purple"
+    ]
+  },
+  {
+    "key": "hardy-hibiscus",
+    "name": "Hardy Hibiscus",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "magenta/pink",
+      "pink",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Hardy Hibiscus",
+      "Lord Baltimore",
+      "Lady Baltimore",
+      "Midnight Marvel",
+      "Berry Awesome",
+      "Cranberry Crush",
+      "Luna White",
+      "Luna Pink Swirl",
+      "Kopper King",
+      "Cherry Choco Latte",
+      "Holy Grail",
+      "Summer Storm"
+    ]
+  },
+  {
+    "key": "hellebore",
+    "name": "Hellebore",
+    "n": 11,
+    "resolvedMembers": 11,
+    "distinctColors": [
+      "green",
+      "pale orange",
+      "pale yellow",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Hellebore",
+      "Christmas Rose",
+      "Penny's Pink",
+      "Anna's Red",
+      "Ivory Prince",
+      "Onyx Odyssey",
+      "Golden Lotus",
+      "Cinnamon Snow",
+      "Pink Frost",
+      "Green Hellebore",
+      "Wedding Party"
+    ]
+  },
+  {
+    "key": "hemlock",
+    "name": "Hemlock",
+    "n": 4,
+    "resolvedMembers": 4,
+    "distinctColors": [],
+    "memberNames": [
+      "Eastern Hemlock",
+      "Weeping Hemlock",
+      "Gentsch White",
+      "Jeddeloh Hemlock"
+    ]
+  },
+  {
+    "key": "hollyhock",
+    "name": "Hollyhock",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Hollyhock",
+      "Chater's Double Red",
+      "Chater's Double White",
+      "Chater's Double Yellow",
+      "Chater's Double Violet",
+      "Nigra",
+      "Crème de Cassis"
+    ]
+  },
+  {
+    "key": "honeysuckle",
+    "name": "Honeysuckle",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "orange",
+      "pale yellow",
+      "pink",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "Honeysuckle",
+      "Major Wheeler",
+      "Goldflame Honeysuckle",
+      "Scentsation Honeysuckle",
+      "Dutch Woodbine"
+    ]
+  },
+  {
+    "key": "hostas",
+    "name": "Hostas",
+    "n": 16,
+    "resolvedMembers": 16,
+    "distinctColors": [],
+    "memberNames": [
+      "Hosta",
+      "Sum and Substance",
+      "Blue Angel",
+      "Frances Williams",
+      "Patriot",
+      "Halcyon",
+      "Guacamole",
+      "June",
+      "Francee",
+      "Gold Standard",
+      "Empress Wu",
+      "Krossa Regal",
+      "Wide Brim",
+      "Fire and Ice",
+      "August Moon",
+      "Minuteman"
+    ]
+  },
+  {
+    "key": "hyacinth",
+    "name": "Hyacinth",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Hyacinth",
+      "Delft Blue",
+      "Blue Jacket",
+      "Carnegie",
+      "Pink Pearl",
+      "Jan Bos",
+      "City of Haarlem",
+      "Woodstock",
+      "Gipsy Queen",
+      "Anna Marie",
+      "Miss Saigon",
+      "Splendid Cornelia"
+    ]
+  },
+  {
+    "key": "hybrid-tea-rose",
+    "name": "Hybrid Tea & Grandiflora Roses",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "pink",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "Hybrid Tea Rose",
+      "Peace",
+      "Mister Lincoln",
+      "Double Delight",
+      "Queen Elizabeth"
+    ]
+  },
+  {
+    "key": "hydrangeas",
+    "name": "Hydrangeas",
+    "n": 4,
+    "resolvedMembers": 4,
+    "distinctColors": [
+      "blue",
+      "white"
+    ],
+    "memberNames": [
+      "Bigleaf Hydrangea",
+      "Panicle Hydrangea",
+      "Oakleaf Hydrangea",
+      "Smooth Hydrangea"
+    ]
+  },
+  {
+    "key": "impatiens",
+    "name": "Impatiens",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "magenta/pink",
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Impatiens",
+      "Red Impatiens",
+      "White Impatiens",
+      "Violet Impatiens",
+      "Salmon Impatiens",
+      "Lavender Impatiens",
+      "Rose Impatiens",
+      "Scarlet Impatiens",
+      "New Guinea Red",
+      "New Guinea Orange",
+      "SunPatiens Coral",
+      "Double Rose Impatiens"
+    ]
+  },
+  {
+    "key": "irises",
+    "name": "Irises",
+    "n": 3,
+    "resolvedMembers": 3,
+    "distinctColors": [
+      "blue",
+      "purple"
+    ],
+    "memberNames": [
+      "Bearded Iris",
+      "Siberian Iris",
+      "Dutch Iris"
+    ]
+  },
+  {
+    "key": "italian-cypress",
+    "name": "Italian Cypress",
+    "n": 4,
+    "resolvedMembers": 4,
+    "distinctColors": [],
+    "memberNames": [
+      "Italian Cypress",
+      "Blue Italian Cypress",
+      "Tiny Tower",
+      "Swane's Gold"
+    ]
+  },
+  {
+    "key": "japanese-forest-grass",
+    "name": "Japanese Forest Grass",
+    "n": 4,
+    "resolvedMembers": 4,
+    "distinctColors": [],
+    "memberNames": [
+      "Japanese Forest Grass",
+      "Golden Hakone (Aureola)",
+      "Albostriata",
+      "Beni-Kaze"
+    ]
+  },
+  {
+    "key": "japanese-maple",
+    "name": "Japanese Maple",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [],
+    "memberNames": [
+      "Japanese Maple",
+      "Bloodgood",
+      "Emperor I",
+      "Coral Bark Maple",
+      "Crimson Queen",
+      "Viridis",
+      "Tamukeyama",
+      "Butterfly",
+      "Orange Dream",
+      "Fireglow",
+      "Osakazuki",
+      "Waterfall"
+    ]
+  },
+  {
+    "key": "jasmine",
+    "name": "Jasmine",
+    "n": 4,
+    "resolvedMembers": 4,
+    "distinctColors": [
+      "pink",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Jasmine",
+      "Winter Jasmine",
+      "Pink Jasmine",
+      "Star Jasmine"
+    ]
+  },
+  {
+    "key": "juniper",
+    "name": "Juniper",
+    "n": 10,
+    "resolvedMembers": 10,
+    "distinctColors": [],
+    "memberNames": [
+      "Juniper",
+      "Blue Star Juniper",
+      "Blue Rug Juniper",
+      "Skyrocket Juniper",
+      "Sea Green Juniper",
+      "Gold Coast Juniper",
+      "Blue Point Juniper",
+      "Spartan Juniper",
+      "Grey Owl Juniper",
+      "Blue Pacific Juniper"
+    ]
+  },
+  {
+    "key": "lantana",
+    "name": "Lantana",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Lantana",
+      "Miss Huff",
+      "New Gold",
+      "Dallas Red",
+      "Radiation",
+      "Bandana Cherry",
+      "Bandana Rose",
+      "Luscious Citrus",
+      "Confetti",
+      "Lucky White",
+      "Purple Trailing",
+      "Bandana Pink"
+    ]
+  },
+  {
+    "key": "larkspur",
+    "name": "Larkspur",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Larkspur",
+      "Blue Larkspur",
+      "White Larkspur",
+      "Pink Larkspur",
+      "Rose Larkspur",
+      "Lavender Larkspur"
+    ]
+  },
+  {
+    "key": "lavender",
+    "name": "Lavender",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Lavender",
+      "Hidcote",
+      "Munstead",
+      "Phenomenal",
+      "Grosso",
+      "Provence",
+      "Hidcote Pink",
+      "Edelweiss",
+      "Royal Velvet",
+      "Spanish Lavender",
+      "French Lavender",
+      "Nana Alba"
+    ]
+  },
+  {
+    "key": "lilac",
+    "name": "Lilac",
+    "n": 14,
+    "resolvedMembers": 14,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "purple",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Lilac",
+      "Sensation",
+      "Charles Joly",
+      "Beauty of Moscow",
+      "Miss Kim",
+      "President Grevy",
+      "Madame Lemoine",
+      "Primrose",
+      "Wedgwood Blue",
+      "Katherine Havemeyer",
+      "Bloomerang Purple",
+      "Yankee Doodle",
+      "President Lincoln",
+      "Ludwig Späth"
+    ]
+  },
+  {
+    "key": "lilies",
+    "name": "Lilies",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Asiatic Lily",
+      "Oriental Lily",
+      "Tiger Lily",
+      "Trumpet Lily",
+      "Easter Lily"
+    ]
+  },
+  {
+    "key": "lisianthus",
+    "name": "Lisianthus",
+    "n": 8,
+    "resolvedMembers": 8,
+    "distinctColors": [
+      "blue",
+      "orange",
+      "pale yellow",
+      "pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Lisianthus",
+      "White Lisianthus",
+      "Pink Lisianthus",
+      "Blue Lisianthus",
+      "Rose Lisianthus",
+      "Cream Lisianthus",
+      "Apricot Lisianthus",
+      "Picotee Lisianthus"
+    ]
+  },
+  {
+    "key": "little-bluestem",
+    "name": "Little Bluestem",
+    "n": 3,
+    "resolvedMembers": 3,
+    "distinctColors": [
+      "orange"
+    ],
+    "memberNames": [
+      "Little Bluestem",
+      "Blaze",
+      "Twilight Zone"
+    ]
+  },
+  {
+    "key": "lobelia",
+    "name": "Lobelia",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Lobelia",
+      "Crystal Palace",
+      "White Lobelia",
+      "Rose Lobelia",
+      "Lilac Lobelia",
+      "Sky Blue Lobelia"
+    ]
+  },
+  {
+    "key": "lupine",
+    "name": "Lupine",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Lupine",
+      "The Governor",
+      "Noble Maiden",
+      "The Pages",
+      "Chandelier",
+      "My Castle",
+      "The Chatelaine",
+      "Gallery Blue",
+      "Gallery Red",
+      "Gallery White",
+      "Masterpiece",
+      "Manhattan Lights"
+    ]
+  },
+  {
+    "key": "magnolia",
+    "name": "Magnolia",
+    "n": 13,
+    "resolvedMembers": 13,
+    "distinctColors": [
+      "magenta/pink",
+      "pale magenta/pink",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Saucer Magnolia",
+      "Southern Magnolia",
+      "Star Magnolia",
+      "Jane Magnolia",
+      "Ann Magnolia",
+      "Royal Star Magnolia",
+      "Leonard Messel",
+      "Alexandrina Magnolia",
+      "Little Gem Magnolia",
+      "Sweetbay Magnolia",
+      "Butterflies Magnolia",
+      "Genie Magnolia",
+      "Betty Magnolia"
+    ]
+  },
+  {
+    "key": "maiden-grass",
+    "name": "Maiden Grass",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "pale red",
+      "pale yellow"
+    ],
+    "memberNames": [
+      "Maiden Grass",
+      "Gracillimus",
+      "Morning Light",
+      "Zebra Grass",
+      "Flame Grass"
+    ]
+  },
+  {
+    "key": "mandevilla",
+    "name": "Mandevilla",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Mandevilla",
+      "Sun Parasol Crimson",
+      "Sun Parasol White",
+      "Sun Parasol Apricot",
+      "Sun Parasol Sunbeam"
+    ]
+  },
+  {
+    "key": "marguerite-daisy",
+    "name": "Marguerite Daisy",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Marguerite Daisy",
+      "Pink Marguerite Daisy",
+      "Butterfly Marguerite Daisy",
+      "Red Marguerite Daisy",
+      "Apricot Marguerite Daisy"
+    ]
+  },
+  {
+    "key": "marigolds",
+    "name": "Marigolds",
+    "n": 11,
+    "resolvedMembers": 11,
+    "distinctColors": [
+      "orange",
+      "pale yellow",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "Marigold",
+      "Yellow Marigold",
+      "Orange Marigold",
+      "Gold Marigold",
+      "Red Marigold",
+      "Bicolor Marigold",
+      "Cream Marigold",
+      "French Marigold",
+      "African Marigold",
+      "Lemon Gem",
+      "Tangerine Gem"
+    ]
+  },
+  {
+    "key": "mock-orange",
+    "name": "Mock Orange",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "white"
+    ],
+    "memberNames": [
+      "Mock Orange",
+      "Snowbelle",
+      "Natchez",
+      "Miniature Snowflake",
+      "Belle Étoile",
+      "Golden Mock Orange",
+      "Snow White Sensation"
+    ]
+  },
+  {
+    "key": "morning-glory",
+    "name": "Morning Glory",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Morning Glory",
+      "Grandpa Ott's",
+      "Scarlett O'Hara",
+      "Pearly Gates",
+      "Crimson Rambler",
+      "Sunrise Serenade"
+    ]
+  },
+  {
+    "key": "nasturtium",
+    "name": "Nasturtium",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "orange",
+      "pale yellow",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "Nasturtium",
+      "Empress of India",
+      "Yellow Nasturtium",
+      "Cream Nasturtium",
+      "Mahogany Nasturtium",
+      "Peach Melba",
+      "Salmon Nasturtium"
+    ]
+  },
+  {
+    "key": "ninebark",
+    "name": "Ninebark",
+    "n": 8,
+    "resolvedMembers": 8,
+    "distinctColors": [
+      "pale pink",
+      "white"
+    ],
+    "memberNames": [
+      "Ninebark",
+      "Diabolo",
+      "Coppertina",
+      "Amber Jubilee",
+      "Summer Wine",
+      "Tiny Wine",
+      "Little Devil",
+      "Nugget"
+    ]
+  },
+  {
+    "key": "northern-sea-oats",
+    "name": "Northern Sea Oats",
+    "n": 2,
+    "resolvedMembers": 2,
+    "distinctColors": [
+      "yellow"
+    ],
+    "memberNames": [
+      "Northern Sea Oats",
+      "River Mist"
+    ]
+  },
+  {
+    "key": "ornamental-kale",
+    "name": "Ornamental Kale",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [],
+    "memberNames": [
+      "Ornamental Kale",
+      "White Ornamental Kale",
+      "Pink Ornamental Kale",
+      "Chidori Kale",
+      "Nagoya Red Kale"
+    ]
+  },
+  {
+    "key": "pampas-grass",
+    "name": "Pampas Grass",
+    "n": 4,
+    "resolvedMembers": 4,
+    "distinctColors": [
+      "pale yellow",
+      "red"
+    ],
+    "memberNames": [
+      "Pampas Grass",
+      "Pink Feather Pampas",
+      "Gold Band Pampas",
+      "Dwarf Pampas (Pumila)"
+    ]
+  },
+  {
+    "key": "pansies",
+    "name": "Pansies & Violas",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "blue",
+      "grey",
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Pansy",
+      "Yellow Pansy",
+      "Blue Pansy",
+      "White Pansy",
+      "Orange Pansy",
+      "Red Pansy",
+      "Purple Face Pansy",
+      "Yellow Blotch Pansy",
+      "Rose Pansy",
+      "Black Pansy",
+      "Sorbet Viola",
+      "Yellow Viola"
+    ]
+  },
+  {
+    "key": "passionflower",
+    "name": "Passionflower",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Passionflower",
+      "Blue Crown Passionflower",
+      "Constance Elliott",
+      "Red Passionflower",
+      "Lady Margaret"
+    ]
+  },
+  {
+    "key": "pentas",
+    "name": "Pentas",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Pentas",
+      "Red Pentas",
+      "White Pentas",
+      "Lavender Pentas",
+      "Violet Pentas",
+      "Raspberry Pentas"
+    ]
+  },
+  {
+    "key": "peonies",
+    "name": "Peonies",
+    "n": 16,
+    "resolvedMembers": 16,
+    "distinctColors": [
+      "orange",
+      "pale pink",
+      "pale red",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Peony",
+      "Sarah Bernhardt",
+      "Karl Rosenfield",
+      "Festiva Maxima",
+      "Bowl of Beauty",
+      "Coral Charm",
+      "Duchesse de Nemours",
+      "Bartzella",
+      "Shirley Temple",
+      "Red Charm",
+      "Monsieur Jules Elie",
+      "Coral Sunset",
+      "Kansas",
+      "Gardenia",
+      "Pink Hawaiian Coral",
+      "Do Tell"
+    ]
+  },
+  {
+    "key": "petunias",
+    "name": "Petunias",
+    "n": 14,
+    "resolvedMembers": 14,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Petunia",
+      "Purple Petunia",
+      "Red Petunia",
+      "White Petunia",
+      "Pink Petunia",
+      "Burgundy Petunia",
+      "Blue Petunia",
+      "Yellow Petunia",
+      "Coral Petunia",
+      "Salmon Petunia",
+      "Supertunia Vista Bubblegum",
+      "Night Sky",
+      "Purple Wave",
+      "Star Petunia"
+    ]
+  },
+  {
+    "key": "pine",
+    "name": "Pine",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [],
+    "memberNames": [
+      "Eastern White Pine",
+      "Weeping White Pine",
+      "Dwarf White Pine",
+      "Columnar White Pine",
+      "Mugo Pine"
+    ]
+  },
+  {
+    "key": "portulaca",
+    "name": "Portulaca",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "magenta/pink",
+      "orange",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Portulaca",
+      "Red Portulaca",
+      "Yellow Portulaca",
+      "Pink Portulaca",
+      "White Portulaca",
+      "Magenta Portulaca"
+    ]
+  },
+  {
+    "key": "potentilla",
+    "name": "Potentilla",
+    "n": 11,
+    "resolvedMembers": 11,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Potentilla",
+      "Goldfinger",
+      "Abbotswood",
+      "Pink Beauty",
+      "Mango Tango",
+      "Red Ace",
+      "Tangerine",
+      "McKay's White",
+      "Happy Face Yellow",
+      "Pink Whisper",
+      "Orange Whisper"
+    ]
+  },
+  {
+    "key": "ranunculus",
+    "name": "Ranunculus",
+    "n": 11,
+    "resolvedMembers": 11,
+    "distinctColors": [
+      "orange",
+      "pale pink",
+      "pale yellow",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Ranunculus",
+      "Red Ranunculus",
+      "Pink Ranunculus",
+      "White Ranunculus",
+      "Yellow Ranunculus",
+      "Purple Ranunculus",
+      "Salmon Ranunculus",
+      "Magenta Ranunculus",
+      "Cream Ranunculus",
+      "Picotee Pink",
+      "Apricot Ranunculus"
+    ]
+  },
+  {
+    "key": "redbud",
+    "name": "Redbud",
+    "n": 10,
+    "resolvedMembers": 10,
+    "distinctColors": [
+      "magenta/pink",
+      "pink",
+      "white"
+    ],
+    "memberNames": [
+      "Eastern Redbud",
+      "Forest Pansy",
+      "Hearts of Gold",
+      "The Rising Sun",
+      "Royal White Redbud",
+      "Ruby Falls",
+      "Lavender Twist",
+      "Oklahoma Redbud",
+      "Appalachian Red",
+      "Flame Thrower"
+    ]
+  },
+  {
+    "key": "rex-begonia",
+    "name": "Rex Begonia",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [],
+    "memberNames": [
+      "Rex Begonia",
+      "Escargot Rex Begonia",
+      "Fireworks Rex Begonia",
+      "Red Kiss Rex Begonia",
+      "River Nile Rex Begonia",
+      "Raspberry Swirl Rex Begonia"
+    ]
+  },
+  {
+    "key": "rhododendrons",
+    "name": "Rhododendrons",
+    "n": 13,
+    "resolvedMembers": 13,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "pale pink",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Rhododendron",
+      "Nova Zembla",
+      "Roseum Elegans",
+      "PJM",
+      "English Roseum",
+      "Purple Splendor",
+      "Cunningham's White",
+      "Boule de Neige",
+      "Scintillation",
+      "Yaku Princess",
+      "Anah Kruschke",
+      "Capistrano",
+      "Blue Peter"
+    ]
+  },
+  {
+    "key": "rose-of-sharon",
+    "name": "Rose of Sharon",
+    "n": 13,
+    "resolvedMembers": 13,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Rose of Sharon",
+      "Blue Bird",
+      "Diana",
+      "Aphrodite",
+      "Helene",
+      "Blushing Bride",
+      "Minerva",
+      "Blue Chiffon",
+      "Lavender Chiffon",
+      "White Chiffon",
+      "Lucy",
+      "Red Heart",
+      "Purple Pillar"
+    ]
+  },
+  {
+    "key": "salvia",
+    "name": "Salvia",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Perennial Salvia",
+      "May Night",
+      "Caradonna",
+      "Blue Hill",
+      "Snow Hill",
+      "Sensation Rose",
+      "East Friesland",
+      "Pink Profusion",
+      "Violet Riot",
+      "Rose Marvel",
+      "Blue Marvel",
+      "April Night"
+    ]
+  },
+  {
+    "key": "scilla",
+    "name": "Scilla",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "blue",
+      "white"
+    ],
+    "memberNames": [
+      "Siberian Squill",
+      "White Squill",
+      "Spring Beauty",
+      "Early Squill",
+      "Alpine Squill",
+      "Portuguese Squill"
+    ]
+  },
+  {
+    "key": "sedum",
+    "name": "Sedum",
+    "n": 9,
+    "resolvedMembers": 9,
+    "distinctColors": [
+      "pale pink",
+      "pink",
+      "red"
+    ],
+    "memberNames": [
+      "Autumn Joy Sedum",
+      "Brilliant Sedum",
+      "Matrona",
+      "Purple Emperor",
+      "Neon Sedum",
+      "Autumn Fire",
+      "Frosty Morn",
+      "Thunderhead",
+      "Mr. Goodbud"
+    ]
+  },
+  {
+    "key": "serviceberry",
+    "name": "Serviceberry",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "white"
+    ],
+    "memberNames": [
+      "Serviceberry",
+      "Autumn Brilliance",
+      "Princess Diana Serviceberry",
+      "Cole's Select",
+      "Regent Serviceberry",
+      "Rainbow Pillar",
+      "Ballerina Serviceberry"
+    ]
+  },
+  {
+    "key": "shasta-daisy",
+    "name": "Shasta Daisy",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Shasta Daisy",
+      "Becky",
+      "Alaska",
+      "Snowcap",
+      "Banana Cream",
+      "Crazy Daisy",
+      "Snow Lady"
+    ]
+  },
+  {
+    "key": "shrub-landscape-roses",
+    "name": "Shrub & Landscape Roses",
+    "n": 8,
+    "resolvedMembers": 8,
+    "distinctColors": [
+      "pale pink",
+      "pale red",
+      "pink",
+      "red"
+    ],
+    "memberNames": [
+      "Shrub Rose",
+      "Knock Out Rose",
+      "Bonica",
+      "Flower Carpet Rose",
+      "Drift Rose",
+      "The Fairy",
+      "Cécile Brünner",
+      "Rugosa Rose"
+    ]
+  },
+  {
+    "key": "smokebush",
+    "name": "Smokebush",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "magenta/pink",
+      "pale orange",
+      "pale red",
+      "pink"
+    ],
+    "memberNames": [
+      "Smokebush",
+      "Royal Purple",
+      "Grace",
+      "Golden Spirit",
+      "Velvet Cloak",
+      "Young Lady",
+      "Winecraft Black"
+    ]
+  },
+  {
+    "key": "snapdragons",
+    "name": "Snapdragons",
+    "n": 11,
+    "resolvedMembers": 11,
+    "distinctColors": [
+      "magenta/pink",
+      "orange",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Snapdragon",
+      "Red Snapdragon",
+      "Yellow Snapdragon",
+      "Orange Snapdragon",
+      "White Snapdragon",
+      "Purple Snapdragon",
+      "Rose Snapdragon",
+      "Bronze Snapdragon",
+      "Burgundy Snapdragon",
+      "Coral Snapdragon",
+      "Rocket Snapdragon"
+    ]
+  },
+  {
+    "key": "snowdrop",
+    "name": "Snowdrop",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "white"
+    ],
+    "memberNames": [
+      "Snowdrop",
+      "Flore Pleno",
+      "Giant Snowdrop",
+      "Magnet",
+      "Viridapice",
+      "S. Arnott"
+    ]
+  },
+  {
+    "key": "snowflake",
+    "name": "Snowflake",
+    "n": 4,
+    "resolvedMembers": 4,
+    "distinctColors": [
+      "white"
+    ],
+    "memberNames": [
+      "Snowflake",
+      "Spring Snowflake",
+      "Summer Snowflake",
+      "Gravetye Giant"
+    ]
+  },
+  {
+    "key": "spirea",
+    "name": "Spirea",
+    "n": 11,
+    "resolvedMembers": 11,
+    "distinctColors": [
+      "pink",
+      "white"
+    ],
+    "memberNames": [
+      "Spirea",
+      "Goldflame",
+      "Magic Carpet",
+      "Anthony Waterer",
+      "Little Princess",
+      "Goldmound",
+      "Bridal Wreath",
+      "Snowmound",
+      "Double Play Big Bang",
+      "Double Play Candy Corn",
+      "Neon Flash"
+    ]
+  },
+  {
+    "key": "spruce",
+    "name": "Spruce",
+    "n": 10,
+    "resolvedMembers": 10,
+    "distinctColors": [],
+    "memberNames": [
+      "Colorado Blue Spruce",
+      "Fat Albert",
+      "Baby Blue",
+      "Hoopsii",
+      "Globe Blue Spruce",
+      "Montgomery",
+      "Norway Spruce",
+      "Bird's Nest Spruce",
+      "Weeping Norway Spruce",
+      "Dwarf Alberta Spruce"
+    ]
+  },
+  {
+    "key": "star-of-bethlehem",
+    "name": "Star of Bethlehem",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "orange",
+      "white"
+    ],
+    "memberNames": [
+      "Star of Bethlehem",
+      "Arabicum",
+      "Silver Bells",
+      "Chincherinchee",
+      "Orange Star"
+    ]
+  },
+  {
+    "key": "statice",
+    "name": "Statice",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "blue",
+      "orange",
+      "pink",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Statice",
+      "Blue Statice",
+      "White Statice",
+      "Pink Statice",
+      "Yellow Statice",
+      "Apricot Statice"
+    ]
+  },
+  {
+    "key": "stock",
+    "name": "Stock",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "magenta/pink",
+      "pale yellow",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Stock",
+      "White Stock",
+      "Purple Stock",
+      "Red Stock",
+      "Lavender Stock",
+      "Cream Stock",
+      "Rose Stock"
+    ]
+  },
+  {
+    "key": "strawflower",
+    "name": "Strawflower",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Strawflower",
+      "Yellow Strawflower",
+      "Red Strawflower",
+      "Pink Strawflower",
+      "White Strawflower",
+      "Purple Strawflower",
+      "Apricot Strawflower"
+    ]
+  },
+  {
+    "key": "summersweet",
+    "name": "Summersweet",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "pink",
+      "white"
+    ],
+    "memberNames": [
+      "Summersweet",
+      "Hummingbird",
+      "Ruby Spice",
+      "Sixteen Candles",
+      "Pink Spire",
+      "Vanilla Spice",
+      "Sugartina Crystalina"
+    ]
+  },
+  {
+    "key": "sunflower",
+    "name": "Sunflower",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "orange",
+      "pale yellow",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "Sunflower",
+      "Mammoth",
+      "Autumn Beauty",
+      "Teddy Bear",
+      "Velvet Queen",
+      "Italian White",
+      "Lemon Queen",
+      "Moulin Rouge",
+      "Ring of Fire",
+      "Strawberry Blonde",
+      "Soraya",
+      "Vanilla Ice"
+    ]
+  },
+  {
+    "key": "sweet-alyssum",
+    "name": "Sweet Alyssum",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Sweet Alyssum",
+      "Royal Carpet",
+      "Rosie O'Day",
+      "Snow Princess",
+      "Lavender Stream",
+      "Apricot Sweet Alyssum"
+    ]
+  },
+  {
+    "key": "sweet-pea",
+    "name": "Sweet Pea",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Sweet Pea",
+      "Cupani",
+      "Royal Crimson Sweet Pea",
+      "Royal White Sweet Pea",
+      "Royal Blue Sweet Pea",
+      "Lavender Sweet Pea"
+    ]
+  },
+  {
+    "key": "sweet-potato-vine",
+    "name": "Sweet Potato Vine",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [],
+    "memberNames": [
+      "Sweet Potato Vine",
+      "Margarita",
+      "Blackie",
+      "Sweet Caroline Bronze",
+      "Tricolor"
+    ]
+  },
+  {
+    "key": "switchgrass",
+    "name": "Switchgrass",
+    "n": 4,
+    "resolvedMembers": 4,
+    "distinctColors": [
+      "orange",
+      "red"
+    ],
+    "memberNames": [
+      "Switchgrass",
+      "Heavy Metal",
+      "Shenandoah",
+      "Northwind"
+    ]
+  },
+  {
+    "key": "tropical-hibiscus",
+    "name": "Tropical Hibiscus",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "magenta/pink",
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Tropical Hibiscus",
+      "Red Tropical Hibiscus",
+      "Yellow Tropical Hibiscus",
+      "Orange Tropical Hibiscus",
+      "White Tropical Hibiscus",
+      "Coral Tropical Hibiscus",
+      "Peach Tropical Hibiscus",
+      "Lavender Tropical Hibiscus",
+      "Fiesta",
+      "Hula Girl",
+      "President",
+      "Magenta Tropical Hibiscus"
+    ]
+  },
+  {
+    "key": "trumpet-vine",
+    "name": "Trumpet Vine",
+    "n": 4,
+    "resolvedMembers": 4,
+    "distinctColors": [
+      "orange",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "Trumpet Vine",
+      "Flava (Yellow Trumpet)",
+      "Crimson Trumpet",
+      "Madame Galen"
+    ]
+  },
+  {
+    "key": "tuberous-begonia",
+    "name": "Tuberous Begonia",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Tuberous Begonia",
+      "Nonstop Red Begonia",
+      "Orange Tuberous Begonia",
+      "Yellow Tuberous Begonia",
+      "White Tuberous Begonia",
+      "Apricot Tuberous Begonia"
+    ]
+  },
+  {
+    "key": "tulips",
+    "name": "Tulips",
+    "n": 18,
+    "resolvedMembers": 18,
+    "distinctColors": [
+      "grey",
+      "magenta/pink",
+      "orange",
+      "pale green",
+      "pale pink",
+      "pink",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Tulip",
+      "Apeldoorn",
+      "Golden Apeldoorn",
+      "Pink Impression",
+      "Apricot Beauty",
+      "Princess Irene",
+      "Negrita",
+      "Couleur Cardinal",
+      "Angelique",
+      "Monte Carlo",
+      "Spring Green",
+      "Ballerina",
+      "White Triumphator",
+      "Purissima",
+      "Orange Emperor",
+      "Flaming Parrot",
+      "Black Parrot",
+      "Queen of Night"
+    ]
+  },
+  {
+    "key": "verbena",
+    "name": "Verbena",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Verbena",
+      "Red Verbena",
+      "Pink Verbena",
+      "White Verbena",
+      "Imperial Blue",
+      "Magenta Verbena",
+      "Coral Verbena",
+      "Lavender Verbena",
+      "EnduraScape Dark Purple",
+      "Pink Bicolor",
+      "Plum Wine",
+      "Scarlet Verbena"
+    ]
+  },
+  {
+    "key": "veronica",
+    "name": "Veronica",
+    "n": 11,
+    "resolvedMembers": 11,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Veronica",
+      "Royal Candles",
+      "Sunny Border Blue",
+      "Red Fox",
+      "Icicle",
+      "Giles van Hees",
+      "Crater Lake Blue",
+      "Pink Damask",
+      "First Love",
+      "Snow Candles",
+      "Purpleicious"
+    ]
+  },
+  {
+    "key": "viburnum",
+    "name": "Viburnum",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "white"
+    ],
+    "memberNames": [
+      "Viburnum",
+      "Koreanspice",
+      "Doublefile",
+      "European Snowball",
+      "Burkwood",
+      "Arrowwood",
+      "Blackhaw"
+    ]
+  },
+  {
+    "key": "vinca",
+    "name": "Vinca",
+    "n": 7,
+    "resolvedMembers": 7,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "purple",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Vinca",
+      "White Vinca",
+      "Red Vinca",
+      "Purple Vinca",
+      "Apricot Vinca",
+      "Rose Vinca",
+      "Coral Vinca"
+    ]
+  },
+  {
+    "key": "weigela",
+    "name": "Weigela",
+    "n": 14,
+    "resolvedMembers": 14,
+    "distinctColors": [
+      "pink",
+      "red",
+      "white"
+    ],
+    "memberNames": [
+      "Weigela",
+      "Wine & Roses",
+      "Red Prince",
+      "Java Red",
+      "My Monet",
+      "White Weigela",
+      "Sonic Bloom Pink",
+      "Sonic Bloom Red",
+      "Minuet",
+      "Czechmark Trilogy",
+      "Variegata",
+      "Pink Delight",
+      "White Knight",
+      "Spilled Wine"
+    ]
+  },
+  {
+    "key": "windflower",
+    "name": "Windflower",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "pink",
+      "white"
+    ],
+    "memberNames": [
+      "Windflower",
+      "White Splendour",
+      "Blue Shades",
+      "Pink Star",
+      "Charmer",
+      "Radar"
+    ]
+  },
+  {
+    "key": "winterberry",
+    "name": "Winterberry",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "orange",
+      "red"
+    ],
+    "memberNames": [
+      "Winterberry",
+      "Winter Red",
+      "Red Sprite",
+      "Berry Heavy",
+      "Berry Poppins",
+      "Winter Gold"
+    ]
+  },
+  {
+    "key": "torenia",
+    "name": "Wishbone Flower",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "blue",
+      "magenta/pink",
+      "pink",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Wishbone Flower",
+      "Catalina Midnight Blue",
+      "Pink Wishbone Flower",
+      "White Wishbone Flower",
+      "Yellow Wishbone Flower",
+      "Kauai Rose"
+    ]
+  },
+  {
+    "key": "wisteria",
+    "name": "Wisteria",
+    "n": 5,
+    "resolvedMembers": 5,
+    "distinctColors": [
+      "blue",
+      "pink",
+      "purple",
+      "white"
+    ],
+    "memberNames": [
+      "Wisteria",
+      "White Wisteria (Alba)",
+      "Pink Wisteria (Rosea)",
+      "Blue Moon Wisteria",
+      "Amethyst Falls Wisteria"
+    ]
+  },
+  {
+    "key": "witch-hazel",
+    "name": "Witch Hazel",
+    "n": 6,
+    "resolvedMembers": 6,
+    "distinctColors": [
+      "orange",
+      "red",
+      "yellow"
+    ],
+    "memberNames": [
+      "Witch Hazel",
+      "Arnold Promise",
+      "Jelena",
+      "Diane",
+      "Pallida",
+      "Ozark Witch Hazel"
+    ]
+  },
+  {
+    "key": "yarrow",
+    "name": "Yarrow",
+    "n": 12,
+    "resolvedMembers": 12,
+    "distinctColors": [
+      "orange",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Yarrow",
+      "Moonshine",
+      "Coronation Gold",
+      "Cerise Queen",
+      "Paprika",
+      "Terracotta",
+      "Apricot Delight",
+      "Red Velvet",
+      "White Yarrow",
+      "Saucy Seduction",
+      "Pomegranate",
+      "Sunny Seduction"
+    ]
+  },
+  {
+    "key": "zinnias",
+    "name": "Zinnias",
+    "n": 14,
+    "resolvedMembers": 14,
+    "distinctColors": [
+      "green",
+      "magenta/pink",
+      "orange",
+      "pink",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "memberNames": [
+      "Zinnia",
+      "Orange Zinnia",
+      "Yellow Zinnia",
+      "Pink Zinnia",
+      "Magenta Zinnia",
+      "White Zinnia",
+      "Coral Zinnia",
+      "Purple Zinnia",
+      "Envy",
+      "Benary's Giant Wine",
+      "Queen Lime Orange",
+      "Profusion Cherry",
+      "Profusion White",
+      "Uproar Rose"
+    ]
+  }
+]

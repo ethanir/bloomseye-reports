@@ -1,0 +1,1462 @@
+{
+ "findings": [
+  {
+   "plant": "bleeding-heart-king-of-hearts",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "bleeding-heart-king-of-hearts and bleeding-heart (species) are near-identical top-down: both a pink beaded arching spray over green foliage. Real King of Hearts is distinguished by finely-cut blue-green ferny foliage vs the species' plainer green; the models share the same foliage and spray so they are indistinguishable.",
+   "image": "arching-spray-p01.jpeg"
+  },
+  {
+   "plant": "bleeding-heart-valentine",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "bleeding-heart-valentine and bleeding-heart-burning-hearts are essentially the same model: a red beaded arching spray over green foliage. In reality Valentine has cherry-red flowers on dark burgundy stems, while Burning Hearts has rosy-red flowers over blue-grey foliage; neither the stem color nor the foliage tint that separate them is captured.",
+   "image": "arching-spray-p01.jpeg"
+  },
+  {
+   "plant": "solomons-seal",
+   "issue_type": "low-quality-model",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "solomons-seal renders as a generic dark-green foliage clump with a few bare thin radiating stems and no floral/bell detail, losing the archetype's defining beaded-spray silhouette. Toad-lily (toad-lily) in the same image is the same generic green blob (its bareness is seasonally fine for June since it blooms in fall). Both read as under-modeled placeholders next to the colorful bleeding-heart sprays.",
+   "image": "arching-spray-p01.jpeg"
+  },
+  {
+   "plant": "bleeding-heart-gold-heart",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "low",
+   "description": "bleeding-heart-gold-heart correctly shows golden/chartreuse foliage (its signature trait), but the arching sprays pick up the same yellow tint so the flowers read pale-yellow rather than the cultivar's characteristic clear pink hearts. Minor: the whole cell reads yellow instead of gold-foliage-with-pink-flowers.",
+   "image": "arching-spray-p01.jpeg"
+  },
+  {
+   "plant": "balloon-flower",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "All six balloon-flower cultivars (balloon-flower, balloon-flower-astra-double-blue, balloon-flower-fuji-pink, balloon-flower-fuji-white, balloon-flower-komachi, balloon-flower-sentimental-blue) render as indistinguishable green blobs with no bloom at June. In reality Platycodon cultivars are told apart almost entirely by flower color (Astra Double Blue = blue double, Fuji Pink = pink, Fuji White = white, Komachi = purple-blue balloon buds, Sentimental Blue = blue) and balloon flower's bloom season includes June, so the sheet gives a gardener six identical models where color is the whole point of the cultivar.",
+   "image": "clump-p01.jpeg"
+  },
+  {
+   "plant": "virginia-bluebells",
+   "issue_type": "no-bloom-generic",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Roughly 15 of the 35 clump species collapse to near-identical featureless green mounds at June with no distinguishing feature: all 6 balloon-flowers, bluestar, candytuft, cyclamen on p01, and ironweed, ligularia, lily-of-valley, primrose, trillium, virginia-bluebells on p02. Several of these are spring ephemerals that are actually summer-dormant (virginia-bluebells and trillium disappear by June), so a full green clump is not just generic but phenologically wrong for them. The blooming dianthus set is well differentiated, but the non-blooming half of the archetype is a real distinctiveness gap.",
+   "image": "clump-p02.jpeg"
+  },
+  {
+   "plant": "ironweed",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Ironweed (Vernonia) is rendered as the smallest clump on page 2, yet it is one of the tallest herbaceous perennials (1.5-2.5m) with a substantial 0.6-1m clump footprint. Even in top-down view its canopy should read as one of the larger clumps, not the tiniest. A gardener would badly misjudge its size.",
+   "image": "clump-p02.jpeg"
+  },
+  {
+   "plant": "primrose",
+   "issue_type": "scale-outlier",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Primrose is rendered as the largest clump on page 2, but Primula is a small low-growing plant (~15-20cm tall, small rosette footprint). It reads bigger than ligularia and meadow-rue, both of which are far larger plants in reality, so the size ordering on this page is roughly inverted from real life.",
+   "image": "clump-p02.jpeg"
+  },
+  {
+   "plant": "dianthus-neon-star",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "The magenta/pink dianthus cultivars collapse to essentially the same pink clump: dianthus, dianthus-firewitch, dianthus-maiden-pink, dianthus-mountain-frost-ruby, dianthus-neon-star, dianthus-pink-fire, and dianthus-tiny-rubies all look like one color. Real cultivars differ meaningfully (contrasting dark eyes, picotee edges, Mountain Frost Ruby is white with a red center rather than solid magenta), which the flat single-color flowers do not capture. Minor because the color families overall are still fairly readable.",
+   "image": "clump-p01.jpeg"
+  },
+  {
+   "plant": "cyclamen",
+   "issue_type": "unrecognizable-model",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Cyclamen renders as a plain dark green mound. Cyclamen's identity is its distinctive marbled, heart-shaped leaves and nodding flowers with swept-back petals; as a generic clump blob it is unrecognizable as cyclamen and is also a poor archetype fit (a small tuberous plant rather than a bushy clump).",
+   "image": "clump-p01.jpeg"
+  },
+  {
+   "plant": "four-oclock",
+   "issue_type": "no-bloom-generic",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "The six Four O'Clock (Mirabilis) variants are near-indistinguishable in June: four-oclock, four-oclock-magenta, four-oclock-white and four-oclock-yellow render as essentially flowerless plain green mounds, while only four-oclock-red (and faintly four-oclock-marbles) show any flower color. A gardener cannot tell white vs yellow vs magenta four o'clocks apart, and most of the group reads as a generic green blob at the archetype's captured month.",
+   "image": "bedding-mound-p04.jpeg"
+  },
+  {
+   "plant": "marigold",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Archetype-wide, genera with genuinely distinct real-world flower architecture all render as the same green mound studded with colored hexagon flecks, differentiated only by color. Marigolds (dense round double pompoms) look identical to petunias, verbenas, impatiens, vincas and calibrachoas; cleome (airy spider-flower heads, p03) and lantana (tight flat-topped umbel clusters, p05) are likewise reduced to the same fleck-on-mound. Same-color plants across different genera are effectively interchangeable.",
+   "image": "bedding-mound-p06.jpeg"
+  },
+  {
+   "plant": "ageratum-blue-dark",
+   "issue_type": "scale-outlier",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "'Blue Horizon' renders as a small, sparse mound, markedly smaller than its four sibling ageratums on the same row (ageratum, ageratum-pink, ageratum-purple, ageratum-white are all full-size mounds). In reality 'Blue Horizon' is a tall (24-30 in) ageratum, so undersizing it is the wrong direction as well as an outlier.",
+   "image": "bedding-mound-p01.jpeg"
+  },
+  {
+   "plant": "ornamental-kale",
+   "issue_type": "scale-outlier",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "The ornamental kale group (ornamental-kale, ornamental-kale-magenta/Chidori, ornamental-kale-pink, ornamental-kale-red/Nagoya) renders as the largest and smoothest cells on the page: big solid-color spheres with no flower/leaf detail. They read as oversized plain colored balls rather than kale's low frilly rosette, and dwarf the neighboring nicotiana cells.",
+   "image": "bedding-mound-p07.jpeg"
+  },
+  {
+   "plant": "nicotiana-purple",
+   "issue_type": "scale-outlier",
+   "severity": "low",
+   "confidence": "low",
+   "description": "'Purple Flowering Tobacco' renders as a tiny sparse cluster, noticeably smaller than the other nicotiana entries (nicotiana, nicotiana-crimson, nicotiana-lime, nicotiana-pink). Real flowering tobacco is a tall 2-3 ft plant, so this is both an outlier and undersized relative to the genus.",
+   "image": "bedding-mound-p07.jpeg"
+  },
+  {
+   "plant": "delphinium-blue-mirror",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Rendered roughly 2-3x the footprint of every sibling delphinium on the page (e.g. delphinium-blue-jay, delphinium-blue-bird, delphinium-black-knight all render small). All Delphinium elatum cultivars are similar-sized border perennials, so one blue variant reading as a giant is a clear size outlier that would mislead a gardener on spacing.",
+   "image": "bell-spike-p01.jpeg"
+  },
+  {
+   "plant": "delphinium-magic-fountains-dark-blue",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Also rendered noticeably oversized relative to neighboring delphiniums. Compounded because Magic Fountains is a compact dwarf series (~40-60cm) yet it renders larger than the full-size cultivars around it, i.e. the size relationship is backwards.",
+   "image": "bell-spike-p01.jpeg"
+  },
+  {
+   "plant": "foxglove",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Across genera the archetype reuses one 'cluster-of-spheres-on-a-stem' model separated only by color: foxglove, lupine, hollyhock, delphinium, larkspur, snapdragon, penstemon and canterbury-bells all read essentially identical. In reality these are structurally distinct: foxglove is a one-sided spire of large drooping tubular bells, lupine a dense conical spike with palmate leaves, snapdragon a shorter dragon-mouthed raceme. The shared model erases that cross-genus identity.",
+   "image": "bell-spike-p01.jpeg"
+  },
+  {
+   "plant": "red-hot-poker",
+   "issue_type": "wrong-model",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Kniphofia's signature form is a bare stem topped by a dense bottlebrush 'torch/poker' of tubular flowers rising above strappy grass-like foliage. The model instead shows a generic leafy orange flower cluster indistinguishable from the snapdragons and penstemon, so it does not read as a red-hot-poker (color is correct, form is not).",
+   "image": "bell-spike-p03.jpeg"
+  },
+  {
+   "plant": "hollyhock",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Hollyhock (Alcea) towers to ~2m with large flat single/double disc flowers up a tall unbranched stem. It renders at the same modest height and same bell-cluster shape as 40cm snapdragons and stocks, losing its distinctive stature and open disc-flower look. Same applies to mullein (Verbascum), whose dramatic tall single woolly yellow spike is reduced to a small generic cluster.",
+   "image": "bell-spike-p02.jpeg"
+  },
+  {
+   "plant": "cardinal-flower",
+   "issue_type": "no-bloom-generic",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "In the June (month 6) capture cardinal-flower shows only green foliage balls on a bare diagonal stem, no red bloom. Botanically plausible (Lobelia cardinalis flowers Jul-Sep) but its signature scarlet spike is absent so it reads as a generic green blob. Same situation for the other late-summer bloomers in this archetype: monkshood, obedient-plant, and turtlehead all appear as green-only cells at June. Only these four of ~54 are affected, so the archetype is not broadly bloomless.",
+   "image": "bell-spike-p01.jpeg"
+  },
+  {
+   "plant": "passionflower",
+   "issue_type": "no-bloom-generic",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "A substantial subset of June-peak bloomers render as plain green blobs with no flower at month 6, collapsing into indistinguishable masses. The entire passionflower group (passionflower, passionflower-blue, passionflower-pink, passionflower-red, passionflower-white) is bare green though passionflowers are showy summer bloomers with very distinctive purple/blue/red/white flowers; the climbing roses (don-juan-rose, new-dawn-rose, crown-princess-margareta, eden-rose, the-generous-gardener) show only a tiny fleck or nothing despite June being peak rose season; honeysuckle-red (Major Wheeler) shows no red bloom though it flowers heavily in June; clematis-gipsy-queen (deep purple) shows no bloom while neighboring clematis do. A gardener planning for June would be misled about what these climbers look like.",
+   "image": "climber-p03.jpeg"
+  },
+  {
+   "plant": "boston-ivy-purple",
+   "issue_type": "wrong-color",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Rendered as a solid dark maroon/aubergine blob at month 6. Boston ivy 'Veitchii' is green in summer (purple only on emerging spring growth, brilliant red/purple in autumn). Showing full fall/spring color in June is off-season and misleading; it should read green like the base boston-ivy next to it.",
+   "image": "climber-p01.jpeg"
+  },
+  {
+   "plant": "the-generous-gardener",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "The climbing-rose cultivars are near-indistinguishable from one another because their June blooms are barely rendered. the-generous-gardener (pale pink), new-dawn-rose (pink), don-juan-rose (deep red), crown-princess-margareta (apricot), and eden-rose (cream-pink) all appear as similar green masses; in reality these differ strongly by flower color and should be readily distinct in peak June bloom.",
+   "image": "climber-p03.jpeg"
+  },
+  {
+   "plant": "clematis-comtesse-de-bouchaud",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Flower flecks read blue/purple, but Comtesse de Bouchaud is a soft mauve-pink clematis. Hue looks shifted toward blue. Small size limits certainty.",
+   "image": "climber-p01.jpeg"
+  },
+  {
+   "plant": "new-dawn-rose",
+   "issue_type": "scale-outlier",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Rendered as a noticeably larger, rounder dark-green mass than its row peers (the-generous-gardener shows the same on the same page). May be intentional (both are vigorous large climbing roses), but they stand out enough against neighboring vines to note.",
+   "image": "climber-p03.jpeg"
+  },
+  {
+   "plant": "wisteria-blue",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "All six wisteria on page 4 (wisteria-blue, wisteria-lavender, wisteria-pink, wisteria-white, wollerton-old-hall, zephirine-drouhin) render as near-identical plain green blobs. This is acceptable at month 6 since wisteria blooms in spring (April-May) and is out of flower by June, but the group carries no distinctiveness at this month.",
+   "image": "climber-p04.jpeg"
+  },
+  {
+   "plant": "bald-cypress",
+   "issue_type": "wrong-color",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Base Bald Cypress renders blue-grey/teal top-down at June, closely matching the blue-spruce blobs in the row below. Taxodium distichum has bright, soft-green feathery foliage in summer (turning rusty-orange only in fall). Its own cultivars beside it (bald-cypress-falling-waters, -peve-minaret, -shawnee-brave) are correctly green, so the base is both wrong-colored and internally inconsistent.",
+   "image": "conifer-p01.jpeg"
+  },
+  {
+   "plant": "hemlock",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "The hemlock group (hemlock, hemlock-gentsch-white, hemlock-jeddeloh, hemlock-sargent) plus the dwarf white pines (eastern-white-pine-nana, eastern-white-pine-pendula) all render as near-identical medium-to-large plain-green globes/mounds, indistinguishable from each other top-down and in side view. In reality these differ sharply: Eastern Hemlock is a tall graceful tree with drooping leader; Sargent (Weeping) Hemlock is a low cascading mound; Weeping White Pine (pendula) is irregular and pendulous; Jeddeloh is a flat nest-form. None of that form variation is expressed.",
+   "image": "conifer-p02.jpeg"
+  },
+  {
+   "plant": "hemlock-gentsch-white",
+   "issue_type": "low-quality-model",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Gentsch White hemlock's single defining trait is creamy-white new-growth tips that stand out against the dark interior. The model is uniform plain green, making it identical to the plain 'hemlock' beside it. Adding pale tips would give it real identity.",
+   "image": "conifer-p02.jpeg"
+  },
+  {
+   "plant": "juniper-blue-point",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Blue Point Juniper renders as plain dark-green teardrop. Juniperus chinensis 'Blue Point' is prized specifically for its dense silvery blue-green foliage; it should carry a bluish cast (like the nearby blue junipers), not read as an ordinary green juniper.",
+   "image": "conifer-p02.jpeg"
+  },
+  {
+   "plant": "arborvitae-fire-chief",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Fire Chief renders as a large yellow-green globe, nearly the same color as arborvitae-golden-globe right beside it. Fire Chief ('Congabe') has bright-green summer foliage with red/pink tips in cool weather, not a golden cast, so at June it should read green. The strong yellow both misstates the color and makes it too similar to the true golden cultivars (golden-globe, rheingold).",
+   "image": "conifer-p01.jpeg"
+  },
+  {
+   "plant": "arborvitae-green-giant",
+   "issue_type": "scale-outlier",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Full-size forest conifers render with notably smaller top-down footprints than adjacent dwarf globe cultivars: Green Giant arborvitae (a 40-60 ft, 12-20 ft-spread privacy tree) shows a smaller footprint than dwarf globes danica/golden-globe/fire-chief; the same holds for douglas-fir, eastern-white-pine, italian-cypress, hemlock and norway-spruce versus their dwarf globe cousins. Some of this is expected because top-down shows canopy footprint (narrow columns have small footprints), but a Green Giant's mature spread should still exceed a 2 ft Danica globe, so a gardener judging spread in the 2D view could be misled. Flagging low-confidence given the top-down footprint caveat.",
+   "image": "conifer-p01.jpeg"
+  },
+  {
+   "plant": "boston-fern, christmas-fern, lady-fern, ostrich-fern, royal-fern, holly-fern, cinnamon-fern, autumn-fern, maidenhair-fern",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Nine of the ten ferns are near-identical green radial starbursts differing only in size and frond density. A gardener cannot tell them apart. In reality these ferns look strongly different: maidenhair-fern has delicate fan-shaped pinnae on fine black wiry stems (airy, small, lacy); ostrich-fern is a large upright vase/shuttlecock; royal-fern has coarse, widely-spaced bead-like fronds; cinnamon-fern throws erect cinnamon-brown fertile spikes from its center; holly-fern has glossy, leathery, holly-like leaflets. The single 'spiky burst' geometry erases all of this. Because ferns never flower, distinctiveness must come entirely from foliage form/color, which is almost absent here.",
+   "image": "fern-p01.jpeg"
+  },
+  {
+   "plant": "autumn-fern",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Autumn fern (Dryopteris erythrosora) is named for its coppery-bronze-red new fronds, its single identifying trait and still visible as a copper flush in early summer. It is rendered as plain mid-green, identical to every other fern in the grid, losing the one feature that would let a user recognize or pick it.",
+   "image": "fern-p01.jpeg"
+  },
+  {
+   "plant": "cinnamon-fern",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Cinnamon fern's defining feature is the ring of erect cinnamon-brown fertile fronds standing up in the center of the crown, most prominent in early summer (month 6). The model shows only a flat green burst with no central spike or brown color, so it reads as a generic fern rather than its distinctive self.",
+   "image": "fern-p01.jpeg"
+  },
+  {
+   "plant": "japanese-painted-fern",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "low",
+   "description": "This is the only fern that is visually distinct (a good call, since Japanese painted fern really is silvery-purple). However the color reads as a dark navy/blue-purple that looks almost like a shadow or bruise, whereas the real plant is a frosted silver-lavender with wine-red midribs, considerably lighter and more metallic. Directionally correct but too dark/desaturated-blue.",
+   "image": "fern-p01.jpeg"
+  },
+  {
+   "plant": "holly-fern",
+   "issue_type": "scale-outlier",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Holly fern is rendered as the largest, densest cell in the grid, yet real ostrich-fern, cinnamon-fern, and royal-fern are substantially larger plants (fronds to ~1.2-1.7 m and wide clumps) than holly fern (~0.6 m). The relative size ranking looks roughly inverted. Judged cautiously since top-down footprint maps to spread rather than height.",
+   "image": "fern-p01.jpeg"
+  },
+  {
+   "plant": "agapanthus-peter-pan",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Rendered as the LARGEST globe in the agapanthus row, but 'Peter Pan' is a well-known dwarf/compact agapanthus (~45cm, roughly half the size of the standard species). The size ordering is backwards; it should read as one of the smaller globes, not the biggest.",
+   "image": "globe-p01.jpeg"
+  },
+  {
+   "plant": "allium-mount-everest",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Rendered as a tiny white cluster, yet 'Mount Everest' is one of the tallest, largest-headed white alliums (~1.2m stems, ~10cm globes). It reads much smaller than the other whites (agapanthus-snowball, agapanthus-white) when in reality it should be among the biggest.",
+   "image": "globe-p01.jpeg"
+  },
+  {
+   "plant": "agapanthus",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "The blue agapanthus cultivars (agapanthus, agapanthus-midnight-blue, agapanthus-peter-pan, agapanthus-storm-cloud, agapanthus-twister) are near-identical blue/blue-purple globes distinguished only by size and slight shade. In reality Midnight Blue and Storm Cloud are much darker, and Twister is a white bloom with a distinct blue eye; those differences are not conveyed, so a gardener cannot tell them apart.",
+   "image": "globe-p01.jpeg"
+  },
+  {
+   "plant": "allium-globemaster",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "The large purple alliums (allium, allium-gladiator, allium-globemaster, allium-purple-sensation) render as nearly interchangeable purple spheres. In life they differ in scale (Globemaster/Gladiator are giant ~20cm heads, Purple Sensation ~8cm) and christophii is an open metallic-lilac starburst; the models don't separate them meaningfully.",
+   "image": "globe-p01.jpeg"
+  },
+  {
+   "plant": "agapanthus-twister",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Rendered as a fairly uniform blue globe, but 'Twister' is a bicolor cultivar: white florets with a strong blue/violet base (a blue-eyed white flower). The signature two-tone look is missing.",
+   "image": "globe-p01.jpeg"
+  },
+  {
+   "plant": "chives",
+   "issue_type": "scale-outlier",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Rendered as one of the largest pink-purple globes in its row, but chives (Allium schoenoprasum) is a small plant (~30cm) with small ~2cm pompom flowerheads. It appears oversized relative to its real stature and to peer alliums.",
+   "image": "globe-p01.jpeg"
+  },
+  {
+   "plant": "echinops",
+   "issue_type": "other",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Globe Thistle shows only green foliage with no flower at June (seasonally plausible, as echinops blooms July-Sept). But this is the sole echinops in the archetype, so its signature steel-blue spiky globe never appears anywhere, leaving it an anonymous green blob and a distinctiveness gap for that plant.",
+   "image": "globe-p01.jpeg"
+  },
+  {
+   "plant": "bulb (whole archetype)",
+   "issue_type": "no-bloom-generic",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "In the default captured month (June, the primary top-down gallery bulb-p01..p06), the overwhelming majority of the ~150 bulb species show only a generic green foliage clump with no flower, because nearly all are spring or autumn bloomers that are dormant/foliage-only in June. Only about five species show any bloom in June (scilla-peruviana blue; star-of-bethlehem, star-of-bethlehem-arabicum, star-of-bethlehem-chincherinchee white; star-of-bethlehem-orange orange). All crocus, colchicum, tulip, narcissus, hyacinth, muscari, fritillaria, scilla, snowdrop and glory-of-the-snow entries read as near-identical green blobs. For anyone browsing the app's default month this is a large distinctiveness gap, even though it is botanically honest. The April bloom captures (bulb-m04-*) confirm the models bloom correctly with distinct colors when in season.",
+   "image": "bulb-p01.jpeg"
+  },
+  {
+   "plant": "windflower",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "The Anemone blanda 'windflower-*' blooms (windflower, windflower-blue-shades, windflower-charmer, windflower-pink-star, windflower-radar, windflower-white-splendour) and the poppy/De Caen 'anemone-*' blooms are rendered as large smooth faceted spheres and are the biggest blooms in the entire archetype, sitting on a tiny foliage tuft. In reality windflowers/blanda anemones are small (10-15cm) plants with flat, open, daisy-like 3-4cm flowers, so the oversized round ball both misreads the scale and reads as a berry/ball rather than an open anemone flower. Visible in bulb-m04-p06.jpeg (top-down, huge balls), bulb-m04-p01.jpeg (anemone row), and side views bulb-m04side-p06.jpeg / bulb-m04side-p01.jpeg.",
+   "image": "bulb-m04-p06.jpeg"
+  },
+  {
+   "plant": "narcissus-mount-hood",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "The ~30 narcissus/daffodil cultivars are rendered as plain colored eggs/spheres with no trumpet or corona. The iconic daffodil trumpet is lost, so the white cultivars (narcissus-mount-hood, narcissus-ice-follies, narcissus-thalia, narcissus-mount-hood, narcissus-jack-snipe) are indistinguishable from one another and from any other white bulb, and yellow ones (narcissus-dutch-master) read the same as a yellow tulip or crocus. Form does no identity work; only color separates them. Visible in bulb-m04-p04.jpeg and side view bulb-m04side-p04.jpeg.",
+   "image": "bulb-m04-p04.jpeg"
+  },
+  {
+   "plant": "hyacinth",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Hyacinth (hyacinth-*) and grape hyacinth / muscari (grape-hyacinth-*) are both rendered as near-identical dense 'grape cluster' blobs of small faceted spheres, differing mainly by color and slight size. In reality a hyacinth is a large fat upright spike of star-shaped florets while muscari is a small cluster of tiny urn-shaped bells; where colors coincide (e.g. blue hyacinth vs blue muscari) the two are hard to tell apart. Visible in bulb-m04-p03.jpeg and side view bulb-m04side-p03.jpeg.",
+   "image": "bulb-m04-p03.jpeg"
+  },
+  {
+   "plant": "windflower-blue-shades",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "The 'windflower-*' entries are the same species (Anemone blanda) as the 'anemone-blanda-*' entries and even share cultivar names: windflower-blue-shades == anemone-blanda-blue (Blue Shades), windflower-pink-star == anemone-blanda-pink (Pink Star), windflower-white-splendour == anemone-blanda-white (White Splendour). They are rendered as effectively the same colored ball, so the same plant appears twice in the archetype under two slug families. Compare bulb-m04-p06.jpeg (windflower row) with bulb-m04-p01.jpeg (anemone-blanda row).",
+   "image": "bulb-m04-p06.jpeg"
+  },
+  {
+   "plant": "zinnia-profusion-cherry",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "On daisy-p07.jpeg zinnia-profusion-cherry and zinnia-profusion-white render dramatically larger than every other zinnia on the page (both cluster footprint and individual flower disc), and larger than zinnia-benarys-giant-wine. This is backwards: the Profusion series are compact, small-flowered spreading zinnias (~30-45cm, ~5cm blooms) while Benary's Giant is the tall, large-flowered type. The two Profusion models being the giants of the group misleads on relative size.",
+   "image": "daisy-p07.jpeg"
+  },
+  {
+   "plant": "coneflower-magnus",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Structurally very different genera in this archetype all reduce to the same flat multi-petal daisy disc distinguished only by petal color and cluster size. Coneflowers (echinacea, e.g. coneflower-magnus, coneflower-sombrero-hot-coral on daisy-p03.jpeg) have a signature raised dark central cone with reflexed/drooping petals; gerbera (gerbera, daisy-p05.jpeg) are large solitary blooms on single leafless stems; cosmos (cosmos, daisy-p04.jpeg) have 8 broad petals over wispy fern foliage; asters are sprays of many tiny flowers. In the models none of these silhouettes read - only color separates them, so a coneflower does not clearly read as a coneflower to a gardener.",
+   "image": "daisy-p03.jpeg"
+  },
+  {
+   "plant": "shasta-daisy",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "high",
+   "description": "Every white-flowered member renders essentially identically as a white daisy disc, differing only by cluster size: aster-snow-flurry, bidens-white, cosmos-purity, gerbera-white, marguerite-daisy, osteospermum-white, zinnia-white, and the whole shasta group (shasta-daisy, shasta-daisy-alaska, shasta-daisy-becky, shasta-daisy-crazy-daisy, shasta-daisy-snow-lady, shasta-daisy-snowcap on daisy-p06.jpeg). The shasta cultivars all being white is botanically correct, but shasta-daisy-crazy-daisy (frilly/quilled) and shasta-daisy-snowcap (dwarf) have no distinguishing form here, and the cross-genus whites are interchangeable.",
+   "image": "daisy-p06.jpeg"
+  },
+  {
+   "plant": "aster",
+   "issue_type": "no-bloom-generic",
+   "severity": "low",
+   "confidence": "high",
+   "description": "In June (month 6, daisy-p01.jpeg / daisy-p02.jpeg) more than half the archetype shows no flower and collapses to identical generic green blobs: all 12 asters (aster, aster-alma-potschke, aster-october-skies, aster-woods-blue, etc.), ~16 chrysanthemum/mum cultivars, the 9 black-eyed-susan/rudbeckia (black-eyed-susan, ...-goldsturm, ...-cherry-brandy, ...-indian-summer), and several echinacea (coneflower-coconut-lime, coneflower-green-jewel, coneflower-magnus, coneflower-tomato-soup, coneflower-white-swan). These are indistinguishable from each other and from other archetypes' foliage. Note: this is phenologically CORRECT - the September sheets (daisy-m09-p01.jpeg / daisy-m09-p02.jpeg) show all of them blooming in their true colors - so it is not a model bug, just a June distinctiveness gap.",
+   "image": "daisy-p01.jpeg"
+  },
+  {
+   "plant": "pincushion-flower",
+   "issue_type": "unrecognizable-model",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Scabiosa (pincushion-flower, daisy-p06.jpeg row 2) is rendered as a flat lavender daisy disc. Real scabiosa has a distinctive domed pincushion center ringed by a single row of frilled florets, a silhouette quite unlike a daisy. The lavender color is correct, so this is a minor form-recognizability abstraction rather than a color error.",
+   "image": "daisy-p06.jpeg"
+  },
+  {
+   "plant": "canna",
+   "issue_type": "form-wrong",
+   "severity": "high",
+   "confidence": "high",
+   "description": "All 12 cannas (canna, canna-australia, canna-bengal-tiger, canna-cleopatra, canna-durban, canna-lucifer, canna-pink-president, canna-president, canna-tropicanna, canna-tropicanna-gold, canna-wyoming, canna-yellow-king-humbert) are mapped to the foliage-clump archetype and render as low, flat, ground-hugging mounds (with only a couple of hairline stalks visible in the side view). Real cannas are tall (0.9-2 m) upright, architectural tropicals with large banana/paddle leaves on erect stems and prominent, showy flower spikes (red/orange/yellow/pink). They are grown chiefly FOR those summer blooms, yet none show any flower at June (month 6). A gardener would not recognize these squat mounds as cannas. Report at archetype level: cannas likely belong in an upright/flowering-spike archetype, not foliage-clump.",
+   "image": "foliage-clump-side-p01.jpeg"
+  },
+  {
+   "plant": "coral-bells-obsidian",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Large dark maroon/purple-black cluster that is near-indistinguishable as identical dark clumps: coral-bells-obsidian, coral-bells-palace-purple, coral-bells-plum-pudding, coral-bells-midnight-rose, elephant-ear-black-magic, canna-australia, canna-tropicanna, canna-wyoming, canna-durban, and rex-begonia-burgundy. In reality these differ by plant architecture and leaf shape (giant heart-shaped Colocasia 'Black Magic', tall banana-leaf cannas, small ruffled Heuchera mounds, spiral/textured rex begonia), plus Tropicanna/Durban carry bright orange-pink veining. As rendered the only cue is a shared dark hue and they read as the same model.",
+   "image": "foliage-clump-p02.jpeg"
+  },
+  {
+   "plant": "hosta-guacamole",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Large chartreuse/yellow-green cluster of interchangeable clumps: hosta-august-moon, hosta-gold-standard, hosta-guacamole, hosta-june, hosta-sum-and-substance, coral-bells-citronelle, coral-bells-lime-rickey, elephant-ear-lime-zinger, canna-bengal-tiger, canna-tropicanna-gold. In reality these are distinguished by variegation and margins (June and Bengal Tiger/Tropicanna Gold are striped/two-tone, Sum and Substance is a giant, Lime Zinger is a large tropical), none of which is conveyed - they are all the same yellow-green blob.",
+   "image": "foliage-clump-p03.jpeg"
+  },
+  {
+   "plant": "hosta",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Plain mid/dark-green clumps that collapse into one look: hosta, elephant-ear, elephant-ear-pink-china, canna-cleopatra, canna-president, canna-lucifer, rex-begonia-green, and lungwort. These span radically different plants (giant tropical elephant ear, tall canna, small woodland lungwort with silver-spotted leaves, textured rex begonia) but render as the same green mound. Distinctiveness gap for the flowerless-in-June green foliage set.",
+   "image": "foliage-clump-p02.jpeg"
+  },
+  {
+   "plant": "hosta-halcyon",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Blue-grey group reads as one model: hosta-halcyon, hosta-blue-angel, hosta-krossa-regal, and brunnera. In reality Krossa Regal is a tall vase-shaped hosta (very different silhouette), Blue Angel is a giant, and brunnera is a small heart-leaf woodland plant with a silver overlay; here they are the same slate-blue clump.",
+   "image": "foliage-clump-p03.jpeg"
+  },
+  {
+   "plant": "lambs-ear",
+   "issue_type": "wrong-color",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Lamb's Ear (lambs-ear) renders as an olive/grey-green clump. Stachys byzantina's defining trait is dense silvery-white wool - it is one of the most recognizably SILVER foliage plants in the garden. The model is far too green/dark; it should be pale silver-white. The purple flower spikes shown are correct for summer, so only the foliage color is off.",
+   "image": "foliage-clump-p03.jpeg"
+  },
+  {
+   "plant": "caladium-white",
+   "issue_type": "scale-outlier",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "White Christmas Caladium (caladium-white) is rendered noticeably larger (~1.5x) than its sibling caladiums (caladium, caladium-green, caladium-pink, caladium-red), which are all similar-sized cultivars (~40-50 cm) in reality. Minor scale inconsistency within the caladium set.",
+   "image": "foliage-clump-p01.jpeg"
+  },
+  {
+   "plant": "gladiolus (all 11 cultivars: black-star, green-star, lavender, magenta, orange/Tangelo, priscilla, purple, red, salmon/Peche-Melba, white, yellow)",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "All 11 gladiolus cultivars on page 2 render as identical green sword-leaf fans with zero distinguishing features in June. They are named for and defined by dramatically different flower-spike colors (deep purple 'Black Star', magenta, salmon, red, white, yellow, etc.) but are completely indistinguishable from one another here. Because no other-month image exists for this archetype, a browsing gardener sees 11 interchangeable green tufts. The no-bloom itself is timing-accurate (gladiolus flowers July-Sept), but the group needs a differentiator (even a small colored bud/spike hint) to be usable.",
+   "image": "iris-p02.jpeg"
+  },
+  {
+   "plant": "crocosmia (all 6: crocosmia, emily-mckenzie, george-davison, lucifer, solfatare, star-of-the-east)",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "The 6 crocosmia in row 1 of page 1 are near-identical green (Solfatare bronze-tinted) spiky fans with no blooms, making them indistinguishable. In reality they differ strongly by flower color: 'Lucifer' is vivid scarlet, 'Solfatare' apricot-yellow, 'Star of the East' large orange-gold, 'Emily McKenzie' orange-red, 'George Davison' golden-yellow. No-bloom is timing-defensible (blooms July-Sept) but there is no visual cue separating them.",
+   "image": "iris-p01.jpeg"
+  },
+  {
+   "plant": "iris archetype (whole group, both pages)",
+   "issue_type": "no-bloom-generic",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Roughly 22 of 37 species show no flower at the captured month (June) and reduce to generic green sword fans: all 11 gladiolus, all 6 crocosmia, gladiolus base, plus several daylilies (bela-lugosi, chicago-apache, el-desperado, frans-hals). The blooming daylilies and 3 irises are well-differentiated, but the majority of the archetype is a wall of similar green foliage at this month. Timing is botanically defensible, but it is a real distinctiveness gap for a June view.",
+   "image": "iris-p01.jpeg"
+  },
+  {
+   "plant": "daylily-hyperion",
+   "issue_type": "scale-outlier",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Hyperion's bloom cluster and clump render noticeably smaller than sibling daylilies (Going Bananas, Happy Returns, Apricot Sparkles) in both top-down and side views, yet 'Hyperion' is a large, tall (~90-110cm) classic daylily. Color (lemon yellow) is correct; only the relative scale looks undersized versus peers.",
+   "image": "iris-p01.jpeg"
+  },
+  {
+   "plant": "creeping-phlox",
+   "issue_type": "too-similar",
+   "severity": "high",
+   "confidence": "high",
+   "description": "The eleven creeping-phlox cultivars (creeping-phlox, -amazing-grace, -candy-stripe, -drummonds-pink, -emerald-blue, -emerald-pink, -purple-beauty, -red-wings, -scarlet-flame, -snowflake, -white-delight) all render as an identical plain solid-green mound with no flowers in June. Creeping phlox blooms in April-May, so June strips away the ONLY thing that differentiates these cultivars - flower color (Emerald Blue=lavender-blue, Candy Stripe=pink-and-white striped, Scarlet Flame=red, Snowflake=white, Purple Beauty=violet, Drummond's Pink=rose). A gardener browsing the library cannot tell any of these 11 apart. This is the single biggest distinctiveness gap in the archetype.",
+   "image": "groundcover-p01.jpeg"
+  },
+  {
+   "plant": "basket-of-gold",
+   "issue_type": "wrong-color",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Rendered as a colorless, semi-translucent pale gray-green ghostly blob with no flowers, reading as unhealthy/dead rather than a live mound. Aurinia saxatilis is named for its dense bright golden-yellow spring bloom - its defining feature is entirely absent and the foliage tone looks washed-out; the plant is not recognizable. The same ghostly washed-out rendering also affects rock-cress (p02) and epimedium (p01), which sit as pale blobs next to solid-green neighbors. (June is slightly past peak bloom, but the dead-looking pale tone is a quality issue independent of month.)",
+   "image": "groundcover-p01.jpeg"
+  },
+  {
+   "plant": "epimedium",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Renders as a pale, washed-out, semi-translucent gray-green blob (same ghostly treatment given to the silver-leaved plants). Barrenwort foliage is medium green, often bronze-tinted in spring/fall - not silvery-gray - so the pale-gray tint is a mild mismatch and makes it look sickly rather than the glossy heart-leaved groundcover it is.",
+   "image": "groundcover-p01.jpeg"
+  },
+  {
+   "plant": "sweet-potato-vine-green",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "low",
+   "description": "'Margarita' (sweet-potato-vine-green, p03) and the base sweet-potato-vine (p02) are both rendered as the same bright chartreuse-lime mound and are effectively indistinguishable. This is largely botanically defensible (both are chartreuse ornamental forms), so it is minor - noting it only as a duplicate-color pair. The bronze, purple ('Blackie'), and white ('Tricolor') sweet-potato-vine variants are, by contrast, well differentiated and accurate.",
+   "image": "groundcover-p03.jpeg"
+  },
+  {
+   "plant": "pampas-grass",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Pampas Grass (pampas-grass) and its variants pampas-grass-dwarf, pampas-grass-gold, pampas-grass-pink are rendered at the same small scale as blue-fescue and the dwarf grasses. In reality Cortaderia selloana is among the very largest ornamental grasses (3-4m tall with towering plumes) and should dwarf everything else on these pages; the dwarf variant should in turn be clearly smaller than full-size pampas, but they are all identical in footprint. For a design-to-scale garden tool this understates the plant's real size and would mislead a gardener placing it. Caveat: this gallery may normalize sizes for comparison, so verify against the in-app garden scale. Also note pampas-grass-pink (Pink Feather Pampas) shows pale grey blades with no pink and no plume, so its defining pink-plume identity is entirely absent and it is indistinguishable from green pampas-grass.",
+   "image": "grass-p02.jpeg"
+  },
+  {
+   "plant": "maiden-grass-red",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "All red/burgundy cultivars render as the same red blade spray and are only distinguishable by position: fountain-grass-burgundy (Purple Fountain Grass), japanese-forest-grass-red (Beni-Kaze), little-bluestem-red (Blaze), maiden-grass-red (Flame Grass) on this page plus switchgrass-red (Shenandoah, grass-p02.jpeg). In reality these differ dramatically: purple fountain grass is a fine arching burgundy clump with bottlebrush plumes (~1m), flame grass is a tall upright Miscanthus with fiery fall color (~1.5m), Blaze little bluestem is a fine upright orange-red column (~1m), and Shenandoah switchgrass is an airy red-tipped upright (~1m). They should differ in height, blade fineness, and plume shape, not just share one red color.",
+   "image": "grass-p01.jpeg"
+  },
+  {
+   "plant": "blue-fescue",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "The blue/glaucous cultivars are near-identical sprays distinguished only by color: blue-fescue, blue-oat-grass, little-bluestem, maiden-grass (grass-p01.jpeg) and switchgrass, switchgrass-blue (Heavy Metal) (grass-p02.jpeg). In reality these span a huge range: blue fescue is a tiny 20-30cm pincushion mound, blue oat grass is a stiff blue fountain, little bluestem is an upright blue-green column, and switchgrass is a tall airy upright. The uniform small radiating form erases those size and habit differences. Note maiden-grass also reads distinctly bluish/teal here where Miscanthus 'Gracillimus' foliage is actually green (its own green counterpart maiden-grass-green renders correctly green).",
+   "image": "grass-p01.jpeg"
+  },
+  {
+   "plant": "fountain-grass",
+   "issue_type": "no-bloom-generic",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "At month 6 (June) only the 7 cool-season grasses (blue-fescue, blue-fescue-gold, blue-fescue-silver, blue-oat-grass, feather-reed-grass, feather-reed-grass-gold, feather-reed-grass-white) show the tan seed-head plumes. The other 26 warm-season grasses (all fountain-grass, japanese-forest-grass, little-bluestem, maiden-grass, northern-sea-oats, pampas-grass, switchgrass entries) are reduced to bare colored blade sprays with no inflorescence, so within each color family they are indistinguishable. This is partly botanically correct (warm-season grasses bloom late summer/fall), but the plume is what identifies each of these grasses - fountain grass's bottlebrush, maiden grass's silky fans, switchgrass's airy panicle, pampas's giant plume, northern sea oats' flat oat-like dangling seed heads - and none of that distinctiveness is present at the captured month. Reported once at archetype level.",
+   "image": "grass-p01.jpeg"
+  },
+  {
+   "plant": "feather-reed-grass",
+   "issue_type": "form-wrong",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "From the side views the grass archetype is a low, near-horizontal radiating fan/star of blades that splays outward and hugs the ground. This works for mounding grasses (fescue, hakone, fountain grass) but loses the strongly upright, columnar habit of the many vertical grasses in this set: feather-reed-grass ('Karl Foerster' is famously strictly vertical), maiden-grass, switchgrass, and pampas-grass all stand as tall narrow columns in reality rather than the flat splayed spray shown. Reported once at archetype level as a form observation.",
+   "image": "grass-side-p01.jpeg"
+  },
+  {
+   "plant": "hellebore",
+   "issue_type": "no-bloom-generic",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "All 11 hellebore cultivars in this archetype (hellebore, hellebore-anna-red, hellebore-christmas-rose, hellebore-cinnamon-snow, hellebore-golden-lotus, hellebore-green, hellebore-ivory-prince, hellebore-onyx-odyssey, hellebore-penny-pink, hellebore-pink-frost, hellebore-wedding-party) render as identical dense green sphere clusters with no flowers at the June capture, making 11 of 18 plants (61%) indistinguishable. This is seasonally correct (hellebores bloom winter to early spring, not June) but no alternate-month image exists for this archetype, so within the gallery these cultivars cannot be told apart despite being valued for very distinct real flower colors: Anna's Red = deep red, Onyx Odyssey = near-black, Golden Lotus = double yellow, Christmas Rose/Wedding Party = white, Penny's Pink/Pink Frost = pink, Green Hellebore = green. A gardener choosing a hellebore by flower color gets no help. Consider capturing a spring bloom month (e.g. m03/m04) for this archetype, or giving hellebores subtle foliage-color variation.",
+   "image": "nodding-cup-p01.jpeg"
+  },
+  {
+   "plant": "calla-lily",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Across the whole lily archetype every bloom is the same generic multi-petal pom, so genuinely different real flower shapes collapse to one model that varies only by color. Consequence: same-color, different-species plants are indistinguishable - yellow calla (calla-lily-yellow) vs yellow tropical hibiscus (tropical-hibiscus-yellow) vs Hula Girl (tropical-hibiscus-hula-girl) all read identically; likewise the reds (calla-lily-red, tropical-hibiscus-red) and whites (calla-lily, easter-lily, tropical-hibiscus-white). In reality callas are a single smooth funnel spathe, lilies are recurved 6-tepal often-spotted stars, and hibiscus have one very large 5-petal flower with a prominent central staminal column - three unmistakably different forms flattened to one.",
+   "image": "lily-p01.jpeg"
+  },
+  {
+   "plant": "calla-lily",
+   "issue_type": "unrecognizable-model",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "The calla lilies (calla-lily plus the 7 color variants -black/-orange/-picasso/-pink/-purple/-red/-yellow) render as dense multi-petal pom clusters - calla-lily-red in particular looks like a bunch of many small red flowers - rather than the iconic single funnel-shaped spathe wrapped around a central spadix. Callas are one of the most recognizable garden flowers and none of these read as a calla.",
+   "image": "lily-p01.jpeg"
+  },
+  {
+   "plant": "tropical-hibiscus",
+   "issue_type": "form-wrong",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Archetype-level form note (from side views): the model is a small flower on a slender stem with a few narrow leaves. That fits true lilies, but the plurality of this bucket is hibiscus, which do not match at all. Hardy hibiscus (hardy-hibiscus and its ~11 cultivars) are 3-6 ft herbaceous clumps and tropical hibiscus (tropical-hibiscus and its ~12 variants) are bushy shrubs, both bearing very large dinner-plate 5-petal blooms with a projecting staminal column. Nothing here reads as a bush or as a large single showy flower; the archetype form only serves the ~5 true lilies it is named for.",
+   "image": "lily-side-p02.jpeg"
+  },
+  {
+   "plant": "amaryllis",
+   "issue_type": "no-bloom-generic",
+   "severity": "low",
+   "confidence": "high",
+   "description": "At June nearly half the archetype shows no flower and reduces to near-identical thin crossed green stems: all 8 amaryllis (amaryllis, -apple-blossom, -minerva, -orange, -picotee, -red-lion, -salmon, -white), all 11 hardy-hibiscus, plus oriental-lily, tiger-lily and trumpet-lily. This is botanically defensible (hardy hibiscus and amaryllis are genuinely not in flower in June), but it is a real distinctiveness gap - roughly 22 of 45 models are indistinguishable bare stems. The only ones that stand out are the dark-foliage cultivars hardy-hibiscus-midnight-marvel, -summer-storm, -kopper-king and -cherry-choco-latte, whose bronze/burgundy leaves are a correct and welcome touch.",
+   "image": "lily-p01.jpeg"
+  },
+  {
+   "plant": "trumpet-lily",
+   "issue_type": "scale-outlier",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "trumpet-lily renders as a tiny bare sprig, markedly smaller than every peer in both the top-down and side views, and shows no bloom in June. Trumpet lilies (Lilium, Aurelian hybrids) are tall (4-6 ft) and flower in June-July, so it should be among the larger, blooming models here rather than the smallest and emptiest.",
+   "image": "lily-p02.jpeg"
+  },
+  {
+   "plant": "calla-lily-picasso",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "low",
+   "description": "calla-lily-picasso renders as a solid magenta/purple bloom. The real 'Picasso' calla is distinctly bi-color: cream-to-white outer spathe with a deep violet-purple throat. Rendered as a single flat magenta it loses the two-tone character that names the cultivar. Minor, and hard to convey at this poly budget.",
+   "image": "lily-p01.jpeg"
+  },
+  {
+   "plant": "hens-and-chicks",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "agave and hens-and-chicks are nearly indistinguishable: both render as accent-less grey/dark-green thin-spiked radiating stars, separated only by slight size and spoke density. In reality they are wildly different plants - agave is a large architectural succulent with broad, thick, fleshy sword leaves (often 0.3-2 m across), while hens-and-chicks (Sempervivum) is a tiny ground-hugging rosette a few cm wide, typically green with red/purple leaf tips. They should not read as the same silhouette at the same size.",
+   "image": "rosette-p01.jpeg"
+  },
+  {
+   "plant": "echeveria",
+   "issue_type": "form-wrong",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Archetype-level: the rosette form is rendered as a flat starburst of thin, needle-like radiating spikes. This suits the spiky-leaved members (agave, aloe) but poorly represents the soft, broad-leaved succulent rosettes on this page - echeveria and hens-and-chicks both form tight, compact, layered rosettes of rounded/pointed FLESHY overlapping leaves, not thin radiating spines. A gardener would not recognize echeveria's plump, spoon-shaped rosette in this spidery star. Confidence medium because only a top-down view was available (no side view for this archetype).",
+   "image": "rosette-p01.jpeg"
+  },
+  {
+   "plant": "agave",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "high",
+   "description": "All four species share the identical spiky-star silhouette; the only differentiators are the orange bloom stalk (aloe) and the pink center (echeveria). Agave has no distinguishing accent and is separated from hens-and-chicks purely by scale. The group would benefit from form differentiation (e.g. broad fleshy leaves for echeveria/hens-and-chicks vs. long swords for agave/aloe) and color (agave's glaucous blue-grey, sempervivum's red-tipped rosette).",
+   "image": "rosette-p01.jpeg"
+  },
+  {
+   "plant": "hens-and-chicks",
+   "issue_type": "scale-outlier",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "hens-and-chicks is rendered medium-large, noticeably bigger than echeveria and approaching agave's footprint. Real Sempervivum rosettes are among the smallest succulents here (a few cm), typically smaller than an echeveria rosette and far smaller than an agave. Its rendered size overstates the plant relative to its peers.",
+   "image": "rosette-p01.jpeg"
+  },
+  {
+   "plant": "all-panicle",
+   "issue_type": "no-bloom-generic",
+   "severity": "high",
+   "confidence": "high",
+   "description": "At the captured month (June/month 6) every one of the 26 panicle plants renders as an identical green sphere-cluster with no flower colour whatsoever. The archetype is dominated by colour-named cultivars whose entire selling point is bloom colour - bee-balm in scarlet (jacob-cline, gardenview-scarlet, grand-marshall), violet-purple (purple-rooster, pardon-my-purple), cerise/pink (pardon-my-cerise, raspberry-wine, marshalls-delight), pure white (snow-white); and phlox in blue (blue-paradise), white (david, white-flame), salmon-orange (orange-perfection), crimson (starfire). None of that colour shows, so the whole page is a wall of generic green blobs with no way to tell one plant from another. Note: June is arguably just before peak Monarda/Phlox bloom so green foliage is defensible botanically, but as a snapshot it erases all distinctiveness.",
+   "image": "panicle-p01.jpeg"
+  },
+  {
+   "plant": "bee-balm",
+   "issue_type": "too-similar",
+   "severity": "high",
+   "confidence": "high",
+   "description": "The 12 bee-balm (Monarda) cultivars are visually interchangeable green mounds even though in reality they span the full warm-to-cool spectrum: bee-balm-jacob-cline / bee-balm-gardenview-scarlet / bee-balm-grand-marshall are brilliant scarlet-red, bee-balm-purple-rooster / bee-balm-pardon-my-purple are violet-purple, bee-balm-pardon-my-cerise / bee-balm-raspberry-wine / bee-balm-marshalls-delight are cerise/pink, and bee-balm-snow-white is white. Distinguishing them requires bloom colour, which is absent. The same applies across the whole archetype - bee-balm, phlox and joe-pye-weed all read as the same sphere-cluster despite very different flower-head shapes (shaggy whorled Monarda heads vs domed phlox panicles vs huge dusty-mauve joe-pye domes).",
+   "image": "panicle-p01.jpeg"
+  },
+  {
+   "plant": "bee-balm-pardon-my-purple",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "bee-balm-pardon-my-purple and bee-balm-pardon-my-cerise render as the two largest clusters on the page (pardon-my-purple is the single biggest), yet the 'Pardon My' series are marketed dwarf/compact bee-balms (~25-35 cm) - the shortest Monarda cultivars in this set. They should be smaller than the standard bee-balm and Jacob Cline, not larger. The relative sizing is backwards.",
+   "image": "panicle-p01.jpeg"
+  },
+  {
+   "plant": "joe-pye-weed",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "low",
+   "description": "joe-pye-weed renders as a small-to-medium clump, no larger (and in top-down footprint smaller) than the dwarf 'Pardon My' bee-balms beside it. In reality Joe Pye Weed (Eutrochium) is a giant back-of-border perennial reaching 1.8-2.5 m, by far the tallest/largest plant in this archetype. It should tower over the bee-balm and phlox, not sit among them. Height is hard to judge from top-down, hence low confidence.",
+   "image": "panicle-p01.jpeg"
+  },
+  {
+   "plant": "all-panicle",
+   "issue_type": "form-wrong",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "From the side view the archetype's basic form (upright foliage mound with vertical stems) is acceptable for these clumping perennials, but the vertical stems render as thin bare sticks/wires projecting well above the green foliage blobs with nothing on top. In reality bee-balm and phlox stems are leafy up their length and terminate in a flower head; the exposed bare vertical lines read as wireframe artifacts rather than flowering stems. Minor polish issue, worsened by the absence of any bloom geometry at the top of the stems.",
+   "image": "panicle-side-p01.jpeg"
+  },
+  {
+   "plant": "liatris",
+   "issue_type": "scale-outlier",
+   "severity": "high",
+   "confidence": "high",
+   "description": "Blazing Star (liatris) renders as a tiny bloomless dark-green blob roughly one-eighth the footprint of every peer in the archetype (verified in a crop: the 'Blazing Star / liatris' label sits directly under this speck, distinct from the correctly-sized white Nana Alba lavender above it). Liatris should read as a substantial clump topped by a tall purple bottlebrush spike; here it is an unrecognizable pebble with no spike and no flower color. Both a dramatic scale outlier and an identity miss.",
+   "image": "mound-spike-p02.jpeg"
+  },
+  {
+   "plant": "agastache",
+   "issue_type": "no-bloom-generic",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Anise Hyssop (agastache) is a plain green mound with no flower spike at June, sitting among blooming neighbors (angelonias, baptisias). Anise hyssop's entire identity is its dense upright purple-blue flower spikes, and it blooms June through September, so at the captured month it should be one of the showiest, most spike-defined plants here rather than a featureless blob.",
+   "image": "mound-spike-p01.jpeg"
+  },
+  {
+   "plant": "salvia-caradonna",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "The Salvia nemorosa cultivars all render as the same medium-purple spikes on an identical dark-green mound: salvia-caradonna, salvia-may-night, salvia-april-night, salvia-east-friesland and plain salvia are effectively indistinguishable. In reality Caradonna has near-black stems, May Night is deep indigo, April Night mid blue-violet, and East Friesland violet-purple - the model gives no differentiation in hue, stem color or spike density.",
+   "image": "mound-spike-p03.jpeg"
+  },
+  {
+   "plant": "veronica-royal-candles",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "The blue-flowered veronicas read as one model: veronica-royal-candles, veronica, veronica-sunny-border-blue, veronica-crater-lake-blue and veronica-giles-van-hees are all the same blue-purple spikes on a dark-green mound. They differ in real life mainly by height and spike density (Royal Candles tall and dense, Giles van Hees a dwarf), which the models do not convey. Foliage color does at least separate these from the grey-leaved catmints/lavenders, so this is a minor within-genus polish gap.",
+   "image": "mound-spike-p03.jpeg"
+  },
+  {
+   "plant": "celosia-cockscomb-red",
+   "issue_type": "form-wrong",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "The crested cockscomb celosias (celosia-cockscomb-red, -cockscomb-magenta, -cockscomb-yellow, celosia-bombay-orange, celosia-century-pink) are Celosia cristata, whose signature form is a dense, folded, brain / rooster-comb crest, not an upright feathery spike. The plume archetype renders them as feathery plumes (identical to the plumosa types like fresh-look and dragons-breath), which misreads the one iconic feature a gardener recognizes cockscomb by. Correct colors, but wrong silhouette for this cultivar sub-group.",
+   "image": "plume-side-p01.jpeg"
+  },
+  {
+   "plant": "foam-flower",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Foam Flower (Tiarella) is a low woodland groundcover (~20-30 cm), yet it renders as one of the largest clusters in the whole archetype (biggest footprint on page 2). Meanwhile the genuinely tall Queen of the Prairie (Filipendula rubra, 1.5-2.4 m) and Goatsbeard (Aruncus, ~1.5-2 m) render small-to-medium. The relative sizing is roughly inverted - Foam Flower reads far too big for a small groundcover.",
+   "image": "plume-p02.jpeg"
+  },
+  {
+   "plant": "astilbe-sprite",
+   "issue_type": "other",
+   "severity": "medium",
+   "confidence": "low",
+   "description": "astilbe-sprite shows only green foliage blobs in both the June and September captures, while most of its astilbe peers (amethyst, bridal-veil, fanal, montgomery, peach-blossom, rheinland, visions) clearly bloom in June. Sprite's signature shell-pink plume never appears in either shown month, so a gardener choosing it for its color sees only a generic green mound. May bloom in an uncaptured July window, but it is a distinctiveness gap across the shown months.",
+   "image": "plume-p01.jpeg"
+  },
+  {
+   "plant": "astilbe-purple-candles",
+   "issue_type": "other",
+   "severity": "medium",
+   "confidence": "low",
+   "description": "astilbe-purple-candles renders as plain green foliage in both June and September, never showing its defining deep-purple upright plume, even though the comparably late-blooming astilbe-visions does show color in June. Same distinctiveness gap as astilbe-sprite: the cultivar's whole selling point (color) is invisible in the captured months.",
+   "image": "plume-p01.jpeg"
+  },
+  {
+   "plant": "astilbe-fanal",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "The three deep-red astilbes - astilbe-fanal, astilbe-montgomery, astilbe-red-sentinel - render as near-identical dark-red plumes on identical green mounds. In reality they differ modestly (Fanal is garnet-red with bronze-tinted foliage, Montgomery salmon-to-deep-red, Red Sentinel bright red with reddish foliage). This is largely faithful (same-species cultivars) but they are essentially indistinguishable in the gallery, and no foliage-tint cue is used to separate them.",
+   "image": "plume-p01.jpeg"
+  },
+  {
+   "plant": "amaranth",
+   "issue_type": "form-wrong",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Love-Lies-Bleeding (amaranth) and Coral Fountain (amaranth-coral) are defined by long, rope-like, dramatically DROOPING / cascading tassels. The plume archetype renders them as stiff upright spikes (visible in the September top-down and side views), losing the weeping habit that is the whole identity of these two cultivars. The upright form is fine for the erect amaranths (Hot Biscuits, Emerald Tassels).",
+   "image": "plume-m09-p01.jpeg"
+  },
+  {
+   "plant": "amaranth",
+   "issue_type": "no-bloom-generic",
+   "severity": "low",
+   "confidence": "high",
+   "description": "In the June top-down, all five amaranth cultivars (amaranth, amaranth-burgundy, amaranth-coral, amaranth-gold, amaranth-green) are indistinguishable generic green mounds. This is phenologically CORRECT (amaranth blooms mid-to-late summer) and the September capture proves the models carry the right distinct colors (crimson, burgundy, coral, gold, green), so it is not a color bug - but a viewer scrubbing June alone cannot tell these five plants apart.",
+   "image": "plume-p01.jpeg"
+  },
+  {
+   "plant": "dahlia",
+   "issue_type": "no-bloom-generic",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "At June (the only captured month for this archetype; no bloom-month sheets exist for showy), all 16 dahlia cultivars (dahlia through dahlia-thomas-edison) and all 11 ranunculus cultivars (ranunculus + ranunculus-* on p2/p3) show NO flowers - just green foliage blobs on bare stems (four dahlias get dark-maroon foliage). That is ~27 of 56 species reduced to indistinct clumps. Dahlias bloom Jul-Oct and ranunculus in spring, so a single June capture misses both, and a browsing gardener cannot see their signature colors or tell them apart.",
+   "image": "showy-p01.jpeg"
+  },
+  {
+   "plant": "ranunculus",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "The 11 ranunculus cultivars (ranunculus, ranunculus-apricot, ranunculus-cream on p2; ranunculus-magenta, ranunculus-picotee-pink, ranunculus-pink, ranunculus-purple, ranunculus-red, ranunculus-salmon, ranunculus-white, ranunculus-yellow on p3) are near-identical small green foliage clumps - completely indistinguishable. In reality they differ almost entirely by their densely layered bloom color (magenta vs yellow vs white vs salmon vs picotee edge), none of which is visible at June.",
+   "image": "showy-p03.jpeg"
+  },
+  {
+   "plant": "dahlia-cafe-au-lait",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "high",
+   "description": "The 16 dahlia cultivars render as a block of near-identical green blobs; only bishop-of-llandaff, dahlia-bishops-children, dahlia-david-howard and dahlia-karma-choc are set apart (dark-maroon foliage). Real dahlias span dramatically different flower forms - dinnerplate (dahlia-cafe-au-lait, dahlia-kelvin-floodlight, dahlia-otto's-thrill), cactus, pompon, waterlily - and a full color range; at June none of that reads, so the whole group looks the same.",
+   "image": "showy-p01.jpeg"
+  },
+  {
+   "plant": "double-delight",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "double-delight (the Double Delight hybrid tea rose, shown blooming next to hybrid-tea-rose) is rendered as a solid coral-pink bloom. The cultivar's signature and namesake trait is a cream-white center with cherry-red picotee edges (a bicolor); a solid coral fill loses the one feature that identifies it.",
+   "image": "showy-p01.jpeg"
+  },
+  {
+   "plant": "dill",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Dill renders as an extremely sparse, faint, tiny wisp of a few pale-yellow specks and thin sticks - by far the smallest and least legible cell in the archetype, essentially invisible against the ground in both June and September. While dill is genuinely airy, real dill is a tall (0.9-1.5m) plant with a broad flat yellow umbel; here it does not read as a plant at all next to its peers, all of which are full clumps. Reads as a missing/broken model rather than a small one.",
+   "image": "umbel-p01.jpeg"
+  },
+  {
+   "plant": "yarrow",
+   "issue_type": "wrong-color",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "The base species 'yarrow' (Achillea millefolium) is rendered with yellow/gold flower clusters in the June top-down. Common yarrow is white (occasionally pale pink); golden flowers belong to the A. filipendulina cultivars. This makes base yarrow visually duplicate yarrow-coronation-gold / yarrow-moonshine / yarrow-sunny-seduction (three yellow cultivars sitting in the same row) and there is already a dedicated yarrow-white for the white form, so the species color reads as wrong.",
+   "image": "umbel-p01.jpeg"
+  },
+  {
+   "plant": "sedum-neon",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "At the September bloom (when sedums are the stars of this archetype), the bright fall-blooming sedums - sedum-neon, sedum-brilliant, sedum-mr-goodbud, sedum-thunderhead and sedum-autumn-fire - all render as nearly identical bright magenta-pink flat clusters over green foliage and are hard to tell apart. In reality they differ: Neon is vivid violet-pink, Brilliant is bright rose, Mr. Goodbud is purple-pink, Thunderhead deep pink-red, Autumn Fire more brick-red. The paler sedums (frosty-morn, matrona, autumn) do read distinctly, but the bright cluster needs more hue/shade separation.",
+   "image": "umbel-m09-p01.jpeg"
+  },
+  {
+   "plant": "yarrow",
+   "issue_type": "no-bloom-generic",
+   "severity": "low",
+   "confidence": "high",
+   "description": "Distinctiveness gap at September: all ~12 yarrow cultivars (yarrow, apricot-delight, cerise-queen, coronation-gold, moonshine, paprika on p01; the full page 2 - pomegranate, red-velvet, saucy-seduction, sunny-seduction, terracotta, white) collapse to identical generic green foliage blobs with no flowers in month 9. Since yarrows in this archetype are differentiated almost entirely by flower color, they become indistinguishable from each other and from the (also-green) non-blooming plants. This is botanically defensible (yarrow often past peak by September) and they do bloom distinctly in June, so severity is low, but worth noting as a September-view gap.",
+   "image": "umbel-m09-p02.jpeg"
+  },
+  {
+   "plant": "sedum-frosty-morn",
+   "issue_type": "low-quality-model",
+   "severity": "low",
+   "confidence": "low",
+   "description": "In June, sedum-frosty-morn's foliage spheres render as ghostly, semi-transparent pale-white orbs (you can see through them), unlike the solid green foliage of neighboring sedums; yarrow-moonshine shows a similar translucent grey-sphere effect in both months. This looks like a bloom-transition alpha/opacity artifact rather than intended pale/variegated foliage. Low confidence because Frosty Morn does have pale variegated leaves and Moonshine has silvery foliage, so the pale tone itself may be intentional - it is the see-through translucency that looks off.",
+   "image": "umbel-p01.jpeg"
+  },
+  {
+   "plant": "sunflower",
+   "issue_type": "no-bloom-generic",
+   "severity": "high",
+   "confidence": "high",
+   "description": "All 12 species on this page are Helianthus annuus cultivars, and at month 6 (June) every one renders as a featureless green leafy stalk with no flower head. These cultivars are defined almost entirely by bloom color (Moulin Rouge deep red, Velvet Queen crimson, Lemon Queen and Mammoth gold, Italian White and Vanilla Ice cream, Soraya orange, Strawberry Blonde pink bicolor, Ring of Fire red-and-yellow bicolor, Autumn Beauty bronze mix, Teddy Bear fluffy double gold), so the models convey zero per-plant identity. No m04/m09 bloom-month images were supplied for this archetype, so bloom colors could not be verified at all.",
+   "image": "tall-annual-p01.jpeg"
+  },
+  {
+   "plant": "sunflower",
+   "issue_type": "too-similar",
+   "severity": "high",
+   "confidence": "high",
+   "description": "The entire page is a single species (sunflower) split into cultivars that differ in reality only by flower color/form and (for two) height. With no blooms shown, all 12 are near-identical green stalks. Even at full bloom several would still need color to separate them: the cream trio (sunflower-italian-white, sunflower-vanilla-ice, sunflower-lemon-queen) and the dark-red pair (sunflower-moulin-rouge, sunflower-velvet-queen). Distinctiveness on this page is inadequate; the models rely on bloom color that is never displayed here.",
+   "image": "tall-annual-p01.jpeg"
+  },
+  {
+   "plant": "sunflower-teddy-bear",
+   "issue_type": "scale-outlier",
+   "severity": "high",
+   "confidence": "medium",
+   "description": "This model renders as by far the largest plant on the page (a big dark-green clump, front row col 4 in top-down, corroborated as the front-row big clump in the side view). But 'Teddy Bear' is a dwarf sunflower (~40-90cm), one of the shortest cultivars. Reading as the biggest plant on the page is misleading and inverted from reality.",
+   "image": "tall-annual-p01.jpeg"
+  },
+  {
+   "plant": "sunflower-mammoth",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "'Mammoth' (Russian Mammoth) is the giant sunflower, 3-4m and the tallest of these cultivars, yet its model renders small/average (row 1 col 5, among the smallest blobs in top-down) and does not stand out. Combined with the oversized dwarf Teddy Bear, model height does not track cultivar height on this page.",
+   "image": "tall-annual-p01.jpeg"
+  },
+  {
+   "plant": "rose-of-sharon",
+   "issue_type": "no-bloom-generic",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "A large share of the shrub library is captured in June out of bloom and collapses to near-identical green mounds. Whole cultivar families are indistinguishable at this month: all 13 Rose of Sharon (aphrodite, blue-bird, blue-chiffon, diana, helene, lavender-chiffon, minerva, red-heart, white-chiffon, etc. - all bloom July+), all lilacs (past bloom), all camellias (fall/winter bloomers), all crape myrtles (July+), all summersweets, most viburnums, winterberries, and witch hazels. Seasonally honest, but a gardener scrubbing to June cannot tell e.g. Rose of Sharon 'Diana' from 'Blue Chiffon'. Contrast with roses, butterfly bush, potentilla, spirea, ninebark, rhododendron, gardenia which DO bloom in June and are well differentiated.",
+   "image": "shrub-p07.jpeg"
+  },
+  {
+   "plant": "boxwood-graham-blandy",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Rendered as a tiny dark speck, dramatically smaller than every other boxwood and shrub on the page - reads as broken or missing rather than a plant. Graham Blandy is a fastigiate/columnar boxwood so a narrow top-down footprint is defensible, but the current size is an extreme outlier that looks like an error.",
+   "image": "shrub-p01.jpeg"
+  },
+  {
+   "plant": "rose-of-sharon-purple-pillar",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Rendered as a tiny green speck versus its Rose-of-Sharon peers, mirroring the Graham Blandy boxwood case. Purple Pillar is a narrow columnar cultivar so a small footprint is somewhat expected, but the top-down size reads as a dramatic outlier/glitch rather than a shrub.",
+   "image": "shrub-p07.jpeg"
+  },
+  {
+   "plant": "smokebush",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "The dark-purple smokebush cultivars - smokebush (straight species), smokebush-grace, smokebush-royal-purple, smokebush-velvet-cloak, smokebush-winecraft-black - all render as near-identical dark maroon/purple blobs. In reality Royal Purple is deep maroon, Grace is redder and looser/larger, Winecraft Black is near-black, Velvet Cloak dark purple. They also lack the signature smoky flower plumes that make Cotinus recognizable (only smokebush-young-lady shows the airy 'smoke'); adding the smoke haze and differentiating foliage tone would separate them.",
+   "image": "shrub-p08.jpeg"
+  },
+  {
+   "plant": "witch-hazel",
+   "issue_type": "other",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "witch-hazel and witch-hazel-arnold-promise render notably pale/washed-out and semi-translucent compared with the four witch hazels on page 10 (witch-hazel-diane, -jelena, -pallida, -vernalis) which are a normal medium green, and versus all neighboring shrubs. Looks like a material/lighting inconsistency within the same species group rather than an intentional foliage color.",
+   "image": "shrub-p09.jpeg"
+  },
+  {
+   "plant": "azalea-hino-crimson",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Shown with pale pink blooms. Hino-Crimson is a vivid crimson/red evergreen azalea - the hue is too pink. Neighboring azaleas that bloom (encore-autumn-amethyst purple, golden-lights gold, gumpo-pink pink, white-lights white) read correctly, so this one stands out as the wrong color for the cultivar.",
+   "image": "shrub-p01.jpeg"
+  },
+  {
+   "plant": "azalea-fireball",
+   "issue_type": "scale-outlier",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Rendered noticeably smaller and sparser than the surrounding azaleas (Formosa, George Tabor, etc.) - a mild scale outlier. Not as extreme as the columnar cases but visibly undersized for a full-size azalea.",
+   "image": "shrub-p01.jpeg"
+  },
+  {
+   "plant": "smokebush",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "low",
+   "description": "The straight-species 'smokebush' is rendered with dark purple foliage. Cotinus coggygria (the species) has green summer foliage with smoky pink plumes; the deep purple is cultivar-specific (Royal Purple/Grace). Same debatable case as straight-species 'ninebark' being shown burgundy rather than green - likely an intentional 'make the type recognizable' choice, flagged only as low-confidence.",
+   "image": "shrub-p08.jpeg"
+  },
+  {
+   "plant": "yoshino",
+   "issue_type": "no-bloom-generic",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "In the June (month 6) top-down capture, the large majority of this ~82-species archetype renders as near-identical medium-green canopy blobs with no flowers. The archetype is overwhelmingly spring-flowering ornamentals (cherries, magnolias, dogwoods, redbuds, crabapples, serviceberries) whose entire ornamental value is the spring flower show; by June they have finished blooming and collapse to generic green. Even the April view only adds a handful of tiny sparse colored dots (see tree-m04side-p01/p02), which badly under-sells the bloom. At the captured month, distinctiveness rests almost entirely on foliage color plus size.",
+   "image": "tree-p01.jpeg"
+  },
+  {
+   "plant": "akebono",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "The flowering-cherry cultivars are indistinguishable green blobs in June: akebono, yoshino, mount-fuji, okame, kwanzan, autumn-cherry, cherry-pink-cloud, flowering-cherry, snow-fountains and weeping-cherry all read identically. In reality these are highly distinct - Kwanzan is a double deep-pink pompom with a stiff vase shape, Mount Fuji is white semi-double and wide-spreading, Yoshino is pale single pink, and Snow Fountains / weeping-cherry cascade. None of that form or flower difference is expressed.",
+   "image": "tree-p01.jpeg"
+  },
+  {
+   "plant": "jane-magnolia",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "The magnolias collapse to the same green blob: ann-magnolia, betty-magnolia, jane-magnolia, genie-magnolia, little-gem, royal-star, star-magnolia, saucer-magnolia, southern-magnolia, sweetbay-magnolia. In reality they differ enormously - Southern Magnolia is a huge glossy broadleaf evergreen with dinner-plate white flowers, Star Magnolia is a small shrubby tree with many-strap white blooms, and Saucer Magnolia has large pink-purple goblet flowers. Only southern/sweetbay carry white flower-dots; the rest are interchangeable.",
+   "image": "tree-p03.jpeg"
+  },
+  {
+   "plant": "weeping-cherry",
+   "issue_type": "form-wrong",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Archetype-level (reported once): every species uses the same rounded cluster-of-spheres canopy with the trunk mostly hidden at ground level, so form never differentiates the plants. Weeping cultivars do not cascade (weeping-cherry, weeping-willow, snow-fountains, ruby-falls, lavender-twist, waterfall, tamukeyama); columnar/upright cultivars are not narrow (rainbow-pillar, adirondack, purple-prince); and tall pyramidal/forest trees are not tall (tulip-tree, ginkgo, sugar-maple). The blob is an acceptable generic broadleaf canopy but adds no per-plant shape.",
+   "image": "tree-side-p04.jpeg"
+  },
+  {
+   "plant": "bloodgood",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "The Japanese maples are separated only by red shade, losing the upright-vs-laceleaf distinction. Upright palmate reds (bloodgood, emperor, fireglow) look the same as the laceleaf weeping-mound dissectums (crimson-queen, tamukeyama) and green weepers (viridis, waterfall), which in reality have a cascading mounded habit and much finer foliage texture.",
+   "image": "tree-p01.jpeg"
+  },
+  {
+   "plant": "tulip-tree",
+   "issue_type": "scale-outlier",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Large shade/forest trees are rendered small - the same size as or smaller than the little ornamental cherries and magnolias. tulip-tree (an 80-100 ft forest giant) renders as a small-medium blob on tree-p04, and Littleleaf Linden (linden, a 50-70 ft shade tree) is one of the smallest on tree-p02; sugar-maple and red-maple are also undersized on tree-p03. A gardener would expect these to dwarf the surrounding cherries and magnolias, not sit below them.",
+   "image": "tree-p04.jpeg"
+  },
+  {
+   "plant": "japanese-maple",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "low",
+   "description": "The generic 'Japanese Maple' (japanese-maple) renders bright orange-red in the June top-down (tree-p02), but the straight Acer palmatum species is green through summer and only colors in fall. The saturated orange reads as a specific red-leaf cultivar. Minor, since many named Japanese maples genuinely are red-leaved, but for the generic entry summer green would be more accurate.",
+   "image": "tree-p02.jpeg"
+  },
+  {
+   "plant": "forsythia",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "The six green forsythia cultivars (forsythia, forsythia-gold-tide, forsythia-lynwood-gold, forsythia-magical-gold, forsythia-northern-gold, forsythia-show-off) render as near-identical medium-green mounds and are impossible to tell apart. Forsythia's signature is bright-yellow flowers that open before the leaves in EARLY SPRING, so at June all are correctly leafy green, but that means the whole group collapses to one look with no differentiation. Only forsythia-fiesta stands out (lime/gold foliage). Consider a spring bloom capture to distinguish them, since June alone reduces them to one blob.",
+   "image": "vase-shrub-p01.jpeg"
+  },
+  {
+   "plant": "beautyberry",
+   "issue_type": "too-similar",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "The four green beautyberry cultivars (beautyberry, beautyberry-early-amethyst, beautyberry-profusion, beautyberry-white) look identical in June. A beautyberry's entire garden identity is its fall berry color - vivid violet-purple for most, WHITE for beautyberry-white - and none of that is visible at month 6, so the group carries no distinguishing signal here. Pearl Glam correctly shows dark-purple foliage (its real trait), so the group is not uniformly broken, but the berry-defined cultivars are indistinguishable. A fall (Sept/Oct) capture would be needed to verify the berries render at all.",
+   "image": "vase-shrub-p01.jpeg"
+  },
+  {
+   "plant": "beautyberry-american",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "American Beautyberry (Callicarpa americana) is rendered a bright lime/yellow-green, nearly the same tone as forsythia-fiesta's gold-variegated foliage. Real C. americana has coarse but ordinary medium-green (at most slightly yellow-green) foliage, not chartreuse. Reads as a possible foliage-palette mixup; a bit misleading but low stakes. Visible in both top-down and side views.",
+   "image": "vase-shrub-p01.jpeg"
+  },
+  {
+   "plant": "weigela-spilled-wine",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "high",
+   "description": "Several weigela cultivar pairs render as visual duplicates: the two dark-burgundy-foliage plants weigela-spilled-wine and weigela-wine-and-roses are identical, as are the pale variegated pair weigela-my-monet / weigela-variegata, and the green+white-flower pair weigela-white / weigela-white-knight. In reality these pairs differ mainly in habit/size (e.g. Spilled Wine is low and spreading, Wine & Roses is upright), which the model does not convey. Minor polish gap; the foliage-color coding itself is defensible.",
+   "image": "vase-shrub-p02.jpeg"
+  },
+  {
+   "plant": "forsythia",
+   "issue_type": "form-wrong",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Archetype-level form note (from side views): the vase-shrub models read as low, broad, dense rounded mounds with a few thin twigs radiating out, rather than the upright, arching fountain/vase habit that defines forsythia (6-10 ft tall arching canes) and weigela. The proportions look squat/wider-than-tall; the 'vase' uprightness is weak. Acceptable low-poly compromise for a shared archetype, but the fountain shape is under-expressed.",
+   "image": "vase-shrub-side-p01.jpeg"
+  },
+  {
+   "plant": "rex-begonia-burgundy",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Shows plain fresh-green pointed foliage with no burgundy/red coloration and none of the distinctive metallic patterned leaves that its siblings (rex-begonia-green/pink/purple/silver) all display. Either wrong color or a plain green begonia stand-in for a cultivar named 'burgundy'.",
+   "image": "cutout-26.jpeg"
+  },
+  {
+   "plant": "ranunculus-salmon",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Blooms read as plain red rather than salmon (a peachy orange-pink). It is indistinguishable from ranunculus-red, ranunculus-magenta, and the base ranunculus, all of which also appear red in this run.",
+   "image": "cutout-26.jpeg"
+  },
+  {
+   "plant": "ranunculus-magenta",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Reads as deep crimson/wine red rather than magenta (a purple-pink). Given ranunculus-pink and ranunculus-purple are already distinct, this cultivar's cutout does not convey magenta and blends into the red group.",
+   "image": "cutout-26.jpeg"
+  },
+  {
+   "plant": "tamukeyama",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Shows a bright-green weeping laceleaf Japanese maple. Acer palmatum 'Tamukeyama' is a deep red/burgundy dissectum; the green cutout does not represent its defining foliage color.",
+   "image": "cutout-30.jpeg"
+  },
+  {
+   "plant": "rising-sun",
+   "issue_type": "cutout-wrong-plant",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Shows a magenta/pink flowering shrub. If this is the redbud Cercis canadensis 'The Rising Sun', it should show its signature apricot-gold-to-lime foliage rather than a mass of magenta bloom. Ambiguous name, so low confidence.",
+   "image": "cutout-26.jpeg"
+  },
+  {
+   "plant": "calla-lily-black",
+   "issue_type": "wrong-color",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "The cutout shows a single WHITE calla lily (white spathe, green stem) - essentially identical to the plain 'calla-lily' cell on the next row. A 'black' calla cultivar (e.g. Black Star / Schwarzwalder) should be deep maroon-black. This is a clear color mismatch and reads as a near-duplicate of the white calla.",
+   "image": "cutout-06.jpeg"
+  },
+  {
+   "plant": "coleus-redhead",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Cutout appears to show plain green foliage. 'Redhead' is a well-known, uniformly deep burgundy-red coleus, so green would be wrong. Hard to be certain at contact-sheet resolution; sits between coleus-pink-chaos and coleus-sedona-sunset in row 3.",
+   "image": "cutout-09.jpeg"
+  },
+  {
+   "plant": "coneflower-green-jewel",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "low",
+   "description": "'Green Jewel' echinacea has distinctive lime-green petals, but the cutout reads as yellow/gold petals with dark cones (more like a yellow coneflower or rudbeckia). Possible color/cultivar mismatch; low confidence at this resolution.",
+   "image": "cutout-09.jpeg"
+  },
+  {
+   "plant": "coral-bells-berry-smoothie",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Heuchera 'Berry Smoothie' is rose-pink to purple foliage, but this cutout appears plain green/olive. Heuchera foliage color varies with light/season so confidence is low, but among the coral-bells run this one looks off.",
+   "image": "cutout-10.jpeg"
+  },
+  {
+   "plant": "coral-bells-plum-pudding",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Heuchera 'Plum Pudding' should be deep purple/plum, but the cutout reads as dark green/silver rather than purple. Adjacent palace-purple and obsidian cells are clearly dark purple, making this one stand out as possibly wrong. Low confidence.",
+   "image": "cutout-10.jpeg"
+  },
+  {
+   "plant": "glory-of-the-snow-pink",
+   "issue_type": "cutout-wrong-plant",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Shows a tall single pink flower spike resembling a marsh orchid/hyacinth on an upright stem. Its neighbors (glory-of-the-snow-alba, -forbesii, -violet-beauty, base glory-of-the-snow) all correctly show the low 6-petaled star-flower clusters of Chionodoxa; this cell's growth form is completely different and does not match Chionodoxa.",
+   "image": "cutout-16.jpeg"
+  },
+  {
+   "plant": "golden-raindrops",
+   "issue_type": "cutout-wrong-plant",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Depicts a rounded, fine-textured silvery/grey-white shrub resembling baby's-breath (Gypsophila) or an artemisia. 'Golden Raindrops' is a Malus (crabapple) tree with cut leaves, white spring bloom and tiny gold fruit; the shrub form and silvery wispy texture do not match a crabapple. Adjacent golden-celebration and goldenrod are correct.",
+   "image": "cutout-16.jpeg"
+  },
+  {
+   "plant": "ginkgo",
+   "issue_type": "cutout-wrong-plant",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Rendered as a tightly clipped, dense green topiary ball on a short trunk, indistinguishable from a boxwood/privet standard. Ginkgo biloba is a large deciduous tree with distinctive open fan-shaped foliage; this generic ball is not recognizable as a ginkgo.",
+   "image": "cutout-16.jpeg"
+  },
+  {
+   "plant": "japanese-painted-fern",
+   "issue_type": "cutout-wrong-plant",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Shown as a plain green fern with no trace of the silvery-grey fronds and burgundy midribs that define Athyrium niponicum var. pictum ('painted' fern). It is essentially identical to the plain green lady-fern two cells over, so the defining cultivar characteristic is missing.",
+   "image": "cutout-19.jpeg"
+  },
+  {
+   "plant": "japanese-forest-grass-red",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "low",
+   "description": "A plain green grass mound with no red/burgundy coloring, so it is not distinguishable from the base japanese-forest-grass (also green) in the same row. The 'red' Hakonechloa cultivar should show reddish tones; adjacent -gold and -white are correctly distinct.",
+   "image": "cutout-19.jpeg"
+  },
+  {
+   "plant": "lavender-french",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "The purple lavender cultivars in this row (lavender-french, -grosso, -hidcote, -munstead, -phenomenal, -provence, and lavender-royal-velvet, -spanish below) are near-identical purple mounds that cannot be told apart. The visually distinct ones (lavender-edelweiss, -hidcote-pink, -nana-alba) are handled well; this run of standard purples is not differentiated.",
+   "image": "cutout-20.jpeg"
+  },
+  {
+   "plant": "crimson-queen",
+   "issue_type": "wrong-color",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Cutout shows a fully GREEN laceleaf Japanese maple. 'Crimson Queen' (Acer palmatum dissectum 'Crimson Queen') is chosen specifically for deep red/crimson foliage held through the season; the weeping mounded form is correct but the color is wrong, so it does not represent the cultivar a user picks it for.",
+   "image": "cutout-11.jpeg"
+  },
+  {
+   "plant": "emperor",
+   "issue_type": "wrong-color",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Cutout shows a GREEN upright Japanese maple. 'Emperor' (Acer palmatum 'Emperor I') is a red-leaved upright maple; the form is right but the foliage should be deep red/burgundy, not green. Same systematic issue as crimson-queen and fireglow.",
+   "image": "cutout-13.jpeg"
+  },
+  {
+   "plant": "fireglow",
+   "issue_type": "wrong-color",
+   "severity": "medium",
+   "confidence": "high",
+   "description": "Cutout shows a GREEN mounded Japanese maple. 'Fireglow' (Acer palmatum 'Fireglow') is a red-foliage upright maple; foliage should be bright red/burgundy, not green. Third red-maple cultivar in this batch rendered green (see crimson-queen sheet 11, emperor sheet 13) - looks like a systematic mislabel/mis-color of green maple stock.",
+   "image": "cutout-14.jpeg"
+  },
+  {
+   "plant": "crape-myrtle-black-diamond-red",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Red flowers are correct, but foliage is green. The Black Diamond crape myrtle series is defined by near-black/dark-burgundy foliage - the cutout's green leaves lose the cultivar's signature feature, so it is indistinguishable from an ordinary red crape myrtle (dynamite/red-rocket/cherry-dazzle in the same run).",
+   "image": "cutout-11.jpeg"
+  },
+  {
+   "plant": "forsythia-magical-gold",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "The forsythia cultivar run (fiesta, gold-tide, lynwood-gold, magical-gold, northern-gold, show-off, forsythia) are near-indistinguishable rounded yellow shrubs; lynwood-gold / magical-gold / northern-gold in particular look almost identical. Expected to some degree since all forsythias are yellow, but flagged as the strongest too-similar cluster in this batch.",
+   "image": "cutout-14.jpeg"
+  },
+  {
+   "plant": "gardenia-frostproof",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "The gardenia cultivar run (august-beauty, crown-jewel, frostproof, kleims-hardy, radicans, veitchii, gardenia) are largely interchangeable white-flowered green shrubs; several (august-beauty/crown-jewel/frostproof/gardenia) are hard to tell apart. Genuinely similar plants, but noted as a too-similar cluster.",
+   "image": "cutout-15.jpeg"
+  },
+  {
+   "plant": "toad-lily",
+   "issue_type": "cutout-wrong-plant",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Cell shows a low, wide, airy pale-pink mounded plant (resembling baby's-breath / Gypsophila or a spreading Erigeron). Toad lily (Tricyrtis) is an upright, arching shade plant with orchid-like, purple-spotted flowers. This image does not match the species.",
+   "image": "cutout-31.jpeg"
+  },
+  {
+   "plant": "tulip-spring-green",
+   "issue_type": "wrong-color",
+   "severity": "medium",
+   "confidence": "medium",
+   "description": "Cutout is a solid yellow single tulip. Tulip 'Spring Green' is a viridiflora type - ivory/creamy white with distinct green feathering on the petals. The all-yellow colour is wrong for this cultivar.",
+   "image": "cutout-32.jpeg"
+  },
+  {
+   "plant": "vinca-apricot",
+   "issue_type": "cutout-low-quality",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "Cutout includes a visible grey plastic pot/container at the base, unlike the plant-only cutouts of the surrounding vinca cells (coral, purple, red, rose). The container should be masked out.",
+   "image": "cutout-32.jpeg"
+  },
+  {
+   "plant": "tropical-hibiscus",
+   "issue_type": "form-wrong",
+   "severity": "low",
+   "confidence": "low",
+   "description": "The whole tropical-hibiscus colour series (coral, fiesta, hula-girl, lavender, magenta, orange, peach, president, red, white, yellow, plus plain) shows dense bushes of many small flowers rather than the large 10-15cm trumpet blooms characteristic of Hibiscus rosa-sinensis; reads as a generic flowering shrub. They are colour-differentiated so still usable, but the form is not hibiscus-like.",
+   "image": "cutout-31.jpeg"
+  },
+  {
+   "plant": "tulip-flaming-parrot",
+   "issue_type": "form-wrong",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Plain, smooth single yellow tulip. 'Flaming Parrot' is a parrot tulip: heavily ruffled/fringed petals, yellow with crimson flames. Both the parrot form and the bicolour flaming are absent (colour reads as plain yellow).",
+   "image": "cutout-31.jpeg"
+  },
+  {
+   "plant": "tulip-black-parrot",
+   "issue_type": "form-wrong",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Smooth dark-purple single tulip. Colour is right, but 'Black Parrot' is a parrot type with distinctively ruffled/fringed, twisted petals - the parrot form is not shown.",
+   "image": "cutout-31.jpeg"
+  },
+  {
+   "plant": "zinnia-envy-green",
+   "issue_type": "wrong-color",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Cutout shows a yellow/orange-tinted zinnia. Zinnia 'Envy' is prized specifically for its unusual lime-green flowers; the characteristic green is not represented.",
+   "image": "cutout-34.jpeg"
+  },
+  {
+   "plant": "veronica-first-love",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "medium",
+   "description": "veronica-first-love, veronica-giles-van-hees, veronica-pink-damask and veronica-red-fox are all near-indistinguishable pink/magenta spike mounds. As same-genus cultivars in adjacent cells they are hard to tell apart at a glance.",
+   "image": "cutout-32.jpeg"
+  },
+  {
+   "plant": "yarrow-coronation-gold",
+   "issue_type": "too-similar",
+   "severity": "low",
+   "confidence": "low",
+   "description": "Several yellow yarrows (coronation-gold, moonshine, sunny-seduction and plain yarrow) are very similar flat-topped yellow clusters with low distinguishability; coronation-gold and plain yarrow are especially close in composition (possible near-duplicate).",
+   "image": "cutout-34.jpeg"
+  }
+ ],
+ "summaries": [
+  {
+   "summary": "The arching-spray archetype (6 bleeding-heart cultivars + Gaura, Solomon's Seal, Toad Lily) reads well overall: the bleeding hearts show a convincing radiating beaded-spray silhouette differentiated by flower color. The main gaps are within the cultivar set (two same-color pairs are indistinguishable) and two non-Dicentra plants (Solomon's Seal, Toad Lily) that reduce to generic green blobs lacking the spray feature. Only the top-down June image exists; no side/bloom-month views were available.",
+   "group_similarity": "Adequately distinct at the color level but with two collapses. The 6 bleeding-heart cultivars are the same species and legitimately similar, and the model honestly differentiates them by spray color (pink/white/red/gold); however the two pink models (bleeding-heart, king-of-hearts) and the two red models (burning-hearts, valentine) are indistinguishable because the foliage/stem cues that separate them in reality aren't modeled. Gaura (pink-white wands), Solomon's Seal and Toad Lily are separable from the bleeding hearts, but the latter two are separable only by being under-detailed green blobs rather than by any positive distinguishing feature."
+  },
+  {
+   "summary": "The clump archetype's blooming models are strong, with color-differentiated and botanically plausible flowers across the dianthus, Sweet William, globeflower, spiderwort, sea-thrift, jacobs-ladder and meadow-rue set (no clearly wrong colors found). The main weaknesses are distinctiveness gaps: all six balloon-flower cultivars are identical green blobs, roughly 15 of 35 species collapse to featureless green mounds at June, and page 2 has two scale inversions (ironweed rendered tiniest despite being a 2m plant, primrose rendered largest despite being tiny).",
+   "group_similarity": "Mixed. The blooming half of the archetype is genuinely distinct: the dianthus/Sweet-William/globeflower/spiderwort/jacobs-ladder set is well separated by botanically plausible flower color (reds, whites, peach salmon, yellows, blues, purples). But the non-blooming half is a real distinctiveness gap: the six balloon-flower cultivars are identical green blobs, and about 15 of 35 species reduce to near-identical featureless green mounds at June. Within the pink dianthus subgroup the cultivars also read as one color despite differing in real life."
+  },
+  {
+   "summary": "The bedding-mound archetype (224 species, top-down June only; no side/bloom images exist) is a broadly acceptable low-poly abstraction: each plant is a low green mound studded with colored flower hexagons, and most entries show correct, distinct flower colors. Foliage plants (coleus, dusty-miller, ornamental kale) are appropriately rendered as solid-color mounds. The main weaknesses are a distinctiveness gap (the archetype differentiates plants almost entirely by flower color, not form) and a few localized issues: the Four O'Clock group is largely flowerless/generic in June, and a handful of scale outliers.",
+   "group_similarity": "Internally very homogeneous. Nearly all 224 entries read as the same green mound with colored hexagon flecks on top, so the effective distinguishing variable is flower color: within-genus color siblings (all the petunias, verbenas, vincas, impatiens, calibrachoa/superbells, geraniums) and any two plants of the same color across different genera are essentially interchangeable. This is partly inherent to mounded bedding annuals, but genera with truly distinctive flower structure (marigold pompoms, cleome spider heads, lantana flat umbels, nasturtium spurred flowers) are not visually differentiated at all. Positive exceptions handled well: the foliage plants are correctly rendered as solid-color mounds (coleus variants are nicely varied, dusty-miller is silvery-grey, petunia-night-sky shows purple with white star flecks). No outright wrong-model or wrong-color cases were found."
+  },
+  {
+   "summary": "The bell-spike archetype reads correctly as an upright flowering spike and colors are accurate across the ~54 cultivars (Canterbury bells, delphinium, foxglove, hollyhock, larkspur, lupine, snapdragon, stock etc. all show the right hues). Main issues: two oversized delphinium models (blue-mirror and magic-fountains-dark-blue), a cross-genus distinctiveness gap where structurally different plants share one ball-cluster spike model, red-hot-poker not capturing its torch form, and four late-summer bloomers (cardinal-flower, monkshood, obedient-plant, turtlehead) showing generic green in the June capture.",
+   "group_similarity": "Within a single genus the cultivar color variants are appropriately and clearly distinguished by hue (the snapdragon, delphinium, larkspur, stock and hollyhock color sets all read distinctly), which is correct since real cultivars differ mainly by color. The weakness is across genera: the underlying geometry is one reused 'cluster of spheres on a stem' spike, so structurally very different plants (foxglove's one-sided tubular bells, lupine's dense palmate-leaved cone, hollyhock's 2m disc-flower tower, red-hot-poker's bare-stem torch, mullein's tall woolly spire) all read as the same shape differing only in color. Distinctiveness is adequate within a genus but weak between genera."
+  },
+  {
+   "summary": "The climber archetype's overall form (an upright foliage column reading as a vine on a support) is a reasonable low-poly abstraction, and June-blooming groups (clematis series, black-eyed susan vine, mandevilla, morning glory, sweet pea, trumpet vine) show correct, distinct flower colors. The main weakness is that several June-peak bloomers, especially the whole passionflower group, the climbing roses, and Major Wheeler honeysuckle, render as bare green blobs, so they lose identity and blur together. One clear off-season color issue: boston-ivy-purple (Veitchii) is drawn dark maroon when it should be green in summer.",
+   "group_similarity": "Adequately distinct where plants bloom in June: the 24-strong clematis series separates cleanly by flower color (purple Jackmanii/The President, red Niobe/Rouge Cardinal, white Marie Boisselot/Henryi, pink Doctor Ruppel/Ernest Markham), and the mandevilla, morning-glory, sweet-pea, black-eyed-susan-vine and trumpet-vine color runs are each differentiated by their flecks. Distinctiveness collapses for the flowerless groups: the five passionflowers are identical green blobs, and the climbing roses (Don Juan, New Dawn, Crown Princess Margareta, Eden, Generous Gardener) are near-indistinguishable green masses despite being different-colored June roses. The six wisteria are also identical, but acceptably so since they are out of bloom in June."
+  },
+  {
+   "summary": "The conifer archetype is generally well executed: cultivar colors are captured unusually well (blue spruces/junipers render blue, golden-globe/rheingold/swanes-gold/gold-coast gold, grey-owl grey, skyrocket blue-grey), and forms span cones, globes, narrow columns and teardrops appropriately. The main issues are a mis-colored blue Bald Cypress (should be summer green), a cluster of indistinguishable plain-green globes among the hemlocks and dwarf white pines, and a few minor color/scale nits.",
+   "group_similarity": "Adequately distinct overall, carried mostly by color: the blue, gold, grey and teal cultivars are easy to tell apart. The weak spot is the all-green subset, where the hemlocks (hemlock, gentsch-white, jeddeloh, sargent) and dwarf white pines (nana, pendula) collapse into near-identical green globes, and weeping/pendulous cultivars (hemlock-sargent, eastern-white-pine-pendula, bald-cypress-falling-waters, norway-spruce-weeping) are not visually distinguished from their upright counterparts. More form differentiation (cascading vs upright vs nest-form) and features like Gentsch White's pale tips would close the gap."
+  },
+  {
+   "summary": "The fern archetype uses a radial frond-burst that reads acceptably as a fern from top-down, but distinctiveness is the core problem: 9 of 10 species are near-identical green starbursts varying only in size, and only japanese-painted-fern (correctly purple) stands out. Signature foliage colors are missed on autumn-fern (coppery new growth) and cinnamon-fern (brown central fertile fronds), and the size ranking looks somewhat inverted (holly-fern largest while genuinely bigger ferns render smaller). Only one top-down image exists for this archetype; no side or bloom views were available.",
+   "group_similarity": "Not adequately distinct. Nine of the ten ferns (autumn, boston, christmas, cinnamon, holly, lady, maidenhair, ostrich, royal) are essentially interchangeable green radial starbursts separated only by size and density; only japanese-painted-fern is recognizably different, and only because of its purple color. Since ferns never bloom, all differentiation must come from foliage form and color, and the shared 'spiky burst' geometry plus uniform green delivers almost none. The single distinct case (Japanese painted fern's purple) shows the fix: give the signature-colored ferns their real foliage tint (autumn fern's copper new growth, cinnamon fern's brown fertile spikes) and vary crown density/spread more aggressively."
+  },
+  {
+   "summary": "The globe archetype's overall form (a floret-ball on a stem with strappy basal leaves) is a good, faithful match for agapanthus, allium, gomphrena, sea holly and chives across side and top-down views. The main gaps are distinctiveness: the blue agapanthus cultivars and the large purple alliums each collapse into near-identical spheres, plus a handful of scale/color oddities (Peter Pan dwarf rendered largest, Mount Everest large-white rendered tiny, Twister missing its bicolor eye). No form-wrong or unrecognizable-model issues.",
+   "group_similarity": "Mixed. The gomphrena/globe-amaranth set is a clear positive: six cultivars cleanly separated by color (magenta, lavender, orange, purple, red 'Strawberry Fields', white). The two weak clusters are (1) the blue agapanthus cultivars, which are near-identical blue globes differing only in size/shade even though Twister should be a blue-eyed white and Midnight Blue/Storm Cloud far darker, and (2) the large purple alliums (giant allium, gladiator, globemaster, purple-sensation), interchangeable purple spheres that in reality vary greatly in head size and form. Distinct-color members (allium-moly yellow, allium-drumstick maroon, sea-holly steel-blue) read well."
+  },
+  {
+   "summary": "The bulb archetype is in good shape: the flower-on-a-stem-from-a-tuft form is correct and cultivar colors are impressively accurate in the April bloom captures (tulips, hyacinths, muscari, freesia, fritillaria and anemones all match their names; no clearly-wrong colors found). The main weakness is the default June view, where nearly every species is a dormant green foliage blob (only ~5 bloom in June), creating a big distinctiveness gap in the app's default month. Secondary issues are generic bloom shapes: oversized ball blooms on the small anemone/windflower plants, trumpet-less daffodils, hyacinth vs muscari both reduced to grape-cluster blobs, and windflower-* duplicating anemone-blanda-*.",
+   "group_similarity": "Within the bloom month (April) distinctness is adequate but is carried almost entirely by color, not form: cultivars within a genus (tulips, hyacinths, muscari, freesias) are cleanly separated by accurate colors, which is legitimate since they differ mainly by color in real life too. Form does little identity work, so several convergences appear: hyacinth and grape hyacinth are the same grape-cluster blob; all narcissus are plain eggs with no trumpet (white daffodils are mutually indistinguishable and indistinguishable from other white bulbs); tulips, crocus and narcissus of a shared color all read as the same egg; and windflower-* is a literal duplicate of anemone-blanda-*. The biggest similarity problem is not in April but in the default June capture, where ~95% of the archetype collapses to identical green blobs because the bulbs are out of season."
+  },
+  {
+   "summary": "The daisy archetype (190 species across 7 June pages) is largely acceptable: cultivar colors are accurate and cultivar-appropriate throughout (verified against the September bloom sheets, where asters, mums, black-eyed susans and coneflowers all bloom in their correct hues). No wrong-color findings. The main weaknesses are distinctiveness: same-color members across different genera are near-interchangeable, structurally signature genera (echinacea cone, gerbera solitary blooms) lose their form, and the Profusion zinnias are scaled as the group's giants (backwards from reality).",
+   "group_similarity": "Within-archetype distinctiveness is driven almost entirely by flower color and cluster size. Same-color members across unrelated genera (the white daisies; the many yellow/gold daisies like bidens, coreopsis, calendula-yellow, gazania-yellow, gerbera-yellow, chrysanthemum-yellow) are nearly indistinguishable, and structurally distinctive plants lose their signature silhouettes: coneflowers have no raised cone, gerbera are not solitary large blooms, cosmos lack their wispy foliage/8-petal form. This is inherent to one archetype spanning ~190 species and is an acceptable low-poly tradeoff, but it is a genuine gap - a gardener could not tell a coneflower from a gerbera from an aster of the same color. Overall the archetype reads correctly as daisy-family mounding clumps, colors are right, and phenology is handled well (fall bloomers correctly green in June, blooming in September)."
+  },
+  {
+   "summary": "The foliage-clump archetype covers ~66 plants and, for true low-mounding perennials (hostas, Heucheras/coral-bells, rex begonias, bergenia, brunnera, lungwort, lamb's ear) the low-poly clump form and per-plant COLOR are largely accurate and impressively well-differentiated by hue. The one clear structural error is the 12 cannas, which are tall upright flowering tropicals wrongly rendered as flat ground-hugging mounds with no blooms. Secondary issue: within each hue band the clumps are interchangeable, so several large same-color clusters (dark-maroon, chartreuse, plain-green, blue-grey) need shape/height/variegation cues to distinguish very different plants.",
+   "group_similarity": "Macro color diversity is good - the palette spans green, gold/chartreuse, blue-grey, maroon/purple, red, orange, pink, silver and white, and named cultivars mostly land on the right hue. The weakness is intra-hue: every model is the same rosette of overlapping leaf polygons with a few center spheres, so once two plants share a color they are effectively the same model (e.g. the dark-maroon group of Heucheras + Black Magic elephant ear + dark cannas + burgundy begonia; the chartreuse hosta/heuchera/canna group; the plain-green group). Height, leaf shape, and variegation carry no signal. The cannas are the outlier that most damages the archetype's honesty: they are forced into a low mound that erases their tall banana-leaf architecture and signature flower spikes. Adding form cues (upright silhouette for cannas, variegated margins for the striped hostas, a genuine silver tone for lamb's ear) would close most of the gap."
+  },
+  {
+   "summary": "The iris archetype (a fan-of-sword-leaves form) is correct for all members and the daylily cultivars are genuinely well color-differentiated and accurate. The weakness is June distinctiveness: all 11 gladiolus and all 6 crocosmia show no bloom and collapse into near-identical green sword fans, and no other-month images exist to rescue their identity. No wrong-color or form-wrong problems found.",
+   "group_similarity": "Mixed. The daylily blooms are the strength of this batch - distinctly colored (orange, apricot, orchid-pink, multiple yellows, cream, red, purple, gold, pink) and easy to tell apart, and the three true irises read as purple/blue. The weakness is the two non-blooming-in-June groups: the 11 gladiolus cultivars are mutually indistinguishable green fans, as are the 6 crocosmia. These color-named cultivars need a differentiator to be adequately distinct in a June-only view."
+  },
+  {
+   "summary": "Groundcover archetype (55 species, top-down June) is mostly acceptable: a clear majority bloom in June and are distinguished well by flower-dot color, and several foliage-color specials (lamium, snow-in-summer, ann-folkard, the sweet-potato-vine set) are accurate. The main problem is the 11 creeping-phlox cultivars, which all render as an identical plain-green mound out of bloom and cannot be told apart. A secondary issue is a ghostly washed-out pale rendering on a few spring bloomers (basket-of-gold, rock-cress, epimedium) that makes them look dead - basket-of-gold in particular loses its defining golden bloom entirely.",
+   "group_similarity": "The whole groundcover archetype shares one \"cluster of low spheres\" mesh, so species are distinguished only by flower-dot color and foliage tint. This is adequate for the majority that bloom in June (13 hardy geraniums, 7 portulaca, 6 sweet alyssum, thyme, ice-plant, periwinkle, the three roses, etc. all read distinct via flower color), and a few foliage-tint plants are genuinely well done: lamium and snow-in-summer correctly show silver foliage, ann-folkard shows correct chartreuse-leaf + magenta, and the sweet-potato-vine set spans lime/bronze/near-black-purple/white variegation nicely. The distinctiveness collapses only for spring bloomers shown out of flower - above all the 11 creeping-phlox cultivars, which become one indistinguishable green mound."
+  },
+  {
+   "summary": "The grass archetype reads correctly as clumped grass with mostly-accurate colors and no wrong/unrecognizable models, but distinctiveness is weak: with 33 species reduced to about five color families and near-identical radiating blade sprays, plants differ almost only by color. The two real identifiers - plume shape and plant scale - are largely missing (only 7 cool-season grasses show a shared tan seed-head at June, and giant pampas grass is rendered the same size as tiny blue fescue). Pink Feather Pampas loses its pink identity entirely.",
+   "group_similarity": "Distinctiveness within the grass archetype collapses almost entirely to blade color. There are 33 species but effectively ~5 visual families (blue/glaucous, red/burgundy, gold/yellow, white/variegated, plain green), and within each family the models are near-identical radiating blade sprays. The two features that actually separate these grasses in reality - the inflorescence/plume shape and overall plant scale - are both largely absent: at June (month 6) only the 7 cool-season grasses show a (shared, identical) tan seed-head, and all plants render at roughly the same size, so a 20cm blue fescue is indistinguishable in footprint from a 3-4m pampas grass. Gold group (blue-fescue-gold, feather-reed-grass-gold, japanese-forest-grass-gold, maiden-grass-gold, pampas-grass-gold) and white/variegated group (feather-reed-grass-white, japanese-forest-grass-white, maiden-grass-white, northern-sea-oats-white) are similarly interchangeable. Adding size variation and month-appropriate plume shapes would do the most to make this archetype adequately distinct."
+  },
+  {
+   "summary": "The nodding-cup archetype (18 species) splits into 7 columbines and 11 hellebores. Columbines are correctly colored and well-differentiated by their June flowers, and the overall nodding-flower-on-stem form is right. The one real issue is a distinctiveness gap: all 11 hellebores appear as identical green blobs at the June capture (seasonally accurate but no bloom-month image exists to tell them apart), so most of the archetype is indistinguishable.",
+   "group_similarity": "Mixed. The 7 columbines are well-differentiated: each shows correctly-colored nodding flowers in June (purple, dark maroon, blue, pink, red, white, yellow) and is easy to tell apart. The 11 hellebores are the opposite - all reduced to nearly identical green foliage sphere clusters with no bloom at June, so they are indistinguishable from one another and should be made more distinct (either by capturing their spring bloom, since no other-month image exists for this archetype, or by varying foliage form/tint). The nodding-cup 3D form itself (foliage mound plus flowers on thin nodding stems) reads correctly for both plant types in the side view."
+  },
+  {
+   "summary": "The lily archetype is really a broad \"flower-on-a-stem\" bucket dominated by hibiscus (~24) and amaryllis (8), with only ~5 true lilies. Colors on the blooming models are generally correct, but every bloom is the same generic multi-petal pom, so distinct real flower shapes (calla spathe, recurved lily star, large 5-petal hibiscus) collapse to one model differing only by color, and iconic callas are unrecognizable. At June nearly half the archetype is non-blooming and reduces to indistinguishable bare stems; the bronze-foliage hardy-hibiscus cultivars are a correct standout. No egregious wrong colors.",
+   "group_similarity": "Color-cultivar sets are handled correctly: the tropical-hibiscus color variants and the calla color variants are adequately distinguished along the color axis, which is the right axis for same-species color cultivars. The distinctiveness FAILURES are on the form axis: (1) different genera (calla, true lily, amaryllis, hibiscus) all share one generic multi-petal pom, so same-color/different-species plants collide (e.g. yellow calla vs yellow tropical hibiscus vs Hula Girl are identical), and (2) at the captured June month ~22 of 45 plants are non-blooming and collapse to near-identical thin crossed stems. Net: adequately distinct by color, inadequately distinct by shape/form."
+  },
+  {
+   "summary": "The rosette archetype has only 4 species (all shown top-down at June in a single image); all render as flat, thin-spiked radiating starbursts. The main gap is distinctiveness: every plant shares the same spiky-star silhouette, distinguished only by aloe's (correct) orange bloom stalk and echeveria's pink center. Colors are plausible, but the thin-spike form misrepresents the broad-leaved succulent rosettes (echeveria, hens-and-chicks).",
+   "group_similarity": "Distinctiveness is weak. All four models are the same radiating spiky star, so identity rests on accents and size rather than form. Agave and hens-and-chicks are effectively identical (grey/green spiky stars, no accent), which is misleading given how different those plants are in life. Aloe is well differentiated by its orange raceme; echeveria is partly differentiated by its pink center and smaller size. To read as distinct, the soft succulent rosettes (echeveria, hens-and-chicks) need broad, tight, layered leaves versus long swords for agave/aloe, plus color cues (agave glaucous blue-grey, sempervivum red-tipped)."
+  },
+  {
+   "summary": "The panicle archetype (12 bee-balm cultivars, 12 garden-phlox cultivars, Joe Pye Weed) shows a serious distinctiveness gap: at June every plant is an identical green sphere-cluster with zero bloom colour, so the colour-named cultivars that make up almost the entire page are indistinguishable. Secondary issues: the dwarf 'Pardon My' bee-balms render as the largest models (backwards), giant Joe Pye Weed renders undersized, and the bare vertical stems read as wires above the foliage. The overall upright-clump form is otherwise acceptable.",
+   "group_similarity": "Too similar. All 26 panicle plants are reduced to near-identical green sphere-clusters at the captured June month, with no bloom colour or flower-head geometry to tell them apart. This is a severe distinctiveness gap because the archetype is overwhelmingly composed of colour-named cultivars (scarlet/purple/pink/white bee-balms; blue/white/orange/crimson phloxes) whose only meaningful visual difference is flower colour. Even the three genera present (Monarda, Phlox paniculata, Eutrochium) share one generic mound-plus-stems shape despite very different real flower-head forms. To be adequately distinct these models need their bloom colour to show at the snapshot month, and ideally differentiated flower-head silhouettes (shaggy whorls vs domed panicles vs large flat-topped joe-pye domes)."
+  },
+  {
+   "summary": "Solid archetype overall: the mound-with-emergent-spikes form is appropriate and June bloom colors are largely accurate across ~70 species (salvias, veronicas, catmints, lavenders, angelonias, baptisias all bloom convincingly, and cross-genus distinction is helped by grey vs dark-green foliage). Two clear defects stand out: liatris (Blazing Star) renders as a tiny bloomless green speck - a major scale and identity outlier - and agastache (Anise Hyssop) shows no bloom in June when it should be a prominent purple spike. The remaining weakness is within-genus distinctiveness among the blue/purple Salvia nemorosa cultivars and blue veronicas.",
+   "group_similarity": "Cross-genus distinctiveness is good: grey-green foliage separates catmints and lavenders from the dark-green salvias, veronicas and baptisias, and the bloom palette is genuinely wide (blue, violet, pink, magenta, white, yellow, maroon, and a correct scarlet for salvia-annual). The gap is within-genus: the Salvia nemorosa group (caradonna, may-night, april-night, east-friesland) and the blue veronicas (royal-candles, sunny-border-blue, crater-lake-blue, giles-van-hees) are near-identical, differentiated only by nearly-matching hues rather than the height/stem/spike-density differences that distinguish them in life. Because those cultivars are genuinely similar in reality, this is a polish gap rather than a misleading error."
+  },
+  {
+   "summary": "The plume archetype is largely well executed: the upright feathery-spike-on-a-foliage-mound form fits astilbe, celosia, goatsbeard, foam flower, goldenrod and queen-of-the-prairie, and bloom timing is handled correctly (amaranth and goldenrod are green in June and correctly color up by September). The main issues are (1) crested cockscomb celosias (Celosia cristata) forced into a feathery-plume silhouette instead of their iconic crest, (2) Foam Flower rendered oversized for a small groundcover while genuinely tall species render small, and (3) two late astilbes (Sprite, Purple Candles) never showing their signature color in the captured months. Colors are accurate wherever a plant is actually in bloom - no wrong-color cases found.",
+   "group_similarity": "Adequately distinct WHEN in bloom - the archetype leans almost entirely on flower color to separate cultivars, and this works well for the celosia rainbow and the astilbe color range. The weakness is form uniformity: every plume shares one upright silhouette, so out of bloom the plants collapse to interchangeable green mounds (all 5 amaranths in June; most astilbes by September), and the crested (cristata) celosias are visually merged with the feathery (plumosa) ones despite very different real-life forms. Within-color sub-groups (three deep-red astilbes; several red and several pink celosias) are hard to tell apart, but that is mostly faithful since they are same-species cultivars."
+  },
+  {
+   "summary": "The showy archetype holds 56 cultivars across dahlia, rose, peony, lisianthus and ranunculus. The peony/rose/lisianthus half is well done - large layered blooms in correct, distinct colors (Bartzella yellow, Coral Charm/Coral Sunset coral, Karl Rosenfield/Red Charm red, Mister Lincoln deep red, Duchesse de Nemours/Festiva Maxima white, all lisianthus colors). The core problem is timing: at the only captured month (June) all 16 dahlias and all 11 ranunculus are out of bloom and collapse into near-identical green foliage blobs, leaving roughly half the archetype undifferentiated.",
+   "group_similarity": "Mixed. The blooming groups (peony ~20, rose ~5, lisianthus ~8) are adequately distinct - varied, botanically-correct bloom colors make each cultivar readable at June. The dahlia (16) and ranunculus (11) groups are NOT distinct at the captured month: with no June bloom they are indistinguishable green clumps (dahlias get a little variety only from four dark-foliage cultivars). Both groups would need a bloom-month capture plus per-cultivar bloom color to be told apart."
+  },
+  {
+   "summary": "The umbel archetype (30 species: 6 Pentas, ~9 Sedum, ~12 Yarrow cultivars, plus butterfly-weed, dill, lady's-mantle) is mostly solid - Pentas colors and warm-toned yarrows read distinctly in June, sedums correctly stay green in June and bloom in September, and purple-emperor's dark foliage is a nice distinctive touch. Main issues: dill is nearly invisible (scale/legibility), base 'yarrow' is colored yellow instead of white, the bright fall sedums cluster into one indistinct magenta mass in September, and all yarrows drop to generic green blobs by September. No side views were available for this archetype, so form was not deeply assessed.",
+   "group_similarity": "Distinctiveness is adequate in bloom but uneven. The three large cultivar families are differentiated primarily by flower color, which is appropriate. Pentas (6 colors) separate cleanly. Yarrow cultivars read well in June but become an indistinguishable wall of green in September since color is their only differentiator. Sedums are the strongest in September but the bright ones (neon/brilliant/mr-goodbud/thunderhead/autumn-fire) crowd into one magenta-pink cluster; the paler ones (frosty-morn, matrona, autumn) and dark-foliage purple-emperor stand apart. Overall: distinct enough at peak bloom for each family, but with a real September gap for yarrows and a bright-sedum overlap."
+  },
+  {
+   "summary": "This page is 12 sunflower cultivars rendered at June; all appear as generic green leafy stalks with no flower heads, so cultivars distinguished only by bloom color are indistinguishable, and no bloom-month images were supplied to verify colors. Height also fails to track cultivar: the dwarf 'Teddy Bear' renders as the largest model while the giant 'Mammoth' renders small - an inversion of reality.",
+   "group_similarity": "Poor distinctiveness. All 12 species are one species (Helianthus annuus) whose cultivar differentiation is almost entirely bloom color plus, for two, height. At the captured month (June) no blooms are shown, so the models are near-indistinguishable green leafy stalks. Even with blooms, the cream trio (italian-white, vanilla-ice, lemon-queen) and the dark-red pair (moulin-rouge, velvet-queen) would remain very similar and would rely on color to separate. The one differentiator that could work without blooms - height (giant Mammoth vs dwarf Teddy Bear) - is not only unused but inverted."
+  },
+  {
+   "summary": "The shrub archetype is generally strong: June-blooming families (roses, butterfly bush, potentilla, spirea, ninebark, rhododendron, gardenia) show accurate, well-differentiated bloom and foliage colors. The main gaps are (1) a large no-bloom-generic distinctiveness problem for out-of-season families at June (Rose of Sharon, lilac, camellia, crape myrtle, summersweet, viburnum, winterberry, witch hazel all reduce to identical green mounds), (2) two columnar cultivars (boxwood-graham-blandy, rose-of-sharon-purple-pillar) rendered as tiny specks that look broken, and (3) five dark-purple smokebush cultivars that are near-indistinguishable.",
+   "group_similarity": "Mixed. The June-blooming families are handled very well and are clearly distinct: roses/David Austin cultivars (accurate per-cultivar bloom colors), butterfly bush (correct gray-green foliage + differentiated flower colors), potentilla, spirea (golden vs green foliage cultivars), ninebark (excellent burgundy/copper/gold foliage range), rhododendron, gardenia, mock orange, and hydrangea all read as different plants. The weakness is the many out-of-bloom families at June - Rose of Sharon (13 cultivars), lilacs, camellias, crape myrtles, summersweet, most viburnum, winterberry, witch hazel - which collapse into interchangeable green mounds. Within those groups distinctiveness is essentially zero at this month, though it is seasonally honest. One cross-cultivar over-similarity that is NOT seasonal: the five dark-purple smokebush cultivars."
+  },
+  {
+   "summary": "The 'tree' archetype (82 spring-flowering ornamentals, Japanese maples, and a few shade trees) is modeled as one rounded blob canopy differentiated only by color and size. Color assignments are largely accurate and thoughtful, but at the captured June month most plants have finished blooming and reduce to near-identical green blobs, and no form variation distinguishes weeping, columnar, or giant shade trees. Main issues are a distinctiveness gap (too-similar cherries, magnolias, and red Japanese maples), a uniform form that ignores weeping/columnar habits, and undersized large shade trees (tulip-tree, linden).",
+   "group_similarity": "Plants in this archetype are too similar. Every one of the ~82 species uses a single rounded cluster-of-spheres canopy form, so differentiation depends entirely on foliage color and size. Color is used well (Japanese maples red, purple-leaf redbuds/crabapples purple, chartreuse cultivars yellow-green, variegated Wolf Eyes pale, and Kousa/Southern/Sweetbay/Satomi carrying flower-dots), but because the archetype is dominated by spring-flowering ornamentals that share plain green summer foliage, the June capture leaves large indistinguishable clusters: ~10 flowering cherries, ~10 magnolias, ~4 serviceberries, and several dogwoods each look interchangeable. To read as distinct they need form differentiation (weeping, columnar, pyramidal, and honest relative size for big shade trees) and a stronger, more persistent bloom than the few tiny April dots currently shown."
+  },
+  {
+   "summary": "The vase-shrub archetype is dominated by weigela cultivars (well-differentiated by pink/red/white flowers and green/burgundy/cream foliage) plus forsythia, spirea, and beautyberry groups. No wrong-model or unrecognizable cases. The real weaknesses are distinctiveness gaps at the June capture: the six green forsythias are indistinguishable, and the four green beautyberries collapse together because their identity (fall berry color, incl. white for beautyberry-white) is invisible in June. One off color: beautyberry-american is rendered lime/chartreuse rather than green. Form reads as a squat mound more than an upright arching vase.",
+   "group_similarity": "Mixed. Strong point: weigela cultivars are genuinely and appropriately distinguished by flower color (pink vs red vs white) and foliage (green vs burgundy vs pale-variegated), which mirrors how the real cultivars actually differ - this is good design. Weak points: (1) the six green forsythias (forsythia, forsythia-gold-tide, forsythia-lynwood-gold, forsythia-magical-gold, forsythia-northern-gold, forsythia-show-off) are one identical blob at June; forsythia-fiesta is the only distinct one. (2) The four green beautyberries (beautyberry, beautyberry-early-amethyst, beautyberry-profusion, beautyberry-white) are indistinguishable because their differentiator is fall berry color, not visible at month 6. (3) A few weigela pairs are visual duplicates (spilled-wine/wine-and-roses burgundy; my-monet/variegata cream; white/white-knight green+white). Both distinctiveness gaps would largely resolve with a spring capture for forsythia and a fall capture for beautyberry, which the current June-only set cannot show."
+  },
+  {
+   "summary": "Overall a high-quality batch of 240 professional cutouts across sheets 26-30; the vast majority correctly match their slugs with clean edges and no duplicates or kingdom mismatches detected. The only issues are a handful of soft color mismatches, concentrated in the red-ranunculus run (salmon/magenta reading as plain red) and rex-begonia-burgundy (plain green), plus a green Tamukeyama maple that should be red.",
+   "group_similarity": "Adjacent same-genus cultivars are mostly well differentiated by color (rose-of-sharon, rhododendron, sedum, snapdragon, stock, strawflower, statice, sweet-pea, sweet-alyssum, sunflower, spirea runs all read as distinct). Two genuinely too-similar clusters: (1) the blue/purple salvia run on sheet 27 (salvia-april-night, blue-hill, blue-marvel, caradonna, east-friesland, may-night) is effectively indistinguishable cultivar-to-cultivar, though these plants really are near-identical in life; (2) the red-ranunculus cluster on sheet 26 (magenta, red, salmon, and base ranunculus) all render as very similar reds when magenta and salmon should diverge. The Cotinus smokebush cluster on sheet 28 (royal-purple, velvet-cloak, winecraft-black, young-lady) is borderline but shows enough tonal variation to pass."
+  },
+  {
+   "summary": "Across sheets 6-10 (~240 plants, butterfly-bush through crabapple) the cutouts are overwhelmingly correct professional cut-outs with clean edges and good per-cultivar color distinction. The one clear issue is calla-lily-black, which shows a white calla lily (wrong color, and a near-duplicate of the plain white calla). A handful of foliage cultivars (coleus-redhead, coral-bells-berry-smoothie, coral-bells-plum-pudding) and coneflower-green-jewel look like they may carry the wrong color, but these are low-confidence at contact-sheet resolution and would benefit from a higher-res check.",
+   "group_similarity": "Genus runs are generally well differentiated by flower color: butterfly-bush, calibrachoa, calla-lily (except the black one), chrysanthemum, clematis, coneflower/echinacea and cosmos all show visibly distinct cultivar colors, so cultivars are distinguishable. Catmint cultivars (sheet 7 row 5) are near-identical blue-purple mounds, but that reflects the real plants (botanically expected, not a defect); only catmint-snowflake (white) and catmint-pink-cat stand apart. The coleus and coral-bells (heuchera) foliage runs are the hardest to tell apart, and a few of those cells appear to carry the wrong foliage color (see findings) rather than being true duplicates. No exact photo duplicates or broken/empty/pixelated cutouts were spotted across the five sheets."
+  },
+  {
+   "summary": "Across sheets 16-20 the cut-outs are high-quality professional images and the vast majority correctly match their slugs, with strong color differentiation within most cultivar runs. Two genuine species mismatches stand out (glory-of-the-snow-pink and golden-raindrops), plus a generic ginkgo and a couple of cultivars that fail to show their defining characteristic (japanese-painted-fern, japanese-forest-grass-red).",
+   "group_similarity": "Genus runs are generally well-differentiated by color: gladiolus, hyacinth, larkspur, lilac, impatiens, lantana, gomphrena, and hellebore cultivars are each distinguishable. Hostas (sheet 18) look broadly similar but carry genuine variegation/color differences that hold up. Two weak runs: the standard purple lavender cultivars on sheet 20 (french/grosso/hidcote/munstead/phenomenal/provence/royal-velvet/spanish) are essentially indistinguishable purple mounds, and the japanese-forest-grass 'red' + japanese-painted-fern greens do not show cultivar-specific coloring so they blur into their plain-green siblings."
+  },
+  {
+   "summary": "These five cutout sheets are mostly clean professional cut-outs with correct color/species matching. The one real, systematic issue is three red-foliage Japanese maple cultivars (crimson-queen, emperor, fireglow) all rendered with green foliage, defeating the whole reason a user would pick them; a fourth cutout (crape-myrtle-black-diamond-red) similarly loses its signature dark foliage. No wrong-species, no animal/object, and no exact duplicates found; two cultivar runs (forsythias, gardenias) are weakly distinguishable but reflect real-world similarity.",
+   "group_similarity": "Most cultivar runs are adequately distinct and correctly colored - the dahlias (sheet 12), delphiniums (sheets 12-13), dianthus (sheet 13), foxgloves (sheet 14), gaillardia and gazania (sheet 15), and creeping-phlox (sheet 11) all show appropriate color variation between cultivars. Two runs are weak: the forsythias (sheet 14, all yellow, three near-identical) and the gardenias (sheet 15, all white-on-green, several interchangeable), though both reflect real-world similarity within those genera. Expected-similar runs that are acceptable: the red crape myrtles (cherry-dazzle/dynamite/red-rocket, sheet 11), the yellow daylilies (going-bananas/happy-returns/hyperion/stella-de-oro, sheet 12), and the blue delphiniums (blue-bird/blue-jay/blue-mirror, sheet 12)."
+  },
+  {
+   "summary": "test",
+   "group_similarity": ""
+  },
+  {
+   "summary": "Cutout quality across sheets 31-34 is high and largely accurate. The two clearest issues are toad-lily (an airy pink mound that is not Tricyrtis) and tulip-spring-green (shown solid yellow instead of the cultivar's white-and-green). Minor issues: a visible pot in vinca-apricot, the tropical-hibiscus series lacking characteristic large blooms, two parrot tulips shown in plain (non-parrot) form, zinnia-envy-green not showing its signature lime green, and a couple of same-colour cultivar runs (pink veronicas, yellow yarrows) that are hard to tell apart.",
+   "group_similarity": "Overall these four sheets are well differentiated, mostly because cultivars are separated by flower colour (tulips, verbena, weigela, wisteria, witch-hazel, zinnia, and most yarrows all read as distinct). The genuine too-similar runs are same-colour cultivar groups: the pink/magenta Veronica spicata spikes (first-love / giles-van-hees / pink-damask / red-fox) and the yellow yarrows (coronation-gold / moonshine / sunny-seduction / plain). These are hard to distinguish but reflect real cultivar likeness rather than lazy reuse. No confirmed exact-duplicate photos were found."
+  }
+ ]
+}

@@ -1,0 +1,1119 @@
+{
+ "punct_breaks": [
+  {
+   "plant": "T\u00eate-\u00e0-T\u00eate",
+   "typed": "T\u00eate \u00e0 T\u00eate",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Narcissus 'T\u00eate-\u00e0-T\u00eate'"
+  },
+  {
+   "plant": "T\u00eate-\u00e0-T\u00eate",
+   "typed": "T\u00eate\u00e0T\u00eate",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Narcissus 'T\u00eate-\u00e0-T\u00eate'"
+  },
+  {
+   "plant": "Jeanne d'Arc",
+   "typed": "Jeanne dArc",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Crocus vernus 'Jeanne d'Arc'"
+  },
+  {
+   "plant": "Otto's Thrill",
+   "typed": "Ottos Thrill",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Dahlia 'Otto's Thrill'"
+  },
+  {
+   "plant": "Otto's Thrill",
+   "typed": "Ottos Thrill",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Dahlia 'Otto's Thrill'"
+  },
+  {
+   "plant": "Bishop's Children",
+   "typed": "Bishops Children",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Dahlia 'Bishop's Children'"
+  },
+  {
+   "plant": "Bishop's Children",
+   "typed": "Bishops Children",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Dahlia 'Bishop's Children'"
+  },
+  {
+   "plant": "Black-Eyed Susan",
+   "typed": "Black Eyed Susan",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Rudbeckia"
+  },
+  {
+   "plant": "Black-Eyed Susan",
+   "typed": "BlackEyed Susan",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Rudbeckia"
+  },
+  {
+   "plant": "Walker's Low",
+   "typed": "Walkers Low",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Nepeta 'Walker's Low'"
+  },
+  {
+   "plant": "Walker's Low",
+   "typed": "Walkers Low",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Nepeta 'Walker's Low'"
+  },
+  {
+   "plant": "Cat's Meow",
+   "typed": "Cats Meow",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Nepeta 'Cat's Meow'"
+  },
+  {
+   "plant": "Cat's Meow",
+   "typed": "Cats Meow",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Nepeta 'Cat's Meow'"
+  },
+  {
+   "plant": "Marshall's Delight",
+   "typed": "Marshalls Delight",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Monarda 'Marshall's Delight'"
+  },
+  {
+   "plant": "Marshall's Delight",
+   "typed": "Marshalls Delight",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Monarda 'Marshall's Delight'"
+  },
+  {
+   "plant": "Rockin' Raspberry",
+   "typed": "Rockin Raspberry",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Monarda 'Rockin' Raspberry'"
+  },
+  {
+   "plant": "Wood's Blue",
+   "typed": "Woods Blue",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Symphyotrichum dumosum 'Wood's Blue'"
+  },
+  {
+   "plant": "Wood's Blue",
+   "typed": "Woods Blue",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Symphyotrichum dumosum 'Wood's Blue'"
+  },
+  {
+   "plant": "Wood's Pink",
+   "typed": "Woods Pink",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Symphyotrichum dumosum 'Wood's Pink'"
+  },
+  {
+   "plant": "Wood's Pink",
+   "typed": "Woods Pink",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Symphyotrichum dumosum 'Wood's Pink'"
+  },
+  {
+   "plant": "Wood's Purple",
+   "typed": "Woods Purple",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Symphyotrichum dumosum 'Wood's Purple'"
+  },
+  {
+   "plant": "Wood's Purple",
+   "typed": "Woods Purple",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Symphyotrichum dumosum 'Wood's Purple'"
+  },
+  {
+   "plant": "Raydon's Favorite",
+   "typed": "Raydons Favorite",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Symphyotrichum oblongifolium 'Raydon's Favorite'"
+  },
+  {
+   "plant": "Raydon's Favorite",
+   "typed": "Raydons Favorite",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Symphyotrichum oblongifolium 'Raydon's Favorite'"
+  },
+  {
+   "plant": "Penny's Pink",
+   "typed": "Pennys Pink",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Helleborus \u00d7 hybridus 'Penny's Pink'"
+  },
+  {
+   "plant": "Penny's Pink",
+   "typed": "Pennys Pink",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Helleborus \u00d7 hybridus 'Penny's Pink'"
+  },
+  {
+   "plant": "Anna's Red",
+   "typed": "Annas Red",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Helleborus \u00d7 hybridus 'Anna's Red'"
+  },
+  {
+   "plant": "Anna's Red",
+   "typed": "Annas Red",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Helleborus \u00d7 hybridus 'Anna's Red'"
+  },
+  {
+   "plant": "Lamb's Ear",
+   "typed": "Lambs Ear",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Stachys byzantina"
+  },
+  {
+   "plant": "Lamb's Ear",
+   "typed": "Lambs Ear",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Stachys byzantina"
+  },
+  {
+   "plant": "Sutton's Apricot",
+   "typed": "Suttons Apricot",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Digitalis purpurea 'Sutton's Apricot'"
+  },
+  {
+   "plant": "Sutton's Apricot",
+   "typed": "Suttons Apricot",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Digitalis purpurea 'Sutton's Apricot'"
+  },
+  {
+   "plant": "Pam's Choice",
+   "typed": "Pams Choice",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Digitalis purpurea 'Pam's Choice'"
+  },
+  {
+   "plant": "Pam's Choice",
+   "typed": "Pams Choice",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Digitalis purpurea 'Pam's Choice'"
+  },
+  {
+   "plant": "Johnson's Blue",
+   "typed": "Johnsons Blue",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Geranium 'Johnson's Blue'"
+  },
+  {
+   "plant": "Johnson's Blue",
+   "typed": "Johnsons Blue",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Geranium 'Johnson's Blue'"
+  },
+  {
+   "plant": "Drummond's Pink",
+   "typed": "Drummonds Pink",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Phlox subulata 'Drummond's Pink'"
+  },
+  {
+   "plant": "Drummond's Pink",
+   "typed": "Drummonds Pink",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Phlox subulata 'Drummond's Pink'"
+  },
+  {
+   "plant": "Bath's Pink",
+   "typed": "Baths Pink",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Dianthus 'Bath's Pink'"
+  },
+  {
+   "plant": "Bath's Pink",
+   "typed": "Baths Pink",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Dianthus 'Bath's Pink'"
+  },
+  {
+   "plant": "Benary's Giant Wine",
+   "typed": "Benarys Giant Wine",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Zinnia elegans 'Benary's Giant Wine'"
+  },
+  {
+   "plant": "Benary's Giant Wine",
+   "typed": "Benarys Giant Wine",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Zinnia elegans 'Benary's Giant Wine'"
+  },
+  {
+   "plant": "Rosie O'Day",
+   "typed": "Rosie ODay",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Lobularia maritima 'Rosie O'Day'"
+  },
+  {
+   "plant": "Dragon's Breath",
+   "typed": "Dragons Breath",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Celosia 'Dragon's Breath'"
+  },
+  {
+   "plant": "Dragon's Breath",
+   "typed": "Dragons Breath",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Celosia 'Dragon's Breath'"
+  },
+  {
+   "plant": "Hino-Crimson",
+   "typed": "Hino Crimson",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Rhododendron 'Hino-Crimson'"
+  },
+  {
+   "plant": "Hino-Crimson",
+   "typed": "HinoCrimson",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Rhododendron 'Hino-Crimson'"
+  },
+  {
+   "plant": "Girard's Crimson",
+   "typed": "Girards Crimson",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Rhododendron 'Girard's Crimson'"
+  },
+  {
+   "plant": "Girard's Crimson",
+   "typed": "Girards Crimson",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Rhododendron 'Girard's Crimson'"
+  },
+  {
+   "plant": "Cunningham's White",
+   "typed": "Cunninghams White",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Rhododendron 'Cunningham's White'"
+  },
+  {
+   "plant": "Cunningham's White",
+   "typed": "Cunninghams White",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Rhododendron 'Cunningham's White'"
+  },
+  {
+   "plant": "Kramer's Supreme",
+   "typed": "Kramers Supreme",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Camellia japonica 'Kramer's Supreme'"
+  },
+  {
+   "plant": "Kramer's Supreme",
+   "typed": "Kramers Supreme",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Camellia japonica 'Kramer's Supreme'"
+  },
+  {
+   "plant": "Nuccio's Pearl",
+   "typed": "Nuccios Pearl",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Camellia japonica 'Nuccio's Pearl'"
+  },
+  {
+   "plant": "Nuccio's Pearl",
+   "typed": "Nuccios Pearl",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Camellia japonica 'Nuccio's Pearl'"
+  },
+  {
+   "plant": "Kleim's Hardy",
+   "typed": "Kleims Hardy",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Gardenia jasminoides 'Kleim's Hardy'"
+  },
+  {
+   "plant": "Kleim's Hardy",
+   "typed": "Kleims Hardy",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Gardenia jasminoides 'Kleim's Hardy'"
+  },
+  {
+   "plant": "McKay's White",
+   "typed": "McKays White",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Potentilla fruticosa 'McKay's White'"
+  },
+  {
+   "plant": "McKay's White",
+   "typed": "McKays White",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Potentilla fruticosa 'McKay's White'"
+  },
+  {
+   "plant": "Grandpa Ott's",
+   "typed": "Grandpa Otts",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Ipomoea purpurea"
+  },
+  {
+   "plant": "Grandpa Ott's",
+   "typed": "Grandpa Otts",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Ipomoea purpurea"
+  },
+  {
+   "plant": "Scarlett O'Hara",
+   "typed": "Scarlett OHara",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Ipomoea nil"
+  },
+  {
+   "plant": "Cole's Select",
+   "typed": "Coles Select",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Amelanchier \u00d7 grandiflora 'Cole's Select'"
+  },
+  {
+   "plant": "Cole's Select",
+   "typed": "Coles Select",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Amelanchier \u00d7 grandiflora 'Cole's Select'"
+  },
+  {
+   "plant": "Solomon's Seal",
+   "typed": "Solomons Seal",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Polygonatum"
+  },
+  {
+   "plant": "Solomon's Seal",
+   "typed": "Solomons Seal",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Polygonatum"
+  },
+  {
+   "plant": "Beni-Kaze",
+   "typed": "Beni Kaze",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Hakonechloa macra 'Beni-Kaze'"
+  },
+  {
+   "plant": "Beni-Kaze",
+   "typed": "BeniKaze",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Hakonechloa macra 'Beni-Kaze'"
+  },
+  {
+   "plant": "Chater's Double Red",
+   "typed": "Chaters Double Red",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Alcea rosea 'Chater's Double Red'"
+  },
+  {
+   "plant": "Chater's Double Red",
+   "typed": "Chaters Double Red",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Alcea rosea 'Chater's Double Red'"
+  },
+  {
+   "plant": "Chater's Double White",
+   "typed": "Chaters Double White",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Alcea rosea 'Chater's Double White'"
+  },
+  {
+   "plant": "Chater's Double White",
+   "typed": "Chaters Double White",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Alcea rosea 'Chater's Double White'"
+  },
+  {
+   "plant": "Chater's Double Yellow",
+   "typed": "Chaters Double Yellow",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Alcea rosea 'Chater's Double Yellow'"
+  },
+  {
+   "plant": "Chater's Double Yellow",
+   "typed": "Chaters Double Yellow",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Alcea rosea 'Chater's Double Yellow'"
+  },
+  {
+   "plant": "Chater's Double Violet",
+   "typed": "Chaters Double Violet",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Alcea rosea 'Chater's Double Violet'"
+  },
+  {
+   "plant": "Chater's Double Violet",
+   "typed": "Chaters Double Violet",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Alcea rosea 'Chater's Double Violet'"
+  },
+  {
+   "plant": "Jacob's Ladder",
+   "typed": "Jacobs Ladder",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Polemonium"
+  },
+  {
+   "plant": "Jacob's Ladder",
+   "typed": "Jacobs Ladder",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Polemonium"
+  },
+  {
+   "plant": "Snow-in-Summer",
+   "typed": "Snow in Summer",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Cerastium tomentosum"
+  },
+  {
+   "plant": "Snow-in-Summer",
+   "typed": "SnowinSummer",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Cerastium tomentosum"
+  },
+  {
+   "plant": "Love-Lies-Bleeding",
+   "typed": "Love Lies Bleeding",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Amaranthus caudatus"
+  },
+  {
+   "plant": "Love-Lies-Bleeding",
+   "typed": "LoveLiesBleeding",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Amaranthus caudatus"
+  },
+  {
+   "plant": "Bachelor's Button",
+   "typed": "Bachelors Button",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Centaurea cyanus"
+  },
+  {
+   "plant": "Bachelor's Button",
+   "typed": "Bachelors Button",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Centaurea cyanus"
+  },
+  {
+   "plant": "Pink Bachelor's Button",
+   "typed": "Pink Bachelors Button",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Centaurea cyanus"
+  },
+  {
+   "plant": "Pink Bachelor's Button",
+   "typed": "Pink Bachelors Button",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Centaurea cyanus"
+  },
+  {
+   "plant": "White Bachelor's Button",
+   "typed": "White Bachelors Button",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Centaurea cyanus"
+  },
+  {
+   "plant": "White Bachelor's Button",
+   "typed": "White Bachelors Button",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Centaurea cyanus"
+  },
+  {
+   "plant": "Purple Bachelor's Button",
+   "typed": "Purple Bachelors Button",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Centaurea cyanus"
+  },
+  {
+   "plant": "Purple Bachelor's Button",
+   "typed": "Purple Bachelors Button",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Centaurea cyanus"
+  },
+  {
+   "plant": "Four O'Clock",
+   "typed": "Four OClock",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Mirabilis jalapa"
+  },
+  {
+   "plant": "Yellow Four O'Clock",
+   "typed": "Yellow Four OClock",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Mirabilis jalapa"
+  },
+  {
+   "plant": "White Four O'Clock",
+   "typed": "White Four OClock",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Mirabilis jalapa"
+  },
+  {
+   "plant": "Red Four O'Clock",
+   "typed": "Red Four OClock",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Mirabilis jalapa"
+  },
+  {
+   "plant": "Magenta Four O'Clock",
+   "typed": "Magenta Four OClock",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Mirabilis jalapa"
+  },
+  {
+   "plant": "Lady's Mantle",
+   "typed": "Ladys Mantle",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Alchemilla mollis"
+  },
+  {
+   "plant": "Lady's Mantle",
+   "typed": "Ladys Mantle",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Alchemilla mollis"
+  },
+  {
+   "plant": "Black-Eyed Susan Vine",
+   "typed": "Black Eyed Susan Vine",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Thunbergia alata"
+  },
+  {
+   "plant": "Black-Eyed Susan Vine",
+   "typed": "BlackEyed Susan Vine",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Thunbergia alata"
+  },
+  {
+   "plant": "Bird's Nest Spruce",
+   "typed": "Birds Nest Spruce",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Picea abies 'Nidiformis'"
+  },
+  {
+   "plant": "Bird's Nest Spruce",
+   "typed": "Birds Nest Spruce",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Picea abies 'Nidiformis'"
+  },
+  {
+   "plant": "DeGroot's Spire",
+   "typed": "DeGroots Spire",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Thuja occidentalis 'DeGroot's Spire'"
+  },
+  {
+   "plant": "DeGroot's Spire",
+   "typed": "DeGroots Spire",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Thuja occidentalis 'DeGroot's Spire'"
+  },
+  {
+   "plant": "Swane's Gold",
+   "typed": "Swanes Gold",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Cupressus sempervirens 'Swane's Gold'"
+  },
+  {
+   "plant": "Swane's Gold",
+   "typed": "Swanes Gold",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Cupressus sempervirens 'Swane's Gold'"
+  },
+  {
+   "plant": "Tess of the d'Urbervilles",
+   "typed": "Tess of the dUrbervilles",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Rosa 'Ausmove'"
+  },
+  {
+   "plant": "Susan Williams-Ellis",
+   "typed": "Susan Williams Ellis",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Rosa 'Ausquirk'"
+  },
+  {
+   "plant": "Susan Williams-Ellis",
+   "typed": "Susan WilliamsEllis",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Rosa 'Ausquirk'"
+  },
+  {
+   "plant": "The Poet's Wife",
+   "typed": "The Poets Wife",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Rosa 'Auswhirl'"
+  },
+  {
+   "plant": "The Poet's Wife",
+   "typed": "The Poets Wife",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Rosa 'Auswhirl'"
+  },
+  {
+   "plant": "Lady Banks' Rose",
+   "typed": "Lady Banks Rose",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Rosa banksiae"
+  },
+  {
+   "plant": "Agastache 'Apricot Sprite'",
+   "typed": "Agastache Apricot Sprite",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Agastache 'Apricot Sprite'"
+  },
+  {
+   "plant": "Agastache 'Firebird'",
+   "typed": "Agastache Firebird",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Agastache 'Firebird'"
+  },
+  {
+   "plant": "Brunner 'Jack Frost'",
+   "typed": "Brunner Jack Frost",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Brunnera macrophylla 'Jack Frost'"
+  },
+  {
+   "plant": "Brunner 'Silver Heart'",
+   "typed": "Brunner Silver Heart",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Brunnera macrophylla 'Silver Heart'"
+  },
+  {
+   "plant": "California Flannel Bush 'Ken Taylor'",
+   "typed": "California Flannel Bush Ken Taylor",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Fremontodendron 'Ken Taylor'"
+  },
+  {
+   "plant": "California Flannel Bush 'Pacific Sunset'",
+   "typed": "California Flannel Bush Pacific Sunset",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Fremontodendron 'Pacific Sunset'"
+  },
+  {
+   "plant": "Giant Hyssop 'Ginger'",
+   "typed": "Giant Hyssop Ginger",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Agastache 'Ginger'"
+  },
+  {
+   "plant": "Hollyhock 'Blacknight'",
+   "typed": "Hollyhock Blacknight",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Alcea rosea 'Blacknight'"
+  },
+  {
+   "plant": "Hollyhock 'Chater's Double'",
+   "typed": "Hollyhock Chaters Double",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Alcea rosea 'Chater's Double'"
+  },
+  {
+   "plant": "Hollyhock 'Chater's Double'",
+   "typed": "Hollyhock 'Chaters Double'",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Alcea rosea 'Chater's Double'"
+  },
+  {
+   "plant": "Japanese Maple 'Miyako'",
+   "typed": "Japanese Maple Miyako",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Acer palmatum 'Miyako'"
+  },
+  {
+   "plant": "New England Aster 'Barr's Pink'",
+   "typed": "New England Aster Barrs Pink",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Symphyotrichum novae-angliae 'Barr's Pink'"
+  },
+  {
+   "plant": "New England Aster 'Barr's Pink'",
+   "typed": "New England Aster 'Barrs Pink'",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Symphyotrichum novae-angliae 'Barr's Pink'"
+  },
+  {
+   "plant": "New England Aster 'Harrington's Pink'",
+   "typed": "New England Aster Harringtons Pink",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Symphyotrichum novae-angliae 'Harrington's Pink'"
+  },
+  {
+   "plant": "New England Aster 'Harrington's Pink'",
+   "typed": "New England Aster 'Harringtons Pink'",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Symphyotrichum novae-angliae 'Harrington's Pink'"
+  },
+  {
+   "plant": "Rosa 'Fantin-Latour'",
+   "typed": "Rosa 'Fantin Latour'",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Rosa 'Fantin-Latour'"
+  },
+  {
+   "plant": "Rosa 'Fantin-Latour'",
+   "typed": "Rosa 'FantinLatour'",
+   "picker_reaches": false,
+   "browse_reaches": false,
+   "botanical": "Rosa 'Fantin-Latour'"
+  },
+  {
+   "plant": "Rosa 'Fantin-Latour'",
+   "typed": "Rosa Fantin-Latour",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Rosa 'Fantin-Latour'"
+  },
+  {
+   "plant": "Rosa 'Felicia'",
+   "typed": "Rosa Felicia",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Rosa 'Felicia'"
+  },
+  {
+   "plant": "Rosa 'Fragrant Cloud'",
+   "typed": "Rosa Fragrant Cloud",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Rosa 'Fragrant Cloud'"
+  },
+  {
+   "plant": "Rosa 'Frau Karl Druschki'",
+   "typed": "Rosa Frau Karl Druschki",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Rosa 'Frau Karl Druschki'"
+  },
+  {
+   "plant": "Rosa 'Ispahan'",
+   "typed": "Rosa Ispahan",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Rosa 'Ispahan'"
+  },
+  {
+   "plant": "Rosa 'Madame Hardy'",
+   "typed": "Rosa Madame Hardy",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Rosa 'Madame Hardy'"
+  },
+  {
+   "plant": "Rosa 'Trigintipetala'",
+   "typed": "Rosa Trigintipetala",
+   "picker_reaches": false,
+   "browse_reaches": true,
+   "botanical": "Rosa damascena 'Trigintipetala'"
+  }
+ ],
+ "group_breaks": [
+  {
+   "group": "Azaleas",
+   "typed": "azaleas",
+   "picker_n": 15,
+   "browse_n": 0
+  },
+  {
+   "group": "Chrysanthemums",
+   "typed": "chrysanthemums",
+   "picker_n": 15,
+   "browse_n": 0
+  },
+  {
+   "group": "Climbing Roses",
+   "typed": "climbing roses",
+   "picker_n": 10,
+   "browse_n": 0
+  },
+  {
+   "group": "Coneflowers",
+   "typed": "coneflowers",
+   "picker_n": 16,
+   "browse_n": 0
+  },
+  {
+   "group": "Daffodils",
+   "typed": "daffodils",
+   "picker_n": 16,
+   "browse_n": 0
+  },
+  {
+   "group": "Dahlias",
+   "typed": "dahlias",
+   "picker_n": 16,
+   "browse_n": 0
+  },
+  {
+   "group": "Daylilies",
+   "typed": "daylilies",
+   "picker_n": 16,
+   "browse_n": 0
+  },
+  {
+   "group": "English (David Austin) Roses",
+   "typed": "english (david austin) ros",
+   "picker_n": 32,
+   "browse_n": 0
+  },
+  {
+   "group": "English (David Austin) Roses",
+   "typed": "english (david austin) roses",
+   "picker_n": 32,
+   "browse_n": 0
+  },
+  {
+   "group": "Floribunda Roses",
+   "typed": "floribunda roses",
+   "picker_n": 3,
+   "browse_n": 0
+  },
+  {
+   "group": "Geraniums",
+   "typed": "geraniums",
+   "picker_n": 11,
+   "browse_n": 0
+  },
+  {
+   "group": "Hostas",
+   "typed": "hostas",
+   "picker_n": 16,
+   "browse_n": 0
+  },
+  {
+   "group": "Hybrid Tea & Grandiflora Roses",
+   "typed": "hybrid tea & grandiflora roses",
+   "picker_n": 5,
+   "browse_n": 0
+  },
+  {
+   "group": "Hybrid Tea & Grandiflora Roses",
+   "typed": "hybrid tea & grandiflora ros",
+   "picker_n": 5,
+   "browse_n": 0
+  },
+  {
+   "group": "Hydrangeas",
+   "typed": "hydrangeas",
+   "picker_n": 4,
+   "browse_n": 0
+  },
+  {
+   "group": "Irises",
+   "typed": "irises",
+   "picker_n": 3,
+   "browse_n": 0
+  },
+  {
+   "group": "Lilies",
+   "typed": "lilies",
+   "picker_n": 21,
+   "browse_n": 0
+  },
+  {
+   "group": "Marigolds",
+   "typed": "marigolds",
+   "picker_n": 11,
+   "browse_n": 0
+  },
+  {
+   "group": "Pansies & Violas",
+   "typed": "pansies & viola",
+   "picker_n": 12,
+   "browse_n": 0
+  },
+  {
+   "group": "Pansies & Violas",
+   "typed": "pansies & violas",
+   "picker_n": 12,
+   "browse_n": 0
+  },
+  {
+   "group": "Peonies",
+   "typed": "peonies",
+   "picker_n": 16,
+   "browse_n": 0
+  },
+  {
+   "group": "Petunias",
+   "typed": "petunias",
+   "picker_n": 14,
+   "browse_n": 0
+  },
+  {
+   "group": "Rhododendrons",
+   "typed": "rhododendrons",
+   "picker_n": 13,
+   "browse_n": 0
+  },
+  {
+   "group": "Shrub & Landscape Roses",
+   "typed": "shrub & landscape ros",
+   "picker_n": 8,
+   "browse_n": 0
+  },
+  {
+   "group": "Shrub & Landscape Roses",
+   "typed": "shrub & landscape roses",
+   "picker_n": 8,
+   "browse_n": 0
+  },
+  {
+   "group": "Snapdragons",
+   "typed": "snapdragons",
+   "picker_n": 11,
+   "browse_n": 0
+  },
+  {
+   "group": "Tulips",
+   "typed": "tulips",
+   "picker_n": 18,
+   "browse_n": 0
+  },
+  {
+   "group": "Zinnias",
+   "typed": "zinnias",
+   "picker_n": 14,
+   "browse_n": 0
+  }
+ ]
+}

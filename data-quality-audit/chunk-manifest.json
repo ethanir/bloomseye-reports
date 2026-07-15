@@ -1,0 +1,320 @@
+[
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Bulb-0.txt",
+    "cat": "Bulb",
+    "idx": 0,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Bulb-1.txt",
+    "cat": "Bulb",
+    "idx": 1,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Bulb-2.txt",
+    "cat": "Bulb",
+    "idx": 2,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Bulb-3.txt",
+    "cat": "Bulb",
+    "idx": 3,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Bulb-4.txt",
+    "cat": "Bulb",
+    "idx": 4,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Bulb-5.txt",
+    "cat": "Bulb",
+    "idx": 5,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Bulb-6.txt",
+    "cat": "Bulb",
+    "idx": 6,
+    "count": 21
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Perennial-0.txt",
+    "cat": "Perennial",
+    "idx": 0,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Perennial-1.txt",
+    "cat": "Perennial",
+    "idx": 1,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Perennial-2.txt",
+    "cat": "Perennial",
+    "idx": 2,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Perennial-3.txt",
+    "cat": "Perennial",
+    "idx": 3,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Perennial-4.txt",
+    "cat": "Perennial",
+    "idx": 4,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Perennial-5.txt",
+    "cat": "Perennial",
+    "idx": 5,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Perennial-6.txt",
+    "cat": "Perennial",
+    "idx": 6,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Perennial-7.txt",
+    "cat": "Perennial",
+    "idx": 7,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Perennial-8.txt",
+    "cat": "Perennial",
+    "idx": 8,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Perennial-9.txt",
+    "cat": "Perennial",
+    "idx": 9,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Perennial-10.txt",
+    "cat": "Perennial",
+    "idx": 10,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Perennial-11.txt",
+    "cat": "Perennial",
+    "idx": 11,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Perennial-12.txt",
+    "cat": "Perennial",
+    "idx": 12,
+    "count": 30
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Annual-0.txt",
+    "cat": "Annual",
+    "idx": 0,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Annual-1.txt",
+    "cat": "Annual",
+    "idx": 1,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Annual-2.txt",
+    "cat": "Annual",
+    "idx": 2,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Annual-3.txt",
+    "cat": "Annual",
+    "idx": 3,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Annual-4.txt",
+    "cat": "Annual",
+    "idx": 4,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Annual-5.txt",
+    "cat": "Annual",
+    "idx": 5,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Annual-6.txt",
+    "cat": "Annual",
+    "idx": 6,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Annual-7.txt",
+    "cat": "Annual",
+    "idx": 7,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Annual-8.txt",
+    "cat": "Annual",
+    "idx": 8,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Annual-9.txt",
+    "cat": "Annual",
+    "idx": 9,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Annual-10.txt",
+    "cat": "Annual",
+    "idx": 10,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Annual-11.txt",
+    "cat": "Annual",
+    "idx": 11,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Annual-12.txt",
+    "cat": "Annual",
+    "idx": 12,
+    "count": 2
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Shrub-0.txt",
+    "cat": "Shrub",
+    "idx": 0,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Shrub-1.txt",
+    "cat": "Shrub",
+    "idx": 1,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Shrub-2.txt",
+    "cat": "Shrub",
+    "idx": 2,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Shrub-3.txt",
+    "cat": "Shrub",
+    "idx": 3,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Shrub-4.txt",
+    "cat": "Shrub",
+    "idx": 4,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Shrub-5.txt",
+    "cat": "Shrub",
+    "idx": 5,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Shrub-6.txt",
+    "cat": "Shrub",
+    "idx": 6,
+    "count": 18
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Rose-0.txt",
+    "cat": "Rose",
+    "idx": 0,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Rose-1.txt",
+    "cat": "Rose",
+    "idx": 1,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Rose-2.txt",
+    "cat": "Rose",
+    "idx": 2,
+    "count": 17
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Climber-0.txt",
+    "cat": "Climber",
+    "idx": 0,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Climber-1.txt",
+    "cat": "Climber",
+    "idx": 1,
+    "count": 27
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Grass-0.txt",
+    "cat": "Grass",
+    "idx": 0,
+    "count": 33
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Herb-0.txt",
+    "cat": "Herb",
+    "idx": 0,
+    "count": 22
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Tree-0.txt",
+    "cat": "Tree",
+    "idx": 0,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Tree-1.txt",
+    "cat": "Tree",
+    "idx": 1,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Tree-2.txt",
+    "cat": "Tree",
+    "idx": 2,
+    "count": 14
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Fern-0.txt",
+    "cat": "Fern",
+    "idx": 0,
+    "count": 10
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Conifer-0.txt",
+    "cat": "Conifer",
+    "idx": 0,
+    "count": 35
+  },
+  {
+    "path": "/Users/eirim/bloomseye-reports/data-quality-audit/chunks/Conifer-1.txt",
+    "cat": "Conifer",
+    "idx": 1,
+    "count": 13
+  }
+]

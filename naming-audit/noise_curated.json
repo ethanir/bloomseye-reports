@@ -1,0 +1,4687 @@
+[
+ {
+  "term": "mum",
+  "intended": [
+   "Chrysanthemum"
+  ],
+  "picker_n": 35,
+  "browse_n": 35,
+  "picker_genera": {
+   "Chrysanthemum": [
+    "Garden Mum",
+    "Yellow Mum",
+    "Gold Mum",
+    "Bronze Mum"
+   ],
+   "Leucanthemum": [
+    "Shasta Daisy",
+    "Becky",
+    "Alaska",
+    "Snowcap"
+   ],
+   "Osteospermum": [
+    "African Daisy",
+    "White African Daisy",
+    "Pink African Daisy",
+    "Lavender African Daisy"
+   ],
+   "Argyranthemum": [
+    "Marguerite Daisy",
+    "Pink Marguerite Daisy",
+    "Butterfly Marguerite Daisy",
+    "Red Marguerite Daisy"
+   ],
+   "Trachelospermum": [
+    "Star Jasmine"
+   ],
+   "Ocimum": [
+    "Basil"
+   ]
+  },
+  "browse_genera": {
+   "Chrysanthemum": [
+    "Garden Mum",
+    "Yellow Mum",
+    "Gold Mum",
+    "Bronze Mum"
+   ],
+   "Leucanthemum": [
+    "Shasta Daisy",
+    "Becky",
+    "Alaska",
+    "Snowcap"
+   ],
+   "Osteospermum": [
+    "African Daisy",
+    "White African Daisy",
+    "Pink African Daisy",
+    "Lavender African Daisy"
+   ],
+   "Argyranthemum": [
+    "Marguerite Daisy",
+    "Pink Marguerite Daisy",
+    "Butterfly Marguerite Daisy",
+    "Red Marguerite Daisy"
+   ],
+   "Trachelospermum": [
+    "Star Jasmine"
+   ],
+   "Ocimum": [
+    "Basil"
+   ]
+  },
+  "noise": [
+   {
+    "surface": "picker",
+    "genus": "Leucanthemum",
+    "examples": [
+     "Shasta Daisy",
+     "Becky",
+     "Alaska",
+     "Snowcap"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Trachelospermum",
+    "examples": [
+     "Star Jasmine"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Ocimum",
+    "examples": [
+     "Basil"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Osteospermum",
+    "examples": [
+     "African Daisy",
+     "White African Daisy",
+     "Pink African Daisy",
+     "Lavender African Daisy"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Argyranthemum",
+    "examples": [
+     "Marguerite Daisy",
+     "Pink Marguerite Daisy",
+     "Butterfly Marguerite Daisy",
+     "Red Marguerite Daisy"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Leucanthemum",
+    "examples": [
+     "Shasta Daisy",
+     "Becky",
+     "Alaska",
+     "Snowcap"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Trachelospermum",
+    "examples": [
+     "Star Jasmine"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Ocimum",
+    "examples": [
+     "Basil"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Osteospermum",
+    "examples": [
+     "African Daisy",
+     "White African Daisy",
+     "Pink African Daisy",
+     "Lavender African Daisy"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Argyranthemum",
+    "examples": [
+     "Marguerite Daisy",
+     "Pink Marguerite Daisy",
+     "Butterfly Marguerite Daisy",
+     "Red Marguerite Daisy"
+    ]
+   }
+  ]
+ },
+ {
+  "term": "mums",
+  "intended": [
+   "Chrysanthemum"
+  ],
+  "picker_n": 15,
+  "browse_n": 0,
+  "picker_genera": {
+   "Chrysanthemum": [
+    "Garden Mum",
+    "Yellow Mum",
+    "Gold Mum",
+    "Bronze Mum"
+   ]
+  },
+  "browse_genera": {},
+  "noise": []
+ },
+ {
+  "term": "aster",
+  "intended": [
+   "Symphyotrichum",
+   "Aster"
+  ],
+  "picker_n": 23,
+  "browse_n": 12,
+  "picker_genera": {
+   "Symphyotrichum": [
+    "Aster",
+    "Purple Dome",
+    "Alma P\u00f6tschke",
+    "Wood's Blue"
+   ],
+   "Narcissus": [
+    "Dutch Master"
+   ],
+   "Allium": [
+    "Globemaster"
+   ],
+   "Aquilegia": [
+    "Eastern Red Columbine"
+   ],
+   "Lupinus": [
+    "Masterpiece"
+   ],
+   "Cercis": [
+    "Eastern Redbud"
+   ],
+   "Lilium": [
+    "Easter Lily"
+   ],
+   "Pinus": [
+    "Eastern White Pine"
+   ],
+   "Tsuga": [
+    "Eastern Hemlock"
+   ]
+  },
+  "browse_genera": {
+   "Symphyotrichum": [
+    "Aster",
+    "New England Aster",
+    "New England Aster 'Barr's Pink'",
+    "New England Aster 'Harrington's Pink'"
+   ],
+   "Narcissus": [
+    "Dutch Master"
+   ],
+   "Allium": [
+    "Globemaster"
+   ],
+   "Aquilegia": [
+    "Eastern Red Columbine"
+   ],
+   "Lupinus": [
+    "Masterpiece"
+   ],
+   "Cercis": [
+    "Eastern Redbud"
+   ],
+   "Lilium": [
+    "Easter Lily"
+   ],
+   "Pinus": [
+    "Eastern White Pine"
+   ],
+   "Tsuga": [
+    "Eastern Hemlock"
+   ]
+  },
+  "noise": [
+   {
+    "surface": "picker",
+    "genus": "Narcissus",
+    "examples": [
+     "Dutch Master"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Allium",
+    "examples": [
+     "Globemaster"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Aquilegia",
+    "examples": [
+     "Eastern Red Columbine"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lupinus",
+    "examples": [
+     "Masterpiece"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Cercis",
+    "examples": [
+     "Eastern Redbud"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lilium",
+    "examples": [
+     "Easter Lily"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Pinus",
+    "examples": [
+     "Eastern White Pine"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Tsuga",
+    "examples": [
+     "Eastern Hemlock"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Narcissus",
+    "examples": [
+     "Dutch Master"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Allium",
+    "examples": [
+     "Globemaster"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Aquilegia",
+    "examples": [
+     "Eastern Red Columbine"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Lupinus",
+    "examples": [
+     "Masterpiece"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Cercis",
+    "examples": [
+     "Eastern Redbud"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Lilium",
+    "examples": [
+     "Easter Lily"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Pinus",
+    "examples": [
+     "Eastern White Pine"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Tsuga",
+    "examples": [
+     "Eastern Hemlock"
+    ]
+   }
+  ]
+ },
+ {
+  "term": "geranium",
+  "intended": [
+   "Geranium"
+  ],
+  "picker_n": 23,
+  "browse_n": 23,
+  "picker_genera": {
+   "Geranium": [
+    "Hardy Geranium",
+    "Rozanne",
+    "Johnson's Blue",
+    "Wargrave Pink"
+   ],
+   "Pelargonium": [
+    "Geranium (Annual)",
+    "Pink Geranium",
+    "White Geranium",
+    "Salmon Geranium"
+   ],
+   "Narcissus": [
+    "Geranium"
+   ]
+  },
+  "browse_genera": {
+   "Geranium": [
+    "Hardy Geranium",
+    "Rozanne",
+    "Johnson's Blue",
+    "Wargrave Pink"
+   ],
+   "Pelargonium": [
+    "Geranium (Annual)",
+    "Pink Geranium",
+    "White Geranium",
+    "Salmon Geranium"
+   ],
+   "Narcissus": [
+    "Geranium"
+   ]
+  },
+  "noise": [
+   {
+    "surface": "picker",
+    "genus": "Narcissus",
+    "examples": [
+     "Geranium"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Pelargonium",
+    "examples": [
+     "Geranium (Annual)",
+     "Pink Geranium",
+     "White Geranium",
+     "Salmon Geranium"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Narcissus",
+    "examples": [
+     "Geranium"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Pelargonium",
+    "examples": [
+     "Geranium (Annual)",
+     "Pink Geranium",
+     "White Geranium",
+     "Salmon Geranium"
+    ]
+   }
+  ]
+ },
+ {
+  "term": "coral bells",
+  "intended": [
+   "Heuchera"
+  ],
+  "picker_n": 15,
+  "browse_n": 2,
+  "picker_genera": {
+   "Heuchera": [
+    "Coral Bells",
+    "Palace Purple",
+    "Caramel",
+    "Obsidian"
+   ]
+  },
+  "browse_genera": {
+   "Heuchera": [
+    "Coral Bells"
+   ],
+   "Calibrachoa": [
+    "Superbells Coralina"
+   ]
+  },
+  "noise": [
+   {
+    "surface": "browse",
+    "genus": "Calibrachoa",
+    "examples": [
+     "Superbells Coralina"
+    ]
+   }
+  ]
+ },
+ {
+  "term": "bells",
+  "intended": [
+   "Heuchera",
+   "Campanula"
+  ],
+  "picker_n": 34,
+  "browse_n": 20,
+  "picker_genera": {
+   "Heuchera": [
+    "Coral Bells",
+    "Palace Purple",
+    "Caramel",
+    "Obsidian"
+   ],
+   "Calibrachoa": [
+    "Superbells Red",
+    "Superbells Yellow",
+    "Superbells White",
+    "Superbells Blue"
+   ],
+   "Campanula": [
+    "Canterbury Bells",
+    "Blue Canterbury Bells",
+    "Pink Canterbury Bells",
+    "White Canterbury Bells"
+   ],
+   "Mertensia": [
+    "Virginia Bluebells"
+   ],
+   "Heucherella": [
+    "Foamy Bells"
+   ],
+   "Ornithogalum": [
+    "Silver Bells"
+   ]
+  },
+  "browse_genera": {
+   "Calibrachoa": [
+    "Superbells Red",
+    "Superbells Yellow",
+    "Superbells White",
+    "Superbells Blue"
+   ],
+   "Campanula": [
+    "Canterbury Bells",
+    "Blue Canterbury Bells",
+    "Pink Canterbury Bells",
+    "White Canterbury Bells"
+   ],
+   "Heuchera": [
+    "Coral Bells"
+   ],
+   "Mertensia": [
+    "Virginia Bluebells"
+   ],
+   "Heucherella": [
+    "Foamy Bells"
+   ],
+   "Ornithogalum": [
+    "Silver Bells"
+   ]
+  },
+  "noise": [
+   {
+    "surface": "picker",
+    "genus": "Mertensia",
+    "examples": [
+     "Virginia Bluebells"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Heucherella",
+    "examples": [
+     "Foamy Bells"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Calibrachoa",
+    "examples": [
+     "Superbells Red",
+     "Superbells Yellow",
+     "Superbells White",
+     "Superbells Blue"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Ornithogalum",
+    "examples": [
+     "Silver Bells"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Mertensia",
+    "examples": [
+     "Virginia Bluebells"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Heucherella",
+    "examples": [
+     "Foamy Bells"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Calibrachoa",
+    "examples": [
+     "Superbells Red",
+     "Superbells Yellow",
+     "Superbells White",
+     "Superbells Blue"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Ornithogalum",
+    "examples": [
+     "Silver Bells"
+    ]
+   }
+  ]
+ },
+ {
+  "term": "iris",
+  "intended": [
+   "Iris"
+  ],
+  "picker_n": 3,
+  "browse_n": 3,
+  "picker_genera": {
+   "Iris": [
+    "Bearded Iris",
+    "Siberian Iris",
+    "Dutch Iris"
+   ]
+  },
+  "browse_genera": {
+   "Iris": [
+    "Bearded Iris",
+    "Siberian Iris",
+    "Dutch Iris"
+   ]
+  },
+  "noise": []
+ },
+ {
+  "term": "lily",
+  "intended": [
+   "Lilium"
+  ],
+  "picker_n": 37,
+  "browse_n": 17,
+  "picker_genera": {
+   "Canna": [
+    "Canna Lily",
+    "President",
+    "Bengal Tiger",
+    "Tropicanna"
+   ],
+   "Zantedeschia": [
+    "Calla Lily",
+    "Yellow Calla",
+    "Pink Calla",
+    "Mango Calla"
+   ],
+   "Lilium": [
+    "Asiatic Lily",
+    "Oriental Lily",
+    "Tiger Lily",
+    "Trumpet Lily"
+   ],
+   "Hemerocallis": [
+    "Daylily",
+    "Common Orange Daylily",
+    "Pink Damask Daylily",
+    "Stafford Daylily"
+   ],
+   "Fritillaria": [
+    "Checkered Lily",
+    "Checkered Lily Alba",
+    "Persian Lily"
+   ],
+   "Tulipa": [
+    "Ballerina",
+    "White Triumphator"
+   ],
+   "Convallaria": [
+    "Lily of the Valley"
+   ],
+   "Tricyrtis": [
+    "Toad Lily"
+   ],
+   "Colchicum": [
+    "Waterlily"
+   ]
+  },
+  "browse_genera": {
+   "Lilium": [
+    "Asiatic Lily",
+    "Oriental Lily",
+    "Tiger Lily",
+    "Trumpet Lily"
+   ],
+   "Hemerocallis": [
+    "Daylily",
+    "Common Orange Daylily",
+    "Pink Damask Daylily",
+    "Stafford Daylily"
+   ],
+   "Fritillaria": [
+    "Checkered Lily",
+    "Checkered Lily Alba",
+    "Persian Lily"
+   ],
+   "Canna": [
+    "Canna Lily"
+   ],
+   "Convallaria": [
+    "Lily of the Valley"
+   ],
+   "Zantedeschia": [
+    "Calla Lily"
+   ],
+   "Tricyrtis": [
+    "Toad Lily"
+   ],
+   "Colchicum": [
+    "Waterlily"
+   ]
+  },
+  "noise": [
+   {
+    "surface": "picker",
+    "genus": "Tulipa",
+    "examples": [
+     "Ballerina",
+     "White Triumphator"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Canna",
+    "examples": [
+     "Canna Lily",
+     "President",
+     "Bengal Tiger",
+     "Tropicanna"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Hemerocallis",
+    "examples": [
+     "Daylily",
+     "Common Orange Daylily",
+     "Pink Damask Daylily",
+     "Stafford Daylily"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Convallaria",
+    "examples": [
+     "Lily of the Valley"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Zantedeschia",
+    "examples": [
+     "Calla Lily",
+     "Yellow Calla",
+     "Pink Calla",
+     "Mango Calla"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Tricyrtis",
+    "examples": [
+     "Toad Lily"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Fritillaria",
+    "examples": [
+     "Checkered Lily",
+     "Checkered Lily Alba",
+     "Persian Lily"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Colchicum",
+    "examples": [
+     "Waterlily"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Canna",
+    "examples": [
+     "Canna Lily"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Hemerocallis",
+    "examples": [
+     "Daylily",
+     "Common Orange Daylily",
+     "Pink Damask Daylily",
+     "Stafford Daylily"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Convallaria",
+    "examples": [
+     "Lily of the Valley"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Zantedeschia",
+    "examples": [
+     "Calla Lily"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Tricyrtis",
+    "examples": [
+     "Toad Lily"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Fritillaria",
+    "examples": [
+     "Checkered Lily",
+     "Checkered Lily Alba",
+     "Persian Lily"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Colchicum",
+    "examples": [
+     "Waterlily"
+    ]
+   }
+  ]
+ },
+ {
+  "term": "daisy",
+  "intended": [
+   "Leucanthemum",
+   "Bellis"
+  ],
+  "picker_n": 28,
+  "browse_n": 16,
+  "picker_genera": {
+   "Leucanthemum": [
+    "Shasta Daisy",
+    "Becky",
+    "Alaska",
+    "Snowcap"
+   ],
+   "Gerbera": [
+    "Gerbera Daisy",
+    "Red Gerbera",
+    "Pink Gerbera",
+    "Yellow Gerbera"
+   ],
+   "Osteospermum": [
+    "African Daisy",
+    "White African Daisy",
+    "Pink African Daisy",
+    "Lavender African Daisy"
+   ],
+   "Argyranthemum": [
+    "Marguerite Daisy",
+    "Pink Marguerite Daisy",
+    "Butterfly Marguerite Daisy",
+    "Red Marguerite Daisy"
+   ],
+   "Rudbeckia": [
+    "Denver Daisy",
+    "Autumn Sun Coneflower"
+   ],
+   "Bellis": [
+    "English Daisy"
+   ]
+  },
+  "browse_genera": {
+   "Osteospermum": [
+    "African Daisy",
+    "White African Daisy",
+    "Pink African Daisy",
+    "Lavender African Daisy"
+   ],
+   "Argyranthemum": [
+    "Marguerite Daisy",
+    "Pink Marguerite Daisy",
+    "Butterfly Marguerite Daisy",
+    "Red Marguerite Daisy"
+   ],
+   "Leucanthemum": [
+    "Shasta Daisy",
+    "Crazy Daisy"
+   ],
+   "Rudbeckia": [
+    "Denver Daisy"
+   ],
+   "Gerbera": [
+    "Gerbera Daisy"
+   ],
+   "Bellis": [
+    "English Daisy"
+   ]
+  },
+  "noise": [
+   {
+    "surface": "picker",
+    "genus": "Rudbeckia",
+    "examples": [
+     "Denver Daisy",
+     "Autumn Sun Coneflower"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Osteospermum",
+    "examples": [
+     "African Daisy",
+     "White African Daisy",
+     "Pink African Daisy",
+     "Lavender African Daisy"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Gerbera",
+    "examples": [
+     "Gerbera Daisy",
+     "Red Gerbera",
+     "Pink Gerbera",
+     "Yellow Gerbera"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Argyranthemum",
+    "examples": [
+     "Marguerite Daisy",
+     "Pink Marguerite Daisy",
+     "Butterfly Marguerite Daisy",
+     "Red Marguerite Daisy"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Rudbeckia",
+    "examples": [
+     "Denver Daisy"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Osteospermum",
+    "examples": [
+     "African Daisy",
+     "White African Daisy",
+     "Pink African Daisy",
+     "Lavender African Daisy"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Gerbera",
+    "examples": [
+     "Gerbera Daisy"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Argyranthemum",
+    "examples": [
+     "Marguerite Daisy",
+     "Pink Marguerite Daisy",
+     "Butterfly Marguerite Daisy",
+     "Red Marguerite Daisy"
+    ]
+   }
+  ]
+ },
+ {
+  "term": "sage",
+  "intended": [
+   "Salvia"
+  ],
+  "picker_n": 2,
+  "browse_n": 2,
+  "picker_genera": {
+   "Salvia": [
+    "Russian Sage",
+    "Sage"
+   ]
+  },
+  "browse_genera": {
+   "Salvia": [
+    "Russian Sage",
+    "Sage"
+   ]
+  },
+  "noise": []
+ },
+ {
+  "term": "pink",
+  "intended": [
+   "Dianthus"
+  ],
+  "picker_n": 405,
+  "browse_n": 87,
+  "picker_genera": {
+   "Rosa": [
+    "Shrub Rose",
+    "Climbing Rose",
+    "Floribunda Rose",
+    "Gertrude Jekyll"
+   ],
+   "Hibiscus": [
+    "Aphrodite",
+    "Blushing Bride",
+    "Minerva",
+    "Lucy"
+   ],
+   "Dianthus": [
+    "Dianthus",
+    "Firewitch",
+    "Bath's Pink",
+    "Maiden Pink"
+   ],
+   "Phlox": [
+    "Garden Phlox",
+    "Jeana",
+    "Bright Eyes",
+    "Coral Flame"
+   ],
+   "Rhododendron": [
+    "Azalea",
+    "George Tabor",
+    "Rosebud",
+    "Gumpo Pink"
+   ],
+   "Weigela": [
+    "Weigela",
+    "Wine & Roses",
+    "Java Red",
+    "My Monet"
+   ],
+   "Hylotelephium": [
+    "Autumn Joy Sedum",
+    "Brilliant Sedum",
+    "Matrona",
+    "Purple Emperor"
+   ],
+   "Spiraea": [
+    "Spirea",
+    "Goldflame",
+    "Magic Carpet",
+    "Anthony Waterer"
+   ],
+   "Paeonia": [
+    "Peony",
+    "Sarah Bernhardt",
+    "Bowl of Beauty",
+    "Shirley Temple"
+   ],
+   "Cercis": [
+    "Eastern Redbud",
+    "Forest Pansy",
+    "Hearts of Gold",
+    "The Rising Sun"
+   ],
+   "Malus": [
+    "Flowering Crabapple",
+    "Prairifire",
+    "Royal Raindrops",
+    "Profusion"
+   ],
+   "Prunus": [
+    "Flowering Cherry",
+    "Yoshino Cherry",
+    "Kwanzan Cherry",
+    "Weeping Cherry"
+   ],
+   "Begonia": [
+    "Begonia",
+    "Wax Begonia Pink",
+    "Dragon Wing Pink",
+    "Nonstop Rose"
+   ],
+   "Dahlia": [
+    "Dahlia",
+    "Caf\u00e9 au Lait",
+    "Otto's Thrill",
+    "Jowey Winnie"
+   ],
+   "Anemone": [
+    "Japanese Anemone",
+    "Sylphide",
+    "Pink Star",
+    "Pink Star"
+   ],
+   "Camellia": [
+    "Camellia",
+    "Pink Perfection",
+    "Debutante",
+    "Nuccio's Pearl"
+   ],
+   "Lagerstroemia": [
+    "Crape Myrtle",
+    "Muskogee",
+    "Tuscarora",
+    "Sioux"
+   ],
+   "Echinacea": [
+    "Purple Coneflower",
+    "Magnus",
+    "PowWow Wild Berry",
+    "Pink Double Delight"
+   ],
+   "Symphyotrichum": [
+    "Alma P\u00f6tschke",
+    "Wood's Pink",
+    "Patricia Ballard",
+    "New England Aster 'Barr's Pink'"
+   ],
+   "Astilbe": [
+    "Astilbe",
+    "Visions",
+    "Peach Blossom",
+    "Rheinland"
+   ],
+   "Digitalis": [
+    "Foxglove",
+    "Camelot Rose",
+    "Dalmatian Peach",
+    "Sutton's Apricot"
+   ],
+   "Cosmos": [
+    "Cosmos",
+    "Sensation Pink",
+    "Apricot Lemonade",
+    "Sea Shells"
+   ],
+   "Cornus": [
+    "Cherokee Chief",
+    "Cherokee Brave",
+    "Pink Dogwood",
+    "Satomi Kousa"
+   ],
+   "Magnolia": [
+    "Saucer Magnolia",
+    "Jane Magnolia",
+    "Leonard Messel",
+    "Alexandrina Magnolia"
+   ],
+   "Lantana": [
+    "Miss Huff",
+    "Bandana Cherry",
+    "Bandana Rose",
+    "Confetti"
+   ],
+   "Monarda": [
+    "Marshall's Delight",
+    "Pardon My Cerise",
+    "Rockin' Raspberry",
+    "Grand Marshall"
+   ],
+   "Lupinus": [
+    "The Pages",
+    "My Castle",
+    "The Chatelaine",
+    "Gallery Red"
+   ],
+   "Veronica": [
+    "Red Fox",
+    "Giles van Hees",
+    "Pink Damask",
+    "First Love"
+   ],
+   "Geranium": [
+    "Wargrave Pink",
+    "Biokovo",
+    "Max Frei",
+    "Patricia"
+   ],
+   "Petunia": [
+    "Petunia",
+    "Pink Petunia",
+    "Supertunia Vista Bubblegum",
+    "Star Petunia"
+   ],
+   "Zinnia": [
+    "Pink Zinnia",
+    "Magenta Zinnia",
+    "Profusion Cherry",
+    "Uproar Rose"
+   ],
+   "Clematis": [
+    "Nelly Moser",
+    "Comtesse de Bouchaud",
+    "Doctor Ruppel",
+    "Hagley Hybrid"
+   ],
+   "Tulipa": [
+    "Tulip",
+    "Pink Impression",
+    "Angelique"
+   ],
+   "Hyacinthus": [
+    "Pink Pearl",
+    "Jan Bos",
+    "Anna Marie"
+   ],
+   "Gladiolus": [
+    "Gladiolus",
+    "Priscilla",
+    "Magenta Gladiolus"
+   ],
+   "Hemerocallis": [
+    "Catherine Woodbery",
+    "Strawberry Candy",
+    "Pink Damask Daylily"
+   ],
+   "Salvia": [
+    "Sensation Rose",
+    "Pink Profusion",
+    "Rose Marvel"
+   ],
+   "Achillea": [
+    "Cerise Queen",
+    "Apricot Delight",
+    "Saucy Seduction"
+   ],
+   "Helleborus": [
+    "Penny's Pink",
+    "Ivory Prince",
+    "Pink Frost"
+   ],
+   "Delphinium": [
+    "Astolat",
+    "Guinevere",
+    "Magic Fountains Cherry Blossom"
+   ],
+   "Chrysanthemum": [
+    "Pink Mum",
+    "Sheffield Pink",
+    "Clara Curtis"
+   ],
+   "Impatiens": [
+    "Impatiens",
+    "Rose Impatiens",
+    "Double Rose Impatiens"
+   ],
+   "Pelargonium": [
+    "Pink Geranium",
+    "Magenta Geranium",
+    "Bicolor Geranium"
+   ],
+   "Antirrhinum": [
+    "Snapdragon",
+    "Rose Snapdragon",
+    "Rocket Snapdragon"
+   ],
+   "Celosia": [
+    "Century Pink",
+    "Flamingo Feather",
+    "Cockscomb Magenta"
+   ],
+   "Buddleia": [
+    "Pink Delight",
+    "Miss Molly",
+    "Miss Ruby"
+   ],
+   "Coleus": [
+    "Pink Chaos",
+    "Kong Rose",
+    "Watermelon"
+   ],
+   "Verbena": [
+    "Pink Verbena",
+    "Magenta Verbena",
+    "Pink Bicolor"
+   ],
+   "Cleome": [
+    "Cleome",
+    "Rose Queen",
+    "Cherry Queen"
+   ],
+   "Ranunculus": [
+    "Pink Ranunculus",
+    "Magenta Ranunculus",
+    "Picotee Pink"
+   ],
+   "Physocarpus": [
+    "Coppertina",
+    "Summer Wine",
+    "Tiny Wine"
+   ],
+   "Narcissus": [
+    "Pink Charm",
+    "Salome"
+   ],
+   "Heuchera": [
+    "Berry Smoothie",
+    "Midnight Rose"
+   ],
+   "Lamprocapnos": [
+    "Bleeding Heart",
+    "Gold Heart"
+   ],
+   "Catharanthus": [
+    "Vinca",
+    "Rose Vinca"
+   ],
+   "Syringa": [
+    "Beauty of Moscow",
+    "Katherine Havemeyer"
+   ],
+   "Viburnum": [
+    "Koreanspice",
+    "Burkwood"
+   ],
+   "Potentilla": [
+    "Pink Beauty",
+    "Pink Whisper"
+   ],
+   "Angelonia": [
+    "Serena Rose",
+    "Angelface Raspberry"
+   ],
+   "Clethra": [
+    "Ruby Spice",
+    "Pink Spire"
+   ],
+   "Alcea": [
+    "Hollyhock",
+    "Hollyhock 'Chater's Double'"
+   ],
+   "Consolida": [
+    "Pink Larkspur",
+    "Rose Larkspur"
+   ],
+   "Matthiola": [
+    "Stock",
+    "Rose Stock"
+   ],
+   "Calibrachoa": [
+    "Superbells Pink",
+    "Superbells Cherry Star"
+   ],
+   "Gomphrena": [
+    "Globe Amaranth",
+    "Lavender Globe Amaranth"
+   ],
+   "Eschscholzia": [
+    "Rose Chiffon",
+    "California Poppy (Rose/Pink Mix)"
+   ],
+   "Eustoma": [
+    "Pink Lisianthus",
+    "Rose Lisianthus"
+   ],
+   "Colchicum": [
+    "Waterlily",
+    "Showy Crocus"
+   ],
+   "Gerbera": [
+    "Pink Gerbera",
+    "Deep Rose Gerbera"
+   ],
+   "Fuchsia": [
+    "Fuchsia",
+    "Pink Marshmallow"
+   ],
+   "Muscari": [
+    "Pink Sunrise"
+   ],
+   "Allium": [
+    "Millenium"
+   ],
+   "Canna": [
+    "Pink President"
+   ],
+   "Coreopsis": [
+    "Pink Sapphire"
+   ],
+   "Nepeta": [
+    "Pink Cat"
+   ],
+   "Dicentra": [
+    "King of Hearts"
+   ],
+   "Aquilegia": [
+    "Nora Barlow"
+   ],
+   "Baptisia": [
+    "Pink Lemonade"
+   ],
+   "Penstemon": [
+    "Penstemon"
+   ],
+   "Helianthus": [
+    "Strawberry Blonde"
+   ],
+   "Viola": [
+    "Rose Pansy"
+   ],
+   "Lobularia": [
+    "Rosie O'Day"
+   ],
+   "Lobelia": [
+    "Rose Lobelia"
+   ],
+   "Hydrangea": [
+    "Bigleaf Hydrangea"
+   ],
+   "Wisteria": [
+    "Pink Wisteria (Rosea)"
+   ],
+   "Lonicera": [
+    "Goldflame Honeysuckle"
+   ],
+   "Ipomoea": [
+    "Sunrise Serenade"
+   ],
+   "Jasminum": [
+    "Pink Jasmine"
+   ],
+   "Cortaderia": [
+    "Pink Feather Pampas"
+   ],
+   "Lavandula": [
+    "Hidcote Pink"
+   ],
+   "Eutrochium": [
+    "Joe Pye Weed"
+   ],
+   "Armeria": [
+    "Sea Thrift"
+   ],
+   "Ageratum": [
+    "Pink Ageratum"
+   ],
+   "Portulaca": [
+    "Pink Portulaca"
+   ],
+   "Lilium": [
+    "Oriental Lily"
+   ],
+   "Zantedeschia": [
+    "Pink Calla"
+   ],
+   "Scilla": [
+    "Pink Giant"
+   ],
+   "Passiflora": [
+    "Lady Margaret"
+   ],
+   "Mandevilla": [
+    "Mandevilla"
+   ],
+   "Platycodon": [
+    "Fuji Pink"
+   ],
+   "Oenothera": [
+    "Gaura"
+   ],
+   "Chelone": [
+    "Turtlehead"
+   ],
+   "Physostegia": [
+    "Obedient Plant"
+   ],
+   "Delosperma": [
+    "Ice Plant"
+   ],
+   "Filipendula": [
+    "Queen of the Prairie"
+   ],
+   "Bergenia": [
+    "Bergenia"
+   ],
+   "Campanula": [
+    "Pink Canterbury Bells"
+   ],
+   "Osteospermum": [
+    "Pink African Daisy"
+   ],
+   "Gazania": [
+    "Pink Gazania"
+   ],
+   "Xerochrysum": [
+    "Pink Strawflower"
+   ],
+   "Limonium": [
+    "Pink Statice"
+   ],
+   "Nicotiana": [
+    "Pink Flowering Tobacco"
+   ],
+   "Centaurea": [
+    "Pink Bachelor's Button"
+   ],
+   "Lathyrus": [
+    "Sweet Pea"
+   ],
+   "Torenia": [
+    "Pink Wishbone Flower"
+   ],
+   "Brassica": [
+    "Pink Ornamental Kale"
+   ],
+   "Caladium": [
+    "Carolyn Whorton Caladium"
+   ],
+   "Mirabilis": [
+    "Four O'Clock"
+   ],
+   "Freesia": [
+    "Pink Freesia"
+   ],
+   "Colocasia": [
+    "Pink China"
+   ],
+   "Argyranthemum": [
+    "Pink Marguerite Daisy"
+   ],
+   "Bidens": [
+    "Pink Bidens"
+   ],
+   "Bellis": [
+    "English Daisy"
+   ],
+   "Hippeastrum": [
+    "Apple Blossom"
+   ],
+   "Cyclamen": [
+    "Cyclamen"
+   ],
+   "Pentas": [
+    "Pentas"
+   ],
+   "Cuphea": [
+    "Pink Mexican Heather"
+   ],
+   "Scaevola": [
+    "Pink Fan Flower"
+   ],
+   "Chaenostoma": [
+    "Pink Bacopa"
+   ],
+   "Thunbergia": [
+    "Arizona Rose"
+   ],
+   "Lamium": [
+    "Dead Nettle"
+   ]
+  },
+  "browse_genera": {
+   "Dianthus": [
+    "Bath's Pink",
+    "Maiden Pink",
+    "Pink Fire",
+    "White Pinks"
+   ],
+   "Symphyotrichum": [
+    "Wood's Pink",
+    "New England Aster 'Barr's Pink'",
+    "New England Aster 'Harrington's Pink'"
+   ],
+   "Helleborus": [
+    "Penny's Pink",
+    "Pink Frost"
+   ],
+   "Phlox": [
+    "Emerald Pink",
+    "Drummond's Pink"
+   ],
+   "Chrysanthemum": [
+    "Pink Mum",
+    "Sheffield Pink"
+   ],
+   "Begonia": [
+    "Wax Begonia Pink",
+    "Dragon Wing Pink"
+   ],
+   "Camellia": [
+    "Pink Perfection",
+    "Pink Icicle"
+   ],
+   "Weigela": [
+    "Sonic Bloom Pink",
+    "Pink Delight"
+   ],
+   "Potentilla": [
+    "Pink Beauty",
+    "Pink Whisper"
+   ],
+   "Cornus": [
+    "Pink Dogwood",
+    "Stellar Pink"
+   ],
+   "Verbena": [
+    "Pink Verbena",
+    "Pink Bicolor"
+   ],
+   "Ranunculus": [
+    "Pink Ranunculus",
+    "Picotee Pink"
+   ],
+   "Anemone": [
+    "Pink Star",
+    "Pink Star"
+   ],
+   "Tulipa": [
+    "Pink Impression"
+   ],
+   "Narcissus": [
+    "Pink Charm"
+   ],
+   "Hyacinthus": [
+    "Pink Pearl"
+   ],
+   "Muscari": [
+    "Pink Sunrise"
+   ],
+   "Canna": [
+    "Pink President"
+   ],
+   "Echinacea": [
+    "Pink Double Delight"
+   ],
+   "Coreopsis": [
+    "Pink Sapphire"
+   ],
+   "Salvia": [
+    "Pink Profusion"
+   ],
+   "Nepeta": [
+    "Pink Cat"
+   ],
+   "Paeonia": [
+    "Pink Hawaiian Coral"
+   ],
+   "Baptisia": [
+    "Pink Lemonade"
+   ],
+   "Veronica": [
+    "Pink Damask"
+   ],
+   "Geranium": [
+    "Wargrave Pink"
+   ],
+   "Petunia": [
+    "Pink Petunia"
+   ],
+   "Zinnia": [
+    "Pink Zinnia"
+   ],
+   "Pelargonium": [
+    "Pink Geranium"
+   ],
+   "Cosmos": [
+    "Sensation Pink"
+   ],
+   "Celosia": [
+    "Century Pink"
+   ],
+   "Rhododendron": [
+    "Gumpo Pink"
+   ],
+   "Buddleia": [
+    "Pink Delight"
+   ],
+   "Lagerstroemia": [
+    "Pink Velour"
+   ],
+   "Wisteria": [
+    "Pink Wisteria (Rosea)"
+   ],
+   "Jasminum": [
+    "Pink Jasmine"
+   ],
+   "Cortaderia": [
+    "Pink Feather Pampas"
+   ],
+   "Lavandula": [
+    "Hidcote Pink"
+   ],
+   "Prunus": [
+    "Pink Cloud Cherry"
+   ],
+   "Hibiscus": [
+    "Luna Pink Swirl"
+   ],
+   "Coleus": [
+    "Pink Chaos"
+   ],
+   "Lantana": [
+    "Bandana Pink"
+   ],
+   "Ageratum": [
+    "Pink Ageratum"
+   ],
+   "Portulaca": [
+    "Pink Portulaca"
+   ],
+   "Zantedeschia": [
+    "Pink Calla"
+   ],
+   "Scilla": [
+    "Pink Giant"
+   ],
+   "Clethra": [
+    "Pink Spire"
+   ],
+   "Platycodon": [
+    "Fuji Pink"
+   ],
+   "Consolida": [
+    "Pink Larkspur"
+   ],
+   "Campanula": [
+    "Pink Canterbury Bells"
+   ],
+   "Calibrachoa": [
+    "Superbells Pink"
+   ],
+   "Osteospermum": [
+    "Pink African Daisy"
+   ],
+   "Gazania": [
+    "Pink Gazania"
+   ],
+   "Xerochrysum": [
+    "Pink Strawflower"
+   ],
+   "Limonium": [
+    "Pink Statice"
+   ],
+   "Nicotiana": [
+    "Pink Flowering Tobacco"
+   ],
+   "Centaurea": [
+    "Pink Bachelor's Button"
+   ],
+   "Torenia": [
+    "Pink Wishbone Flower"
+   ],
+   "Eustoma": [
+    "Pink Lisianthus"
+   ],
+   "Brassica": [
+    "Pink Ornamental Kale"
+   ],
+   "Freesia": [
+    "Pink Freesia"
+   ],
+   "Colocasia": [
+    "Pink China"
+   ],
+   "Gerbera": [
+    "Pink Gerbera"
+   ],
+   "Argyranthemum": [
+    "Pink Marguerite Daisy"
+   ],
+   "Bidens": [
+    "Pink Bidens"
+   ],
+   "Fuchsia": [
+    "Pink Marshmallow"
+   ],
+   "Cuphea": [
+    "Pink Mexican Heather"
+   ],
+   "Scaevola": [
+    "Pink Fan Flower"
+   ],
+   "Chaenostoma": [
+    "Pink Bacopa"
+   ],
+   "Eschscholzia": [
+    "California Poppy (Rose/Pink Mix)"
+   ],
+   "Hemerocallis": [
+    "Pink Damask Daylily"
+   ]
+  },
+  "noise": [
+   {
+    "surface": "picker",
+    "genus": "Tulipa",
+    "examples": [
+     "Tulip",
+     "Pink Impression",
+     "Angelique"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Narcissus",
+    "examples": [
+     "Pink Charm",
+     "Salome"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Hyacinthus",
+    "examples": [
+     "Pink Pearl",
+     "Jan Bos",
+     "Anna Marie"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Muscari",
+    "examples": [
+     "Pink Sunrise"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Allium",
+    "examples": [
+     "Millenium"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Gladiolus",
+    "examples": [
+     "Gladiolus",
+     "Priscilla",
+     "Magenta Gladiolus"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Dahlia",
+    "examples": [
+     "Dahlia",
+     "Caf\u00e9 au Lait",
+     "Otto's Thrill",
+     "Jowey Winnie"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Canna",
+    "examples": [
+     "Pink President"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Hemerocallis",
+    "examples": [
+     "Catherine Woodbery",
+     "Strawberry Candy",
+     "Pink Damask Daylily"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Echinacea",
+    "examples": [
+     "Purple Coneflower",
+     "Magnus",
+     "PowWow Wild Berry",
+     "Pink Double Delight"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Coreopsis",
+    "examples": [
+     "Pink Sapphire"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Salvia",
+    "examples": [
+     "Sensation Rose",
+     "Pink Profusion",
+     "Rose Marvel"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Nepeta",
+    "examples": [
+     "Pink Cat"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Achillea",
+    "examples": [
+     "Cerise Queen",
+     "Apricot Delight",
+     "Saucy Seduction"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Paeonia",
+    "examples": [
+     "Peony",
+     "Sarah Bernhardt",
+     "Bowl of Beauty",
+     "Shirley Temple"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Monarda",
+    "examples": [
+     "Marshall's Delight",
+     "Pardon My Cerise",
+     "Rockin' Raspberry",
+     "Grand Marshall"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Phlox",
+    "examples": [
+     "Garden Phlox",
+     "Jeana",
+     "Bright Eyes",
+     "Coral Flame"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Hylotelephium",
+    "examples": [
+     "Autumn Joy Sedum",
+     "Brilliant Sedum",
+     "Matrona",
+     "Purple Emperor"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Symphyotrichum",
+    "examples": [
+     "Alma P\u00f6tschke",
+     "Wood's Pink",
+     "Patricia Ballard",
+     "New England Aster 'Barr's Pink'"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Heuchera",
+    "examples": [
+     "Berry Smoothie",
+     "Midnight Rose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Astilbe",
+    "examples": [
+     "Astilbe",
+     "Visions",
+     "Peach Blossom",
+     "Rheinland"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Helleborus",
+    "examples": [
+     "Penny's Pink",
+     "Ivory Prince",
+     "Pink Frost"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lamprocapnos",
+    "examples": [
+     "Bleeding Heart",
+     "Gold Heart"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Dicentra",
+    "examples": [
+     "King of Hearts"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Aquilegia",
+    "examples": [
+     "Nora Barlow"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Baptisia",
+    "examples": [
+     "Pink Lemonade"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Digitalis",
+    "examples": [
+     "Foxglove",
+     "Camelot Rose",
+     "Dalmatian Peach",
+     "Sutton's Apricot"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Delphinium",
+    "examples": [
+     "Astolat",
+     "Guinevere",
+     "Magic Fountains Cherry Blossom"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lupinus",
+    "examples": [
+     "The Pages",
+     "My Castle",
+     "The Chatelaine",
+     "Gallery Red"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Veronica",
+    "examples": [
+     "Red Fox",
+     "Giles van Hees",
+     "Pink Damask",
+     "First Love"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Anemone",
+    "examples": [
+     "Japanese Anemone",
+     "Sylphide",
+     "Pink Star",
+     "Pink Star"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Geranium",
+    "examples": [
+     "Wargrave Pink",
+     "Biokovo",
+     "Max Frei",
+     "Patricia"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Chrysanthemum",
+    "examples": [
+     "Pink Mum",
+     "Sheffield Pink",
+     "Clara Curtis"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Penstemon",
+    "examples": [
+     "Penstemon"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Petunia",
+    "examples": [
+     "Petunia",
+     "Pink Petunia",
+     "Supertunia Vista Bubblegum",
+     "Star Petunia"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Zinnia",
+    "examples": [
+     "Pink Zinnia",
+     "Magenta Zinnia",
+     "Profusion Cherry",
+     "Uproar Rose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Helianthus",
+    "examples": [
+     "Strawberry Blonde"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Impatiens",
+    "examples": [
+     "Impatiens",
+     "Rose Impatiens",
+     "Double Rose Impatiens"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Begonia",
+    "examples": [
+     "Begonia",
+     "Wax Begonia Pink",
+     "Dragon Wing Pink",
+     "Nonstop Rose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Pelargonium",
+    "examples": [
+     "Pink Geranium",
+     "Magenta Geranium",
+     "Bicolor Geranium"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Antirrhinum",
+    "examples": [
+     "Snapdragon",
+     "Rose Snapdragon",
+     "Rocket Snapdragon"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Cosmos",
+    "examples": [
+     "Cosmos",
+     "Sensation Pink",
+     "Apricot Lemonade",
+     "Sea Shells"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Viola",
+    "examples": [
+     "Rose Pansy"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lobularia",
+    "examples": [
+     "Rosie O'Day"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Celosia",
+    "examples": [
+     "Century Pink",
+     "Flamingo Feather",
+     "Cockscomb Magenta"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Catharanthus",
+    "examples": [
+     "Vinca",
+     "Rose Vinca"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lobelia",
+    "examples": [
+     "Rose Lobelia"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Hydrangea",
+    "examples": [
+     "Bigleaf Hydrangea"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Rosa",
+    "examples": [
+     "Shrub Rose",
+     "Climbing Rose",
+     "Floribunda Rose",
+     "Gertrude Jekyll"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Syringa",
+    "examples": [
+     "Beauty of Moscow",
+     "Katherine Havemeyer"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Rhododendron",
+    "examples": [
+     "Azalea",
+     "George Tabor",
+     "Rosebud",
+     "Gumpo Pink"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Buddleia",
+    "examples": [
+     "Pink Delight",
+     "Miss Molly",
+     "Miss Ruby"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Spiraea",
+    "examples": [
+     "Spirea",
+     "Goldflame",
+     "Magic Carpet",
+     "Anthony Waterer"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Hibiscus",
+    "examples": [
+     "Aphrodite",
+     "Blushing Bride",
+     "Minerva",
+     "Lucy"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Camellia",
+    "examples": [
+     "Camellia",
+     "Pink Perfection",
+     "Debutante",
+     "Nuccio's Pearl"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Weigela",
+    "examples": [
+     "Weigela",
+     "Wine & Roses",
+     "Java Red",
+     "My Monet"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Viburnum",
+    "examples": [
+     "Koreanspice",
+     "Burkwood"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lagerstroemia",
+    "examples": [
+     "Crape Myrtle",
+     "Muskogee",
+     "Tuscarora",
+     "Sioux"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Potentilla",
+    "examples": [
+     "Pink Beauty",
+     "Pink Whisper"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Clematis",
+    "examples": [
+     "Nelly Moser",
+     "Comtesse de Bouchaud",
+     "Doctor Ruppel",
+     "Hagley Hybrid"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Wisteria",
+    "examples": [
+     "Pink Wisteria (Rosea)"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lonicera",
+    "examples": [
+     "Goldflame Honeysuckle"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Ipomoea",
+    "examples": [
+     "Sunrise Serenade"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Jasminum",
+    "examples": [
+     "Pink Jasmine"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Cortaderia",
+    "examples": [
+     "Pink Feather Pampas"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lavandula",
+    "examples": [
+     "Hidcote Pink"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Cercis",
+    "examples": [
+     "Eastern Redbud",
+     "Forest Pansy",
+     "Hearts of Gold",
+     "The Rising Sun"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Cornus",
+    "examples": [
+     "Cherokee Chief",
+     "Cherokee Brave",
+     "Pink Dogwood",
+     "Satomi Kousa"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Magnolia",
+    "examples": [
+     "Saucer Magnolia",
+     "Jane Magnolia",
+     "Leonard Messel",
+     "Alexandrina Magnolia"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Malus",
+    "examples": [
+     "Flowering Crabapple",
+     "Prairifire",
+     "Royal Raindrops",
+     "Profusion"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Prunus",
+    "examples": [
+     "Flowering Cherry",
+     "Yoshino Cherry",
+     "Kwanzan Cherry",
+     "Weeping Cherry"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Eutrochium",
+    "examples": [
+     "Joe Pye Weed"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Armeria",
+    "examples": [
+     "Sea Thrift"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Coleus",
+    "examples": [
+     "Pink Chaos",
+     "Kong Rose",
+     "Watermelon"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lantana",
+    "examples": [
+     "Miss Huff",
+     "Bandana Cherry",
+     "Bandana Rose",
+     "Confetti"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Verbena",
+    "examples": [
+     "Pink Verbena",
+     "Magenta Verbena",
+     "Pink Bicolor"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Angelonia",
+    "examples": [
+     "Serena Rose",
+     "Angelface Raspberry"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Ageratum",
+    "examples": [
+     "Pink Ageratum"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Cleome",
+    "examples": [
+     "Cleome",
+     "Rose Queen",
+     "Cherry Queen"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Portulaca",
+    "examples": [
+     "Pink Portulaca"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lilium",
+    "examples": [
+     "Oriental Lily"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Ranunculus",
+    "examples": [
+     "Pink Ranunculus",
+     "Magenta Ranunculus",
+     "Picotee Pink"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Zantedeschia",
+    "examples": [
+     "Pink Calla"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Scilla",
+    "examples": [
+     "Pink Giant"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Physocarpus",
+    "examples": [
+     "Coppertina",
+     "Summer Wine",
+     "Tiny Wine"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Clethra",
+    "examples": [
+     "Ruby Spice",
+     "Pink Spire"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Passiflora",
+    "examples": [
+     "Lady Margaret"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Mandevilla",
+    "examples": [
+     "Mandevilla"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Alcea",
+    "examples": [
+     "Hollyhock",
+     "Hollyhock 'Chater's Double'"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Platycodon",
+    "examples": [
+     "Fuji Pink"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Oenothera",
+    "examples": [
+     "Gaura"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Chelone",
+    "examples": [
+     "Turtlehead"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Physostegia",
+    "examples": [
+     "Obedient Plant"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Delosperma",
+    "examples": [
+     "Ice Plant"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Filipendula",
+    "examples": [
+     "Queen of the Prairie"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Bergenia",
+    "examples": [
+     "Bergenia"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Consolida",
+    "examples": [
+     "Pink Larkspur",
+     "Rose Larkspur"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Matthiola",
+    "examples": [
+     "Stock",
+     "Rose Stock"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Campanula",
+    "examples": [
+     "Pink Canterbury Bells"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Calibrachoa",
+    "examples": [
+     "Superbells Pink",
+     "Superbells Cherry Star"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Osteospermum",
+    "examples": [
+     "Pink African Daisy"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Gazania",
+    "examples": [
+     "Pink Gazania"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Gomphrena",
+    "examples": [
+     "Globe Amaranth",
+     "Lavender Globe Amaranth"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Xerochrysum",
+    "examples": [
+     "Pink Strawflower"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Limonium",
+    "examples": [
+     "Pink Statice"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Nicotiana",
+    "examples": [
+     "Pink Flowering Tobacco"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Centaurea",
+    "examples": [
+     "Pink Bachelor's Button"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Eschscholzia",
+    "examples": [
+     "Rose Chiffon",
+     "California Poppy (Rose/Pink Mix)"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lathyrus",
+    "examples": [
+     "Sweet Pea"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Torenia",
+    "examples": [
+     "Pink Wishbone Flower"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Eustoma",
+    "examples": [
+     "Pink Lisianthus",
+     "Rose Lisianthus"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Brassica",
+    "examples": [
+     "Pink Ornamental Kale"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Caladium",
+    "examples": [
+     "Carolyn Whorton Caladium"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Mirabilis",
+    "examples": [
+     "Four O'Clock"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Freesia",
+    "examples": [
+     "Pink Freesia"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Colchicum",
+    "examples": [
+     "Waterlily",
+     "Showy Crocus"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Colocasia",
+    "examples": [
+     "Pink China"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Gerbera",
+    "examples": [
+     "Pink Gerbera",
+     "Deep Rose Gerbera"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Argyranthemum",
+    "examples": [
+     "Pink Marguerite Daisy"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Bidens",
+    "examples": [
+     "Pink Bidens"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Bellis",
+    "examples": [
+     "English Daisy"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Hippeastrum",
+    "examples": [
+     "Apple Blossom"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Fuchsia",
+    "examples": [
+     "Fuchsia",
+     "Pink Marshmallow"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Cyclamen",
+    "examples": [
+     "Cyclamen"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Pentas",
+    "examples": [
+     "Pentas"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Cuphea",
+    "examples": [
+     "Pink Mexican Heather"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Scaevola",
+    "examples": [
+     "Pink Fan Flower"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Chaenostoma",
+    "examples": [
+     "Pink Bacopa"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Thunbergia",
+    "examples": [
+     "Arizona Rose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lamium",
+    "examples": [
+     "Dead Nettle"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Tulipa",
+    "examples": [
+     "Pink Impression"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Narcissus",
+    "examples": [
+     "Pink Charm"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Hyacinthus",
+    "examples": [
+     "Pink Pearl"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Muscari",
+    "examples": [
+     "Pink Sunrise"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Canna",
+    "examples": [
+     "Pink President"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Echinacea",
+    "examples": [
+     "Pink Double Delight"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Coreopsis",
+    "examples": [
+     "Pink Sapphire"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Salvia",
+    "examples": [
+     "Pink Profusion"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Nepeta",
+    "examples": [
+     "Pink Cat"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Paeonia",
+    "examples": [
+     "Pink Hawaiian Coral"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Symphyotrichum",
+    "examples": [
+     "Wood's Pink",
+     "New England Aster 'Barr's Pink'",
+     "New England Aster 'Harrington's Pink'"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Helleborus",
+    "examples": [
+     "Penny's Pink",
+     "Pink Frost"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Baptisia",
+    "examples": [
+     "Pink Lemonade"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Veronica",
+    "examples": [
+     "Pink Damask"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Geranium",
+    "examples": [
+     "Wargrave Pink"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Phlox",
+    "examples": [
+     "Emerald Pink",
+     "Drummond's Pink"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Chrysanthemum",
+    "examples": [
+     "Pink Mum",
+     "Sheffield Pink"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Petunia",
+    "examples": [
+     "Pink Petunia"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Zinnia",
+    "examples": [
+     "Pink Zinnia"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Begonia",
+    "examples": [
+     "Wax Begonia Pink",
+     "Dragon Wing Pink"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Pelargonium",
+    "examples": [
+     "Pink Geranium"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Cosmos",
+    "examples": [
+     "Sensation Pink"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Celosia",
+    "examples": [
+     "Century Pink"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Rhododendron",
+    "examples": [
+     "Gumpo Pink"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Buddleia",
+    "examples": [
+     "Pink Delight"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Camellia",
+    "examples": [
+     "Pink Perfection",
+     "Pink Icicle"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Weigela",
+    "examples": [
+     "Sonic Bloom Pink",
+     "Pink Delight"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Lagerstroemia",
+    "examples": [
+     "Pink Velour"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Potentilla",
+    "examples": [
+     "Pink Beauty",
+     "Pink Whisper"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Wisteria",
+    "examples": [
+     "Pink Wisteria (Rosea)"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Jasminum",
+    "examples": [
+     "Pink Jasmine"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Cortaderia",
+    "examples": [
+     "Pink Feather Pampas"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Lavandula",
+    "examples": [
+     "Hidcote Pink"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Cornus",
+    "examples": [
+     "Pink Dogwood",
+     "Stellar Pink"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Prunus",
+    "examples": [
+     "Pink Cloud Cherry"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Hibiscus",
+    "examples": [
+     "Luna Pink Swirl"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Coleus",
+    "examples": [
+     "Pink Chaos"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Lantana",
+    "examples": [
+     "Bandana Pink"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Verbena",
+    "examples": [
+     "Pink Verbena",
+     "Pink Bicolor"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Ageratum",
+    "examples": [
+     "Pink Ageratum"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Portulaca",
+    "examples": [
+     "Pink Portulaca"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Ranunculus",
+    "examples": [
+     "Pink Ranunculus",
+     "Picotee Pink"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Anemone",
+    "examples": [
+     "Pink Star",
+     "Pink Star"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Zantedeschia",
+    "examples": [
+     "Pink Calla"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Scilla",
+    "examples": [
+     "Pink Giant"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Clethra",
+    "examples": [
+     "Pink Spire"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Platycodon",
+    "examples": [
+     "Fuji Pink"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Consolida",
+    "examples": [
+     "Pink Larkspur"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Campanula",
+    "examples": [
+     "Pink Canterbury Bells"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Calibrachoa",
+    "examples": [
+     "Superbells Pink"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Osteospermum",
+    "examples": [
+     "Pink African Daisy"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Gazania",
+    "examples": [
+     "Pink Gazania"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Xerochrysum",
+    "examples": [
+     "Pink Strawflower"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Limonium",
+    "examples": [
+     "Pink Statice"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Nicotiana",
+    "examples": [
+     "Pink Flowering Tobacco"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Centaurea",
+    "examples": [
+     "Pink Bachelor's Button"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Torenia",
+    "examples": [
+     "Pink Wishbone Flower"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Eustoma",
+    "examples": [
+     "Pink Lisianthus"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Brassica",
+    "examples": [
+     "Pink Ornamental Kale"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Freesia",
+    "examples": [
+     "Pink Freesia"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Colocasia",
+    "examples": [
+     "Pink China"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Gerbera",
+    "examples": [
+     "Pink Gerbera"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Argyranthemum",
+    "examples": [
+     "Pink Marguerite Daisy"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Bidens",
+    "examples": [
+     "Pink Bidens"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Fuchsia",
+    "examples": [
+     "Pink Marshmallow"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Cuphea",
+    "examples": [
+     "Pink Mexican Heather"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Scaevola",
+    "examples": [
+     "Pink Fan Flower"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Chaenostoma",
+    "examples": [
+     "Pink Bacopa"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Eschscholzia",
+    "examples": [
+     "California Poppy (Rose/Pink Mix)"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Hemerocallis",
+    "examples": [
+     "Pink Damask Daylily"
+    ]
+   }
+  ]
+ },
+ {
+  "term": "rose",
+  "intended": [
+   "Rosa"
+  ],
+  "picker_n": 174,
+  "browse_n": 87,
+  "picker_genera": {
+   "Rosa": [
+    "Shrub Rose",
+    "Knock Out Rose",
+    "Climbing Rose",
+    "Hybrid Tea Rose"
+   ],
+   "Hibiscus": [
+    "Rose of Sharon",
+    "Blue Bird",
+    "Diana",
+    "Aphrodite"
+   ],
+   "Alcea": [
+    "Hollyhock",
+    "Chater's Double Red",
+    "Chater's Double White",
+    "Chater's Double Yellow"
+   ],
+   "Catharanthus": [
+    "Vinca",
+    "White Vinca",
+    "Red Vinca",
+    "Purple Vinca"
+   ],
+   "Salvia": [
+    "Sensation Rose",
+    "Rose Marvel",
+    "Rosemary"
+   ],
+   "Cosmos": [
+    "Sensation Pink",
+    "Sea Shells",
+    "Double Click Rose"
+   ],
+   "Rhododendron": [
+    "Rosebud",
+    "Roseum Elegans",
+    "English Roseum"
+   ],
+   "Heuchera": [
+    "Berry Smoothie",
+    "Midnight Rose"
+   ],
+   "Veronica": [
+    "Red Fox",
+    "Pink Damask"
+   ],
+   "Impatiens": [
+    "Rose Impatiens",
+    "Double Rose Impatiens"
+   ],
+   "Begonia": [
+    "Nonstop Rose",
+    "Big Rose"
+   ],
+   "Eschscholzia": [
+    "Rose Chiffon",
+    "California Poppy (Rose/Pink Mix)"
+   ],
+   "Canna": [
+    "Pink President"
+   ],
+   "Achillea": [
+    "Saucy Seduction"
+   ],
+   "Paeonia": [
+    "Karl Rosenfield"
+   ],
+   "Hylotelephium": [
+    "Brilliant Sedum"
+   ],
+   "Symphyotrichum": [
+    "Alma P\u00f6tschke"
+   ],
+   "Helleborus": [
+    "Christmas Rose"
+   ],
+   "Dicentra": [
+    "King of Hearts"
+   ],
+   "Digitalis": [
+    "Camelot Rose"
+   ],
+   "Lupinus": [
+    "My Castle"
+   ],
+   "Phlox": [
+    "Drummond's Pink"
+   ],
+   "Zinnia": [
+    "Uproar Rose"
+   ],
+   "Helianthus": [
+    "Strawberry Blonde"
+   ],
+   "Antirrhinum": [
+    "Rose Snapdragon"
+   ],
+   "Viola": [
+    "Rose Pansy"
+   ],
+   "Lobularia": [
+    "Rosie O'Day"
+   ],
+   "Lobelia": [
+    "Rose Lobelia"
+   ],
+   "Syringa": [
+    "Primrose"
+   ],
+   "Camellia": [
+    "April Rose"
+   ],
+   "Weigela": [
+    "Wine & Roses"
+   ],
+   "Viburnum": [
+    "European Snowball"
+   ],
+   "Clematis": [
+    "Doctor Ruppel"
+   ],
+   "Wisteria": [
+    "Pink Wisteria (Rosea)"
+   ],
+   "Cortaderia": [
+    "Pink Feather Pampas"
+   ],
+   "Malus": [
+    "Indian Magic"
+   ],
+   "Coleus": [
+    "Kong Rose"
+   ],
+   "Lantana": [
+    "Bandana Rose"
+   ],
+   "Angelonia": [
+    "Serena Rose"
+   ],
+   "Cleome": [
+    "Rose Queen"
+   ],
+   "Petroselinum": [
+    "Parsley"
+   ],
+   "Consolida": [
+    "Rose Larkspur"
+   ],
+   "Matthiola": [
+    "Rose Stock"
+   ],
+   "Torenia": [
+    "Kauai Rose"
+   ],
+   "Eustoma": [
+    "Rose Lisianthus"
+   ],
+   "Gerbera": [
+    "Deep Rose Gerbera"
+   ],
+   "Primula": [
+    "Primrose"
+   ],
+   "Thunbergia": [
+    "Arizona Rose"
+   ]
+  },
+  "browse_genera": {
+   "Rosa": [
+    "Shrub Rose",
+    "Knock Out Rose",
+    "Climbing Rose",
+    "Hybrid Tea Rose"
+   ],
+   "Alcea": [
+    "Hollyhock",
+    "Chater's Double Red",
+    "Chater's Double White",
+    "Chater's Double Yellow"
+   ],
+   "Catharanthus": [
+    "Vinca",
+    "White Vinca",
+    "Red Vinca",
+    "Purple Vinca"
+   ],
+   "Salvia": [
+    "Sensation Rose",
+    "Rose Marvel",
+    "Rosemary"
+   ],
+   "Rhododendron": [
+    "Rosebud",
+    "Roseum Elegans",
+    "English Roseum"
+   ],
+   "Impatiens": [
+    "Rose Impatiens",
+    "Double Rose Impatiens"
+   ],
+   "Begonia": [
+    "Nonstop Rose",
+    "Big Rose"
+   ],
+   "Hibiscus": [
+    "Rose of Sharon",
+    "Roselle (Rosa de Jamaica)"
+   ],
+   "Eschscholzia": [
+    "Rose Chiffon",
+    "California Poppy (Rose/Pink Mix)"
+   ],
+   "Paeonia": [
+    "Karl Rosenfield"
+   ],
+   "Heuchera": [
+    "Midnight Rose"
+   ],
+   "Helleborus": [
+    "Christmas Rose"
+   ],
+   "Digitalis": [
+    "Camelot Rose"
+   ],
+   "Zinnia": [
+    "Uproar Rose"
+   ],
+   "Antirrhinum": [
+    "Rose Snapdragon"
+   ],
+   "Cosmos": [
+    "Double Click Rose"
+   ],
+   "Viola": [
+    "Rose Pansy"
+   ],
+   "Lobelia": [
+    "Rose Lobelia"
+   ],
+   "Syringa": [
+    "Primrose"
+   ],
+   "Camellia": [
+    "April Rose"
+   ],
+   "Weigela": [
+    "Wine & Roses"
+   ],
+   "Viburnum": [
+    "European Snowball"
+   ],
+   "Wisteria": [
+    "Pink Wisteria (Rosea)"
+   ],
+   "Cortaderia": [
+    "Pink Feather Pampas"
+   ],
+   "Coleus": [
+    "Kong Rose"
+   ],
+   "Lantana": [
+    "Bandana Rose"
+   ],
+   "Angelonia": [
+    "Serena Rose"
+   ],
+   "Cleome": [
+    "Rose Queen"
+   ],
+   "Petroselinum": [
+    "Parsley"
+   ],
+   "Consolida": [
+    "Rose Larkspur"
+   ],
+   "Matthiola": [
+    "Rose Stock"
+   ],
+   "Torenia": [
+    "Kauai Rose"
+   ],
+   "Eustoma": [
+    "Rose Lisianthus"
+   ],
+   "Gerbera": [
+    "Deep Rose Gerbera"
+   ],
+   "Primula": [
+    "Primrose"
+   ],
+   "Thunbergia": [
+    "Arizona Rose"
+   ]
+  },
+  "noise": [
+   {
+    "surface": "picker",
+    "genus": "Canna",
+    "examples": [
+     "Pink President"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Salvia",
+    "examples": [
+     "Sensation Rose",
+     "Rose Marvel",
+     "Rosemary"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Achillea",
+    "examples": [
+     "Saucy Seduction"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Paeonia",
+    "examples": [
+     "Karl Rosenfield"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Hylotelephium",
+    "examples": [
+     "Brilliant Sedum"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Symphyotrichum",
+    "examples": [
+     "Alma P\u00f6tschke"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Heuchera",
+    "examples": [
+     "Berry Smoothie",
+     "Midnight Rose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Helleborus",
+    "examples": [
+     "Christmas Rose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Dicentra",
+    "examples": [
+     "King of Hearts"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Digitalis",
+    "examples": [
+     "Camelot Rose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lupinus",
+    "examples": [
+     "My Castle"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Veronica",
+    "examples": [
+     "Red Fox",
+     "Pink Damask"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Phlox",
+    "examples": [
+     "Drummond's Pink"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Zinnia",
+    "examples": [
+     "Uproar Rose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Helianthus",
+    "examples": [
+     "Strawberry Blonde"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Impatiens",
+    "examples": [
+     "Rose Impatiens",
+     "Double Rose Impatiens"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Begonia",
+    "examples": [
+     "Nonstop Rose",
+     "Big Rose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Antirrhinum",
+    "examples": [
+     "Rose Snapdragon"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Cosmos",
+    "examples": [
+     "Sensation Pink",
+     "Sea Shells",
+     "Double Click Rose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Viola",
+    "examples": [
+     "Rose Pansy"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lobularia",
+    "examples": [
+     "Rosie O'Day"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Catharanthus",
+    "examples": [
+     "Vinca",
+     "White Vinca",
+     "Red Vinca",
+     "Purple Vinca"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lobelia",
+    "examples": [
+     "Rose Lobelia"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Syringa",
+    "examples": [
+     "Primrose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Rhododendron",
+    "examples": [
+     "Rosebud",
+     "Roseum Elegans",
+     "English Roseum"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Hibiscus",
+    "examples": [
+     "Rose of Sharon",
+     "Blue Bird",
+     "Diana",
+     "Aphrodite"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Camellia",
+    "examples": [
+     "April Rose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Weigela",
+    "examples": [
+     "Wine & Roses"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Viburnum",
+    "examples": [
+     "European Snowball"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Clematis",
+    "examples": [
+     "Doctor Ruppel"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Wisteria",
+    "examples": [
+     "Pink Wisteria (Rosea)"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Cortaderia",
+    "examples": [
+     "Pink Feather Pampas"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Malus",
+    "examples": [
+     "Indian Magic"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Coleus",
+    "examples": [
+     "Kong Rose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Lantana",
+    "examples": [
+     "Bandana Rose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Angelonia",
+    "examples": [
+     "Serena Rose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Cleome",
+    "examples": [
+     "Rose Queen"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Petroselinum",
+    "examples": [
+     "Parsley"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Alcea",
+    "examples": [
+     "Hollyhock",
+     "Chater's Double Red",
+     "Chater's Double White",
+     "Chater's Double Yellow"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Consolida",
+    "examples": [
+     "Rose Larkspur"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Matthiola",
+    "examples": [
+     "Rose Stock"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Eschscholzia",
+    "examples": [
+     "Rose Chiffon",
+     "California Poppy (Rose/Pink Mix)"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Torenia",
+    "examples": [
+     "Kauai Rose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Eustoma",
+    "examples": [
+     "Rose Lisianthus"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Gerbera",
+    "examples": [
+     "Deep Rose Gerbera"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Primula",
+    "examples": [
+     "Primrose"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Thunbergia",
+    "examples": [
+     "Arizona Rose"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Salvia",
+    "examples": [
+     "Sensation Rose",
+     "Rose Marvel",
+     "Rosemary"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Paeonia",
+    "examples": [
+     "Karl Rosenfield"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Heuchera",
+    "examples": [
+     "Midnight Rose"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Helleborus",
+    "examples": [
+     "Christmas Rose"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Digitalis",
+    "examples": [
+     "Camelot Rose"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Zinnia",
+    "examples": [
+     "Uproar Rose"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Impatiens",
+    "examples": [
+     "Rose Impatiens",
+     "Double Rose Impatiens"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Begonia",
+    "examples": [
+     "Nonstop Rose",
+     "Big Rose"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Antirrhinum",
+    "examples": [
+     "Rose Snapdragon"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Cosmos",
+    "examples": [
+     "Double Click Rose"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Viola",
+    "examples": [
+     "Rose Pansy"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Catharanthus",
+    "examples": [
+     "Vinca",
+     "White Vinca",
+     "Red Vinca",
+     "Purple Vinca"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Lobelia",
+    "examples": [
+     "Rose Lobelia"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Syringa",
+    "examples": [
+     "Primrose"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Rhododendron",
+    "examples": [
+     "Rosebud",
+     "Roseum Elegans",
+     "English Roseum"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Hibiscus",
+    "examples": [
+     "Rose of Sharon",
+     "Roselle (Rosa de Jamaica)"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Camellia",
+    "examples": [
+     "April Rose"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Weigela",
+    "examples": [
+     "Wine & Roses"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Viburnum",
+    "examples": [
+     "European Snowball"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Wisteria",
+    "examples": [
+     "Pink Wisteria (Rosea)"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Cortaderia",
+    "examples": [
+     "Pink Feather Pampas"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Coleus",
+    "examples": [
+     "Kong Rose"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Lantana",
+    "examples": [
+     "Bandana Rose"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Angelonia",
+    "examples": [
+     "Serena Rose"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Cleome",
+    "examples": [
+     "Rose Queen"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Petroselinum",
+    "examples": [
+     "Parsley"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Alcea",
+    "examples": [
+     "Hollyhock",
+     "Chater's Double Red",
+     "Chater's Double White",
+     "Chater's Double Yellow"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Consolida",
+    "examples": [
+     "Rose Larkspur"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Matthiola",
+    "examples": [
+     "Rose Stock"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Eschscholzia",
+    "examples": [
+     "Rose Chiffon",
+     "California Poppy (Rose/Pink Mix)"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Torenia",
+    "examples": [
+     "Kauai Rose"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Eustoma",
+    "examples": [
+     "Rose Lisianthus"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Gerbera",
+    "examples": [
+     "Deep Rose Gerbera"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Primula",
+    "examples": [
+     "Primrose"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Thunbergia",
+    "examples": [
+     "Arizona Rose"
+    ]
+   }
+  ]
+ },
+ {
+  "term": "cedar",
+  "intended": [
+   "Cedrus",
+   "Thuja",
+   "Juniperus"
+  ],
+  "picker_n": 0,
+  "browse_n": 0,
+  "picker_genera": {},
+  "browse_genera": {},
+  "noise": []
+ },
+ {
+  "term": "laurel",
+  "intended": [
+   "Prunus",
+   "Kalmia",
+   "Laurus"
+  ],
+  "picker_n": 0,
+  "browse_n": 0,
+  "picker_genera": {},
+  "browse_genera": {},
+  "noise": []
+ },
+ {
+  "term": "jasmine",
+  "intended": [
+   "Jasminum",
+   "Trachelospermum"
+  ],
+  "picker_n": 4,
+  "browse_n": 4,
+  "picker_genera": {
+   "Jasminum": [
+    "Jasmine",
+    "Winter Jasmine",
+    "Pink Jasmine"
+   ],
+   "Trachelospermum": [
+    "Star Jasmine"
+   ]
+  },
+  "browse_genera": {
+   "Jasminum": [
+    "Jasmine",
+    "Winter Jasmine",
+    "Pink Jasmine"
+   ],
+   "Trachelospermum": [
+    "Star Jasmine"
+   ]
+  },
+  "noise": []
+ },
+ {
+  "term": "snowball",
+  "intended": [
+   "Viburnum"
+  ],
+  "picker_n": 2,
+  "browse_n": 2,
+  "picker_genera": {
+   "Viburnum": [
+    "European Snowball"
+   ],
+   "Agapanthus": [
+    "Snowball"
+   ]
+  },
+  "browse_genera": {
+   "Viburnum": [
+    "European Snowball"
+   ],
+   "Agapanthus": [
+    "Snowball"
+   ]
+  },
+  "noise": [
+   {
+    "surface": "picker",
+    "genus": "Agapanthus",
+    "examples": [
+     "Snowball"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Agapanthus",
+    "examples": [
+     "Snowball"
+    ]
+   }
+  ]
+ },
+ {
+  "term": "bluebell",
+  "intended": [
+   "Hyacinthoides",
+   "Mertensia"
+  ],
+  "picker_n": 1,
+  "browse_n": 1,
+  "picker_genera": {
+   "Mertensia": [
+    "Virginia Bluebells"
+   ]
+  },
+  "browse_genera": {
+   "Mertensia": [
+    "Virginia Bluebells"
+   ]
+  },
+  "noise": []
+ },
+ {
+  "term": "primrose",
+  "intended": [
+   "Primula",
+   "Oenothera"
+  ],
+  "picker_n": 2,
+  "browse_n": 2,
+  "picker_genera": {
+   "Syringa": [
+    "Primrose"
+   ],
+   "Primula": [
+    "Primrose"
+   ]
+  },
+  "browse_genera": {
+   "Syringa": [
+    "Primrose"
+   ],
+   "Primula": [
+    "Primrose"
+   ]
+  },
+  "noise": [
+   {
+    "surface": "picker",
+    "genus": "Syringa",
+    "examples": [
+     "Primrose"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Syringa",
+    "examples": [
+     "Primrose"
+    ]
+   }
+  ]
+ },
+ {
+  "term": "cypress",
+  "intended": [
+   "Cupressus",
+   "Chamaecyparis"
+  ],
+  "picker_n": 8,
+  "browse_n": 3,
+  "picker_genera": {
+   "Cupressus": [
+    "Italian Cypress",
+    "Blue Italian Cypress",
+    "Tiny Tower",
+    "Swane's Gold"
+   ],
+   "Taxodium": [
+    "Bald Cypress",
+    "Shawnee Brave",
+    "Peve Minaret",
+    "Falling Waters"
+   ]
+  },
+  "browse_genera": {
+   "Cupressus": [
+    "Italian Cypress",
+    "Blue Italian Cypress"
+   ],
+   "Taxodium": [
+    "Bald Cypress"
+   ]
+  },
+  "noise": [
+   {
+    "surface": "picker",
+    "genus": "Taxodium",
+    "examples": [
+     "Bald Cypress",
+     "Shawnee Brave",
+     "Peve Minaret",
+     "Falling Waters"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Taxodium",
+    "examples": [
+     "Bald Cypress"
+    ]
+   }
+  ]
+ },
+ {
+  "term": "holly",
+  "intended": [
+   "Ilex"
+  ],
+  "picker_n": 12,
+  "browse_n": 6,
+  "picker_genera": {
+   "Alcea": [
+    "Hollyhock",
+    "Chater's Double Red",
+    "Chater's Double White",
+    "Chater's Double Yellow"
+   ],
+   "Eryngium": [
+    "Sea Holly"
+   ],
+   "Cyrtomium": [
+    "Holly Fern"
+   ]
+  },
+  "browse_genera": {
+   "Alcea": [
+    "Hollyhock",
+    "Hollyhock 'Blacknight'",
+    "Hollyhock 'Chater's Double'",
+    "Hollyhock 'Peach'"
+   ],
+   "Eryngium": [
+    "Sea Holly"
+   ],
+   "Cyrtomium": [
+    "Holly Fern"
+   ]
+  },
+  "noise": [
+   {
+    "surface": "picker",
+    "genus": "Alcea",
+    "examples": [
+     "Hollyhock",
+     "Chater's Double Red",
+     "Chater's Double White",
+     "Chater's Double Yellow"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Eryngium",
+    "examples": [
+     "Sea Holly"
+    ]
+   },
+   {
+    "surface": "picker",
+    "genus": "Cyrtomium",
+    "examples": [
+     "Holly Fern"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Alcea",
+    "examples": [
+     "Hollyhock",
+     "Hollyhock 'Blacknight'",
+     "Hollyhock 'Chater's Double'",
+     "Hollyhock 'Peach'"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Eryngium",
+    "examples": [
+     "Sea Holly"
+    ]
+   },
+   {
+    "surface": "browse",
+    "genus": "Cyrtomium",
+    "examples": [
+     "Holly Fern"
+    ]
+   }
+  ]
+ },
+ {
+  "term": "ice plant",
+  "intended": [
+   "Delosperma"
+  ],
+  "picker_n": 1,
+  "browse_n": 1,
+  "picker_genera": {
+   "Delosperma": [
+    "Ice Plant"
+   ]
+  },
+  "browse_genera": {
+   "Delosperma": [
+    "Ice Plant"
+   ]
+  },
+  "noise": []
+ },
+ {
+  "term": "dusty miller",
+  "intended": [
+   "Senecio",
+   "Jacobaea"
+  ],
+  "picker_n": 1,
+  "browse_n": 1,
+  "picker_genera": {
+   "Jacobaea": [
+    "Dusty Miller"
+   ]
+  },
+  "browse_genera": {
+   "Jacobaea": [
+    "Dusty Miller"
+   ]
+  },
+  "noise": []
+ },
+ {
+  "term": "money plant",
+  "intended": [
+   "Lunaria",
+   "Pilea",
+   "Crassula"
+  ],
+  "picker_n": 0,
+  "browse_n": 0,
+  "picker_genera": {},
+  "browse_genera": {},
+  "noise": []
+ },
+ {
+  "term": "mock orange",
+  "intended": [
+   "Philadelphus"
+  ],
+  "picker_n": 7,
+  "browse_n": 2,
+  "picker_genera": {
+   "Philadelphus": [
+    "Mock Orange",
+    "Snowbelle",
+    "Natchez",
+    "Miniature Snowflake"
+   ]
+  },
+  "browse_genera": {
+   "Philadelphus": [
+    "Mock Orange",
+    "Golden Mock Orange"
+   ]
+  },
+  "noise": []
+ },
+ {
+  "term": "sweet pea",
+  "intended": [
+   "Lathyrus"
+  ],
+  "picker_n": 6,
+  "browse_n": 5,
+  "picker_genera": {
+   "Lathyrus": [
+    "Sweet Pea",
+    "Cupani",
+    "Royal Crimson Sweet Pea",
+    "Royal White Sweet Pea"
+   ]
+  },
+  "browse_genera": {
+   "Lathyrus": [
+    "Sweet Pea",
+    "Royal Crimson Sweet Pea",
+    "Royal White Sweet Pea",
+    "Royal Blue Sweet Pea"
+   ]
+  },
+  "noise": []
+ },
+ {
+  "term": "morning glory",
+  "intended": [
+   "Ipomoea"
+  ],
+  "picker_n": 6,
+  "browse_n": 1,
+  "picker_genera": {
+   "Ipomoea": [
+    "Morning Glory",
+    "Grandpa Ott's",
+    "Scarlett O'Hara",
+    "Pearly Gates"
+   ]
+  },
+  "browse_genera": {
+   "Ipomoea": [
+    "Morning Glory"
+   ]
+  },
+  "noise": []
+ }
+]

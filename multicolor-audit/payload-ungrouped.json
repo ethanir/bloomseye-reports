@@ -1,0 +1,1488 @@
+[
+  {
+    "slug": "russian-sage",
+    "name": "Russian Sage",
+    "botanical": "Salvia yangii",
+    "genus": "Salvia",
+    "cat": "Perennial",
+    "storedHex": "#9aa7d6",
+    "storedColor": "blue",
+    "hasBloom": true,
+    "tags": [
+      "blue",
+      "fragrant"
+    ]
+  },
+  {
+    "slug": "lambs-ear",
+    "name": "Lamb's Ear",
+    "botanical": "Stachys byzantina",
+    "genus": "Stachys",
+    "cat": "Perennial",
+    "storedHex": "#b9a7d6",
+    "storedColor": "purple",
+    "hasBloom": true,
+    "tags": [
+      "foliage",
+      "silver"
+    ]
+  },
+  {
+    "slug": "lily-of-valley",
+    "name": "Lily of the Valley",
+    "botanical": "Convallaria majalis",
+    "genus": "Convallaria",
+    "cat": "Perennial",
+    "storedHex": "#fbfbfb",
+    "storedColor": "white",
+    "hasBloom": true,
+    "tags": [
+      "white",
+      "fragrant",
+      "shade"
+    ]
+  },
+  {
+    "slug": "liatris",
+    "name": "Blazing Star",
+    "botanical": "Liatris",
+    "genus": "Liatris",
+    "cat": "Perennial",
+    "storedHex": "#9b5fc6",
+    "storedColor": "purple",
+    "hasBloom": true,
+    "tags": [
+      "purple",
+      "pollinator",
+      "native"
+    ]
+  },
+  {
+    "slug": "goldenrod",
+    "name": "Goldenrod",
+    "botanical": "Solidago",
+    "genus": "Solidago",
+    "cat": "Perennial",
+    "storedHex": "#f4c000",
+    "storedColor": "yellow",
+    "hasBloom": true,
+    "tags": [
+      "yellow",
+      "fall",
+      "pollinator",
+      "native"
+    ]
+  },
+  {
+    "slug": "japanese-anemone",
+    "name": "Japanese Anemone",
+    "botanical": "Anemone hupehensis",
+    "genus": "Anemone",
+    "cat": "Perennial",
+    "storedHex": "#eaa6c6",
+    "storedColor": "pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "fall"
+    ]
+  },
+  {
+    "slug": "penstemon",
+    "name": "Penstemon",
+    "botanical": "Penstemon",
+    "genus": "Penstemon",
+    "cat": "Perennial",
+    "storedHex": "#c05a9e",
+    "storedColor": "magenta/pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "pollinator",
+      "native"
+    ]
+  },
+  {
+    "slug": "echinops",
+    "name": "Globe Thistle",
+    "botanical": "Echinops",
+    "genus": "Echinops",
+    "cat": "Perennial",
+    "storedHex": "#5e6fb0",
+    "storedColor": "blue",
+    "hasBloom": true,
+    "tags": [
+      "blue",
+      "architectural",
+      "pollinator"
+    ]
+  },
+  {
+    "slug": "salvia-annual",
+    "name": "Salvia (Annual)",
+    "botanical": "Salvia splendens",
+    "genus": "Salvia",
+    "cat": "Annual",
+    "storedHex": "#d6202e",
+    "storedColor": "red",
+    "hasBloom": true,
+    "tags": [
+      "red",
+      "pollinator"
+    ]
+  },
+  {
+    "slug": "climbing-hydrangea",
+    "name": "Climbing Hydrangea",
+    "botanical": "Hydrangea petiolaris",
+    "genus": "Hydrangea",
+    "cat": "Climber",
+    "storedHex": "#f3f0ea",
+    "storedColor": "white",
+    "hasBloom": true,
+    "tags": [
+      "white",
+      "vine"
+    ]
+  },
+  {
+    "slug": "climbing-rose",
+    "name": "Climbing Rose",
+    "botanical": "Rosa",
+    "genus": "Rosa",
+    "cat": "Climber",
+    "storedHex": "#e0507e",
+    "storedColor": "pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "rose",
+      "fragrant",
+      "vine"
+    ]
+  },
+  {
+    "slug": "rosemary",
+    "name": "Rosemary",
+    "botanical": "Salvia rosmarinus",
+    "genus": "Salvia",
+    "cat": "Herb",
+    "storedHex": "#8f9fd6",
+    "storedColor": "blue",
+    "hasBloom": true,
+    "tags": [
+      "blue",
+      "fragrant",
+      "edible",
+      "evergreen"
+    ]
+  },
+  {
+    "slug": "thyme",
+    "name": "Thyme",
+    "botanical": "Thymus",
+    "genus": "Thymus",
+    "cat": "Herb",
+    "storedHex": "#c08fc6",
+    "storedColor": "magenta/pink",
+    "hasBloom": true,
+    "tags": [
+      "purple",
+      "groundcover",
+      "edible",
+      "fragrant"
+    ]
+  },
+  {
+    "slug": "sage",
+    "name": "Sage",
+    "botanical": "Salvia officinalis",
+    "genus": "Salvia",
+    "cat": "Herb",
+    "storedHex": "#9b8fd6",
+    "storedColor": "blue",
+    "hasBloom": true,
+    "tags": [
+      "purple",
+      "edible",
+      "fragrant"
+    ]
+  },
+  {
+    "slug": "chives",
+    "name": "Chives",
+    "botanical": "Allium schoenoprasum",
+    "genus": "Allium",
+    "cat": "Herb",
+    "storedHex": "#b87fc6",
+    "storedColor": "purple",
+    "hasBloom": true,
+    "tags": [
+      "purple",
+      "edible"
+    ]
+  },
+  {
+    "slug": "oregano",
+    "name": "Oregano",
+    "botanical": "Origanum",
+    "genus": "Origanum",
+    "cat": "Herb",
+    "storedHex": "#c69fd6",
+    "storedColor": "purple",
+    "hasBloom": true,
+    "tags": [
+      "purple",
+      "edible",
+      "fragrant"
+    ]
+  },
+  {
+    "slug": "mint",
+    "name": "Mint",
+    "botanical": "Mentha",
+    "genus": "Mentha",
+    "cat": "Herb",
+    "storedHex": "#b8a0d6",
+    "storedColor": "purple",
+    "hasBloom": true,
+    "tags": [
+      "purple",
+      "edible",
+      "fragrant"
+    ]
+  },
+  {
+    "slug": "red-maple",
+    "name": "Red Maple",
+    "botanical": "Acer rubrum",
+    "genus": "Acer",
+    "cat": "Tree",
+    "storedHex": "#5f8a4a (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "shade",
+      "fall color",
+      "native"
+    ]
+  },
+  {
+    "slug": "sugar-maple",
+    "name": "Sugar Maple",
+    "botanical": "Acer saccharum",
+    "genus": "Acer",
+    "cat": "Tree",
+    "storedHex": "#5f8a4a (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "shade",
+      "fall color",
+      "native"
+    ]
+  },
+  {
+    "slug": "river-birch",
+    "name": "River Birch",
+    "botanical": "Betula nigra",
+    "genus": "Betula",
+    "cat": "Tree",
+    "storedHex": "#6f9a55 (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "shade",
+      "native",
+      "bark"
+    ]
+  },
+  {
+    "slug": "ginkgo",
+    "name": "Ginkgo",
+    "botanical": "Ginkgo biloba",
+    "genus": "Ginkgo",
+    "cat": "Tree",
+    "storedHex": "#6f9a55 (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "shade",
+      "yellow",
+      "fall color"
+    ]
+  },
+  {
+    "slug": "tulip-tree",
+    "name": "Tulip Tree",
+    "botanical": "Liriodendron tulipifera",
+    "genus": "Liriodendron",
+    "cat": "Tree",
+    "storedHex": "#ccd866",
+    "storedColor": "green",
+    "hasBloom": true,
+    "tags": [
+      "shade",
+      "native",
+      "yellow"
+    ]
+  },
+  {
+    "slug": "weeping-willow",
+    "name": "Weeping Willow",
+    "botanical": "Salix babylonica",
+    "genus": "Salix",
+    "cat": "Tree",
+    "storedHex": "#7f9a52 (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "shade",
+      "water",
+      "specimen"
+    ]
+  },
+  {
+    "slug": "honeylocust",
+    "name": "Honeylocust",
+    "botanical": "Gleditsia triacanthos",
+    "genus": "Gleditsia",
+    "cat": "Tree",
+    "storedHex": "#6f9a55 (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "shade",
+      "yellow"
+    ]
+  },
+  {
+    "slug": "linden",
+    "name": "Littleleaf Linden",
+    "botanical": "Tilia cordata",
+    "genus": "Tilia",
+    "cat": "Tree",
+    "storedHex": "#6f9a55 (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "shade",
+      "fragrant"
+    ]
+  },
+  {
+    "slug": "joe-pye-weed",
+    "name": "Joe Pye Weed",
+    "botanical": "Eutrochium",
+    "genus": "Eutrochium",
+    "cat": "Perennial",
+    "storedHex": "#b06f9e",
+    "storedColor": "magenta/pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "native",
+      "pollinator",
+      "tall"
+    ]
+  },
+  {
+    "slug": "butterfly-weed",
+    "name": "Butterfly Weed",
+    "botanical": "Asclepias tuberosa",
+    "genus": "Asclepias",
+    "cat": "Perennial",
+    "storedHex": "#f08a2c",
+    "storedColor": "orange",
+    "hasBloom": true,
+    "tags": [
+      "orange",
+      "native",
+      "pollinator"
+    ]
+  },
+  {
+    "slug": "bluestar",
+    "name": "Bluestar",
+    "botanical": "Amsonia",
+    "genus": "Amsonia",
+    "cat": "Perennial",
+    "storedHex": "#9fb6e0",
+    "storedColor": "blue",
+    "hasBloom": true,
+    "tags": [
+      "blue",
+      "native",
+      "fall color"
+    ]
+  },
+  {
+    "slug": "brunnera",
+    "name": "Brunnera",
+    "botanical": "Brunnera macrophylla",
+    "genus": "Brunnera",
+    "cat": "Perennial",
+    "storedHex": "#6f8fd6",
+    "storedColor": "blue",
+    "hasBloom": true,
+    "tags": [
+      "blue",
+      "shade",
+      "foliage"
+    ]
+  },
+  {
+    "slug": "lungwort",
+    "name": "Lungwort",
+    "botanical": "Pulmonaria",
+    "genus": "Pulmonaria",
+    "cat": "Perennial",
+    "storedHex": "#8f6fc6",
+    "storedColor": "purple",
+    "hasBloom": true,
+    "tags": [
+      "purple",
+      "shade",
+      "early"
+    ]
+  },
+  {
+    "slug": "helenium",
+    "name": "Sneezeweed",
+    "botanical": "Helenium",
+    "genus": "Helenium",
+    "cat": "Perennial",
+    "storedHex": "#e0641f",
+    "storedColor": "orange",
+    "hasBloom": true,
+    "tags": [
+      "orange",
+      "pollinator",
+      "fall"
+    ]
+  },
+  {
+    "slug": "solomons-seal",
+    "name": "Solomon's Seal",
+    "botanical": "Polygonatum",
+    "genus": "Polygonatum",
+    "cat": "Perennial",
+    "storedHex": "#fbfbf2",
+    "storedColor": "white",
+    "hasBloom": true,
+    "tags": [
+      "white",
+      "shade",
+      "native"
+    ]
+  },
+  {
+    "slug": "virginia-bluebells",
+    "name": "Virginia Bluebells",
+    "botanical": "Mertensia virginica",
+    "genus": "Mertensia",
+    "cat": "Perennial",
+    "storedHex": "#6f8fd6",
+    "storedColor": "blue",
+    "hasBloom": true,
+    "tags": [
+      "blue",
+      "native",
+      "spring"
+    ]
+  },
+  {
+    "slug": "cardinal-flower",
+    "name": "Cardinal Flower",
+    "botanical": "Lobelia cardinalis",
+    "genus": "Lobelia",
+    "cat": "Perennial",
+    "storedHex": "#d6281f",
+    "storedColor": "red",
+    "hasBloom": true,
+    "tags": [
+      "red",
+      "native",
+      "pollinator"
+    ]
+  },
+  {
+    "slug": "sea-thrift",
+    "name": "Sea Thrift",
+    "botanical": "Armeria maritima",
+    "genus": "Armeria",
+    "cat": "Perennial",
+    "storedHex": "#e07fa8",
+    "storedColor": "pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "edging"
+    ]
+  },
+  {
+    "slug": "candytuft",
+    "name": "Candytuft",
+    "botanical": "Iberis sempervirens",
+    "genus": "Iberis",
+    "cat": "Perennial",
+    "storedHex": "#fbfbfb",
+    "storedColor": "white",
+    "hasBloom": true,
+    "tags": [
+      "white",
+      "evergreen",
+      "edging"
+    ]
+  },
+  {
+    "slug": "dusty-miller",
+    "name": "Dusty Miller",
+    "botanical": "Jacobaea maritima",
+    "genus": "Jacobaea",
+    "cat": "Annual",
+    "storedHex": "#b8c0c4 (foliage)",
+    "storedColor": "silver/grey foliage",
+    "hasBloom": false,
+    "tags": [
+      "silver",
+      "foliage",
+      "edging"
+    ]
+  },
+  {
+    "slug": "blue-oat-grass",
+    "name": "Blue Oat Grass",
+    "botanical": "Helictotrichon sempervirens",
+    "genus": "Helictotrichon",
+    "cat": "Grass",
+    "storedHex": "#d8c89a",
+    "storedColor": "yellow",
+    "hasBloom": true,
+    "tags": [
+      "blue",
+      "evergreen"
+    ]
+  },
+  {
+    "slug": "basil",
+    "name": "Basil",
+    "botanical": "Ocimum basilicum",
+    "genus": "Ocimum",
+    "cat": "Herb",
+    "storedHex": "#4a8f4a (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "edible",
+      "fragrant",
+      "culinary"
+    ]
+  },
+  {
+    "slug": "parsley",
+    "name": "Parsley",
+    "botanical": "Petroselinum crispum",
+    "genus": "Petroselinum",
+    "cat": "Herb",
+    "storedHex": "#3f8a3f (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "edible",
+      "culinary"
+    ]
+  },
+  {
+    "slug": "dill",
+    "name": "Dill",
+    "botanical": "Anethum graveolens",
+    "genus": "Anethum",
+    "cat": "Herb",
+    "storedHex": "#e0d84a",
+    "storedColor": "yellow",
+    "hasBloom": true,
+    "tags": [
+      "yellow",
+      "edible"
+    ]
+  },
+  {
+    "slug": "lemon-balm",
+    "name": "Lemon Balm",
+    "botanical": "Melissa officinalis",
+    "genus": "Melissa",
+    "cat": "Herb",
+    "storedHex": "#5a8f5a (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "edible",
+      "fragrant",
+      "pollinator"
+    ]
+  },
+  {
+    "slug": "monkshood",
+    "name": "Monkshood",
+    "botanical": "Aconitum",
+    "genus": "Aconitum",
+    "cat": "Perennial",
+    "storedHex": "#5a4b9e",
+    "storedColor": "blue",
+    "hasBloom": true,
+    "tags": [
+      "purple",
+      "fall"
+    ]
+  },
+  {
+    "slug": "mullein",
+    "name": "Mullein",
+    "botanical": "Verbascum",
+    "genus": "Verbascum",
+    "cat": "Perennial",
+    "storedHex": "#f0d44a",
+    "storedColor": "yellow",
+    "hasBloom": true,
+    "tags": [
+      "yellow",
+      "vertical"
+    ]
+  },
+  {
+    "slug": "pincushion-flower",
+    "name": "Pincushion Flower",
+    "botanical": "Scabiosa",
+    "genus": "Scabiosa",
+    "cat": "Perennial",
+    "storedHex": "#8f8fd6",
+    "storedColor": "blue",
+    "hasBloom": true,
+    "tags": [
+      "blue",
+      "pollinator"
+    ]
+  },
+  {
+    "slug": "gaura",
+    "name": "Gaura",
+    "botanical": "Oenothera lindheimeri",
+    "genus": "Oenothera",
+    "cat": "Perennial",
+    "storedHex": "#f0c0d0",
+    "storedColor": "pale pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "airy"
+    ]
+  },
+  {
+    "slug": "false-sunflower",
+    "name": "False Sunflower",
+    "botanical": "Heliopsis",
+    "genus": "Heliopsis",
+    "cat": "Perennial",
+    "storedHex": "#f5b400",
+    "storedColor": "yellow",
+    "hasBloom": true,
+    "tags": [
+      "yellow",
+      "pollinator",
+      "native"
+    ]
+  },
+  {
+    "slug": "perennial-sunflower",
+    "name": "Perennial Sunflower",
+    "botanical": "Helianthus",
+    "genus": "Helianthus",
+    "cat": "Perennial",
+    "storedHex": "#f5b400",
+    "storedColor": "yellow",
+    "hasBloom": true,
+    "tags": [
+      "yellow",
+      "pollinator",
+      "native",
+      "tall"
+    ]
+  },
+  {
+    "slug": "spiderwort",
+    "name": "Spiderwort",
+    "botanical": "Tradescantia",
+    "genus": "Tradescantia",
+    "cat": "Perennial",
+    "storedHex": "#6f5fb0",
+    "storedColor": "blue",
+    "hasBloom": true,
+    "tags": [
+      "purple",
+      "native"
+    ]
+  },
+  {
+    "slug": "foam-flower",
+    "name": "Foam Flower",
+    "botanical": "Tiarella",
+    "genus": "Tiarella",
+    "cat": "Perennial",
+    "storedHex": "#f5eef5",
+    "storedColor": "white",
+    "hasBloom": true,
+    "tags": [
+      "white",
+      "shade",
+      "native"
+    ]
+  },
+  {
+    "slug": "red-hot-poker",
+    "name": "Red Hot Poker",
+    "botanical": "Kniphofia",
+    "genus": "Kniphofia",
+    "cat": "Perennial",
+    "storedHex": "#f0641f",
+    "storedColor": "orange",
+    "hasBloom": true,
+    "tags": [
+      "orange",
+      "architectural"
+    ]
+  },
+  {
+    "slug": "toad-lily",
+    "name": "Toad Lily",
+    "botanical": "Tricyrtis",
+    "genus": "Tricyrtis",
+    "cat": "Perennial",
+    "storedHex": "#b88fd6",
+    "storedColor": "purple",
+    "hasBloom": true,
+    "tags": [
+      "purple",
+      "shade",
+      "fall"
+    ]
+  },
+  {
+    "slug": "turtlehead",
+    "name": "Turtlehead",
+    "botanical": "Chelone",
+    "genus": "Chelone",
+    "cat": "Perennial",
+    "storedHex": "#e890b0",
+    "storedColor": "pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "native",
+      "fall"
+    ]
+  },
+  {
+    "slug": "obedient-plant",
+    "name": "Obedient Plant",
+    "botanical": "Physostegia",
+    "genus": "Physostegia",
+    "cat": "Perennial",
+    "storedHex": "#e07fb0",
+    "storedColor": "pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "native"
+    ]
+  },
+  {
+    "slug": "ironweed",
+    "name": "Ironweed",
+    "botanical": "Vernonia",
+    "genus": "Vernonia",
+    "cat": "Perennial",
+    "storedHex": "#7a4b9e",
+    "storedColor": "purple",
+    "hasBloom": true,
+    "tags": [
+      "purple",
+      "native",
+      "pollinator"
+    ]
+  },
+  {
+    "slug": "jacobs-ladder",
+    "name": "Jacob's Ladder",
+    "botanical": "Polemonium",
+    "genus": "Polemonium",
+    "cat": "Perennial",
+    "storedHex": "#6f7fc6",
+    "storedColor": "blue",
+    "hasBloom": true,
+    "tags": [
+      "blue",
+      "shade"
+    ]
+  },
+  {
+    "slug": "carnation",
+    "name": "Carnation",
+    "botanical": "Dianthus caryophyllus",
+    "genus": "Dianthus",
+    "cat": "Perennial",
+    "storedHex": "#e0507a",
+    "storedColor": "pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "fragrant",
+      "cut flower"
+    ]
+  },
+  {
+    "slug": "sweet-william",
+    "name": "Sweet William",
+    "botanical": "Dianthus barbatus",
+    "genus": "Dianthus",
+    "cat": "Perennial",
+    "storedHex": "#d6406a",
+    "storedColor": "pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "cottage",
+      "fragrant"
+    ]
+  },
+  {
+    "slug": "ice-plant",
+    "name": "Ice Plant",
+    "botanical": "Delosperma",
+    "genus": "Delosperma",
+    "cat": "Perennial",
+    "storedHex": "#e0407a",
+    "storedColor": "pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "succulent"
+    ]
+  },
+  {
+    "slug": "hens-and-chicks",
+    "name": "Hens and Chicks",
+    "botanical": "Sempervivum",
+    "genus": "Sempervivum",
+    "cat": "Perennial",
+    "storedHex": "#7f9a6a (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "succulent",
+      "foliage",
+      "evergreen"
+    ]
+  },
+  {
+    "slug": "creeping-sedum",
+    "name": "Creeping Sedum",
+    "botanical": "Sedum",
+    "genus": "Sedum",
+    "cat": "Perennial",
+    "storedHex": "#f0d44a",
+    "storedColor": "yellow",
+    "hasBloom": true,
+    "tags": [
+      "yellow",
+      "succulent"
+    ]
+  },
+  {
+    "slug": "rock-cress",
+    "name": "Rock Cress",
+    "botanical": "Aubrieta",
+    "genus": "Aubrieta",
+    "cat": "Perennial",
+    "storedHex": "#8f5fc0",
+    "storedColor": "purple",
+    "hasBloom": true,
+    "tags": [
+      "purple",
+      "edging"
+    ]
+  },
+  {
+    "slug": "basket-of-gold",
+    "name": "Basket of Gold",
+    "botanical": "Aurinia saxatilis",
+    "genus": "Aurinia",
+    "cat": "Perennial",
+    "storedHex": "#f0d020",
+    "storedColor": "yellow",
+    "hasBloom": true,
+    "tags": [
+      "yellow",
+      "edging"
+    ]
+  },
+  {
+    "slug": "snow-in-summer",
+    "name": "Snow-in-Summer",
+    "botanical": "Cerastium tomentosum",
+    "genus": "Cerastium",
+    "cat": "Perennial",
+    "storedHex": "#fbfbfb",
+    "storedColor": "white",
+    "hasBloom": true,
+    "tags": [
+      "white",
+      "silver",
+      "edging"
+    ]
+  },
+  {
+    "slug": "goatsbeard",
+    "name": "Goatsbeard",
+    "botanical": "Aruncus dioicus",
+    "genus": "Aruncus",
+    "cat": "Perennial",
+    "storedHex": "#f5f0e8",
+    "storedColor": "white",
+    "hasBloom": true,
+    "tags": [
+      "white",
+      "native",
+      "shade"
+    ]
+  },
+  {
+    "slug": "queen-of-the-prairie",
+    "name": "Queen of the Prairie",
+    "botanical": "Filipendula rubra",
+    "genus": "Filipendula",
+    "cat": "Perennial",
+    "storedHex": "#e890b0",
+    "storedColor": "pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "native",
+      "tall"
+    ]
+  },
+  {
+    "slug": "globeflower",
+    "name": "Globeflower",
+    "botanical": "Trollius",
+    "genus": "Trollius",
+    "cat": "Perennial",
+    "storedHex": "#f5b400",
+    "storedColor": "yellow",
+    "hasBloom": true,
+    "tags": [
+      "yellow"
+    ]
+  },
+  {
+    "slug": "bergenia",
+    "name": "Bergenia",
+    "botanical": "Bergenia",
+    "genus": "Bergenia",
+    "cat": "Perennial",
+    "storedHex": "#d6507a",
+    "storedColor": "pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "foliage",
+      "evergreen"
+    ]
+  },
+  {
+    "slug": "ligularia",
+    "name": "Ligularia",
+    "botanical": "Ligularia",
+    "genus": "Ligularia",
+    "cat": "Perennial",
+    "storedHex": "#f5b400",
+    "storedColor": "yellow",
+    "hasBloom": true,
+    "tags": [
+      "yellow",
+      "shade",
+      "foliage"
+    ]
+  },
+  {
+    "slug": "foamy-bells",
+    "name": "Foamy Bells",
+    "botanical": "Heucherella",
+    "genus": "Heucherella",
+    "cat": "Perennial",
+    "storedHex": "#f5eef5",
+    "storedColor": "white",
+    "hasBloom": true,
+    "tags": [
+      "foliage",
+      "shade"
+    ]
+  },
+  {
+    "slug": "agastache",
+    "name": "Anise Hyssop",
+    "botanical": "Agastache",
+    "genus": "Agastache",
+    "cat": "Perennial",
+    "storedHex": "#8f6fc6",
+    "storedColor": "purple",
+    "hasBloom": true,
+    "tags": [
+      "purple",
+      "pollinator",
+      "fragrant"
+    ]
+  },
+  {
+    "slug": "english-daisy",
+    "name": "English Daisy",
+    "botanical": "Bellis perennis",
+    "genus": "Bellis",
+    "cat": "Perennial",
+    "storedHex": "#e890b0",
+    "storedColor": "pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "edging"
+    ]
+  },
+  {
+    "slug": "echeveria",
+    "name": "Echeveria",
+    "botanical": "Echeveria",
+    "genus": "Echeveria",
+    "cat": "Perennial",
+    "storedHex": "#f0a0b0",
+    "storedColor": "red",
+    "hasBloom": true,
+    "tags": [
+      "succulent",
+      "foliage",
+      "container"
+    ]
+  },
+  {
+    "slug": "aloe",
+    "name": "Aloe",
+    "botanical": "Aloe",
+    "genus": "Aloe",
+    "cat": "Perennial",
+    "storedHex": "#f0641f",
+    "storedColor": "orange",
+    "hasBloom": true,
+    "tags": [
+      "orange",
+      "succulent"
+    ]
+  },
+  {
+    "slug": "agave",
+    "name": "Agave",
+    "botanical": "Agave",
+    "genus": "Agave",
+    "cat": "Perennial",
+    "storedHex": "#8a9a8f (foliage)",
+    "storedColor": "grey foliage",
+    "hasBloom": false,
+    "tags": [
+      "succulent",
+      "architectural",
+      "foliage"
+    ]
+  },
+  {
+    "slug": "ajuga",
+    "name": "Bugleweed",
+    "botanical": "Ajuga reptans",
+    "genus": "Ajuga",
+    "cat": "Perennial",
+    "storedHex": "#6f5fc0",
+    "storedColor": "blue",
+    "hasBloom": true,
+    "tags": [
+      "purple",
+      "groundcover",
+      "shade"
+    ]
+  },
+  {
+    "slug": "wild-ginger",
+    "name": "Wild Ginger",
+    "botanical": "Asarum",
+    "genus": "Asarum",
+    "cat": "Perennial",
+    "storedHex": "#4f7a4f (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "foliage",
+      "groundcover",
+      "shade",
+      "native"
+    ]
+  },
+  {
+    "slug": "primrose",
+    "name": "Primrose",
+    "botanical": "Primula",
+    "genus": "Primula",
+    "cat": "Perennial",
+    "storedHex": "#f0d44a",
+    "storedColor": "yellow",
+    "hasBloom": true,
+    "tags": [
+      "yellow",
+      "early",
+      "shade"
+    ]
+  },
+  {
+    "slug": "cyclamen",
+    "name": "Cyclamen",
+    "botanical": "Cyclamen",
+    "genus": "Cyclamen",
+    "cat": "Perennial",
+    "storedHex": "#e0507a",
+    "storedColor": "pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "fall",
+      "shade"
+    ]
+  },
+  {
+    "slug": "trillium",
+    "name": "Trillium",
+    "botanical": "Trillium",
+    "genus": "Trillium",
+    "cat": "Perennial",
+    "storedHex": "#fbfbfb",
+    "storedColor": "white",
+    "hasBloom": true,
+    "tags": [
+      "white",
+      "native",
+      "woodland"
+    ]
+  },
+  {
+    "slug": "meadow-rue",
+    "name": "Meadow Rue",
+    "botanical": "Thalictrum",
+    "genus": "Thalictrum",
+    "cat": "Perennial",
+    "storedHex": "#c89fd6",
+    "storedColor": "purple",
+    "hasBloom": true,
+    "tags": [
+      "purple",
+      "airy",
+      "tall"
+    ]
+  },
+  {
+    "slug": "sea-holly",
+    "name": "Sea Holly",
+    "botanical": "Eryngium",
+    "genus": "Eryngium",
+    "cat": "Perennial",
+    "storedHex": "#6f8fc6",
+    "storedColor": "blue",
+    "hasBloom": true,
+    "tags": [
+      "blue",
+      "architectural",
+      "drought"
+    ]
+  },
+  {
+    "slug": "ladys-mantle",
+    "name": "Lady's Mantle",
+    "botanical": "Alchemilla mollis",
+    "genus": "Alchemilla",
+    "cat": "Perennial",
+    "storedHex": "#c0d04a",
+    "storedColor": "green",
+    "hasBloom": true,
+    "tags": [
+      "chartreuse",
+      "edging"
+    ]
+  },
+  {
+    "slug": "moonflower",
+    "name": "Moonflower",
+    "botanical": "Ipomoea alba",
+    "genus": "Ipomoea",
+    "cat": "Climber",
+    "storedHex": "#fbfbf5",
+    "storedColor": "white",
+    "hasBloom": true,
+    "tags": [
+      "white",
+      "fragrant",
+      "vine",
+      "night"
+    ]
+  },
+  {
+    "slug": "boston-fern",
+    "name": "Boston Fern",
+    "botanical": "Nephrolepis exaltata",
+    "genus": "Nephrolepis",
+    "cat": "Fern",
+    "storedHex": "#4f8a4f (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "foliage",
+      "shade",
+      "container"
+    ]
+  },
+  {
+    "slug": "ostrich-fern",
+    "name": "Ostrich Fern",
+    "botanical": "Matteuccia struthiopteris",
+    "genus": "Matteuccia",
+    "cat": "Fern",
+    "storedHex": "#4a8a4a (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "foliage",
+      "shade",
+      "native",
+      "tall"
+    ]
+  },
+  {
+    "slug": "japanese-painted-fern",
+    "name": "Japanese Painted Fern",
+    "botanical": "Athyrium niponicum",
+    "genus": "Athyrium",
+    "cat": "Fern",
+    "storedHex": "#8a9aa0 (foliage)",
+    "storedColor": "teal foliage",
+    "hasBloom": false,
+    "tags": [
+      "foliage",
+      "shade",
+      "silver"
+    ]
+  },
+  {
+    "slug": "christmas-fern",
+    "name": "Christmas Fern",
+    "botanical": "Polystichum acrostichoides",
+    "genus": "Polystichum",
+    "cat": "Fern",
+    "storedHex": "#3f7a3f (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "foliage",
+      "shade",
+      "evergreen",
+      "native"
+    ]
+  },
+  {
+    "slug": "maidenhair-fern",
+    "name": "Maidenhair Fern",
+    "botanical": "Adiantum",
+    "genus": "Adiantum",
+    "cat": "Fern",
+    "storedHex": "#5f9a5f (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "foliage",
+      "shade",
+      "delicate",
+      "native"
+    ]
+  },
+  {
+    "slug": "autumn-fern",
+    "name": "Autumn Fern",
+    "botanical": "Dryopteris erythrosora",
+    "genus": "Dryopteris",
+    "cat": "Fern",
+    "storedHex": "#6a8a4a (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "foliage",
+      "shade",
+      "evergreen"
+    ]
+  },
+  {
+    "slug": "lady-fern",
+    "name": "Lady Fern",
+    "botanical": "Athyrium filix-femina",
+    "genus": "Athyrium",
+    "cat": "Fern",
+    "storedHex": "#4a8a4a (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "foliage",
+      "shade",
+      "native"
+    ]
+  },
+  {
+    "slug": "cinnamon-fern",
+    "name": "Cinnamon Fern",
+    "botanical": "Osmundastrum cinnamomeum",
+    "genus": "Osmundastrum",
+    "cat": "Fern",
+    "storedHex": "#4a8a4a (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "foliage",
+      "shade",
+      "native",
+      "tall"
+    ]
+  },
+  {
+    "slug": "royal-fern",
+    "name": "Royal Fern",
+    "botanical": "Osmunda regalis",
+    "genus": "Osmunda",
+    "cat": "Fern",
+    "storedHex": "#4f8a4f (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "foliage",
+      "shade",
+      "native",
+      "tall"
+    ]
+  },
+  {
+    "slug": "holly-fern",
+    "name": "Holly Fern",
+    "botanical": "Cyrtomium falcatum",
+    "genus": "Cyrtomium",
+    "cat": "Fern",
+    "storedHex": "#3f7a3f (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "foliage",
+      "shade",
+      "glossy"
+    ]
+  },
+  {
+    "slug": "douglas-fir",
+    "name": "Douglas Fir",
+    "botanical": "Pseudotsuga menziesii",
+    "genus": "Pseudotsuga",
+    "cat": "Conifer",
+    "storedHex": "#3f6b4f (foliage)",
+    "storedColor": "green foliage",
+    "hasBloom": false,
+    "tags": [
+      "evergreen",
+      "specimen"
+    ]
+  },
+  {
+    "slug": "pachysandra",
+    "name": "Pachysandra",
+    "botanical": "Pachysandra terminalis",
+    "genus": "Pachysandra",
+    "cat": "Perennial",
+    "storedHex": "#f2f5ee",
+    "storedColor": "white",
+    "hasBloom": true,
+    "tags": [
+      "foliage",
+      "groundcover",
+      "shade",
+      "evergreen"
+    ]
+  },
+  {
+    "slug": "periwinkle",
+    "name": "Periwinkle",
+    "botanical": "Vinca minor",
+    "genus": "Vinca",
+    "cat": "Perennial",
+    "storedHex": "#6f7fc6",
+    "storedColor": "blue",
+    "hasBloom": true,
+    "tags": [
+      "blue",
+      "groundcover",
+      "shade",
+      "evergreen"
+    ]
+  },
+  {
+    "slug": "lamium",
+    "name": "Dead Nettle",
+    "botanical": "Lamium maculatum",
+    "genus": "Lamium",
+    "cat": "Perennial",
+    "storedHex": "#d68fc6",
+    "storedColor": "magenta/pink",
+    "hasBloom": true,
+    "tags": [
+      "pink",
+      "groundcover",
+      "shade",
+      "silver"
+    ]
+  },
+  {
+    "slug": "sweet-woodruff",
+    "name": "Sweet Woodruff",
+    "botanical": "Galium odoratum",
+    "genus": "Galium",
+    "cat": "Perennial",
+    "storedHex": "#fbfbfb",
+    "storedColor": "white",
+    "hasBloom": true,
+    "tags": [
+      "white",
+      "groundcover",
+      "shade",
+      "fragrant"
+    ]
+  },
+  {
+    "slug": "epimedium",
+    "name": "Barrenwort",
+    "botanical": "Epimedium",
+    "genus": "Epimedium",
+    "cat": "Perennial",
+    "storedHex": "#f0d44a",
+    "storedColor": "yellow",
+    "hasBloom": true,
+    "tags": [
+      "yellow",
+      "groundcover",
+      "shade"
+    ]
+  }
+]
